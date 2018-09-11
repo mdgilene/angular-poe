@@ -29,29 +29,28 @@
 
         <div class="row justify-content-center">
           <div class="item-mannequin">
-            <div class="slot-head card bg-light border-warning"></div>
-            <div class="slot-body card bg-light border-warning"></div>
-            <div class="slot-weapon1 card bg-light border-warning"></div>
-            <div class="slot-weapon2 card bg-light border-warning"></div>
-            <div class="slot-gloves card bg-light border-warning"></div>
-            <div class="slot-boots card bg-light border-warning"></div>
-            <div class="slot-ring1 card bg-light border-warning"></div>
-            <div class="slot-ring2 card bg-light border-warning"></div>
-            <div class="slot-amulet card bg-light border-warning"></div>
-            <div class="slot-belt card bg-light border-warning"></div>
+            <div slot="head" class="slot-head card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="body" class="slot-body card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="weapon" class="slot-weapon1 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="weapon" class="slot-weapon2 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="gloves" class="slot-gloves card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="boots" class="slot-boots card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="ring" class="slot-ring1 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="ring" class="slot-ring2 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="amulet" class="slot-amulet card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="belt" class="slot-belt card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
           </div>
         </div>
         <div class="row justify-content-center mt-2">
           <div class="flask-mannequin">
-            <div class="slot-flask card bg-light border-warning"></div>
-            <div class="slot-flask card bg-light border-warning"></div>
-            <div class="slot-flask card bg-light border-warning"></div>
-            <div class="slot-flask card bg-light border-warning"></div>
-            <div class="slot-flask card bg-light border-warning"></div>
+            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
+            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
           </div>
         </div>
       </section>
-
       <button class="btn btn-primary" type="submit">Submit</button>
     </div>
   </form>
