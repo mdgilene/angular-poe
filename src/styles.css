@@ -2,15 +2,11 @@
 @import "bootstrap.min.css";
 
 .custom-large-modal .modal-dialog {
-  min-width: 90%;
-  max-height: 50%;
+  max-width: 90%;
+  height: 90%;
 }
 
 .custom-large-modal .modal-content {
-  height: 100%;
   width: 100%;
-}
-
-.custom-large-modal .modal-content > ** {
   height: 100%;
 }

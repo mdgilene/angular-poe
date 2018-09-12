@@ -1,21 +1,22 @@
-import { NgModule } from "@angular/core";
-import { CommonModule } from "@angular/common";
-import { FormsModule } from "@angular/forms";
+import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { ReactiveFormsModule } from '@angular/forms';
 
-import { NgbModule } from "@ng-bootstrap/ng-bootstrap";
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
-import { BuildsRoutingModule } from "./builds.routing";
-import { BuildService } from "./services/build.service";
-import { HomeComponent } from "./pages/home/home.component";
-import { BuildsComponent } from "./builds.component";
-import { CreateComponent } from "./pages/create/create.component";
-import { CreateBuildFormComponent } from "./components/create-build-form/create-build-form.component";
-import { KeysPipe } from "./pipes/keys.pipe";
-import { ValuesPipe } from "./pipes/values.pipe";
-import { ItemBrowserComponent } from "./components/item-browser/item-browser.component";
+import { BuildsRoutingModule } from './builds.routing';
+import { BuildService } from './services/build.service';
+import { HomeComponent } from './pages/home/home.component';
+import { BuildsComponent } from './builds.component';
+import { CreateComponent } from './pages/create/create.component';
+import { CreateBuildFormComponent } from './components/create-build-form/create-build-form.component';
+import { KeysPipe } from './pipes/keys.pipe';
+import { ValuesPipe } from './pipes/values.pipe';
+import { ItemBrowserComponent } from './components/item-browser/item-browser.component';
+import { ItemControlComponent } from './components/item-control/item-control.component';
 
 @NgModule({
-  imports: [CommonModule, FormsModule, NgbModule, BuildsRoutingModule],
+  imports: [CommonModule, ReactiveFormsModule, NgbModule, BuildsRoutingModule],
   declarations: [
     BuildsComponent,
     ItemBrowserComponent,
@@ -23,7 +24,8 @@ import { ItemBrowserComponent } from "./components/item-browser/item-browser.com
     CreateComponent,
     CreateBuildFormComponent,
     KeysPipe,
-    ValuesPipe
+    ValuesPipe,
+    ItemControlComponent
   ],
   entryComponents: [ItemBrowserComponent],
   providers: [BuildService],
