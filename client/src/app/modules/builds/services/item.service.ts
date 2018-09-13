@@ -1,19 +1,67 @@
 import { Injectable } from '@angular/core';
-import { HttpRequest, HttpClient } from '@angular/common/http';
+import { HttpClient } from '@angular/common/http';
+import { Item, ApiRespones } from '../models/item';
+import { of, Observable, forkJoin } from 'rxjs';
+import { map, filter, mergeMap } from 'rxjs/operators';
+
+export interface ItemFilter {
+  type?: string;
+  search?: string;
+}
 
 @Injectable({
   providedIn: 'root'
 })
 export class ItemService {
-  items = [];
+  items: Item[] = [];
 
-  constructor(private $http: HttpClient) {}
+  constructor(private $http: HttpClient) {
+    const getArmour = this.$http
+      .get<ApiRespones>('http://localhost:4300/armour')
+      .pipe(map(res => res.lines));
+    const getWeapons = this.$http
+      .get<ApiRespones>('http://localhost:4300/weapons')
+      .pipe(map(res => res.lines));
+    const getAccessories = this.$http
+      .get<ApiRespones>('http://localhost:4300/accessories')
+      .pipe(map(res => res.lines));
+    const getFlasks = this.$http
+      .get<ApiRespones>('http://localhost:4300/flasks')
+      .pipe(map(res => res.lines));
+    const getJewels = this.$http
+      .get<ApiRespones>('http://localhost:4300/jewels')
+      .pipe(map(res => res.lines));
 
-  getData() {
-    this.$http
-      .get('http://poe.ninja/api/Data/GetUniqueArmourOverview?league=Delve')
-      .subscribe(data => {
-        console.log(data);
-      });
+    const request = forkJoin<Item[]>([
+      getArmour,
+      getWeapons,
+      getAccessories,
+      getFlasks,
+      getJewels
+    ]).pipe(map(responses => [].concat(...responses)));
+
+    request.subscribe(items => (this.items = items));
+  }
+
+  getFilteredItems(itemFilter: ItemFilter): Observable<Item[]> | null {
+    let filteredItems = of(this.items);
+
+    if (itemFilter.type) {
+      filteredItems = filteredItems.pipe(
+        map(items => items.filter(item => item.itemType === itemFilter.type))
+      );
+    }
+
+    if (itemFilter.search) {
+      filteredItems = filteredItems.pipe(
+        map(items =>
+          items.filter(item =>
+            item.name.match(new RegExp(itemFilter.search, 'i'))
+          )
+        )
+      );
+    }
+
+    return filteredItems;
   }
 }

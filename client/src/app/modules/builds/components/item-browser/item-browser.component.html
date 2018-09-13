@@ -1,67 +1,63 @@
 <div class="modal-body no-gutters">
   <div class="col-3 sidebar">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item" (click)="setFilter('')">All</li>
+    </ul>
     <h5 class="ml-2 my-2">Armour</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Helm</li>
-      <li class="list-group-item">Body Armour</li>
-      <li class="list-group-item">Gloves</li>
-      <li class="list-group-item">Boots</li>
-      <li class="list-group-item">Shields</li>
-      <li class="list-group-item">Quivers</li>
+      <li class="list-group-item" (click)="setFilter('Helmet')">Helmet</li>
+      <li class="list-group-item" (click)="setFilter('Body Armour')">Body Armour</li>
+      <li class="list-group-item" (click)="setFilter('Gloves')">Gloves</li>
+      <li class="list-group-item" (click)="setFilter('Boots')">Boots</li>
+      <li class="list-group-item" (click)="setFilter('Shield')">Shields</li>
+      <li class="list-group-item" (click)="setFilter('Quiver')">Quivers</li>
     </ul>
     <h5 class="ml-2 my-2">Weapons</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">One-Hand Swords</li>
-      <li class="list-group-item">Two-Hand Swords</li>
-      <li class="list-group-item">One-Hand Maces</li>
-      <li class="list-group-item">Two-Hand Maces</li>
-      <li class="list-group-item">One-Hand Axes</li>
-      <li class="list-group-item">Two-Hand Axes</li>
-      <li class="list-group-item">Staves</li>
-      <li class="list-group-item">Daggers</li>
-      <li class="list-group-item">Wands</li>
-      <li class="list-group-item">Sceptres</li>
-      <li class="list-group-item">Bows</li>
+      <li class="list-group-item" (click)="setFilter('One Handed Sword')">One-Hand Swords</li>
+      <li class="list-group-item" (click)="setFilter('Two Handed Sword')">Two-Hand Swords</li>
+      <li class="list-group-item" (click)="setFilter('One Handed Mace')">One-Hand Maces</li>
+      <li class="list-group-item" (click)="setFilter('Two Handed Mace')">Two-Hand Maces</li>
+      <li class="list-group-item" (click)="setFilter('One Handed Axe')">One-Hand Axes</li>
+      <li class="list-group-item" (click)="setFilter('Two Handed Axe')">Two-Hand Axes</li>
+      <li class="list-group-item" (click)="setFilter('Staff')">Staves</li>
+      <li class="list-group-item" (click)="setFilter('Dagger')">Daggers</li>
+      <li class="list-group-item" (click)="setFilter('Wand')">Wands</li>
+      <li class="list-group-item" (click)="setFilter('Bow')">Bows</li>
     </ul>
     <h5 class="ml-2 my-2">Jewelry</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Rings</li>
-      <li class="list-group-item">Amulet</li>
-      <li class="list-group-item">Belts</li>
+      <li class="list-group-item" (click)="setFilter('Ring')">Rings</li>
+      <li class="list-group-item" (click)="setFilter('Amulet')">Amulet</li>
+      <li class="list-group-item" (click)="setFilter('Belt')">Belts</li>
     </ul>
     <h5 class="ml-2 my-2">Other</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Flasks</li>
-      <li class="list-group-item">Jewels</li>
+      <li class="list-group-item" (click)="setFilter('Flask')">Flasks</li>
+      <li class="list-group-item" (click)="setFilter('Jewel')">Jewels</li>
     </ul>
   </div>
   <div class="col content">
     <div class="item-grid p-2">
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
-      <div class="item-grid-item card bg-secondary"></div>
+      <div *ngFor="let item of getFilteredItems() | async" class="item-grid-item card bg-secondary">
+        <img src={{item.icon}} class="card-img-top" />
+        <div class="card-footer text-center">
+          {{item.name}}
+        </div>
+      </div>
     </div>
     <div class="toolbar container py-1 px-2">
       <div class="row">
         <div class="col-6 col-md-4">
           <div class="btn btn-info btn-block my-1">Add to Build</div>
+        </div>
+        <div class="col-6 ml-auto d-flex justify-content-center align-items-center">
+          <div class="input-group">
+            <input type="text" class="form-control" [(ngModel)]="search">
+            <div class="input-group-append">
+              <button class="btn btn-outline-info" type="button"><i class="fas fa-search"></i></button>
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ReactiveFormsModule } from '@angular/forms';
+import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
@@ -16,7 +16,13 @@ import { ItemBrowserComponent } from './components/item-browser/item-browser.com
 import { ItemControlComponent } from './components/item-control/item-control.component';
 
 @NgModule({
-  imports: [CommonModule, ReactiveFormsModule, NgbModule, BuildsRoutingModule],
+  imports: [
+    CommonModule,
+    ReactiveFormsModule,
+    FormsModule,
+    NgbModule,
+    BuildsRoutingModule
+  ],
   declarations: [
     BuildsComponent,
     ItemBrowserComponent,
