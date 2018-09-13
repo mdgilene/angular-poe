@@ -78,7 +78,8 @@ app.get("/jewels", (req, res) => {
 });
 
 const filterUnique = arr => {
-  return arr.filter((item, index, a) => {
-    return a.map(mapItem => mapItem.name).indexOf(item.name) === index;
-  });
+  // return arr.filter((item, index, a) => {
+  //   return a.map(mapItem => mapItem.name).indexOf(item.name) === index;
+  // });
+  return arr;
 };
