@@ -1,7 +1,8 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, Output } from '@angular/core';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { ItemService } from '../../services/item.service';
 import { Item } from '../../models/item';
+import { EventEmitter } from 'protractor';
 
 @Component({
   selector: 'app-item-browser',
@@ -16,6 +17,7 @@ export class ItemBrowserComponent implements OnInit {
   search: string;
 
   items: Item[];
+  selectedItem: Item;
 
   constructor(
     public activeModal: NgbActiveModal,
@@ -26,6 +28,16 @@ export class ItemBrowserComponent implements OnInit {
     this.itemService
       .getFilteredItems({})
       .subscribe(items => (this.items = items));
+  }
+
+  setSelected(item: Item) {
+    console.log('item selected', item);
+    this.selectedItem = item;
+  }
+
+  close() {
+    console.log('closing modal with item', this.selectedItem);
+    this.activeModal.close(this.selectedItem);
   }
 
   setFilter(filter: string) {
