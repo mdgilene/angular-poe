@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
+import { ItemService } from '../../services/item.service';
 
 @Component({
   selector: 'app-item-browser',
@@ -10,7 +11,12 @@ export class ItemBrowserComponent implements OnInit {
   @Input()
   slot;
 
-  constructor(public activeModal: NgbActiveModal) {}
+  constructor(
+    public activeModal: NgbActiveModal,
+    private itemService: ItemService
+  ) {}
 
-  ngOnInit() {}
+  ngOnInit() {
+    this.itemService.getData();
+  }
 }
