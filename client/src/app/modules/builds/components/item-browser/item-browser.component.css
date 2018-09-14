@@ -38,10 +38,6 @@
   cursor: pointer;
 }
 
-.item-grid-item.selected {
-  background: red;
-}
-
 .card-img-top {
   height: 200px;
   object-fit: scale-down;
