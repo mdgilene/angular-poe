@@ -5,3 +5,8 @@
 :host(:hover) {
   cursor: pointer;
 }
+
+.card-img-top {
+  object-fit: scale-down;
+}
+

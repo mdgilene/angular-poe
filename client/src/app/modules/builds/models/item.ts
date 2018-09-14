@@ -25,7 +25,7 @@ export interface Item {
   corrupted: boolean;
   gemLevel: number;
   gemQuality: number;
-  itemType: ItemType;
+  itemType: WeaponType | ArmourType | AccessoryType | OtherItemType;
   chaosValue: number;
   exaltedValue: number;
   count: number;
@@ -36,7 +36,7 @@ export interface Modifier {
   optional: boolean;
 }
 
-export enum ItemType {
+export enum WeaponType {
   Bow = 'Bow',
   Claw = 'Claw',
   Dagger = 'Dagger',
@@ -50,7 +50,29 @@ export enum ItemType {
   Wand = 'Wand'
 }
 
+export enum ArmourType {
+  BodyArmour = 'Body Armour',
+  Boots = 'Boots',
+  Gloves = 'Gloves',
+  Helmet = 'Helmet',
+  Quiver = 'Quiver',
+  Shield = 'Shield'
+}
+
+export enum AccessoryType {
+  Amulet = 'Amulet',
+  Belt = 'Belt',
+  Ring = 'Ring'
+}
+
+export enum OtherItemType {
+  Jewel = 'Jewel',
+  Flask = 'Flask'
+}
+
 export interface Sparkline {
   data: Array<number | null>;
   totalChange: number;
 }
+
+//////

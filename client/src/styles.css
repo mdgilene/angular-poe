@@ -1,12 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 @import "bootstrap.min.css";
 
-.custom-large-modal .modal-dialog {
+.item-browser.modal-dialog {
   max-width: 90%;
   height: 90%;
 }
 
-.custom-large-modal .modal-content {
+.item-browser .modal-content {
   width: 100%;
   height: 100%;
 }

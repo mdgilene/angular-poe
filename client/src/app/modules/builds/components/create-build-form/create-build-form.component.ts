@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
 import { Build, ClassCombos } from '../../models/Build';
-import { NgbModal, NgbModalRef } from '@ng-bootstrap/ng-bootstrap';
-import { ItemBrowserComponent } from '../item-browser/item-browser.component';
 
 @Component({
   selector: 'app-create-build-form',
@@ -10,8 +8,6 @@ import { ItemBrowserComponent } from '../item-browser/item-browser.component';
   styleUrls: ['./create-build-form.component.css']
 })
 export class CreateBuildFormComponent implements OnInit {
-  modalRef: NgbModalRef;
-
   model: Build;
   classCombos = ClassCombos;
 
@@ -34,7 +30,7 @@ export class CreateBuildFormComponent implements OnInit {
     })
   });
 
-  constructor(private modalService: NgbModal) {
+  constructor() {
     this.model = {
       name: '',
       class: {}
@@ -49,23 +45,5 @@ export class CreateBuildFormComponent implements OnInit {
     // ).primary;
     // console.log(this.model);
     console.log(this.buildForm.value);
-  }
-
-  openItemBrowser(e) {
-    this.modalRef = this.modalService.open(ItemBrowserComponent, {
-      centered: true,
-      size: 'lg',
-      windowClass: 'custom-large-modal'
-    });
-    this.modalRef.componentInstance.slot = e.target.slot;
-
-    this.modalRef.result.then(
-      result => {
-        console.log(`Closed with: ${result}`);
-      },
-      reason => {
-        console.log(`Dismissed ${reason}`);
-      }
-    );
   }
 }

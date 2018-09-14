@@ -1,8 +1,5 @@
-<div class="modal-body no-gutters p-1">
-  <div class="col-3 sidebar">
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item" (click)="setFilter('')">All</li>
-    </ul>
+<div *ngIf="!itemService.isLoading; else loadingSpinner" class="modal-body no-gutters p-1">
+  <!-- <div class="col-3 sidebar">
     <h5 class="ml-2 my-2">Armour</h5>
     <ul class="list-group list-group-flush">
       <li class="list-group-item" (click)="setFilter('Helmet')">Helmet</li>
@@ -36,10 +33,11 @@
       <li class="list-group-item" (click)="setFilter('Flask')">Flasks</li>
       <li class="list-group-item" (click)="setFilter('Jewel')">Jewels</li>
     </ul>
-  </div>
+  </div> -->
   <div class="col content">
     <div class="item-grid p-2">
-      <div *ngFor="let item of getFilteredItems() | async" class="item-grid-item card bg-secondary" (click)="setSelected(item)">
+      <div *ngFor="let item of getFilteredItems() | async" class="item-grid-item card bg-secondary" [class.border-info]="item === selectedItem"
+        (click)="setSelected(item)">
         <img src={{item.icon}} class="card-img-top" />
         <div class="card-footer text-center">
           {{item.name}}
@@ -53,7 +51,7 @@
         </div>
         <div class="col-6 ml-auto d-flex justify-content-center align-items-center">
           <div class="input-group">
-            <input type="text" class="form-control" [(ngModel)]="search">
+            <input type="text" class="form-control" [(ngModel)]="filter.search">
             <div class="input-group-append">
               <button class="btn btn-outline-info" type="button"><i class="fas fa-search"></i></button>
             </div>
@@ -63,3 +61,9 @@
     </div>
   </div>
 </div>
+
+<ng-template #loadingSpinner>
+  <div class="modal-body no-gutters p-1 d-flex align-items-center justify-content-center">
+    <i class="fas fa-spinner fa-3x"></i>
+  </div>
+</ng-template>

@@ -5,7 +5,7 @@ import { of, Observable, forkJoin } from 'rxjs';
 import { map, filter, mergeMap } from 'rxjs/operators';
 
 export interface ItemFilter {
-  type?: string;
+  type?: string | string[];
   search?: string;
 }
 
@@ -13,9 +13,13 @@ export interface ItemFilter {
   providedIn: 'root'
 })
 export class ItemService {
-  items: Item[] = [];
+  private items: Item[] = [];
+
+  loading: boolean;
 
   constructor(private $http: HttpClient) {
+    this.loading = true;
+
     const getArmour = this.$http
       .get<ApiRespones>('http://localhost:4300/armour')
       .pipe(map(res => res.lines));
@@ -40,15 +44,24 @@ export class ItemService {
       getJewels
     ]).pipe(map(responses => [].concat(...responses)));
 
-    request.subscribe(items => (this.items = items));
+    request.subscribe(items => {
+      this.items = items;
+      this.loading = false;
+    });
   }
 
   getFilteredItems(itemFilter: ItemFilter): Observable<Item[]> | null {
+    if (Array.isArray(itemFilter.type)) {
+      itemFilter.type = itemFilter.type.join();
+    }
+
     let filteredItems = of(this.items);
 
     if (itemFilter.type) {
       filteredItems = filteredItems.pipe(
-        map(items => items.filter(item => item.itemType === itemFilter.type))
+        map(items =>
+          items.filter(item => itemFilter.type.includes(item.itemType))
+        )
       );
     }
 
@@ -63,5 +76,9 @@ export class ItemService {
     }
 
     return filteredItems;
+  }
+
+  get isLoading() {
+    return this.loading;
   }
 }

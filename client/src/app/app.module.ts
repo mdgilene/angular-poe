@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ModalModule } from 'ngx-bootstrap/modal';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app.routing';
@@ -13,7 +13,7 @@ import { AppHomeComponent } from './pages/app-home/app-home.component';
   imports: [
     BrowserModule,
     HttpClientModule,
-    NgbModule.forRoot(),
+    ModalModule.forRoot(),
     AppRoutingModule
   ],
   providers: [],

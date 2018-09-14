@@ -1,7 +1,7 @@
 import { Component, forwardRef, Input, ViewEncapsulation } from '@angular/core';
 import { NG_VALUE_ACCESSOR, ControlValueAccessor } from '@angular/forms';
-import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
+import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 
 @Component({
   selector: 'app-item-control',
@@ -23,17 +23,30 @@ export class ItemControlComponent implements ControlValueAccessor {
   @Input('value')
   _value = {};
 
+  modalRef: BsModalRef;
+
+  showModal: boolean;
+
   onChange: any = () => {};
   onTouched: any = () => {};
 
-  constructor(private modalService: NgbModal) {}
+  constructor(private modalService: BsModalService) {}
 
-  handleClick() {
-    const modalRef = this.modalService.open(ItemBrowserComponent, {
-      centered: true,
-      windowClass: 'custom-large-modal'
+  openItemBrowser(e) {
+    this.modalRef = this.modalService.show(ItemBrowserComponent, {
+      initialState: {
+        slot: this.slot
+      },
+      class: 'item-browser'
     });
-    modalRef.componentInstance.slot = this.slot;
+
+    this.modalService.onHide.subscribe(() => {
+      this.value = this.modalRef.content.selectedItem;
+    });
+  }
+
+  handleHidden(value) {
+    console.log(value);
   }
 
   get value() {
