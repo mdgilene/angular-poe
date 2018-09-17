@@ -1,0 +1,119 @@
+{
+  "Two Handed Axe": {
+    "slots": ["weapon1"],
+    "canUseWith": []
+  },
+  "Two Handed Mace": {
+    "slots": ["weapon1"],
+    "canUseWith": []
+  },
+  "Two Handed Sword": {
+    "slots": ["weapon1"],
+    "canUseWith": []
+  },
+  "Staff": {
+    "slots": ["weapon1"],
+    "canUseWith": []
+  },
+  "One Handed Axe": {
+    "slots": ["weapon1", "weapon2"],
+    "canUseWith": [
+      "One Handed Axe",
+      "One Handed Sword",
+      "One Handed Mace",
+      "Dagger",
+      "Claw",
+      "Shield"
+    ]
+  },
+  "One Handed Sword": {
+    "slots": ["weapon1", "weapon2"],
+    "canUseWith": [
+      "One Handed Axe",
+      "One Handed Sword",
+      "One Handed Mace",
+      "Dagger",
+      "Claw",
+      "Shield"
+    ]
+  },
+  "One Handed Mace": {
+    "slots": ["weapon1", "weapon2"],
+    "canUseWith": [
+      "One Handed Axe",
+      "One Handed Sword",
+      "One Handed Mace",
+      "Dagger",
+      "Claw",
+      "Shield"
+    ]
+  },
+  "Dagger": {
+    "slots": ["weapon1", "weapon2"],
+    "canUseWith": [
+      "One Handed Axe",
+      "One Handed Sword",
+      "One Handed Mace",
+      "Dagger",
+      "Claw",
+      "Shield"
+    ]
+  },
+  "Claw": {
+    "slots": ["weapon1", "weapon2"],
+    "canUseWith": [
+      "One Handed Axe",
+      "One Handed Sword",
+      "One Handed Mace",
+      "Dagger",
+      "Claw",
+      "Shield"
+    ]
+  },
+  "Shield": {
+    "slots": ["weapon2"],
+    "canUseWith": [
+      "One Handed Axe",
+      "One Handed Sword",
+      "One Handed Mace",
+      "Dagger",
+      "Claw"
+    ]
+  },
+  "Bow": {
+    "slots": ["weapon1"],
+    "canUseWith": ["Quiver"]
+  },
+  "Quiver": {
+    "slots": ["weapon2"],
+    "canUseWith": ["Bow"]
+  },
+  "Helmet": {
+    "slots": ["head"],
+    "canUseWith": []
+  },
+  "Body Armour": {
+    "slots": ["body"],
+    "canUseWith": []
+  },
+  "Gloves": {
+    "slots": ["gloves"],
+    "canUseWith": []
+  },
+  "Boots": {
+    "slots": ["boots"],
+    "canUseWith": []
+  },
+  "Belt": {
+    "slots": ["belt"],
+    "canUseWith": []
+  },
+  "Ring": {
+    "slots": ["ring1", "ring2"],
+    "canUseWith": []
+  },
+  "Amulet": {
+    "slots": ["amulet"],
+    "canUseWith": []
+  }
+}

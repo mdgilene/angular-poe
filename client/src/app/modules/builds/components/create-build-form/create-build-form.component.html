@@ -1,62 +1,4 @@
 <div class="container">
-  <!--
-  <form #buildForm="ngForm" (ngSubmit)="handleSubmit()" class="card text-dark bg-secondary">
-    <div class="card-header">
-      <h3>
-        Create A Build
-      </h3>
-    </div>
-    <div class="card-body">
-      <section class="info">
-        <h4 class="card-subtitle">Information</h4>
-
-        <div class="form-group">
-          <label for="name">Build Name</label>
-          <input class="form-control" type="text" name="name" id="name" [(ngModel)]="model.name">
-        </div>
-
-        <div class="form-group">
-          <label for="class">Class</label>
-          <select class="form-control" name="class" id="class" [(ngModel)]="model.class.secondary">
-            <optgroup #group *ngFor="let class of classCombos" [label]="class.primary">
-              <option *ngFor="let secondary of class.secondary" [value]="secondary">{{secondary}}</option>
-            </optgroup>
-          </select>
-        </div>
-      </section>
-
-      <section class="items">
-        <h4>Items</h4>
-
-        <div class="row justify-content-center">
-          <div class="item-mannequin">
-            <div slot="head" class="slot-head card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="body" class="slot-body card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="weapon" class="slot-weapon1 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="weapon" class="slot-weapon2 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="gloves" class="slot-gloves card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="boots" class="slot-boots card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="ring" class="slot-ring1 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="ring" class="slot-ring2 card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="amulet" class="slot-amulet card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="belt" class="slot-belt card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-          </div>
-        </div>
-        <div class="row justify-content-center mt-2">
-          <div class="flask-mannequin">
-            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-            <div slot="flask" class="slot-flask card bg-light border-warning btn" (click)="openItemBrowser($event)"></div>
-          </div>
-        </div>
-      </section>
-      <button class="btn btn-primary" type="submit">Submit</button>
-    </div>
-  </form>
--->
-
   <form [formGroup]="buildForm" (ngSubmit)="handleSubmit()">
     <div class="form-group" formGroupName="info">
       <div class="form-group">
@@ -76,17 +18,17 @@
     <div class="form-group" formGroupName="items">
       <div class="row justify-content-center">
         <div class="item-mannequin">
-          <app-item-control [items]="buildForm.value.items" slot="Helmet" formControlName="head" class="slot-head card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Body Armour" formControlName="body" class="slot-body card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Weapon 1" formControlName="weapon1" class="slot-weapon1 card bg-light border-warning"></app-item-control>
-          <app-item-control *ngIf="showWeapon2" [items]="buildForm.value.items" slot="Weapon 2" formControlName="weapon2"
-            class="slot-weapon2 card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Gloves" formControlName="gloves" class="slot-gloves card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Boots" formControlName="boots" class="slot-boots card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Ring" formControlName="ring1" class="slot-ring1 card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Ring" formControlName="ring2" class="slot-ring2 card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Amulet" formControlName="amulet" class="slot-amulet card bg-light border-warning"></app-item-control>
-          <app-item-control [items]="buildForm.value.items" slot="Belt" formControlName="belt" class="slot-belt card bg-light border-warning"></app-item-control>
+          <app-item-control formControlName="head" class="slot-head card bg-light border-warning" (click)="openItemBrowser('head')"></app-item-control>
+          <app-item-control formControlName="body" class="slot-body card bg-light border-warning" (click)="openItemBrowser('body')"></app-item-control>
+          <app-item-control formControlName="weapon1" class="slot-weapon1 card bg-light border-warning" (click)="openItemBrowser('weapon1')"></app-item-control>
+          <app-item-control *ngIf="showWeapon2" formControlName="weapon2" class="slot-weapon2 card bg-light border-warning"
+            (click)="openItemBrowser('weapon2')"></app-item-control>
+          <app-item-control formControlName="gloves" class="slot-gloves card bg-light border-warning" (click)="openItemBrowser('gloves')"></app-item-control>
+          <app-item-control formControlName="boots" class="slot-boots card bg-light border-warning" (click)="openItemBrowser('boots')"></app-item-control>
+          <app-item-control formControlName="ring1" class="slot-ring1 card bg-light border-warning" (click)="openItemBrowser('ring1')"></app-item-control>
+          <app-item-control formControlName="ring2" class="slot-ring2 card bg-light border-warning" (click)="openItemBrowser('ring2')"></app-item-control>
+          <app-item-control formControlName="amulet" class="slot-amulet card bg-light border-warning" (click)="openItemBrowser('amulet')"></app-item-control>
+          <app-item-control formControlName="belt" class="slot-belt card bg-light border-warning" (click)="openItemBrowser('belt')"></app-item-control>
         </div>
       </div>
     </div>

@@ -1,7 +1,9 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { ItemService, ItemFilter } from '../../services/item.service';
-import { Item, WeaponType, ArmourType } from '../../models/item';
+import { Item, ArmourType } from '../../models/item';
 import { BsModalRef } from 'ngx-bootstrap/modal';
+
+import { default as itemRestrictions } from '../../resources/item-restrictions.json';
 
 @Component({
   selector: 'app-item-browser',
@@ -14,80 +16,69 @@ export class ItemBrowserComponent implements OnInit {
   @Input()
   currentItems;
 
-  filter: ItemFilter;
+  filter: ItemFilter = {
+    type: ArmourType.Helmet
+  };
 
   items: Item[];
   selectedItem: Item = {};
 
-  constructor(private modalRef: BsModalRef, private itemService: ItemService) {
-    console.log();
-  }
+  constructor(private modalRef: BsModalRef, private itemService: ItemService) {}
 
   ngOnInit() {
-    if (this.slot === 'Weapon 1') {
-      const { weapon2 } = this.currentItems;
-      if (weapon2.itemType === ArmourType.Quiver) {
-        this.setFilter({
-          type: WeaponType.Bow
-        });
-      } else if (weapon2.itemType === WeaponType.Wand) {
-        this.setFilter({
-          type: WeaponType.Wand
-        });
-      } else if (weapon2.itemType === ArmourType.Shield) {
-        this.setFilter({
-          type: [
-            WeaponType.OneHandedAxe,
-            WeaponType.OneHandedMace,
-            WeaponType.OneHandedSword,
-            WeaponType.Dagger,
-            WeaponType.Wand
-          ]
-        });
-      } else {
-        this.setFilter({
-          type: [
-            WeaponType.TwoHandedAxe,
-            WeaponType.TwoHandedMace,
-            WeaponType.TwoHandedSword,
-            WeaponType.OneHandedAxe,
-            WeaponType.OneHandedMace,
-            WeaponType.OneHandedSword,
-            WeaponType.Dagger,
-            WeaponType.Wand,
-            WeaponType.Bow
-          ]
-        });
+    const validTypes: string[] = [];
+    Object.keys(itemRestrictions).forEach(itemType => {
+      if (itemRestrictions[itemType].slots.includes(this.slot)) {
+        validTypes.push(itemType);
       }
-    } else if (this.slot === 'Weapon 2') {
-      const { weapon1 } = this.currentItems;
-      if (weapon1.itemType === WeaponType.Bow) {
-        this.setFilter({
-          type: ArmourType.Quiver
-        });
-      } else if (weapon1.itemType === WeaponType.Wand) {
-        this.setFilter({
-          type: [WeaponType.Wand, ArmourType.Shield]
-        });
-      } else {
-        this.setFilter({
-          type: [
-            WeaponType.OneHandedAxe,
-            WeaponType.OneHandedMace,
-            WeaponType.OneHandedSword,
-            WeaponType.Dagger,
-            ArmourType.Shield,
-            ArmourType.Quiver
-          ]
-        });
-      }
-    }
+    });
+
+    this.setFilter({
+      type: validTypes
+    });
 
     this.getFilteredItems().subscribe(items => (this.items = items));
   }
 
   setSelected(item: Item) {
-    this.selectedItem = item;
+    const canUseWith = itemRestrictions[item.itemType].canUseWith;
+
+    if (!itemRestrictions[item.itemType].slots.includes(this.slot)) {
+      // Item can't go in this slot
+      return;
+    }
+
+    if (canUseWith.length === 0) {
+      if (this.slot === 'weapon1' && this.currentItems.weapon2.itemType) {
+        // Item is a weapon that cannot be used with anything else (2 handed), thus if
+        // offhand is equipped then it's invalid
+        return;
+      }
+
+      // Not weapon slot, this handles all other armour pieces that have empty canUseWith
+      return (this.selectedItem = item);
+    }
+
+    for (const itemType of canUseWith) {
+      // Get slots that need to be checked, exclude the selected slot
+      const slots = itemRestrictions[itemType].slots.filter(
+        slot => this.slot !== slot
+      );
+
+      // For each slot, check if the item in that slot is in the canUseWith list for the item we
+      // are trying to pick.
+      for (const slot of slots) {
+        if (
+          !this.currentItems[slot].itemType ||
+          itemRestrictions[item.itemType].canUseWith.includes(
+            this.currentItems[slot].itemType
+          )
+        ) {
+          // Valid item
+          return (this.selectedItem = item);
+        }
+      }
+    }
   }
 
   close() {

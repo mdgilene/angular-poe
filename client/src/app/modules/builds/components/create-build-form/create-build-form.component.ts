@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
 import { Build, ClassCombos } from '../../models/build';
 import { WeaponType } from '../../models/item';
+import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
+import { ItemBrowserComponent } from '../item-browser/item-browser.component';
 
 @Component({
   selector: 'app-create-build-form',
@@ -11,6 +13,8 @@ import { WeaponType } from '../../models/item';
 export class CreateBuildFormComponent implements OnInit {
   model: Build;
   classCombos = ClassCombos;
+
+  modalRef: BsModalRef;
 
   showWeapon2 = true;
 
@@ -33,7 +37,7 @@ export class CreateBuildFormComponent implements OnInit {
     })
   });
 
-  constructor() {
+  constructor(private modalService: BsModalService) {
     this.model = {
       name: '',
       class: {}
@@ -53,13 +57,29 @@ export class CreateBuildFormComponent implements OnInit {
     });
   }
 
-  ngOnInit() {}
+  ngOnInit() {
+    this.modalService.onHide.subscribe(reason => {
+      if (reason === null) {
+        this.buildForm.patchValue({
+          items: {
+            [this.modalRef.content.slot]: this.modalRef.content.selectedItem
+          }
+        });
+      }
+    });
+  }
 
   handleSubmit() {
-    // this.model.class.primary = ClassCombos.find(c =>
-    //   c.secondary.includes(this.model.class.secondary)
-    // ).primary;
-    // console.log(this.model);
     console.log(this.buildForm.value);
+  }
+
+  openItemBrowser(slot) {
+    this.modalRef = this.modalService.show(ItemBrowserComponent, {
+      initialState: {
+        slot: slot,
+        currentItems: this.buildForm.value.items
+      },
+      class: 'item-browser'
+    });
   }
 }
