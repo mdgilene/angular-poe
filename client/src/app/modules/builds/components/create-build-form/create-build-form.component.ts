@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
-import { Build, ClassCombos } from '../../models/Build';
+import { Build, ClassCombos } from '../../models/build';
+import { WeaponType } from '../../models/item';
 
 @Component({
   selector: 'app-create-build-form',
@@ -10,6 +11,8 @@ import { Build, ClassCombos } from '../../models/Build';
 export class CreateBuildFormComponent implements OnInit {
   model: Build;
   classCombos = ClassCombos;
+
+  showWeapon2 = true;
 
   buildForm = new FormGroup({
     info: new FormGroup({
@@ -35,6 +38,19 @@ export class CreateBuildFormComponent implements OnInit {
       name: '',
       class: {}
     };
+
+    this.buildForm.valueChanges.subscribe(values => {
+      const weapon1 = values.items.weapon1;
+      if (
+        weapon1.itemType === WeaponType.TwoHandedAxe ||
+        weapon1.itemType === WeaponType.TwoHandedMace ||
+        weapon1.itemType === WeaponType.TwoHandedSword
+      ) {
+        this.showWeapon2 = false;
+      } else {
+        this.showWeapon2 = true;
+      }
+    });
   }
 
   ngOnInit() {}

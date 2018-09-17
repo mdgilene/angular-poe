@@ -20,6 +20,9 @@ export class ItemControlComponent implements ControlValueAccessor {
   @Input()
   slot;
 
+  @Input('items')
+  currentItems;
+
   @Input('value')
   _value = {};
 
@@ -31,22 +34,20 @@ export class ItemControlComponent implements ControlValueAccessor {
   onTouched: any = () => {};
 
   constructor(private modalService: BsModalService) {}
-
   openItemBrowser(e) {
     this.modalRef = this.modalService.show(ItemBrowserComponent, {
       initialState: {
-        slot: this.slot
+        slot: this.slot,
+        currentItems: this.currentItems
       },
       class: 'item-browser'
     });
 
     this.modalService.onHide.subscribe(() => {
-      this.value = this.modalRef.content.selectedItem;
+      if (Object.keys(this.modalRef.content.selectedItem).length > 0) {
+        this.value = this.modalRef.content.selectedItem;
+      }
     });
-  }
-
-  handleHidden(value) {
-    console.log(value);
   }
 
   get value() {

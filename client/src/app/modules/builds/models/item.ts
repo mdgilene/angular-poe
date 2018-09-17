@@ -5,30 +5,30 @@ export interface ApiRespones {
 }
 
 export interface Item {
-  id: number;
-  name: string;
-  icon: string;
-  mapTier: number;
-  levelRequired: number;
-  baseType: string;
-  stackSize: number;
-  variant: null;
-  prophecyText: null;
-  artFilename: null;
-  links: number;
-  itemClass: number;
-  sparkline: Sparkline;
-  lowConfidenceSparkline: Sparkline;
-  implicitModifiers: Modifier[];
-  explicitModifiers: Modifier[];
-  flavourText: string;
-  corrupted: boolean;
-  gemLevel: number;
-  gemQuality: number;
-  itemType: WeaponType | ArmourType | AccessoryType | OtherItemType;
-  chaosValue: number;
-  exaltedValue: number;
-  count: number;
+  id?: number;
+  name?: string;
+  icon?: string;
+  mapTier?: number;
+  levelRequired?: number;
+  baseType?: string;
+  stackSize?: number;
+  variant?: null;
+  prophecyText?: null;
+  artFilename?: null;
+  links?: number;
+  itemClass?: number;
+  sparkline?: Sparkline;
+  lowConfidenceSparkline?: Sparkline;
+  implicitModifiers?: Modifier[];
+  explicitModifiers?: Modifier[];
+  flavourText?: string;
+  corrupted?: boolean;
+  gemLevel?: number;
+  gemQuality?: number;
+  itemType?: WeaponType | ArmourType | AccessoryType | OtherItemType;
+  chaosValue?: number;
+  exaltedValue?: number;
+  count?: number;
 }
 
 export interface Modifier {
@@ -69,7 +69,6 @@ export enum OtherItemType {
   Jewel = 'Jewel',
   Flask = 'Flask'
 }
-
 export interface Sparkline {
   data: Array<number | null>;
   totalChange: number;

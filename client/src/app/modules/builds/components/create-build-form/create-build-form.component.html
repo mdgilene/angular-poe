@@ -76,16 +76,17 @@
     <div class="form-group" formGroupName="items">
       <div class="row justify-content-center">
         <div class="item-mannequin">
-          <app-item-control slot="Helmet" formControlName="head" class="slot-head card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Body Armour" formControlName="body" class="slot-body card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Weapon 1" formControlName="weapon1" class="slot-weapon1 card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Weapon 2" formControlName="weapon2" class="slot-weapon2 card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Gloves" formControlName="gloves" class="slot-gloves card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Boots" formControlName="boots" class="slot-boots card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Ring" formControlName="ring1" class="slot-ring1 card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Ring" formControlName="ring2" class="slot-ring2 card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Amulet" formControlName="amulet" class="slot-amulet card bg-light border-warning"></app-item-control>
-          <app-item-control slot="Belt" formControlName="belt" class="slot-belt card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Helmet" formControlName="head" class="slot-head card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Body Armour" formControlName="body" class="slot-body card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Weapon 1" formControlName="weapon1" class="slot-weapon1 card bg-light border-warning"></app-item-control>
+          <app-item-control *ngIf="showWeapon2" [items]="buildForm.value.items" slot="Weapon 2" formControlName="weapon2"
+            class="slot-weapon2 card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Gloves" formControlName="gloves" class="slot-gloves card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Boots" formControlName="boots" class="slot-boots card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Ring" formControlName="ring1" class="slot-ring1 card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Ring" formControlName="ring2" class="slot-ring2 card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Amulet" formControlName="amulet" class="slot-amulet card bg-light border-warning"></app-item-control>
+          <app-item-control [items]="buildForm.value.items" slot="Belt" formControlName="belt" class="slot-belt card bg-light border-warning"></app-item-control>
         </div>
       </div>
     </div>
