@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
 import { Build, ClassCombos } from '../../models/build';
 import { WeaponType } from '../../models/item';
@@ -10,8 +10,7 @@ import { ItemBrowserComponent } from '../item-browser/item-browser.component';
   templateUrl: './create-build-form.component.html',
   styleUrls: ['./create-build-form.component.css']
 })
-export class CreateBuildFormComponent implements OnInit {
-  model: Build;
+export class CreateBuildFormComponent {
   classCombos = ClassCombos;
 
   modalRef: BsModalRef;
@@ -21,7 +20,7 @@ export class CreateBuildFormComponent implements OnInit {
   buildForm = new FormGroup({
     info: new FormGroup({
       name: new FormControl(''),
-      class: new FormControl('')
+      class: new FormControl('Pathfinder')
     }),
     items: new FormGroup({
       head: new FormControl({}),
@@ -38,11 +37,7 @@ export class CreateBuildFormComponent implements OnInit {
   });
 
   constructor(private modalService: BsModalService) {
-    this.model = {
-      name: '',
-      class: {}
-    };
-
+    // Show/Hide weapon2 depending on what is in main hand
     this.buildForm.valueChanges.subscribe(values => {
       const weapon1 = values.items.weapon1;
       if (
@@ -55,9 +50,7 @@ export class CreateBuildFormComponent implements OnInit {
         this.showWeapon2 = true;
       }
     });
-  }
 
-  ngOnInit() {
     this.modalService.onHide.subscribe(reason => {
       if (reason === null) {
         this.buildForm.patchValue({
@@ -70,7 +63,8 @@ export class CreateBuildFormComponent implements OnInit {
   }
 
   handleSubmit() {
-    console.log(this.buildForm.value);
+    const build = this.formToModel();
+    console.log(build);
   }
 
   openItemBrowser(slot) {
@@ -81,5 +75,18 @@ export class CreateBuildFormComponent implements OnInit {
       },
       class: 'item-browser'
     });
+  }
+
+  formToModel(): Build {
+    const form = this.buildForm.value;
+    return {
+      name: form.info.name,
+      class: {
+        primary: ClassCombos.find(c => c.secondary.includes(form.info.class))
+          .primary,
+        secondary: form.info.class
+      },
+      items: form.items
+    };
   }
 }
