@@ -132,14 +132,14 @@ export const ClassCombos = [
 ];
 
 export const ItemSlots = {
-  head: 'Head',
-  body: 'Body',
-  weapon1: 'Main Hand',
-  weapon2: 'Off Hand',
-  gloves: 'Gloves',
-  boots: 'Boots',
-  ring1: 'Left Ring',
-  ring2: 'Ring Ring',
-  amulet: 'Amulet',
-  belt: 'Belt'
+  head: { displayText: 'Head', maxSockets: 4 },
+  body: { displayText: 'Body', maxSockets: 6 },
+  weapon1: { displayText: 'Main Hand', maxSockets: 6 },
+  weapon2: { displayText: 'Off Hand', maxSockets: 3 },
+  gloves: { displayText: 'Gloves', maxSockets: 4 },
+  boots: { displayText: 'Boots', maxSockets: 4 },
+  ring1: { displayText: 'Left Ring', maxSockets: 1 },
+  ring2: { displayText: 'Ring Ring', maxSockets: 1 },
+  amulet: { displayText: 'Amulet', maxSockets: 1 },
+  belt: { displayText: 'Belt', maxSockets: 0 }
 };

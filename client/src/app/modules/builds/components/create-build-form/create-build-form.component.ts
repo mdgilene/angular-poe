@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormBuilder, FormArray, Validators } from '@angular/forms';
+import { FormBuilder, FormArray, Validators, FormGroup } from '@angular/forms';
 import { Build, ClassCombos, ItemSlots } from '../../models/build';
 import { WeaponType } from '../../models/item';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
@@ -60,6 +60,8 @@ export class CreateBuildFormComponent {
             [this.modalRef.content.slot]: this.modalRef.content.selectedItem
           }
         });
+
+        // TODO: Update this.itemSlots to match the maximum number of sockets for the selected item
       }
     });
   }
@@ -114,9 +116,12 @@ export class CreateBuildFormComponent {
   }
 
   addGem(group) {
-    const skillGroup = this.skills.controls[group].get('gems') as FormArray;
-    if (skillGroup.length < 6) {
-      skillGroup.push(this.fb.control({}));
+    const skillGroup = this.skills.controls[group] as FormGroup;
+    const gems = skillGroup.get('gems') as FormArray;
+    const slot = skillGroup.get('slot').value as string;
+    console.log(slot);
+    if (gems.length < this.itemSlots[slot].maxSockets) {
+      gems.push(this.fb.control({}));
     }
   }
 }
