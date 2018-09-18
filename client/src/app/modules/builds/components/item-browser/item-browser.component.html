@@ -35,13 +35,9 @@
     </ul>
   </div>
   <div class="col content">
-    <div class="item-grid p-2">
-      <div *ngFor="let item of getFilteredItems() | async" class="item-grid-item card bg-secondary" [class.border-info]="item === selectedItem"
-        (click)="setSelected(item)">
-        <img src={{item.icon}} class="card-img-top" />
-        <div class="card-footer text-center">
-          {{item.name}}
-        </div>
+    <div *ngIf="itemService.error; else itemGrid" class="error-container">
+      <div class="alert alert-danger mx-3">
+        {{itemService.error}}
       </div>
     </div>
     <div class="toolbar container py-1 px-2">
@@ -65,5 +61,17 @@
 <ng-template #loadingSpinner>
   <div class="modal-body no-gutters p-1 d-flex align-items-center justify-content-center">
     <i class="fas fa-spinner fa-3x"></i>
+  </div>
+</ng-template>
+
+<ng-template #itemGrid>
+  <div class="item-grid p-2">
+    <div *ngFor="let item of getFilteredItems() | async" class="item-grid-item card bg-secondary" [class.border-info]="item === selectedItem"
+      (click)="setSelected(item)">
+      <img src={{item.icon}} class="card-img-top" />
+      <div class="card-footer text-center">
+        {{item.name}}
+      </div>
+    </div>
   </div>
 </ng-template>

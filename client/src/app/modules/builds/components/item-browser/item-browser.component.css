@@ -23,6 +23,14 @@
   flex-direction: column;
 }
 
+.error-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  width: 100%;
+}
+
 .item-grid {
   display: grid;
   /* autoprefixer: off */
@@ -41,6 +49,19 @@
 .card-img-top {
   height: 200px;
   object-fit: scale-down;
+}
+
+@keyframes rotate-360 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.fa-spinner {
+  animation: rotate-360 1s linear infinite;
 }
 
 /* width */
