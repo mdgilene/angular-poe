@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormArray, Validators, FormGroup } from '@angular/forms';
-import { Build, ClassCombos, ItemSlots } from '../../models/build';
+import { Build, ClassCombos, SlotInfo, Slot } from '../../models/build';
 import { WeaponType } from '../../models/item';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
@@ -11,8 +11,9 @@ import { ItemBrowserComponent } from '../item-browser/item-browser.component';
   styleUrls: ['./create-build-form.component.css']
 })
 export class CreateBuildFormComponent {
-  classCombos = ClassCombos;
-  itemSlots = ItemSlots;
+  ClassCombos = ClassCombos;
+  Slot = Slot;
+  SlotInfo = SlotInfo;
 
   modalRef: BsModalRef;
 
@@ -120,7 +121,7 @@ export class CreateBuildFormComponent {
     const gems = skillGroup.get('gems') as FormArray;
     const slot = skillGroup.get('slot').value as string;
     console.log(slot);
-    if (gems.length < this.itemSlots[slot].maxSockets) {
+    if (gems.length < SlotInfo[slot].maxSockets) {
       gems.push(this.fb.control({}));
     }
   }

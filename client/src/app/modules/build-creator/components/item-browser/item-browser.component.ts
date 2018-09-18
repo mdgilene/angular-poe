@@ -4,6 +4,7 @@ import { Item, ArmourType } from '../../models/item';
 import { BsModalRef } from 'ngx-bootstrap/modal';
 
 import { default as itemRestrictions } from '../../resources/item-restrictions.json';
+import { Slot } from '../../models/build';
 
 @Component({
   selector: 'app-item-browser',
@@ -49,7 +50,7 @@ export class ItemBrowserComponent implements OnInit {
     }
 
     if (canUseWith.length === 0) {
-      if (this.slot === 'weapon1' && this.currentItems.weapon2.itemType) {
+      if (this.slot === Slot.WEAPON1 && this.currentItems.weapon2.itemType) {
         // Item is a weapon that cannot be used with anything else (2 handed), thus if
         // offhand is equipped then it's invalid
         return;

@@ -1,10 +1,10 @@
-import { BuildsModule } from './builds.module';
+import { BuildCreatorModule } from './build-creator.module';
 
 describe('BuildsModule', () => {
-  let buildsModule: BuildsModule;
+  let buildsModule: BuildCreatorModule;
 
   beforeEach(() => {
-    buildsModule = new BuildsModule();
+    buildsModule = new BuildCreatorModule();
   });
 
   it('should create an instance', () => {

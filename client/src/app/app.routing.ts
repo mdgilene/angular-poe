@@ -5,7 +5,8 @@ import { AppHomeComponent } from './pages/app-home/app-home.component';
 const routes: Routes = [
   {
     path: 'builds',
-    loadChildren: './modules/builds/builds.module#BuildsModule'
+    loadChildren:
+      './modules/build-creator/build-creator.module#BuildCreatorModule'
   },
   {
     path: '',

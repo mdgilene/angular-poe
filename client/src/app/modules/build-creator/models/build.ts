@@ -38,11 +38,14 @@ export interface Class {
 export interface Item {}
 
 export interface GemGroup {
-  location: 'head' | 'body' | 'gloves' | 'boots' | 'weapon1' | 'weapon2';
+  location: Slot;
   links: Gem[];
 }
 
-export interface Gem {}
+export interface Gem {
+  _id?: string;
+  name?: string;
+}
 
 export enum SecondaryClass {
   SLAYER = 'Slayer',
@@ -74,6 +77,19 @@ export enum PrimaryClass {
   WITCH = 'Witch',
   SHADOW = 'Shadow',
   SCION = 'Scion'
+}
+
+export enum Slot {
+  HEAD = 'head',
+  BODY = 'body',
+  WEAPON1 = 'weapon1',
+  WEAPON2 = 'weapon2',
+  GLOVES = 'gloves',
+  BOOTS = 'boots',
+  RING1 = 'ring1',
+  RING2 = 'ring2',
+  AMULET = 'amulet',
+  BELT = 'belt'
 }
 
 export const ClassCombos = [
@@ -131,15 +147,15 @@ export const ClassCombos = [
   }
 ];
 
-export const ItemSlots = {
-  head: { displayText: 'Head', maxSockets: 4 },
-  body: { displayText: 'Body', maxSockets: 6 },
-  weapon1: { displayText: 'Main Hand', maxSockets: 6 },
-  weapon2: { displayText: 'Off Hand', maxSockets: 3 },
-  gloves: { displayText: 'Gloves', maxSockets: 4 },
-  boots: { displayText: 'Boots', maxSockets: 4 },
-  ring1: { displayText: 'Left Ring', maxSockets: 1 },
-  ring2: { displayText: 'Ring Ring', maxSockets: 1 },
-  amulet: { displayText: 'Amulet', maxSockets: 1 },
-  belt: { displayText: 'Belt', maxSockets: 0 }
+export const SlotInfo = {
+  [Slot.HEAD]: { displayText: 'Head', maxSockets: 4 },
+  [Slot.BODY]: { displayText: 'Body', maxSockets: 6 },
+  [Slot.WEAPON1]: { displayText: 'Main Hand', maxSockets: 6 },
+  [Slot.WEAPON2]: { displayText: 'Off Hand', maxSockets: 3 },
+  [Slot.GLOVES]: { displayText: 'Gloves', maxSockets: 4 },
+  [Slot.BOOTS]: { displayText: 'Boots', maxSockets: 4 },
+  [Slot.RING1]: { displayText: 'Left Ring', maxSockets: 1 },
+  [Slot.RING2]: { displayText: 'Ring Ring', maxSockets: 1 },
+  [Slot.AMULET]: { displayText: 'Amulet', maxSockets: 1 },
+  [Slot.BELT]: { displayText: 'Belt', maxSockets: 0 }
 };

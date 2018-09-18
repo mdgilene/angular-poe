@@ -19,17 +19,17 @@
       <h4>Items</h4>
       <div class="row justify-content-center">
         <div class="item-mannequin">
-          <app-item-control formControlName="head" class="slot-head card bg-light border-warning" (click)="openItemBrowser('head')"></app-item-control>
-          <app-item-control formControlName="body" class="slot-body card bg-light border-warning" (click)="openItemBrowser('body')"></app-item-control>
-          <app-item-control formControlName="weapon1" class="slot-weapon1 card bg-light border-warning" (click)="openItemBrowser('weapon1')"></app-item-control>
+          <app-item-control formControlName="head" class="slot-head card bg-light border-warning" (click)="openItemBrowser(Slot.HEAD)"></app-item-control>
+          <app-item-control formControlName="body" class="slot-body card bg-light border-warning" (click)="openItemBrowser(Slot.BODY)"></app-item-control>
+          <app-item-control formControlName="weapon1" class="slot-weapon1 card bg-light border-warning" (click)="openItemBrowser(Slot.WEAPON1)"></app-item-control>
           <app-item-control *ngIf="showWeapon2" formControlName="weapon2" class="slot-weapon2 card bg-light border-warning"
-            (click)="openItemBrowser('weapon2')"></app-item-control>
-          <app-item-control formControlName="gloves" class="slot-gloves card bg-light border-warning" (click)="openItemBrowser('gloves')"></app-item-control>
-          <app-item-control formControlName="boots" class="slot-boots card bg-light border-warning" (click)="openItemBrowser('boots')"></app-item-control>
-          <app-item-control formControlName="ring1" class="slot-ring1 card bg-light border-warning" (click)="openItemBrowser('ring1')"></app-item-control>
-          <app-item-control formControlName="ring2" class="slot-ring2 card bg-light border-warning" (click)="openItemBrowser('ring2')"></app-item-control>
-          <app-item-control formControlName="amulet" class="slot-amulet card bg-light border-warning" (click)="openItemBrowser('amulet')"></app-item-control>
-          <app-item-control formControlName="belt" class="slot-belt card bg-light border-warning" (click)="openItemBrowser('belt')"></app-item-control>
+            (click)="openItemBrowser(Slot.WEAPON2)"></app-item-control>
+          <app-item-control formControlName="gloves" class="slot-gloves card bg-light border-warning" (click)="openItemBrowser(Slot.GLOVES)"></app-item-control>
+          <app-item-control formControlName="boots" class="slot-boots card bg-light border-warning" (click)="openItemBrowser(Slot.BOOTS)"></app-item-control>
+          <app-item-control formControlName="ring1" class="slot-ring1 card bg-light border-warning" (click)="openItemBrowser(Slot.RING1)"></app-item-control>
+          <app-item-control formControlName="ring2" class="slot-ring2 card bg-light border-warning" (click)="openItemBrowser(Slot.RING2)"></app-item-control>
+          <app-item-control formControlName="amulet" class="slot-amulet card bg-light border-warning" (click)="openItemBrowser(Slot.AMULET)"></app-item-control>
+          <app-item-control formControlName="belt" class="slot-belt card bg-light border-warning" (click)="openItemBrowser(Slot.BELT)"></app-item-control>
         </div>
       </div>
     </div>

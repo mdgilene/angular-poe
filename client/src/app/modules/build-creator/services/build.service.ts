@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Build } from '../models/Build';
+import { Build } from '../models/build';
 
 @Injectable()
 export class BuildService {
