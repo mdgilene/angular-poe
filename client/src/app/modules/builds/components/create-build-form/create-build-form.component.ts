@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { FormGroup, FormControl } from '@angular/forms';
-import { Build, ClassCombos } from '../../models/build';
+import { FormBuilder, FormArray, Validators } from '@angular/forms';
+import { Build, ClassCombos, ItemSlots } from '../../models/build';
 import { WeaponType } from '../../models/item';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
@@ -12,31 +12,33 @@ import { ItemBrowserComponent } from '../item-browser/item-browser.component';
 })
 export class CreateBuildFormComponent {
   classCombos = ClassCombos;
+  itemSlots = ItemSlots;
 
   modalRef: BsModalRef;
 
   showWeapon2 = true;
 
-  buildForm = new FormGroup({
-    info: new FormGroup({
-      name: new FormControl(''),
-      class: new FormControl('Pathfinder')
+  buildForm = this.fb.group({
+    info: this.fb.group({
+      name: ['', Validators.required],
+      class: ['Pathfinder']
     }),
-    items: new FormGroup({
-      head: new FormControl({}),
-      body: new FormControl({}),
-      weapon1: new FormControl({}),
-      weapon2: new FormControl({}),
-      gloves: new FormControl({}),
-      boots: new FormControl({}),
-      ring1: new FormControl({}),
-      ring2: new FormControl({}),
-      amulet: new FormControl({}),
-      belt: new FormControl({})
-    })
+    items: this.fb.group({
+      head: [{}],
+      body: [{}],
+      weapon1: [{}],
+      weapon2: [{}],
+      gloves: [{}],
+      boots: [{}],
+      ring1: [{}],
+      ring2: [{}],
+      amulet: [{}],
+      belt: [{}]
+    }),
+    skills: this.fb.array([])
   });
 
-  constructor(private modalService: BsModalService) {
+  constructor(private modalService: BsModalService, private fb: FormBuilder) {
     // Show/Hide weapon2 depending on what is in main hand
     this.buildForm.valueChanges.subscribe(values => {
       const weapon1 = values.items.weapon1;
@@ -64,6 +66,7 @@ export class CreateBuildFormComponent {
 
   handleSubmit() {
     const build = this.formToModel();
+    console.log(this.buildForm.status);
     console.log(build);
   }
 
@@ -86,7 +89,34 @@ export class CreateBuildFormComponent {
           .primary,
         secondary: form.info.class
       },
-      items: form.items
+      items: {
+        discussion: '',
+        ...form.items
+      },
+      skills: {
+        discussion: '',
+        gemGroups: form.skills
+      }
     };
+  }
+
+  get skills(): FormArray {
+    return this.buildForm.get('skills') as FormArray;
+  }
+
+  addSkillGroup() {
+    this.skills.push(
+      this.fb.group({
+        slot: ['head'],
+        gems: this.fb.array([])
+      })
+    );
+  }
+
+  addGem(group) {
+    const skillGroup = this.skills.controls[group].get('gems') as FormArray;
+    if (skillGroup.length < 6) {
+      skillGroup.push(this.fb.control({}));
+    }
   }
 }

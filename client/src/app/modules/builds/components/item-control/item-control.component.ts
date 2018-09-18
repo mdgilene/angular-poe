@@ -1,4 +1,4 @@
-import { Component, forwardRef, Input, ViewEncapsulation } from '@angular/core';
+import { Component, forwardRef, Input } from '@angular/core';
 import { NG_VALUE_ACCESSOR, ControlValueAccessor } from '@angular/forms';
 
 @Component({
@@ -11,8 +11,7 @@ import { NG_VALUE_ACCESSOR, ControlValueAccessor } from '@angular/forms';
       useExisting: forwardRef(() => ItemControlComponent),
       multi: true
     }
-  ],
-  encapsulation: ViewEncapsulation.Emulated
+  ]
 })
 export class ItemControlComponent implements ControlValueAccessor {
   @Input('value')
@@ -23,6 +22,11 @@ export class ItemControlComponent implements ControlValueAccessor {
 
   constructor() {}
 
+  clearValue(e: MouseEvent) {
+    e.stopPropagation();
+    this.value = {};
+  }
+
   get value() {
     return this._value;
   }
@@ -31,6 +35,10 @@ export class ItemControlComponent implements ControlValueAccessor {
     this._value = value;
     this.onChange(value);
     this.onTouched();
+  }
+
+  get hasValue() {
+    return Object.keys(this.value).length > 0;
   }
 
   writeValue(value) {

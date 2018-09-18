@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
+import { ModalModule } from 'ngx-bootstrap/modal';
 
 import { BuildsRoutingModule } from './builds.routing';
 import { BuildService } from './services/build.service';
@@ -12,7 +13,6 @@ import { KeysPipe } from './pipes/keys.pipe';
 import { ValuesPipe } from './pipes/values.pipe';
 import { ItemBrowserComponent } from './components/item-browser/item-browser.component';
 import { ItemControlComponent } from './components/item-control/item-control.component';
-import { ModalModule } from 'ngx-bootstrap/modal';
 
 @NgModule({
   imports: [

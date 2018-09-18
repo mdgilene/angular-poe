@@ -10,3 +10,14 @@
   object-fit: scale-down;
 }
 
+.fa-times {
+  z-index: 100;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 0.25rem;
+}
+
+.fa-times:hover {
+  color: var(--danger);
+}

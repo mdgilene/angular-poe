@@ -1,3 +1,4 @@
 <div class="w-100 h-100 d-flex justify-content-center align-items-center">
+  <i *ngIf="hasValue" class="fas fa-times fa-lg" (click)="clearValue($event)"></i>
   <img src={{value.icon}} class="card-img-top" />
 </div>

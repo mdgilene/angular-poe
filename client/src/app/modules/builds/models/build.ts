@@ -3,7 +3,7 @@ export interface Build {
   name?: string;
   class?: Class;
   items?: ItemsSection;
-  gems?: GemsSection;
+  skills?: SkillsSection;
   passives?: PassivesSection;
 }
 
@@ -24,13 +24,8 @@ export interface ItemsSection extends Section {
   jewels: Item[];
 }
 
-export interface GemsSection extends Section {
-  head: GemGroup;
-  body: GemGroup;
-  gloves: GemGroup;
-  boots: GemGroup;
-  weapon1: GemGroup;
-  weapon2?: GemGroup;
+export interface SkillsSection extends Section {
+  gemGroups: GemGroup[];
 }
 
 export interface PassivesSection extends Section {}
@@ -135,3 +130,16 @@ export const ClassCombos = [
     secondary: [SecondaryClass.ASCENDANT]
   }
 ];
+
+export const ItemSlots = {
+  head: 'Head',
+  body: 'Body',
+  weapon1: 'Main Hand',
+  weapon2: 'Off Hand',
+  gloves: 'Gloves',
+  boots: 'Boots',
+  ring1: 'Left Ring',
+  ring2: 'Ring Ring',
+  amulet: 'Amulet',
+  belt: 'Belt'
+};

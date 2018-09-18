@@ -67,6 +67,12 @@
   grid-row-end: span 2;
 }
 
+.slot-gem:before {
+  content: "";
+  display: block;
+  padding-top: 100%;
+}
+
 @media only screen and (min-width: 425px) {
   .item-mannequin {
     display: grid;
