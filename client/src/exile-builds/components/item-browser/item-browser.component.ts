@@ -7,7 +7,7 @@ import { default as itemRestrictions } from '../../resources/item-restrictions.j
 import { Slot } from '../../models/build';
 
 @Component({
-  selector: 'app-item-browser',
+  selector: 'exilebuilds-item-browser',
   templateUrl: './item-browser.component.html',
   styleUrls: ['./item-browser.component.css']
 })

@@ -2,7 +2,7 @@ import { Component, forwardRef, Input } from '@angular/core';
 import { NG_VALUE_ACCESSOR, ControlValueAccessor } from '@angular/forms';
 
 @Component({
-  selector: 'app-item-control',
+  selector: 'exilebuilds-item-control',
   templateUrl: './item-control.component.html',
   styleUrls: ['./item-control.component.css'],
   providers: [

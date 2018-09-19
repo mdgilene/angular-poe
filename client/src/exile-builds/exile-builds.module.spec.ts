@@ -1,10 +1,10 @@
-import { BuildCreatorModule } from './build-creator.module';
+import { ExileBuildsModule } from './exile-builds.module';
 
 describe('BuildsModule', () => {
-  let buildsModule: BuildCreatorModule;
+  let buildsModule: ExileBuildsModule;
 
   beforeEach(() => {
-    buildsModule = new BuildCreatorModule();
+    buildsModule = new ExileBuildsModule();
   });
 
   it('should create an instance', () => {

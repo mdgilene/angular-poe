@@ -6,7 +6,7 @@ import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
 
 @Component({
-  selector: 'app-create-build-form',
+  selector: 'exilebuilds-create-build-form',
   templateUrl: './create-build-form.component.html',
   styleUrls: ['./create-build-form.component.css']
 })

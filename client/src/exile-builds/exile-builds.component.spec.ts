@@ -1,20 +1,19 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AppHomeComponent } from './app-home.component';
+import { BuildsComponent } from './exile-builds.component';
 
-describe('AppHomeComponent', () => {
-  let component: AppHomeComponent;
-  let fixture: ComponentFixture<AppHomeComponent>;
+describe('BuildsComponent', () => {
+  let component: BuildsComponent;
+  let fixture: ComponentFixture<BuildsComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ AppHomeComponent ]
-    })
-    .compileComponents();
+      declarations: [BuildsComponent]
+    }).compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(AppHomeComponent);
+    fixture = TestBed.createComponent(BuildsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
