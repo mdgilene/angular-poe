@@ -10,6 +10,7 @@ import {
 import { WeaponType } from '../../models/item';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
+import { GemBrowserComponent } from '../gem-browser/gem-browser.component';
 
 @Component({
   selector: 'exilebuilds-create-build-form',
@@ -21,7 +22,8 @@ export class CreateBuildFormComponent {
   Slot = Slot;
   SlotInfo = SlotInfo;
 
-  modalRef: BsModalRef;
+  itemBrowserRef: BsModalRef;
+  gemBrowserRef: BsModalRef;
 
   showWeapon2 = true;
 
@@ -69,7 +71,8 @@ export class CreateBuildFormComponent {
       if (reason === null) {
         this.buildForm.patchValue({
           items: {
-            [this.modalRef.content.slot]: this.modalRef.content.selectedItem
+            [this.itemBrowserRef.content.slot]: this.itemBrowserRef.content
+              .selectedItem
           }
         });
 
@@ -78,14 +81,22 @@ export class CreateBuildFormComponent {
     });
   }
 
+  /**
+   * Form submit
+   */
   handleSubmit() {
     const build = this.formToModel();
     console.log(this.buildForm.status);
     console.log(build);
   }
 
+  /**
+   * Opens the item browser for the given slot.
+   *
+   * @param slot Slot that triggered this event
+   */
   openItemBrowser(slot) {
-    this.modalRef = this.modalService.show(ItemBrowserComponent, {
+    this.itemBrowserRef = this.modalService.show(ItemBrowserComponent, {
       initialState: {
         slot: slot,
         currentItems: this.buildForm.value.items
@@ -94,6 +105,18 @@ export class CreateBuildFormComponent {
     });
   }
 
+  openGemBrowser(group: number, index: number) {
+    this.gemBrowserRef = this.modalService.show(GemBrowserComponent, {
+      initialState: {
+        currentLinks: this.gemGroups.at(group).get('links').value
+      },
+      class: 'item-browser'
+    });
+  }
+
+  /**
+   * Convert form value to Build model
+   */
   formToModel(): Build {
     const form = this.buildForm.value;
     return {
@@ -111,15 +134,24 @@ export class CreateBuildFormComponent {
     };
   }
 
+  /**
+   * Items section
+   */
   get items(): FormGroup {
     return this.buildForm.get('items') as FormGroup;
   }
 
+  /**
+   * The skills section list of gem groups.
+   */
   get gemGroups(): FormArray {
     return this.buildForm.get('skills.gemGroups') as FormArray;
   }
 
-  addSkillGroup() {
+  /**
+   * Add a gem group to the skills section.
+   */
+  addGemGroup() {
     this.gemGroups.push(
       this.fb.group({
         location: ['head'],
@@ -128,6 +160,11 @@ export class CreateBuildFormComponent {
     );
   }
 
+  /**
+   * Adds a gem slot to the provided group.
+   *
+   * @param group index of the group to add a gem slot to
+   */
   addGem(group) {
     const skillGroup = this.gemGroups.at(group) as FormGroup;
     const location = skillGroup.get('location').value as string;
@@ -137,9 +174,14 @@ export class CreateBuildFormComponent {
     }
   }
 
+  /**
+   * Handle gemGroup slot change.
+   *
+   * Removes gems over the maximum socket count for that slot.
+   *
+   * @param groupIndex index of the group that changed
+   */
   handleSlotChange(groupIndex: number) {
-    // Remove gems over max socket count
-
     const gemGroup = this.gemGroups.at(groupIndex);
 
     const links = gemGroup.get('links') as FormArray;

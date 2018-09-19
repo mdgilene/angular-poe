@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Item, ApiRespones } from '../models/item';
+import { Gem } from '../models/gem';
 import { of, Observable, forkJoin } from 'rxjs';
 import { map } from 'rxjs/operators';
 
@@ -14,6 +15,7 @@ export interface ItemFilter {
 })
 export class ItemService {
   private items: Item[] = [];
+  private gems: Gem[] = [];
 
   loading: boolean;
   error: string;
@@ -37,6 +39,25 @@ export class ItemService {
     }
 
     return of(this.items);
+  }
+
+  getGems(): Observable<Gem[]> {
+    if (this.gems.length === 0) {
+      this.fetchGems().subscribe(
+        gems => {
+          this.loading = false;
+          this.gems = gems;
+          this.error = '';
+        },
+        err => {
+          this.error =
+            'Could not fetch gems from server, please refresh the page and try again.';
+          this.loading = false;
+        }
+      );
+    }
+
+    return of(this.gems);
   }
 
   getFilteredItems(itemFilter: ItemFilter): Observable<Item[]> | null {
@@ -89,13 +110,29 @@ export class ItemService {
     const getJewels = this.$http
       .get<ApiRespones>('http://localhost:4300/jewels')
       .pipe(map(res => res.lines));
+    const getGems = this.$http
+      .get<ApiRespones>('http://localhost:4300/gems')
+      .pipe(map(res => res.lines));
 
     return forkJoin<Item[]>([
       getArmour,
       getWeapons,
       getAccessories,
       getFlasks,
-      getJewels
+      getJewels,
+      getGems
     ]).pipe(map(responses => [].concat(...responses)));
+  }
+
+  fetchGems(): Observable<Gem[]> {
+    this.loading = true;
+
+    const getGems = this.$http
+      .get<ApiRespones>('http://localhost:4300/gems')
+      .pipe(map(res => res.lines));
+
+    return forkJoin<Gem[]>([getGems]).pipe(
+      map(responses => [].concat(...responses))
+    );
   }
 }

@@ -50,7 +50,8 @@
 
           <div formArrayName="links" class="row">
             <div *ngFor="let gem of gemGroup.get('links').controls; let gem_i=index;" class="col-2">
-              <exilebuilds-item-control class="slot-gem card bg-secondary border-warning" [formControlName]="gem_i">
+              <exilebuilds-item-control class="slot-gem card bg-secondary border-warning" [formControlName]="gem_i"
+                (click)="openGemBrowser(group_i, gem_i)">
               </exilebuilds-item-control>
             </div>
             <div *ngIf="gemGroup.get('links').controls.length < SlotInfo[gemGroup.get('location').value].maxSockets"
@@ -61,7 +62,7 @@
             </div>
           </div>
         </div>
-        <button class="btn btn-success" (click)="addSkillGroup()">New Skill Group</button>
+        <button class="btn btn-success" (click)="addGemGroup()">New Skill Group</button>
       </div>
     </div>
 

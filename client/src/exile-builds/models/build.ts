@@ -1,3 +1,5 @@
+import { Item } from './item';
+
 export interface Build {
   _id?: string;
   name?: string;
@@ -34,8 +36,6 @@ export interface Class {
   primary?: PrimaryClass;
   secondary?: SecondaryClass;
 }
-
-export interface Item {}
 
 export interface GemGroup {
   location: Slot;

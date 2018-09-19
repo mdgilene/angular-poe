@@ -77,6 +77,18 @@ app.get("/jewels", (req, res) => {
     );
 });
 
+app.get("/gems", (req, res) => {
+  axios
+    .get(
+      `http://poe.ninja/api/Data/GetSkillGemOverview?league=${CURRENT_LEAGUE}`
+    )
+    .then(response =>
+      res.json({
+        lines: filterUnique(response.data.lines)
+      })
+    );
+});
+
 const filterUnique = arr => {
   // return arr.filter((item, index, a) => {
   //   return a.map(mapItem => mapItem.name).indexOf(item.name) === index;

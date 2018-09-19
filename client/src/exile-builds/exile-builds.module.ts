@@ -18,6 +18,7 @@ import { ItemBrowserComponent } from './components/item-browser/item-browser.com
 import { ItemControlComponent } from './components/item-control/item-control.component';
 import { ModalModule } from 'ngx-bootstrap/modal';
 import { HttpClientModule } from '@angular/common/http';
+import { GemBrowserComponent } from './components/gem-browser/gem-browser.component';
 
 @NgModule({
   imports: [
@@ -31,6 +32,7 @@ import { HttpClientModule } from '@angular/common/http';
   declarations: [
     ExileBuildsComponent,
     ItemBrowserComponent,
+    GemBrowserComponent,
     HomeComponent,
     CreateComponent,
     CreateBuildFormComponent,
@@ -38,7 +40,7 @@ import { HttpClientModule } from '@angular/common/http';
     ValuesPipe,
     ItemControlComponent
   ],
-  entryComponents: [ItemBrowserComponent],
+  entryComponents: [ItemBrowserComponent, GemBrowserComponent],
   bootstrap: [ExileBuildsComponent]
 })
 export class ExileBuildsModule {}

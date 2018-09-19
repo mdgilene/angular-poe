@@ -74,4 +74,27 @@ export interface Sparkline {
   totalChange: number;
 }
 
+export enum GemTag {
+  ATTACK = 'Attack',
+  SPELL = 'Spell',
+  FIRE = 'Fire',
+  COLD = 'Cold',
+  LIGHTNING = 'Lightning',
+  CHAOS = 'Chaos',
+  PHYSICAL = 'Physical',
+  MELEE = 'Melee',
+  BOW = 'Bow',
+  MINION = 'Minion',
+  GOLEM = 'Golem',
+  TOTEM = 'Totem',
+  TRAP = 'Trap',
+  MINE = 'Mine',
+  AOE = 'AoE',
+  PROJECTILE = 'Projectile',
+  DURATION = 'Duration',
+  AURA = 'Aura',
+  HERALD = 'Herald',
+  WARCRY = 'Warcry'
+}
+
 //////
