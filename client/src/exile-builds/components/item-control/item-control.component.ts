@@ -4,7 +4,7 @@ import { ItemBrowserComponent } from '../item-browser/item-browser.component';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 
 @Component({
-  selector: 'app-item-control',
+  selector: 'exilebuilds-item-control',
   templateUrl: './item-control.component.html',
   styleUrls: ['./item-control.component.css'],
   providers: [

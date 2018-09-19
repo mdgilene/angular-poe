@@ -3,7 +3,7 @@ import { FormGroup, FormControl } from '@angular/forms';
 import { Build, ClassCombos } from '../../models/Build';
 
 @Component({
-  selector: 'app-create-build-form',
+  selector: 'exilebuilds-create-build-form',
   templateUrl: './create-build-form.component.html',
   styleUrls: ['./create-build-form.component.css']
 })
