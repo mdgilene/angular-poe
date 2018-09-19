@@ -4,7 +4,7 @@ import { Item, WeaponType, ArmourType } from '../../models/item';
 import { BsModalRef } from 'ngx-bootstrap/modal';
 
 @Component({
-  selector: 'app-item-browser',
+  selector: 'exilebuilds-item-browser',
   templateUrl: './item-browser.component.html',
   styleUrls: ['./item-browser.component.css']
 })
