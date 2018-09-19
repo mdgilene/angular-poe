@@ -155,7 +155,7 @@ export const SlotInfo = {
   [Slot.GLOVES]: { displayText: 'Gloves', maxSockets: 4 },
   [Slot.BOOTS]: { displayText: 'Boots', maxSockets: 4 },
   [Slot.RING1]: { displayText: 'Left Ring', maxSockets: 1 },
-  [Slot.RING2]: { displayText: 'Ring Ring', maxSockets: 1 },
+  [Slot.RING2]: { displayText: 'Right Ring', maxSockets: 1 },
   [Slot.AMULET]: { displayText: 'Amulet', maxSockets: 1 },
   [Slot.BELT]: { displayText: 'Belt', maxSockets: 0 }
 };

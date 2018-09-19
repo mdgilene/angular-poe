@@ -1,6 +1,12 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormArray, Validators, FormGroup } from '@angular/forms';
-import { Build, ClassCombos, SlotInfo, Slot } from '../../models/build';
+import {
+  Build,
+  ClassCombos,
+  SlotInfo,
+  Slot,
+  GemGroup
+} from '../../models/build';
 import { WeaponType } from '../../models/item';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
@@ -25,6 +31,7 @@ export class CreateBuildFormComponent {
       class: ['Pathfinder']
     }),
     items: this.fb.group({
+      discussion: [''],
       head: [{}],
       body: [{}],
       weapon1: [{}],
@@ -36,12 +43,16 @@ export class CreateBuildFormComponent {
       amulet: [{}],
       belt: [{}]
     }),
-    skills: this.fb.array([])
+    skills: this.fb.group({
+      discussion: [''],
+      gemGroups: this.fb.array([])
+    })
   });
 
   constructor(private modalService: BsModalService, private fb: FormBuilder) {
-    // Show/Hide weapon2 depending on what is in main hand
+    // Handle form value changes
     this.buildForm.valueChanges.subscribe(values => {
+      // Show/Hide weapon2 depending on what is in main hand
       const weapon1 = values.items.weapon1;
       if (
         weapon1.itemType === WeaponType.TwoHandedAxe ||
@@ -96,33 +107,48 @@ export class CreateBuildFormComponent {
         discussion: '',
         ...form.items
       },
-      skills: {
-        discussion: '',
-        gemGroups: form.skills
-      }
+      skills: form.skills
     };
   }
 
-  get skills(): FormArray {
-    return this.buildForm.get('skills') as FormArray;
+  get items(): FormGroup {
+    return this.buildForm.get('items') as FormGroup;
+  }
+
+  get gemGroups(): FormArray {
+    return this.buildForm.get('skills.gemGroups') as FormArray;
   }
 
   addSkillGroup() {
-    this.skills.push(
+    this.gemGroups.push(
       this.fb.group({
-        slot: ['head'],
-        gems: this.fb.array([])
+        location: ['head'],
+        links: this.fb.array([])
       })
     );
   }
 
   addGem(group) {
-    const skillGroup = this.skills.controls[group] as FormGroup;
-    const gems = skillGroup.get('gems') as FormArray;
-    const slot = skillGroup.get('slot').value as string;
-    console.log(slot);
-    if (gems.length < SlotInfo[slot].maxSockets) {
-      gems.push(this.fb.control({}));
+    const skillGroup = this.gemGroups.at(group) as FormGroup;
+    const location = skillGroup.get('location').value as string;
+    const links = skillGroup.get('links') as FormArray;
+    if (links.length < SlotInfo[location].maxSockets) {
+      links.push(this.fb.control({}));
+    }
+  }
+
+  handleSlotChange(groupIndex: number) {
+    // Remove gems over max socket count
+
+    const gemGroup = this.gemGroups.at(groupIndex);
+
+    const links = gemGroup.get('links') as FormArray;
+    const location = gemGroup.get('location').value as string;
+
+    const maxSockets = SlotInfo[location].maxSockets;
+
+    while (links.length > maxSockets) {
+      links.removeAt(links.length - 1);
     }
   }
 }
