@@ -36,6 +36,7 @@ export class GemBrowserComponent implements OnInit {
     this.modalRef.hide();
   }
 
+
   getFilteredGems() {
     return this.itemService.getGems();
   }
