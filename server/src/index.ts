@@ -2,6 +2,8 @@ import express from "express";
 import axios from "axios";
 import cors from "cors";
 
+import { itemApi } from "./routes/itemApi";
+
 const CURRENT_LEAGUE = "Delve";
 
 const app = express();
@@ -76,6 +78,8 @@ app.get("/jewels", (req, res) => {
       })
     );
 });
+
+app.use("/item-api", itemApi);
 
 const filterUnique = arr => {
   // return arr.filter((item, index, a) => {
