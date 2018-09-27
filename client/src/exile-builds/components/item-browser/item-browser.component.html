@@ -69,7 +69,7 @@
     <div *ngFor="let item of getFilteredItems() | async" class="item-grid-item card bg-secondary" [class.border-info]="item === selectedItem"
       (click)="setSelected(item)">
       <img src={{item.icon}} class="card-img-top" />
-      <div class="card-footer text-center">
+      <div class="card-footer">
         {{item.name}}
       </div>
     </div>
