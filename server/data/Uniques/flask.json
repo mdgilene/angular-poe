@@ -4,27 +4,22 @@
       "name": "Blood of the Karui",
       "base": "Sanctified Life Flask",
       "levelReq": 50,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "No Life Recovery Applies during Flask effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "100% increased Amount Recovered"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "No Life Recovery Applies during Flask effect"
+        ],
+        "Current": [
+          "100% increased Amount Recovered"
+        ]
+      },
       "mods": [
         "(5-20)% increased Recovery Speed",
         "Recover Full Life at the end of the Flask effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvQmxvb2RPZlRoZUthcnVpIiwic3AiOjAuNjA4NSwicmxjIjp0cnVlLCJsZXZlbCI6MH1d/9cd154fc63/Item.png"
     }
   ],
   "Flask: Mana": [
@@ -32,20 +27,14 @@
       "name": "Doedre's Elixir",
       "base": "Greater Mana Flask",
       "levelReq": 12,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(50-100)% increased Charges used"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(120-150)% increased Charges used"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(50-100)% increased Charges used"
+        ],
+        "Current": [
+          "(120-150)% increased Charges used"
+        ]
+      },
       "mods": [
         "Removes 20% of your maximum Energy Shield on use",
         "You take 10% of your maximum Life as Chaos Damage on use",
@@ -55,13 +44,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MjY6IkFydC8yREl0ZW1z/L0ZsYXNrcy95Rmxhc2s0/IjtzOjI6InNwIjtkOjAu/NjA4NTE5MjY5Nzc2ODc2/MztzOjU6ImxldmVsIjtp/OjA7fWk6MTtpOjQ7aTow/O2k6OTt9/c79e006a61/Item.png"
     },
     {
       "name": "Lavianga's Spirit",
       "base": "Sanctified Mana Flask",
       "levelReq": 50,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(30-50)% increased Amount Recovered",
         "100% increased Recovery Speed",
@@ -69,20 +59,22 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvTGF2aWFuZ2FzT2lsIiwic3AiOjAuNjA4NSwicmxjIjp0cnVlLCJsZXZlbCI6MH1d/d7b63e4eac/Item.png"
     },
     {
       "name": "Zerphi's Last Breath",
       "base": "Grand Mana Flask",
       "levelReq": 18,
-      "variants": [],
+      "variants": {},
       "mods": [
         "50% increased Charges used",
         "Skills used during Flask effect grant 800% of Mana Cost as Life"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvWmVycGhpc0xhc3RCcmVhdGgiLCJzcCI6MC42MDg1LCJybGMiOnRydWUsImxldmVsIjowfV0/f6b6b1f0cd/Item.png"
     }
   ],
   "Flask: Hybrid": [
@@ -90,42 +82,34 @@
       "name": "Divination Distillate",
       "base": "Large Hybrid Flask",
       "levelReq": 30,
-      "variants": [
-        {
-          "name": "Pre 1.1.0",
-          "mods": [
-            "(20-25)% increased Quantity of Items found during Flask effect",
-            "+6% to all maximum Elemental Resistances during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "(12-18)% increased Quantity of Items found during Flask effect",
-            "+6% to all maximum Elemental Resistances during Flask effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(12-18)% increased Quantity of Items found during Flask effect",
-            "+4% to all maximum Elemental Resistances during Flask effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.1.0": [
+          "(20-25)% increased Quantity of Items found during Flask effect",
+          "+6% to all maximum Elemental Resistances during Flask effect"
+        ],
+        "Pre 2.2.0": [
+          "(12-18)% increased Quantity of Items found during Flask effect",
+          "+6% to all maximum Elemental Resistances during Flask effect"
+        ],
+        "Current": [
+          "(12-18)% increased Quantity of Items found during Flask effect",
+          "+4% to all maximum Elemental Resistances during Flask effect"
+        ]
+      },
       "mods": [
         "(40-60)% increased Rarity of Items found during Flask effect",
         "25% increased Light Radius during Flask effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mjg6IkFydC8yREl0ZW1z/L0ZsYXNrcy95Rmxhc2tz/MTciO3M6Mjoic3AiO2Q6/MC42MDg1MTkyNjk3NzY4/NzYzO3M6NToibGV2ZWwi/O2k6MDt9aToxO2k6NDtp/OjA7aTo5O30,/e9a9debfb2/Item.png"
     },
     {
       "name": "The Writhing Jar",
       "base": "Hallowed Hybrid Flask",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(75-65)% reduced Amount Recovered ",
         "Instant Recovery",
@@ -134,7 +118,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzA6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Xcml0aGlu/Z0phciI7czoyOiJzcCI7/ZDowLjYwODUxOTI2OTc3/Njg3NjM7czo1OiJsZXZl/bCI7aTowO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/b9fc3a5656/Item.png"
     }
   ],
   "Flask: Utility": [
@@ -142,61 +127,51 @@
       "name": "Atziri's Promise",
       "base": "Amethyst Flask",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Gain (22-25)% of Physical Damage as Extra Chaos Damage during effect",
-            "Gain (13-15)% of Elemental Damage as Extra Chaos Damage during effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Gain (15-20)% of Physical Damage as Extra Chaos Damage during effect",
-            "Gain (10-15)% of Elemental Damage as Extra Chaos Damage during effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Gain (22-25)% of Physical Damage as Extra Chaos Damage during effect",
+          "Gain (13-15)% of Elemental Damage as Extra Chaos Damage during effect"
+        ],
+        "Current": [
+          "Gain (15-20)% of Physical Damage as Extra Chaos Damage during effect",
+          "Gain (10-15)% of Elemental Damage as Extra Chaos Damage during effect"
+        ]
+      },
       "mods": [
         "2% of Chaos Damage Leeched as Life during Flask effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzM6IkFydC8yREl0ZW1z/L0ZsYXNrcy9BdHppcmlz/UHJvbWlzZSI7czoyOiJz/cCI7ZDowLjYwODUxOTI2/OTc3Njg3NjM7czo1OiJs/ZXZlbCI7aTowO31pOjE7/aTo0O2k6MDtpOjk7fQ,,/ad6d35edab/Item.png"
     },
     {
       "name": "Coralito's Signature",
       "base": "Diamond Flask",
       "levelReq": 27,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Take 30 Chaos Damage per Second during Flask effect ",
         "25% chance to Poison on Hit during Flask effect ",
         "Your Critical Strikes do not deal extra Damage during Flask effect ",
-        "(50�75)% increased Duration of Poisons you inflict during Flask effect ",
+        "(50-75)% increased Duration of Poisons you inflict during Flask effect ",
         "Grants Perfect Agony during Flask effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzE6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Hb3Jnb25z/Rmxhc2siO3M6Mjoic3Ai/O2Q6MC42MDg1MTkyNjk3/NzY4NzYzO3M6NToibGV2/ZWwiO2k6MDt9aToxO2k6/NDtpOjA7aTo5O30,/aeaa2d7e7d/Item.png"
     },
     {
       "name": "Coruscating Elixir",
       "base": "Ruby Flask",
       "levelReq": 18,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "100% increased Duration"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [],
+        "Current": [
+          "100% increased Duration"
+        ]
+      },
       "mods": [
         "Chaos Damage does not bypass Energy Shield during effect",
         "Removes all but one Life on use",
@@ -204,212 +179,168 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzA6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Db3J1c0Vs/aXhpciI7czoyOiJzcCI7/ZDowLjYwODUxOTI2OTc3/Njg3NjM7czo1OiJsZXZl/bCI7aTowO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/ad0e834aba/Item.png"
     },
     {
       "name": "Dying Sun",
       "base": "Ruby Flask",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "30% increased Area of Effect during Flask Effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(15-25)% increased Area of Effect during Flask Effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "30% increased Area of Effect during Flask Effect"
+        ],
+        "Current": [
+          "(15-25)% increased Area of Effect during Flask Effect"
+        ]
+      },
       "mods": [
         "(-10-10)% increased Charges used",
         "2 additional Projectiles during Flask Effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzE6IkFydC8yREl0ZW1z/L0ZsYXNrcy9TaGFwZXJz/Rmxhc2siO3M6Mjoic3Ai/O2Q6MC42MDg1MTkyNjk3/NzY4NzYzO3M6NToibGV2/ZWwiO2k6MDt9aToxO2k6/NDtpOjA7aTo5O30,/f4367fb454/Item.png"
     },
     {
       "name": "Forbidden Taste",
       "base": "Quartz Flask",
       "levelReq": 27,
-      "variants": [
-        {
-          "name": "Pre 1.2.3",
-          "mods": [
-            "50% increased Charges used",
-            "Recover 50% of your maximum Life on use",
-            "15% of maximum Life taken as Chaos Damage per second"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "50% increased Charges used",
-            "Recover 75% of your maximum Life on use",
-            "8% of maximum Life taken as Chaos Damage per second"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Recover (75-100)% of your maximum Life on use",
-            "8% of maximum Life taken as Chaos Damage per second"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.2.3": [
+          "50% increased Charges used",
+          "Recover 50% of your maximum Life on use",
+          "15% of maximum Life taken as Chaos Damage per second"
+        ],
+        "Pre 2.6.0": [
+          "50% increased Charges used",
+          "Recover 75% of your maximum Life on use",
+          "8% of maximum Life taken as Chaos Damage per second"
+        ],
+        "Current": [
+          "Recover (75-100)% of your maximum Life on use",
+          "8% of maximum Life taken as Chaos Damage per second"
+        ]
+      },
       "mods": [],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjg6IlN0/YW5kYXJkIjtzOjk6ImFj/Y291bnRJZCI7TzoxODoi/R3JpbmRiXERhdGFiYXNl/XElkIjoxOntzOjI6Imlk/IjtpOjA7fXM6MTA6InNp/bXBsaWZpZWQiO2I6MTtp/OjI7YTozOntzOjE6ImYi/O3M6MzE6IkFydC8yREl0/ZW1zL0ZsYXNrcy9QaGFu/dG9tQmxvb2QiO3M6Mjoi/c3AiO2Q6MC42MDg1MTky/Njk3NzY4NzYzO3M6NToi/bGV2ZWwiO2k6MDt9aTox/O2k6NDtpOjA7aTo5O30,/f3f3db7881/Item.png"
     },
     {
       "name": "Kiara's Determination",
       "base": "Silver Flask",
       "levelReq": 22,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "50% reduced Duration"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "60% reduced Duration"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "50% reduced Duration"
+        ],
+        "Current": [
+          "60% reduced Duration"
+        ]
+      },
       "mods": [
         "Immune to Freeze, Chill, Curses and Stuns during Flask Effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mzg6IkFydC8yREl0ZW1z/L0ZsYXNrcy9LaWFyYXNE/ZXRlcm1pbmF0aW9uIjtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2Mztz/OjU6ImxldmVsIjtpOjA7/fWk6MTtpOjQ7aTowO2k6/OTt9/c076e7b9cf/Item.png"
     },
     {
       "name": "Lion's Roar",
       "base": "Granite Flask",
       "levelReq": 27,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "Adds Knockback during Flask effect",
-            "(70-100)% increased Charges used",
-            "30% more Melee Physical Damage during effect"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Adds Knockback during Flask effect",
-            "(30-35)% more Melee Physical Damage during effect"
-          ]
-        },
-        {
-          "name": "Pre 3.1.0",
-          "mods": [
-            "Adds Knockback during Flask effect",
-            "(20-25)% more Melee Physical Damage during effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds Knockback to Melee Attacks during Flask effect",
-            "(20-25)% more Melee Physical Damage during effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "Adds Knockback during Flask effect",
+          "(70-100)% increased Charges used",
+          "30% more Melee Physical Damage during effect"
+        ],
+        "Pre 3.0.0": [
+          "Adds Knockback during Flask effect",
+          "(30-35)% more Melee Physical Damage during effect"
+        ],
+        "Pre 3.1.0": [
+          "Adds Knockback during Flask effect",
+          "(20-25)% more Melee Physical Damage during effect"
+        ],
+        "Current": [
+          "Adds Knockback to Melee Attacks during Flask effect",
+          "(20-25)% more Melee Physical Damage during effect"
+        ]
+      },
       "mods": [
         "75% chance to cause Enemies to Flee on use",
         "Knocks Back Enemies in an Area on Flask use"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MjY6IkFydC8yREl0ZW1z/L0ZsYXNrcy95Rmxhc2s1/IjtzOjI6InNwIjtkOjAu/NjA4NTE5MjY5Nzc2ODc2/MztzOjU6ImxldmVsIjtp/OjA7fWk6MTtpOjQ7aTow/O2k6OTt9/650bad3030/Item.png"
     },
     {
       "name": "Rotgut",
       "base": "Quicksilver Flask",
       "levelReq": 40,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "(100-150)% increased Charges used",
-            "15% chance to gain a Flask Charge when you deal a Critical Strike",
-            "Gain Onslaught for 1 second per Frenzy Charge on use"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(50-100)% increased Charges used",
-            "15% chance to gain a Flask Charge when you deal a Critical Strike",
-            "Gain Onslaught for 1 second per Frenzy Charge on use"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(50-100)% increased Charges used",
-            "50% increased Duration",
-            "50% chance to gain a Flask Charge when you deal a Critical Strike",
-            "Gain Onslaught for 2 second per Frenzy Charge on use"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "(100-150)% increased Charges used",
+          "15% chance to gain a Flask Charge when you deal a Critical Strike",
+          "Gain Onslaught for 1 second per Frenzy Charge on use"
+        ],
+        "Pre 2.6.0": [
+          "(50-100)% increased Charges used",
+          "15% chance to gain a Flask Charge when you deal a Critical Strike",
+          "Gain Onslaught for 1 second per Frenzy Charge on use"
+        ],
+        "Current": [
+          "(50-100)% increased Charges used",
+          "50% increased Duration",
+          "50% chance to gain a Flask Charge when you deal a Critical Strike",
+          "Gain Onslaught for 2 second per Frenzy Charge on use"
+        ]
+      },
       "mods": [
         "(10-30)% increased Movement Speed during Flask effect",
         "Consumes Frenzy Charges on use"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjE0OiJI/YXJkY29yZSBBYnlzcyI7/czo5OiJhY2NvdW50SWQi/O086MTg6IkdyaW5kYlxE/YXRhYmFzZVxJZCI6MTp7/czoyOiJpZCI7aTowO31z/OjEwOiJzaW1wbGlmaWVk/IjtiOjE7aToyO2E6Mzp7/czoxOiJmIjtzOjI1OiJB/cnQvMkRJdGVtcy9GbGFz/a3MvUm90Z3V0IjtzOjI6/InNwIjtkOjAuNjA4NTE5/MjY5Nzc2ODc2MztzOjU6/ImxldmVsIjtpOjA7fWk6/MTtpOjQ7aTowO2k6OTt9/4fee015035/Item.png"
     },
     {
       "name": "Rumi's Concoction",
       "base": "Granite Flask",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 1.3.0",
-          "mods": [
-            "(30-40)% Chance to Block during Flask effect",
-            "(15-20)% Chance to Block Spells during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 2.5.0",
-          "mods": [
-            "(20-30)% Chance to Block during Flask effect",
-            "(10-15)% Chance to Block Spells during Flask effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(14-20)% Chance to Block during Flask effect",
-            "(6-10)% Chance to Block Spells during Flask effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.3.0": [
+          "(30-40)% Chance to Block during Flask effect",
+          "(15-20)% Chance to Block Spells during Flask effect"
+        ],
+        "Pre 2.5.0": [
+          "(20-30)% Chance to Block during Flask effect",
+          "(10-15)% Chance to Block Spells during Flask effect"
+        ],
+        "Current": [
+          "(14-20)% Chance to Block during Flask effect",
+          "(6-10)% Chance to Block Spells during Flask effect"
+        ]
+      },
       "mods": [],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjg6IlN0/YW5kYXJkIjtzOjk6ImFj/Y291bnRJZCI7TzoxODoi/R3JpbmRiXERhdGFiYXNl/XElkIjoxOntzOjI6Imlk/IjtpOjA7fXM6MTA6InNp/bXBsaWZpZWQiO2I6MTtp/OjI7YTozOntzOjE6ImYi/O3M6Mjk6IkFydC8yREl0/ZW1zL0ZsYXNrcy9CbG9j/a0ZsYXNrIjtzOjI6InNw/IjtkOjAuNjA4NTE5MjY5/Nzc2ODc2MztzOjU6Imxl/dmVsIjtpOjA7fWk6MTtp/OjQ7aTowO2k6OTt9/4cd7b38b7a/Item.png"
     },
     {
       "name": "Sin's Rebirth",
       "base": "Stibnite Flask",
       "levelReq": 14,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Creates a Smoke Cloud on Use",
         "Gain Unholy Might during Flask Effect",
@@ -418,48 +349,41 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjE0OiJI/YXJkY29yZSBBYnlzcyI7/czo5OiJhY2NvdW50SWQi/O086MTg6IkdyaW5kYlxE/YXRhYmFzZVxJZCI6MTp7/czoyOiJpZCI7aTowO31z/OjEwOiJzaW1wbGlmaWVk/IjtiOjE7aToyO2E6Mzp7/czoxOiJmIjtzOjIyOiJB/cnQvMkRJdGVtcy9GbGFz/a3MvU2luIjtzOjI6InNw/IjtkOjAuNjA4NTE5MjY5/Nzc2ODc2MztzOjU6Imxl/dmVsIjtpOjA7fWk6MTtp/OjQ7aTowO2k6OTt9/07ac283b2f/Item.png"
     },
     {
       "name": "Taste of Hate",
       "base": "Sapphire Flask",
       "levelReq": 18,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "30% of Physical Damage taken as Cold Damage during Flask effect",
-            "Gain (20-30)% of Physical Damage as Extra Cold Damage during effect"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "20% of Physical Damage taken as Cold Damage during Flask effect",
-            "Gain (20-30)% of Physical Damage as Extra Cold Damage during effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% of Physical Damage taken as Cold Damage during Flask effect",
-            "Gain (15-20)% of Physical Damage as Extra Cold Damage during effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "30% of Physical Damage taken as Cold Damage during Flask effect",
+          "Gain (20-30)% of Physical Damage as Extra Cold Damage during effect"
+        ],
+        "Pre 3.0.0": [
+          "20% of Physical Damage taken as Cold Damage during Flask effect",
+          "Gain (20-30)% of Physical Damage as Extra Cold Damage during effect"
+        ],
+        "Current": [
+          "20% of Physical Damage taken as Cold Damage during Flask effect",
+          "Gain (15-20)% of Physical Damage as Extra Cold Damage during effect"
+        ]
+      },
       "mods": [
         "30% chance to Avoid being Chilled during Flask effect",
         "30% chance to Avoid being Frozen during Flask effect"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzA6IkFydC8yREl0ZW1z/L0ZsYXNrcy9UYXN0ZU9m/SGF0ZSI7czoyOiJzcCI7/ZDowLjYwODUxOTI2OTc3/Njg3NjM7czo1OiJsZXZl/bCI7aTowO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/28aa26db24/Item.png"
     },
     {
       "name": "The Overflowing Chalice",
       "base": "Sulphur Flask",
       "levelReq": 35,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Creates Consecrated Ground on Use",
         "100% increased Charge Recovery",
@@ -469,13 +393,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mzc6IkFydC8yREl0ZW1z/L0ZsYXNrcy9PdmVyZmxv/d2luZ0NoYWxpY2UiO3M6/Mjoic3AiO2Q6MC42MDg1/MTkyNjk3NzY4NzYzO3M6/NToibGV2ZWwiO2k6MDt9/aToxO2k6NDtpOjA7aTo5/O30,/98eac4b15e/Item.png"
     },
     {
       "name": "The Sorrow of the Divine",
       "base": "Sulphur Flask",
       "levelReq": 35,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Creates Consecrated Ground on Use",
         "(25-50)% increased Duration",
@@ -483,165 +408,125 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzY6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Tb3Jyb3dP/ZlRoZURpdmluZSI7czoy/OiJzcCI7ZDowLjYwODUx/OTI2OTc3Njg3NjM7czo1/OiJsZXZlbCI7aTowO31p/OjE7aTo0O2k6MDtpOjk7/fQ,,/ed686240b8/Item.png"
     },
     {
       "name": "Vessel of Vinktar",
       "base": "Topaz Flask",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.2.0 (Penetration)",
-          "mods": [
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "30% of Lightning Damage Leeched as Life during Flask effect",
-            "30% of Lightning Damage Leeched as Mana during Flask effect",
-            "Leech applies instantly during Flask effect",
-            "Damage Penetrates 10% Lightning Resistance during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 2.2.0 (Spells)",
-          "mods": [
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "30% of Lightning Damage Leeched as Life during Flask effect",
-            "30% of Lightning Damage Leeched as Mana during Flask effect",
-            "Leech applies instantly during Flask effect",
-            "Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 2.2.0 (Attacks)",
-          "mods": [
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "30% of Lightning Damage Leeched as Life during Flask effect",
-            "30% of Lightning Damage Leeched as Mana during Flask effect",
-            "Leech applies instantly during Flask effect",
-            "Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 2.2.0 (Conversion)",
-          "mods": [
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "30% of Lightning Damage Leeched as Life during Flask effect",
-            "30% of Lightning Damage Leeched as Mana during Flask effect",
-            "Leech applies instantly during Flask effect",
-            "20% of Physical Damage Converted to Lightning during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0 (Penetration)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "20% of Lightning Damage Leeched as Mana during Flask effect",
-            "Damage Penetrates 10% Lightning Resistance during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0 (Spells)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "20% of Lightning Damage Leeched as Mana during Flask effect",
-            "Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0 (Attacks)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "20% of Lightning Damage Leeched as Mana during Flask effect",
-            "Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0 (Conversion)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect",
-            "You are Shocked during Flask effect",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "20% of Lightning Damage Leeched as Mana during Flask effect",
-            "20% of Physical Damage Converted to Lightning during Flask effect"
-          ]
-        },
-        {
-          "name": "Current (Penetration)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
-            "You are Shocked during Flask effect, causing 50% increased Damage taken",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "Damage Penetrates 10% Lightning Resistance during Flask effect"
-          ]
-        },
-        {
-          "name": "Current (Spells)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
-            "You are Shocked during Flask effect, causing 50% increased Damage taken",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect"
-          ]
-        },
-        {
-          "name": "Current (Attacks)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
-            "You are Shocked during Flask effect, causing 50% increased Damage taken",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect"
-          ]
-        },
-        {
-          "name": "Current (Conversion)",
-          "mods": [
-            "(80-100)% increased Charges used",
-            "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
-            "You are Shocked during Flask effect, causing 50% increased Damage taken",
-            "20% of Lightning Damage Leeched as Life during Flask effect",
-            "20% of Physical Damage Converted to Lightning during Flask effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0 (Penetration)": [
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "30% of Lightning Damage Leeched as Life during Flask effect",
+          "30% of Lightning Damage Leeched as Mana during Flask effect",
+          "Leech applies instantly during Flask effect",
+          "Damage Penetrates 10% Lightning Resistance during Flask effect"
+        ],
+        "Pre 2.2.0 (Spells)": [
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "30% of Lightning Damage Leeched as Life during Flask effect",
+          "30% of Lightning Damage Leeched as Mana during Flask effect",
+          "Leech applies instantly during Flask effect",
+          "Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect"
+        ],
+        "Pre 2.2.0 (Attacks)": [
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "30% of Lightning Damage Leeched as Life during Flask effect",
+          "30% of Lightning Damage Leeched as Mana during Flask effect",
+          "Leech applies instantly during Flask effect",
+          "Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect"
+        ],
+        "Pre 2.2.0 (Conversion)": [
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "30% of Lightning Damage Leeched as Life during Flask effect",
+          "30% of Lightning Damage Leeched as Mana during Flask effect",
+          "Leech applies instantly during Flask effect",
+          "20% of Physical Damage Converted to Lightning during Flask effect"
+        ],
+        "Pre 3.0.0 (Penetration)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "20% of Lightning Damage Leeched as Mana during Flask effect",
+          "Damage Penetrates 10% Lightning Resistance during Flask effect"
+        ],
+        "Pre 3.0.0 (Spells)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "20% of Lightning Damage Leeched as Mana during Flask effect",
+          "Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect"
+        ],
+        "Pre 3.0.0 (Attacks)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "20% of Lightning Damage Leeched as Mana during Flask effect",
+          "Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect"
+        ],
+        "Pre 3.0.0 (Conversion)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect",
+          "You are Shocked during Flask effect",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "20% of Lightning Damage Leeched as Mana during Flask effect",
+          "20% of Physical Damage Converted to Lightning during Flask effect"
+        ],
+        "Current (Penetration)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
+          "You are Shocked during Flask effect, causing 50% increased Damage taken",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "Damage Penetrates 10% Lightning Resistance during Flask effect"
+        ],
+        "Current (Spells)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
+          "You are Shocked during Flask effect, causing 50% increased Damage taken",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "Adds (15-25) to (70-90) Lightning Damage to Spells during Flask effect"
+        ],
+        "Current (Attacks)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
+          "You are Shocked during Flask effect, causing 50% increased Damage taken",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "Adds (25-35) to (110-130) Lightning Damage to Attacks during Flask effect"
+        ],
+        "Current (Conversion)": [
+          "(80-100)% increased Charges used",
+          "Shocks nearby Enemies during Flask effect, causing 10% increased Damage taken",
+          "You are Shocked during Flask effect, causing 50% increased Damage taken",
+          "20% of Lightning Damage Leeched as Life during Flask effect",
+          "20% of Physical Damage Converted to Lightning during Flask effect"
+        ]
+      },
       "mods": [],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzE6IkFydC8yREl0ZW1z/L0ZsYXNrcy9WaW5rdGFy/Rmxhc2siO3M6Mjoic3Ai/O2Q6MC42MDg1MTkyNjk3/NzY4NzYzO3M6NToibGV2/ZWwiO2k6MDt9aToxO2k6/NDtpOjA7aTo5O30,/995730348c/Item.png"
     },
     {
       "name": "The Wise Oak",
       "base": "Bismuth Flask",
       "levelReq": 8,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "During Flask Effect, Damage Penetrates 20% Resistance of each Element for which your"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "During Flask Effect, Damage Penetrates (10-15)% Resistance of each Element for which your "
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "During Flask Effect, Damage Penetrates 20% Resistance of each Element for which your"
+        ],
+        "Current": [
+          "During Flask Effect, Damage Penetrates (10-15)% Resistance of each Element for which your "
+        ]
+      },
       "mods": [
         "During Flask Effect, 10% reduced Damage taken of each Element for which your Uncapped",
         "Elemental Resistance is lowest",
@@ -650,26 +535,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mjk6IkFydC8yREl0ZW1z/L0ZsYXNrcy9UaGVXaXNl/T2FrIjtzOjI6InNwIjtk/OjAuNjA4NTE5MjY5Nzc2/ODc2MztzOjU6ImxldmVs/IjtpOjA7fWk6MTtpOjQ7/aTowO2k6OTt9/7d63c23c51/Item.png"
     },
     {
       "name": "Witchfire Brew",
       "base": "Stibnite Flask",
       "levelReq": 48,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(50-70)% increased Damage Over Time during Flask Effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(25-40)% increased Damage Over Time during Flask Effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "(50-70)% increased Damage Over Time during Flask Effect"
+        ],
+        "Current": [
+          "(25-40)% increased Damage Over Time during Flask Effect"
+        ]
+      },
       "mods": [
         "Creates a Smoke Cloud on Use",
         "50% increased Charges used",
@@ -677,7 +557,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzI6IkFydC8yREl0ZW1z/L0ZsYXNrcy9XaXRjaEZp/cmVCcmV3IjtzOjI6InNw/IjtkOjAuNjA4NTE5MjY5/Nzc2ODc2MztzOjU6Imxl/dmVsIjtpOjA7fWk6MTtp/OjQ7aTowO2k6OTt9/e269fc39de/Item.png"
     }
   ]
 }

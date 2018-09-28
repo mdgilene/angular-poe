@@ -4,20 +4,14 @@
       "name": "Advancing Fortress",
       "base": "Gut Ripper",
       "levelReq": 46,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+21 Life gained for each Enemy hit by Attacks"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+44 Life gained for each Enemy hit by Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+21 Life gained for each Enemy hit by Attacks"
+        ],
+        "Current": [
+          "+44 Life gained for each Enemy hit by Attacks"
+        ]
+      },
       "mods": [
         "Socketed Gems are Supported by level 12 Fortify",
         "(100-120)% increased Physical Damage",
@@ -29,43 +23,32 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Clawshield3.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Al Dhih",
       "base": "Timeworn Claw",
       "levelReq": 26,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "+8 Life gained for each Enemy hit by Attacks",
-            "(60-80)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "2% of Physical Attack Damage Leeched as Life",
-            "(100-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+19 Life gained for each Enemy hit by Attacks",
-            "(100-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+19 Life gained for each Enemy hit by Attacks",
-            "(100-120)% increased Physical Damage",
-            "Trigger Level 1 Abyssal Cry on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "+8 Life gained for each Enemy hit by Attacks",
+          "(60-80)% increased Physical Damage"
+        ],
+        "Pre 2.6.0": [
+          "2% of Physical Attack Damage Leeched as Life",
+          "(100-120)% increased Physical Damage"
+        ],
+        "Pre 3.0.0": [
+          "+19 Life gained for each Enemy hit by Attacks",
+          "(100-120)% increased Physical Damage"
+        ],
+        "Current": [
+          "+19 Life gained for each Enemy hit by Attacks",
+          "(100-120)% increased Physical Damage",
+          "Trigger Level 1 Abyssal Cry on Hit"
+        ]
+      },
       "mods": [
         "3% of Physical Attack Damage Leeched as Life",
         "10% reduced Enemy Stun Threshold with this Weapon",
@@ -73,28 +56,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Aldhih.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Allure",
       "base": "Vaal Claw",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(80-100)% increased Physical Damage",
-            "You gain Phasing for 3 seconds on using a Vaal Skill"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(110�130)% increased Physical Damage",
-            "You gain Phasing for 10 seconds on using a Vaal Skill"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "(80-100)% increased Physical Damage",
+          "You gain Phasing for 3 seconds on using a Vaal Skill"
+        ],
+        "Current": [
+          "(110-130)% increased Physical Damage",
+          "You gain Phasing for 10 seconds on using a Vaal Skill"
+        ]
+      },
       "mods": [
         "2% of Physical Attack Damage Leeched as Life",
         "Adds (15-20) to (30-40) Physical Damage",
@@ -103,28 +81,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Allure.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Bloodseeker",
       "base": "Hellion's Paw",
       "levelReq": 62,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(100-120)% increased Physical Damage",
-            "Life Leech from Hits with this Weapon applies instantly"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(150�170)% increased Physical Damage",
-            "Gain Life from Leech instantly from Hits with this Weapon"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "(100-120)% increased Physical Damage",
+          "Life Leech from Hits with this Weapon applies instantly"
+        ],
+        "Current": [
+          "(150-170)% increased Physical Damage",
+          "Gain Life from Leech instantly from Hits with this Weapon"
+        ]
+      },
       "mods": [
         "1.6% of Physical Attack Damage Leeched as Life",
         "Adds 10 to 12 Physical Damage",
@@ -134,35 +107,27 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Bloodseeker.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Cybil's Paw",
       "base": "Thresher Claw",
       "levelReq": 37,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "+15 Life gained for each Enemy hit by Attacks",
-            "6% increased Spell Damage per 5% Block Chance"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+21 Life gained for each Enemy hit by Attacks",
-            "8% increased Spell Damage per 5% Block Chance"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+25 Life gained for each Enemy hit by Attacks",
-            "8% increased Spell Damage per 5% Block Chance"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "+15 Life gained for each Enemy hit by Attacks",
+          "6% increased Spell Damage per 5% Block Chance"
+        ],
+        "Pre 2.6.0": [
+          "+21 Life gained for each Enemy hit by Attacks",
+          "8% increased Spell Damage per 5% Block Chance"
+        ],
+        "Current": [
+          "+25 Life gained for each Enemy hit by Attacks",
+          "8% increased Spell Damage per 5% Block Chance"
+        ]
+      },
       "mods": [
         "(8-12)% increased Cast Speed",
         "+(30-40) to maximum Mana",
@@ -170,41 +135,33 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/CybilsClaw.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Essentia Sanguis",
       "base": "Eye Gouger",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 1.3.0",
-          "mods": [
-            "0.6% of Physical Attack Damage Leeched as Life",
-            "10% additional Chance to Block while Dual Wielding Claws",
-            "(80-120)% increased Physical Damage",
-            "Adds 1 to 50 Lightning Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "0.6% of Physical Attack Damage Leeched as Life",
-            "8% additional Chance to Block while Dual Wielding Claws",
-            "(140-180)% increased Physical Damage",
-            "Adds 1 to 80 Lightning Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+31 Life gained for each Enemy hit by Attacks",
-            "8% additional Chance to Block while Dual Wielding Claws",
-            "(140-180)% increased Physical Damage",
-            "Adds 1 to 80 Lightning Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.3.0": [
+          "0.6% of Physical Attack Damage Leeched as Life",
+          "10% additional Chance to Block while Dual Wielding Claws",
+          "(80-120)% increased Physical Damage",
+          "Adds 1 to 50 Lightning Damage"
+        ],
+        "Pre 2.0.0": [
+          "0.6% of Physical Attack Damage Leeched as Life",
+          "8% additional Chance to Block while Dual Wielding Claws",
+          "(140-180)% increased Physical Damage",
+          "Adds 1 to 80 Lightning Damage"
+        ],
+        "Pre 2.6.0": [
+          "+31 Life gained for each Enemy hit by Attacks",
+          "8% additional Chance to Block while Dual Wielding Claws",
+          "(140-180)% increased Physical Damage",
+          "Adds 1 to 80 Lightning Damage"
+        ]
+      },
       "mods": [
         "(20-30)% increased Attack Speed",
         "+(30-40) to maximum Energy Shield",
@@ -212,26 +169,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5Unique2.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Essentia Sanguis",
       "base": "Vaal Claw",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Ghost Reaver"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Life Leech is applied to Energy Shield instead"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Ghost Reaver"
+        ],
+        "Current": [
+          "Life Leech is applied to Energy Shield instead"
+        ]
+      },
       "mods": [
         "2% of Physical Attack Damage Leeched as Life",
         "8% additional Chance to Block while Dual Wielding Claws",
@@ -242,76 +194,60 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5Unique2.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Hand of Thought and Motion",
       "base": "Blinder",
       "levelReq": 22,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+10 Life gained for each Enemy hit by Attacks",
-            "(20-25)% increased Elemental Damage with Weapons",
-            "Adds 1 to 3 Lightning Damage to Attacks per 10 Intelligence"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+12 Life gained for each Enemy hit by Attacks",
-            "(20-25)% increased Elemental Damage with Weapons",
-            "Adds 1 to 3 Lightning Damage to Attacks per 10 Intelligence"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+12 Life gained for each Enemy hit by Attacks",
-            "(20-25)% increased Elemental Damage with Attack Skills",
-            "Adds 1 to 5 Lightning Damage to Attacks with this Weapon per 10 Intelligence"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+10 Life gained for each Enemy hit by Attacks",
+          "(20-25)% increased Elemental Damage with Weapons",
+          "Adds 1 to 3 Lightning Damage to Attacks per 10 Intelligence"
+        ],
+        "Pre 3.0.0": [
+          "+12 Life gained for each Enemy hit by Attacks",
+          "(20-25)% increased Elemental Damage with Weapons",
+          "Adds 1 to 3 Lightning Damage to Attacks per 10 Intelligence"
+        ],
+        "Current": [
+          "+12 Life gained for each Enemy hit by Attacks",
+          "(20-25)% increased Elemental Damage with Attack Skills",
+          "Adds 1 to 5 Lightning Damage to Attacks with this Weapon per 10 Intelligence"
+        ]
+      },
       "mods": [
         "Adds 1 to (50-60) Lightning Damage",
         "(10-15)% increased Attack Speed"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion1.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
     },
     {
       "name": "Hand of Wisdom and Action",
       "base": "Imperial Claw",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+25 Life gained for each Enemy hit by Attacks",
-            "(25-30)% increased Elemental Damage with Weapons",
-            "Adds 1 to 6 Lightning Damage to Attacks per 10 Intelligence"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+46 Life gained for each Enemy hit by Attacks",
-            "(25-30)% increased Elemental Damage with Weapons",
-            "Adds 1 to 6 Lightning Damage to Attacks per 10 Intelligence"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+46 Life gained for each Enemy hit by Attacks",
-            "(25-30)% increased Elemental Damage with Attack Skills",
-            "Adds 1 to 10 Lightning Damage to Attacks with this Weapon per 10 Intelligence"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+25 Life gained for each Enemy hit by Attacks",
+          "(25-30)% increased Elemental Damage with Weapons",
+          "Adds 1 to 6 Lightning Damage to Attacks per 10 Intelligence"
+        ],
+        "Pre 3.0.0": [
+          "+46 Life gained for each Enemy hit by Attacks",
+          "(25-30)% increased Elemental Damage with Weapons",
+          "Adds 1 to 6 Lightning Damage to Attacks per 10 Intelligence"
+        ],
+        "Current": [
+          "+46 Life gained for each Enemy hit by Attacks",
+          "(25-30)% increased Elemental Damage with Attack Skills",
+          "Adds 1 to 10 Lightning Damage to Attacks with this Weapon per 10 Intelligence"
+        ]
+      },
       "mods": [
         "(8-12)% increased Dexterity",
         "(8-12)% increased Intelligence",
@@ -319,26 +255,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
     },
     {
       "name": "Izaro's Dilemma",
       "base": "Imperial Claw",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+25 Life gained for each Enemy hit by Attacks"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+46 Life gained for each Enemy hit by Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+25 Life gained for each Enemy hit by Attacks"
+        ],
+        "Current": [
+          "+46 Life gained for each Enemy hit by Attacks"
+        ]
+      },
       "mods": [
         "(40-60)% increased Physical Damage",
         "Adds 20 to 50 Physical Damage",
@@ -348,13 +279,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Edgeoftheempire.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Last Resort",
       "base": "Nailed Fist",
       "levelReq": 1,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+3 Life gained for each Enemy hit by your Attacks",
         "25% increased Attack Speed when on Low Life",
@@ -365,46 +297,35 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/NerasLastResort.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Mortem Morsu",
       "base": "Fright Claw",
       "levelReq": 34,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "2% of Physical Attack Damage Leeched as Life",
-            "+25% to Global Critical Strike Multiplier",
-            "Poisonous Hit"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "2% of Physical Attack Damage Leeched as Life",
-            "+40% to Global Critical Strike Multiplier",
-            "Poisonous Hit"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+20 Life gained for each Enemy hit by Attacks",
-            "+40% to Global Critical Strike Multiplier",
-            "Poisonous Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+20 Life gained for each Enemy hit by Attacks",
-            "+40% to Global Critical Strike Multiplier",
-            "60% chance to Poison on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "2% of Physical Attack Damage Leeched as Life",
+          "+25% to Global Critical Strike Multiplier",
+          "Poisonous Hit"
+        ],
+        "Pre 2.6.0": [
+          "2% of Physical Attack Damage Leeched as Life",
+          "+40% to Global Critical Strike Multiplier",
+          "Poisonous Hit"
+        ],
+        "Pre 3.0.0": [
+          "+20 Life gained for each Enemy hit by Attacks",
+          "+40% to Global Critical Strike Multiplier",
+          "Poisonous Hit"
+        ],
+        "Current": [
+          "+20 Life gained for each Enemy hit by Attacks",
+          "+40% to Global Critical Strike Multiplier",
+          "60% chance to Poison on Hit"
+        ]
+      },
       "mods": [
         "(75-100)% increased Physical Damage",
         "20% increased Attack Speed",
@@ -414,36 +335,28 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8unique.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Ornament of the East",
       "base": "Gut Ripper",
       "levelReq": 46,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+21 Life gained for each Enemy hit by Attacks",
-            "(100-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+44 Life gained for each Enemy hit by Attacks",
-            "(100-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+44 Life gained for each Enemy hit by Attacks",
-            "Socketed Gems are Supported by level 10 Faster Attacks",
-            "(160�180)% increased Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+21 Life gained for each Enemy hit by Attacks",
+          "(100-120)% increased Physical Damage"
+        ],
+        "Pre 3.0.0": [
+          "+44 Life gained for each Enemy hit by Attacks",
+          "(100-120)% increased Physical Damage"
+        ],
+        "Current": [
+          "+44 Life gained for each Enemy hit by Attacks",
+          "Socketed Gems are Supported by level 10 Faster Attacks",
+          "(160-180)% increased Physical Damage"
+        ]
+      },
       "mods": [
         "+1 to Level of Socketed Dexterity Gems",
         "(10-15)% increased Attack Speed",
@@ -452,26 +365,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/OrnamentOfTheEast.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Rive",
       "base": "Terror Claw",
       "levelReq": 70,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Causes Bleeding on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "25% chance to cause Bleeding on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Causes Bleeding on Hit"
+        ],
+        "Current": [
+          "25% chance to cause Bleeding on Hit"
+        ]
+      },
       "mods": [
         "2% of Physical Attack Damage Leeched as Life",
         "(60-80)% increased Physical Damage",
@@ -482,13 +390,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/BleedClaw.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "The Scourge",
       "base": "Terror Claw",
       "levelReq": 70,
-      "variants": [],
+      "variants": {},
       "mods": [
         "2% of Physical Attack Damage Leeched as Life",
         "Adds (35-50) to (100-125) Physical Damage",
@@ -500,26 +409,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/TheScourge.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Touch of Anguish",
       "base": "Imperial Claw",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+25 Life gained for each Enemy hit by Attacks"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+46 Life gained for each Enemy hit by Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+25 Life gained for each Enemy hit by Attacks"
+        ],
+        "Current": [
+          "+46 Life gained for each Enemy hit by Attacks"
+        ]
+      },
       "mods": [
         "Adds (40-50) to (130-150) Physical Damage",
         "30% increased Cold Damage",
@@ -531,13 +435,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/TouchOfAnguish.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "The Wasp Nest",
       "base": "Throat Stabber",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+40 Life gained for each Enemy hit by Attacks",
         "(150-170)% increased Physical Damage",
@@ -550,26 +455,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Leviathanivory.png?scale=1&scaleIndex=0&w=2&h=2"
     },
     {
       "name": "Wildslash",
       "base": "Awl",
       "levelReq": 12,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+5 Life gained for each Enemy hit by Attacks"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+7 Life gained for each Enemy hit by Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+5 Life gained for each Enemy hit by Attacks"
+        ],
+        "Current": [
+          "+7 Life gained for each Enemy hit by Attacks"
+        ]
+      },
       "mods": [
         "+(10-15) to Strength",
         "+(10-15) to Dexterity",
@@ -583,7 +483,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Wildslash.png?scale=1&scaleIndex=0&w=2&h=2"
     }
   ]
 }

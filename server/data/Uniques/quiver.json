@@ -4,22 +4,16 @@
       "name": "Asphyxia's Wrath",
       "base": "Two-Point Arrow Quiver",
       "levelReq": 10,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "20% of Physical Damage Converted to Cold Damage",
-            "40% reduced Area of Effect of Curse Skills"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Grants level 5 Frostbite Skill",
-            "Gain 20% of Physical Damage as Extra Cold Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "20% of Physical Damage Converted to Cold Damage",
+          "40% reduced Area of Effect of Curse Skills"
+        ],
+        "Current": [
+          "Grants level 5 Frostbite Skill",
+          "Gain 20% of Physical Damage as Extra Cold Damage"
+        ]
+      },
       "mods": [
         "(20-30)% increased Accuracy Rating",
         "(8-12)% increased Attack Speed",
@@ -30,26 +24,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/AsphyxiasWrath.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Blackgleam",
       "base": "Fire Arrow Quiver",
       "levelReq": 22,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(30-50)% of Physical Damage Converted to Fire Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "50% of Physical Damage Converted to Fire Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(30-50)% of Physical Damage Converted to Fire Damage"
+        ],
+        "Current": [
+          "50% of Physical Damage Converted to Fire Damage"
+        ]
+      },
       "mods": [
         "Adds 4 to 8 Fire Damage to Attacks with Bows",
         "10% increased Attack Speed",
@@ -59,13 +48,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique1.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "The Signal Fire",
       "base": "Fire Arrow Quiver",
       "levelReq": 24,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 4 to 8 Fire Damage to Attacks with Bows",
         "10% increased Attack Speed",
@@ -77,13 +67,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique1.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Craghead",
       "base": "Serrated Arrow Quiver",
       "levelReq": 5,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 1 to 4 Physical Damage to Attacks with Bows",
         "(20-25)% reduced Enemy Stun Threshold",
@@ -93,13 +84,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique4.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Cragfall",
       "base": "Serrated Arrow Quiver",
       "levelReq": 5,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 1 to 4 Physical Damage to Attacks with Bows",
         "(20-25)% reduced Enemy Stun Threshold",
@@ -110,28 +102,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique4.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Drillneck",
       "base": "Penetrating Arrow Quiver",
       "levelReq": 36,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "10% chance of Arrows Piercing",
-            "Projectile Damage increased by 50% of Arrow Pierce Chance"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Arrows Pierce an additional Target",
-            "Arrows deal 50% increased Damage with Hits and Ailments to Targets they Pierce"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "10% chance of Arrows Piercing",
+          "Projectile Damage increased by 50% of Arrow Pierce Chance"
+        ],
+        "Current": [
+          "Arrows Pierce an additional Target",
+          "Arrows deal 50% increased Damage with Hits and Ailments to Targets they Pierce"
+        ]
+      },
       "mods": [
         "(8-12)% increased Attack Speed",
         "+350 to Evasion Rating",
@@ -140,13 +127,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Drillneck.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "The Fracturing Spinner",
       "base": "Blunt Arrow Quiver",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(25-35)% increased Stun Duration on Enemies",
         "Grants Summon Harbinger of Directions Skill",
@@ -157,24 +145,19 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HarbingerQuiver.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
     },
     {
       "name": "Hyrri's Bite",
       "base": "Sharktooth Arrow Quiver",
       "levelReq": 10,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds 10 to 20 Cold Damage to Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [],
+        "Current": [
+          "Adds 10 to 20 Cold Damage to Attacks"
+        ]
+      },
       "mods": [
         "+(3-4) Life gained for each Enemy hit by your Attacks",
         "+(15-25) to Strength",
@@ -186,13 +169,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HryyisBite.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Hyrri's Demise",
       "base": "Sharktooth Arrow Quiver",
       "levelReq": 45,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(3-4) Life gained for each Enemy hit by your Attacks",
         "+(15–30) to all Attributes",
@@ -205,41 +189,33 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HryyisBite.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Maloney's Nightfall",
       "base": "Blunt Arrow Quiver",
       "levelReq": 55,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(8-10)% increased Attack Speed",
-            "Adds (5-7) to (8-10) Physical Damage to Attacks with Bows",
-            "10% chance to create a Smoke Cloud when Hit",
-            "(20-40)% increased Damage against Blinded Enemies"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "10% increased Attack Speed",
-            "Adds (8-10) to (14-16) Physical Damage to Attacks with Bows",
-            "25% chance to create a Smoke Cloud when Hit",
-            "(40-60)% increased Damage against Blinded Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "10% increased Attack Speed",
-            "Adds (8-10) to (14-16) Physical Damage to Attacks with Bows",
-            "25% chance to create a Smoke Cloud when Hit",
-            "(40-60)% increased Damage with Hits and Ailments against Blinded Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(8-10)% increased Attack Speed",
+          "Adds (5-7) to (8-10) Physical Damage to Attacks with Bows",
+          "10% chance to create a Smoke Cloud when Hit",
+          "(20-40)% increased Damage against Blinded Enemies"
+        ],
+        "Pre 3.0.0": [
+          "10% increased Attack Speed",
+          "Adds (8-10) to (14-16) Physical Damage to Attacks with Bows",
+          "25% chance to create a Smoke Cloud when Hit",
+          "(40-60)% increased Damage against Blinded Enemies"
+        ],
+        "Current": [
+          "10% increased Attack Speed",
+          "Adds (8-10) to (14-16) Physical Damage to Attacks with Bows",
+          "25% chance to create a Smoke Cloud when Hit",
+          "(40-60)% increased Damage with Hits and Ailments against Blinded Enemies"
+        ]
+      },
       "mods": [
         "(25-35)% increased Stun Duration on Enemies",
         "+(50-70) to maximum Life",
@@ -247,13 +223,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/MaloneysNightfall.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Rearguard",
       "base": "Broadhead Arrow Quiver",
       "levelReq": 28,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 6 to 12 Physical Damage to Attacks with Bows",
         "+(400-450) to Armour",
@@ -265,13 +242,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Rearguard.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Rigwald's Quills",
       "base": "Two-Point Arrow Quiver",
       "levelReq": 56,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(20-30)% increased Accuracy Rating",
         "−10% to Fire Resistance",
@@ -283,13 +261,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/RigwaldsQuills.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
     },
     {
       "name": "Saemus' Gift",
       "base": "Spike-Point Arrow Quiver",
       "levelReq": 45,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(20-30)% increased Global Critical Strike Chance",
         "+(30-40) to Dexterity",
@@ -301,13 +280,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/SeamusGift.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Skirmish",
       "base": "Two-Point Arrow Quiver",
       "levelReq": 19,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(20-30)% increased Accuracy Rating",
         "+(15-25) to Intelligence",
@@ -318,26 +298,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/TheSkirmish.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Soul Strike",
       "base": "Spike-Point Arrow Quiver",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 2.5.0",
-          "mods": [
-            "150% faster start of Energy Shield Recharge"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "80% faster start of Energy Shield Recharge"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.5.0": [
+          "150% faster start of Energy Shield Recharge"
+        ],
+        "Current": [
+          "80% faster start of Energy Shield Recharge"
+        ]
+      },
       "mods": [
         "(20-30)% increased Global Critical Strike Chance",
         "+30 to Dexterity",
@@ -348,13 +323,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Soulstrike.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Voidfletcher",
       "base": "Penetrating Arrow Quiver",
       "levelReq": 68,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Arrows Pierce an additional Target",
         "Consumes a Void Charge to Trigger Level 20 Void Shot when you fire Arrows",
@@ -368,7 +344,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": true
+      "elder": true,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/EldarQuiver.png?scale=1&scaleIndex=0&w=2&h=3"
     }
   ]
 }
