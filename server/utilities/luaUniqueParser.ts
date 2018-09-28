@@ -1,27 +1,58 @@
 import fs from "fs";
 import path from "path";
+import axios from "axios";
 
 interface Item {
   name?: string;
   base?: string;
   levelReq?: number;
-  variants?: ItemVariant[];
+  variants?: ItemVariants;
   mods?: string[];
   corrupted?: boolean;
   shaper?: boolean;
   elder?: boolean;
+  icon?: string;
 }
 
-interface ItemVariant {
-  name: string;
-  mods: string[];
+interface ItemVariants {
+  [key: string]: string[];
 }
 
-const files = fs.readdirSync(path.join(__dirname, "../data/Uniques"));
-for (let file of files) {
-  parseItems(path.join(__dirname, "../data/Uniques/" + file));
-  console.log(file + "parsed");
-}
+const NinjaData: any[] = [];
+
+const CURRENT_LEAGUE = "Delve";
+
+Promise.all([
+  axios.get(
+    `http://poe.ninja/api/Data/GetUniqueArmourOverview?league=${CURRENT_LEAGUE}`
+  ),
+  axios.get(
+    `http://poe.ninja/api/Data/GetUniqueWeaponOverview?league=${CURRENT_LEAGUE}`
+  ),
+  axios.get(
+    `http://poe.ninja/api/Data/GetUniqueFlaskOverview?league=${CURRENT_LEAGUE}`
+  ),
+  axios.get(
+    `http://poe.ninja/api/Data/GetUniqueAccessoryOverview?league=${CURRENT_LEAGUE}`
+  ),
+  axios.get(
+    `http://poe.ninja/api/Data/GetUniqueJewelOverview?league=${CURRENT_LEAGUE}`
+  )
+])
+  .then(responses => {
+    for (let res of responses) {
+      NinjaData.push(...res.data.lines);
+    }
+  })
+  .then(() => {
+    const files = fs.readdirSync(path.join(__dirname, "../data/Uniques"));
+    for (let file of files) {
+      if (file.match(/.lua$/)) {
+        parseItems(path.join(__dirname, "../data/Uniques/" + file));
+        //console.log(file, "parsed");
+      }
+    }
+  });
 
 function parseItems(fileName: string) {
   const items = {};
@@ -45,6 +76,7 @@ function parseItems(fileName: string) {
         const lines = itemRaw
           .replace(/\]\],\[\[|\[\[|\]\],?/g, "")
           .replace("–", "-") // Fixes weird character encoding issue
+          .replace(/[��]/g, "-")
           .trim()
           .split(/\r\n/);
         items[type].push(createItem(lines));
@@ -61,14 +93,41 @@ function parseItems(fileName: string) {
 function createItem(lines) {
   const item: Item = {};
 
-  item.name = lines[0];
-  item.base = lines[1];
+  item.name = lines[0].trim();
+  item.base = lines[1].trim();
   item.levelReq = getLevelReq(lines);
   item.variants = getVariants(lines);
   item.mods = getMods(lines);
   item.corrupted = isCorrupted(lines);
   item.shaper = isShaper(lines);
   item.elder = isElder(lines);
+
+  const filteredItems = NinjaData.filter(
+    ninjaItem => ninjaItem.name === item.name
+  );
+
+  try {
+    item.icon = filteredItems[0].icon;
+  } catch (e) {
+    if (item.name === "Skin of the Lords")
+      item.icon =
+        "http://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGraspGrand.png?scale=1&scaleIndex=0&w=2&h=3";
+    if (item.name === "Malachai's Vision")
+      item.icon =
+        "http://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisVision.png?scale=1&scaleIndex=0&w=2&h=2";
+    if (item.name === "Army of Bones")
+      item.icon =
+        "http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1";
+    if (item.name === "The Blue Nightmare")
+      item.icon =
+        "http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1";
+    if (item.name === "The Green Nightmare")
+      item.icon =
+        "http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1";
+    if (item.name === "The Goddess Unleashed")
+      item.icon =
+        "http://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3";
+  }
 
   return item;
 }
@@ -85,17 +144,14 @@ function getLevelReq(raw: string[]): number {
   return levelReq;
 }
 
-function getVariants(raw: string[]): ItemVariant[] {
-  const variants: ItemVariant[] = [];
+function getVariants(raw: string[]): ItemVariants {
+  const variants: ItemVariants = {};
 
   // Get Variant Names
   for (let line of raw) {
     if (line.match(/Variant:.*/g)) {
       const name = line.replace(/Variant: (\{2_6\})?/g, "");
-      variants.push({
-        name,
-        mods: []
-      });
+      variants[name] = [];
     }
   }
 
@@ -105,8 +161,9 @@ function getVariants(raw: string[]): ItemVariant[] {
     if (varSpecs) {
       const varIds = varSpecs[0].match(/[0-9]+/g) || [];
       for (let varId of varIds) {
+        const name = Object.keys(variants)[parseInt(varId) - 1];
         const mod = line.replace(/{variant:([0-9,]+)}/g, "");
-        variants[parseInt(varId) - 1].mods.push(mod);
+        variants[name].push(mod);
       }
     }
   }

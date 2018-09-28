@@ -4,22 +4,16 @@
       "name": "Agnerod East",
       "base": "Imperial Staff",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block",
-            "+1 to Level of Socketed Lightning Gems"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block",
-            "+2 to Level of Socketed Lightning Gems"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block",
+          "+1 to Level of Socketed Lightning Gems"
+        ],
+        "Current": [
+          "18% Chance to Block",
+          "+2 to Level of Socketed Lightning Gems"
+        ]
+      },
       "mods": [
         "+(80-120) to Intelligence",
         "(30-50)% increased Lightning Damage",
@@ -29,28 +23,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Agnerod North",
       "base": "Imperial Staff",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block",
-            "+1 to Level of Socketed Lightning Gems"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block",
-            "+2 to Level of Socketed Lightning Gems"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block",
+          "+1 to Level of Socketed Lightning Gems"
+        ],
+        "Current": [
+          "18% Chance to Block",
+          "+2 to Level of Socketed Lightning Gems"
+        ]
+      },
       "mods": [
         "+(80-120) to Intelligence",
         "(30-50)% increased Lightning Damage",
@@ -60,28 +49,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Agnerod South",
       "base": "Imperial Staff",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block",
-            "+1 to Level of Socketed Lightning Gems"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block",
-            "+2 to Level of Socketed Lightning Gems"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block",
+          "+1 to Level of Socketed Lightning Gems"
+        ],
+        "Current": [
+          "18% Chance to Block",
+          "+2 to Level of Socketed Lightning Gems"
+        ]
+      },
       "mods": [
         "+(80-120) to Intelligence",
         "(30-50)% increased Lightning Damage",
@@ -91,28 +75,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Agnerod West",
       "base": "Imperial Staff",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block",
-            "+1 to Level of Socketed Lightning Gems"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block",
-            "+2 to Level of Socketed Lightning Gems"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block",
+          "+1 to Level of Socketed Lightning Gems"
+        ],
+        "Current": [
+          "18% Chance to Block",
+          "+2 to Level of Socketed Lightning Gems"
+        ]
+      },
       "mods": [
         "+(80-120) to Intelligence",
         "(30-50)% increased Lightning Damage",
@@ -122,26 +101,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Blood Thorn",
       "base": "Gnarled Branch",
       "levelReq": 1,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "12% Chance to Block",
         "100% increased Physical Damage",
@@ -151,36 +125,38 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/TheBloodThorn.png?scale=1&scaleIndex=0&w=1&h=4"
     },
     {
       "name": "Cane of Unravelling",
       "base": "Ezomyte Staff",
       "levelReq": null,
-      "variants": [],
+      "variants": {},
       "mods": [
         "18% Chance to Block ",
         "+2 to Level of Socketed Chaos Gems",
-        "(60�80)% increased Chaos Damage",
+        "(60-80)% increased Chaos Damage",
         "2% increased Cast Speed per Power Charge",
         "Gain a Power Charge after spending a total of 200 Mana",
         "2 Mana Regenerated per Second per Power Charge"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/CaneOfUnravelling.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Disintegrator",
       "base": "Maelstrom Staff",
       "levelReq": 64,
-      "variants": [],
+      "variants": {},
       "mods": [
         "20% Chance to Block",
-        "Adds (270�300) to (340�380) Physical Damage",
-        "Adds (376�400) to (568�600) Physical Damage to Spells",
+        "Adds (270-300) to (340-380) Physical Damage",
+        "Adds (376-400) to (568-600) Physical Damage to Spells",
         "25% chance to gain a Siphoning Charge when you use a Skill",
-        "Adds (12�14) to (15�16) Physical Damage to Attacks and Spells per Siphoning Charge",
+        "Adds (12-14) to (15-16) Physical Damage to Attacks and Spells per Siphoning Charge",
         "Gain 4% of Non-Chaos Damage as extra Chaos Damage per Siphoning Charge",
         "1% additional Physical Damage Reduction from Hits per Siphoning Charge",
         "0.2% of Damage Leeched as Life per Siphoning Charge",
@@ -188,26 +164,21 @@
       ],
       "corrupted": false,
       "shaper": true,
-      "elder": true
+      "elder": true,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/ElderStaff.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Duskdawn",
-      "base": "Maelstr�m Staff",
+      "base": "Maelstr-m Staff",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "18% Chance to Block"
+        ],
+        "Current": [
+          "20% Chance to Block"
+        ]
+      },
       "mods": [
         "4% Chance to Block",
         "(60-80)% increased Critical Strike Chance for Spells",
@@ -218,26 +189,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/SolarisLunarisStaff.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Dying Breath",
       "base": "Coiled Staff",
       "levelReq": 23,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "18% Chance to Block"
+        ],
+        "Current": [
+          "20% Chance to Block"
+        ]
+      },
       "mods": [
         "18% increased Cast Speed",
         "18% increased maximum Mana",
@@ -249,13 +215,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/DyingBreath.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Enmity Divine",
       "base": "Imperial Staff",
       "levelReq": 66,
-      "variants": [],
+      "variants": {},
       "mods": [
         "18% Chance to Block",
         "Socketed Gems are supported by level 10 Life Leech",
@@ -266,26 +233,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Rage Staff.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
     },
     {
       "name": "Femurs of the Saints",
       "base": "Primordial Staff",
       "levelReq": 58,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "+2 to Level of Socketed Minion Gems",
         "Minions Regenerate (1.5-2.5)% Life per Second",
@@ -295,26 +257,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/FemursoftheSaints.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Fencoil",
       "base": "Gnarled Branch",
       "levelReq": 1,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "Socketed Gems are Supported by level 8 Trap",
         "(40-50)% increased Damage",
@@ -323,44 +280,40 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff1unique.png?scale=1&scaleIndex=0&w=1&h=4"
     },
     {
       "name": "Mirebough",
       "base": "Gnarled Branch",
       "levelReq": 32,
-      "variants": [],
+      "variants": {},
       "mods": [
         "18% Chance to Block",
         "Socketed Gems are Supported by Level 16 Trap",
         "Socketed Gems are Supported by Level 16 Cluster Trap",
         "Socketed Gems are Supported by Level 16 Trap and Mine Damage",
-        "(10�20)% increased maximum Mana",
-        "(10�20)% increased maximum Life",
-        "(40�50)% increased Damage"
+        "(10-20)% increased maximum Mana",
+        "(10-20)% increased maximum Life",
+        "(40-50)% increased Damage"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff1unique.png?scale=1&scaleIndex=0&w=1&h=4"
     },
     {
       "name": "Hegemony's Era",
       "base": "Judgement Staff",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "6% Chance to Block",
         "Adds (180-190) to (190-220) Physical Damage",
@@ -371,13 +324,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HegemonysEra.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Martyr of Innocence",
       "base": "Highborn Staff",
       "levelReq": 52,
-      "variants": [],
+      "variants": {},
       "mods": [
         "18% Chance to Block",
         "(12-16)% Chance to Block",
@@ -390,26 +344,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/MartyrInnocence.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Pillar of the Caged God",
       "base": "Long Staff",
       "levelReq": 13,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "1% increased Area of Effect of Area Skills per 20 Intelligence",
         "1% increased Attack Speed per 10 Dexterity",
@@ -417,26 +366,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/PillaroftheCagedGod.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Pledge of Hands",
       "base": "Judgement Staff",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "Socketed Gems are Supported by level 30 Spell Echo",
         "(120-160)% increased Spell Damage",
@@ -444,26 +388,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/PledgeofHands.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Realmshaper",
       "base": "Iron Staff",
       "levelReq": 18,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "+1 to Level of Socketed Fire Gems",
         "+1 to Level of Socketed Cold Gems",
@@ -474,26 +413,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff5unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Realm Ender",
       "base": "Iron Staff",
       "levelReq": 40,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "+1 to Level of Socketed Fire Gems",
         "+1 to Level of Socketed Cold Gems",
@@ -505,37 +439,29 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff5unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Searing Touch",
       "base": "Lathi",
       "levelReq": 60,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block",
-            "(30-50)% increased Spell Damage",
-            "(20-40)% increased Fire Damage"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "18% Chance to Block",
-            "(30-50)% increased Spell Damage",
-            "(20-40)% increased Fire Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block",
-            "(70�90)% increased Fire Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block",
+          "(30-50)% increased Spell Damage",
+          "(20-40)% increased Fire Damage"
+        ],
+        "Pre 3.0.0": [
+          "18% Chance to Block",
+          "(30-50)% increased Spell Damage",
+          "(20-40)% increased Fire Damage"
+        ],
+        "Current": [
+          "18% Chance to Block",
+          "(70-90)% increased Fire Damage"
+        ]
+      },
       "mods": [
         "+2 to Level of Socketed Fire Gems",
         "10% increased Cast Speed",
@@ -543,18 +469,16 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff4unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Searing Touch",
       "base": "Long Staff",
       "levelReq": 60,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": []
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": []
+      },
       "mods": [
         "12% Chance to Block",
         "+2 to Level of Socketed Fire Gems",
@@ -565,26 +489,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff4unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Sire of Shards",
       "base": "Serpentine Staff",
       "levelReq": 49,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "18% Chance to Block"
+        ],
+        "Current": [
+          "20% Chance to Block"
+        ]
+      },
       "mods": [
         "+(15-20) to All Attributes",
         "+(5-7)% to All Elemental Resistances",
@@ -595,29 +514,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Radience.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Stormheart",
       "base": "Royal Staff",
       "levelReq": 28,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block",
-            "You Cannot Be Shocked While Frozen"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block",
-            "You Cannot Be Shocked While Chilled",
-            "50% chance to Shock Chilled Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block",
+          "You Cannot Be Shocked While Frozen"
+        ],
+        "Current": [
+          "18% Chance to Block",
+          "You Cannot Be Shocked While Chilled",
+          "50% chance to Shock Chilled Enemies"
+        ]
+      },
       "mods": [
         "(80-100)% increased Physical Damage",
         "Adds (25-35) to (45-60) Cold Damage",
@@ -626,58 +540,51 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff8uniqueX.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Stormwall",
       "base": "Royal Staff",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "18% Chance to Block",
         "15% Chance to Block",
-        "Adds (242�260) to (268�285) Physical Damage",
-        "(20�35)% increased Critical Strike Chance",
+        "Adds (242-260) to (268-285) Physical Damage",
+        "(20-35)% increased Critical Strike Chance",
         "50% of Physical Damage Converted to Cold Damage",
         "50% of Physical Damage Converted to Lightning Damage",
         "Cannot be Shocked while Chilled",
-        "(30�40)% chance to Chill Attackers for 4 seconds on Block",
-        "(30�40)% chance to Shock Attackers for 4 seconds on Block"
+        "(30-40)% chance to Chill Attackers for 4 seconds on Block",
+        "(30-40)% chance to Shock Attackers for 4 seconds on Block"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff8uniqueX.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Taryn's Shiver",
-      "base": "Maelstr�m Staff",
+      "base": "Maelstr-m Staff",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "18% Chance to Block",
-            "+1 to Level of Socketed Cold Gems",
-            "(40-50)% increased Spell Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "18% Chance to Block",
-            "+1 to Level of Socketed Cold Gems",
-            "(50-60)% increased Spell Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% Chance to Block",
-            "+2 to Level of Socketed Cold Gems",
-            "(50-60)% increased Spell Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "18% Chance to Block",
+          "+1 to Level of Socketed Cold Gems",
+          "(40-50)% increased Spell Damage"
+        ],
+        "Pre 2.6.0": [
+          "18% Chance to Block",
+          "+1 to Level of Socketed Cold Gems",
+          "(50-60)% increased Spell Damage"
+        ],
+        "Current": [
+          "20% Chance to Block",
+          "+2 to Level of Socketed Cold Gems",
+          "(50-60)% increased Spell Damage"
+        ]
+      },
       "mods": [
         "(40-50)% increased Cold Damage",
         "(10-20)% increased Cast Speed",
@@ -686,26 +593,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Tarynsshiver.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Tremor Rod",
       "base": "Military Staff",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "Socketed Gems are Supported by level 10 Remote Mine",
         "35% less Mine Damage",
@@ -716,26 +618,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/MineStaff.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Whispering Ice",
       "base": "Vile Staff",
       "levelReq": 33,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "12% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "12% Chance to Block"
+        ],
+        "Current": [
+          "18% Chance to Block"
+        ]
+      },
       "mods": [
         "+1 to Level of Socketed Support Gems",
         "Grants level 1 Icestorm Skill",
@@ -745,26 +642,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff8unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Xirgil's Crank",
       "base": "Coiled Staff",
       "levelReq": 28,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "18% Chance to Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% Chance to Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "18% Chance to Block"
+        ],
+        "Current": [
+          "20% Chance to Block"
+        ]
+      },
       "mods": [
         "+1 to Level of Socketed Gems",
         "15% Chance to Block",
@@ -777,7 +669,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff7unique.png?scale=1&scaleIndex=0&w=2&h=4"
     }
   ]
 }
