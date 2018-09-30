@@ -3,15 +3,16 @@ import path from "path";
 import axios from "axios";
 
 interface Item {
-  name?: string;
-  base?: string;
-  levelReq?: number;
-  variants?: ItemVariants;
-  mods?: string[];
-  corrupted?: boolean;
-  shaper?: boolean;
-  elder?: boolean;
-  icon?: string;
+  name: string;
+  base: string;
+  levelReq: number;
+  variants: ItemVariants;
+  mods: string[];
+  corrupted: boolean;
+  shaper: boolean;
+  elder: boolean;
+  icon: string;
+  itemType: string;
 }
 
 interface ItemVariants {
@@ -19,6 +20,9 @@ interface ItemVariants {
 }
 
 const NinjaData: any[] = [];
+const BaseItemData = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "../data/base_items.json")).toString()
+);
 
 const CURRENT_LEAGUE = "Delve";
 
@@ -49,7 +53,7 @@ Promise.all([
     for (let file of files) {
       if (file.match(/.lua$/)) {
         parseItems(path.join(__dirname, "../data/Uniques/" + file));
-        //console.log(file, "parsed");
+        console.log(file, "parsed");
       }
     }
   });
@@ -68,7 +72,7 @@ function parseItems(fileName: string) {
   const itemsRaw = itemsRawString.split("--");
 
   for (let itemType of itemsRaw) {
-    const type = itemType.split("\r\n")[0].trim();
+    const type = itemType.split(/\r\n|\n/g)[0].trim();
     if (type) {
       items[type] = [];
       const itemsRaw = itemType.replace(type, "").split("]],[[");
@@ -78,7 +82,7 @@ function parseItems(fileName: string) {
           .replace("–", "-") // Fixes weird character encoding issue
           .replace(/[��]/g, "-")
           .trim()
-          .split(/\r\n/);
+          .split(/\r\n|\n/g);
         items[type].push(createItem(lines));
       }
     }
@@ -91,7 +95,18 @@ function parseItems(fileName: string) {
 }
 
 function createItem(lines) {
-  const item: Item = {};
+  const item: Item = {
+    name: "",
+    base: "",
+    levelReq: 0,
+    variants: {},
+    mods: [],
+    corrupted: false,
+    shaper: false,
+    elder: false,
+    icon: "",
+    itemType: ""
+  };
 
   item.name = lines[0].trim();
   item.base = lines[1].trim();
@@ -101,6 +116,7 @@ function createItem(lines) {
   item.corrupted = isCorrupted(lines);
   item.shaper = isShaper(lines);
   item.elder = isElder(lines);
+  item.itemType = findItemType(item.base);
 
   const filteredItems = NinjaData.filter(
     ninjaItem => ninjaItem.name === item.name
@@ -213,4 +229,14 @@ function isElder(raw: string[]): boolean {
     }
   }
   return false;
+}
+
+function findItemType(base: string): string {
+  const types = Object.keys(BaseItemData)
+    .map(key => ({
+      item_class: BaseItemData[key].item_class,
+      name: BaseItemData[key].name
+    }))
+    .filter(baseItem => baseItem.name === base);
+  return types[0].item_class;
 }

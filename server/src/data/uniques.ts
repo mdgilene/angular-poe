@@ -22,10 +22,10 @@ for (let file of filesToImport) {
         slot !== "Belt"
       ) {
         const type = parts[1].trim();
-        if (!UniqueItemData[slot]) UniqueItemData[slot] = {};
-        UniqueItemData[slot][type] = contents.default[key];
+        if (!UniqueItemData[slot]) UniqueItemData[slot] = [];
+        UniqueItemData[slot].push(...contents.default[key]);
       } else {
-        if (!UniqueItemData[slot]) UniqueItemData[slot] = {};
+        if (!UniqueItemData[slot]) UniqueItemData[slot] = [];
         UniqueItemData[slot] = contents.default[key];
       }
     }

@@ -12,7 +12,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Anima Stone",
@@ -26,7 +27,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemChaos.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemChaos.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Apparitions",
@@ -40,7 +42,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique10.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique10.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Army of Bones",
@@ -57,7 +60,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Blue Dream",
@@ -72,7 +76,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDream.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDream.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Blue Nightmare",
@@ -89,7 +94,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Brawn",
@@ -104,7 +110,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Brute Force Solution",
@@ -118,7 +125,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoINT.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoINT.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Careful Planning",
@@ -132,7 +140,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoDEX.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoDEX.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Cheap Construction",
@@ -146,7 +155,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel1.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel1.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Clear Mind",
@@ -160,7 +170,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique13.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique13.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Coated Shrapnel",
@@ -174,7 +185,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel10.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel10.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Cold Steel",
@@ -188,7 +200,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Efficient Training",
@@ -202,7 +215,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoSTR.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoSTR.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Eldritch Knowledge",
@@ -215,7 +229,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique9.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique9.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Energised Armour",
@@ -229,7 +244,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Energy From Within",
@@ -249,7 +265,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fertile Mind",
@@ -263,7 +280,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoINT.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoINT.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fireborn",
@@ -276,7 +294,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fluid Motion",
@@ -290,7 +309,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoDEX.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoDEX.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fortified Legion",
@@ -304,7 +324,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel4.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel4.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fragile Bloom",
@@ -318,7 +339,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique20.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique20.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "From Dust",
@@ -332,7 +354,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique11.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique11.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Golden Rule",
@@ -348,7 +371,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGoldenRule.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGoldenRule.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Grand Spectrum",
@@ -366,7 +390,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Grand Spectrum",
@@ -384,7 +409,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Grand Spectrum",
@@ -405,7 +431,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Green Dream",
@@ -420,7 +447,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDream.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDream.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Green Nightmare",
@@ -437,7 +465,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Hair Trigger",
@@ -457,7 +486,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Healthy Mind",
@@ -471,7 +501,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel7.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Hidden Potential",
@@ -484,7 +515,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique17.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique17.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Hotfooted",
@@ -497,7 +529,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique14.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique14.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Inertia",
@@ -511,7 +544,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoSTR.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoSTR.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Inspired Learning",
@@ -525,7 +559,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique7.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique7.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Intuitive Leap",
@@ -538,7 +573,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Izaro's Turmoil",
@@ -554,7 +590,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique21.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique21.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Lioneye's Fall",
@@ -567,7 +604,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/LioneyesFall.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/LioneyesFall.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Malicious Intent",
@@ -580,7 +618,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel3.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel3.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Mantra of Flames",
@@ -594,7 +633,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique16.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique16.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Martial Artistry",
@@ -607,7 +647,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Might in All Forms",
@@ -620,7 +661,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel7.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Might of the Meek",
@@ -634,7 +676,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PotencyOfTheUnremarkable.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PotencyOfTheUnremarkable.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Primordial Eminence",
@@ -650,7 +693,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemArctic.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemArctic.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Primordial Harmony",
@@ -673,7 +717,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemTempest.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemTempest.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Primordial Might",
@@ -690,7 +735,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemInfernal.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemInfernal.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Pugilist",
@@ -705,7 +751,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Pure Talent",
@@ -718,7 +765,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PureTalent.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PureTalent.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Rain of Splinters",
@@ -732,7 +780,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Reckless Defence",
@@ -756,7 +805,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RecklessDefense.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RecklessDefense.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Red Dream",
@@ -771,7 +821,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDream.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDream.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Red Nightmare",
@@ -788,7 +839,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Soul's Wick",
@@ -805,7 +857,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SoulsWick.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SoulsWick.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Spire of Stone",
@@ -819,7 +872,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Static Electricity",
@@ -833,7 +887,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel7.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "To Dust",
@@ -852,7 +907,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Unstable Payload",
@@ -865,7 +921,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel1.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel1.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Watcher's Eye",
@@ -1038,7 +1095,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ElderJewel.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ElderJewel.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     }
   ],
   "Jewel: Threshold": [
@@ -1056,7 +1114,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ShrapnelShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ShrapnelShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Dead Reckoning",
@@ -1076,7 +1135,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AdditionalSkeletonMagesModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AdditionalSkeletonMagesModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fight for Survival",
@@ -1092,7 +1152,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostBladesThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostBladesThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "First Snow",
@@ -1108,7 +1169,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FreezingPulseThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FreezingPulseThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Frozen Trail",
@@ -1124,7 +1186,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostboltThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostboltThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Growing Agony",
@@ -1149,7 +1212,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PoisonDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PoisonDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Hazardous Research",
@@ -1165,7 +1229,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SparkThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SparkThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Inevitability",
@@ -1181,7 +1246,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MagmaOrbThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MagmaOrbThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Long Winter",
@@ -1197,7 +1263,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialCascadeThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialCascadeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Might and Influence",
@@ -1214,7 +1281,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DualStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DualStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Omen on the Winds",
@@ -1240,7 +1308,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/IceShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/IceShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Overwhelming Odds",
@@ -1256,7 +1325,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/CleaveThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/CleaveThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Pitch Darkness",
@@ -1271,7 +1341,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Rapid Expansion",
@@ -1296,7 +1367,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GroundSlamModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GroundSlamModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Ring of Blades",
@@ -1317,7 +1389,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/EtherealKnivesThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/EtherealKnivesThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Rolling Flames",
@@ -1337,7 +1410,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FireballModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FireballModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Shattered Chains",
@@ -1351,7 +1425,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Spirit Guards",
@@ -1371,7 +1446,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AnimateWeaponModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AnimateWeaponModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Spirited Response",
@@ -1385,7 +1461,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/InspiringCryModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/InspiringCryModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Spreading Rot",
@@ -1400,7 +1477,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlightThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlightThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Steel Spirit",
@@ -1420,7 +1498,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectralThrowModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectralThrowModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Sudden Ignition",
@@ -1435,7 +1514,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Unending Hunger",
@@ -1449,7 +1529,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectreJewel.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectreJewel.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "The Vigil",
@@ -1469,7 +1550,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/VigilanteModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/VigilanteModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Violent Dead",
@@ -1486,7 +1568,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RaiseZombieThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RaiseZombieThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Volley Fire",
@@ -1500,7 +1583,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BarrageModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BarrageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Weight of the Empire",
@@ -1514,7 +1598,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DoubleDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DoubleDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Wildfire",
@@ -1529,7 +1614,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MoltenStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MoltenStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Winter's Bounty",
@@ -1553,7 +1639,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ColdSnapModifier.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ColdSnapModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Winter Burial",
@@ -1570,7 +1657,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerThreshold.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     }
   ],
   "Jewel: Corrupted": [
@@ -1585,7 +1673,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Atziri's Reign",
@@ -1598,7 +1687,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Blood Sacrifice",
@@ -1613,7 +1703,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Brittle Barrier",
@@ -1627,7 +1718,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Chill of Corruption",
@@ -1640,7 +1732,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Combustibles",
@@ -1654,7 +1747,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Corrupted Energy",
@@ -1665,7 +1759,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fevered Mind",
@@ -1679,7 +1774,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Fragility",
@@ -1692,7 +1788,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Hungry Abyss",
@@ -1703,7 +1800,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Mutated Growth",
@@ -1714,7 +1812,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Pacifism",
@@ -1727,7 +1826,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Powerlessness",
@@ -1740,7 +1840,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Sacrificial Harvest",
@@ -1753,7 +1854,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Self-Flagellation",
@@ -1767,7 +1869,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Vaal Sentencing",
@@ -1780,7 +1883,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Weight of Sin",
@@ -1794,7 +1898,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     }
   ],
   "Jewel: Quest rewards": [
@@ -1811,7 +1916,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Conqueror's Efficiency",
@@ -1826,7 +1932,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Conqueror's Longevity",
@@ -1847,7 +1954,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Conqueror's Potency",
@@ -1862,7 +1970,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Poacher's Aim",
@@ -1882,7 +1991,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Survival Instincts",
@@ -1896,7 +2006,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Survival Secrets",
@@ -1910,7 +2021,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique12.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique12.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Survival Skills",
@@ -1924,7 +2036,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique4.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique4.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Warlord's Reach",
@@ -1938,7 +2051,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     }
   ],
   "Jewel: Labyrinth rewards": [
@@ -1955,7 +2069,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Cunning.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Cunning.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Emperor's Mastery",
@@ -1971,7 +2086,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Mastery.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Mastery.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Emperor's Might",
@@ -1986,7 +2102,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Might.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Might.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     },
     {
       "name": "Emperor's Wit",
@@ -2001,7 +2118,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Wit.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Wit.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Jewel"
     }
   ]
 }

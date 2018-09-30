@@ -22,7 +22,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dreadarc.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dreadarc.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Dreadsurge",
@@ -40,7 +41,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dreadarc.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dreadarc.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Dyadus",
@@ -73,7 +75,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dyadus.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dyadus.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "The Screaming Eagle",
@@ -96,7 +99,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Screamingeagle.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Screamingeagle.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "The Gryphon",
@@ -115,7 +119,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Screamingeagle.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Screamingeagle.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Jack, the Axe",
@@ -139,7 +144,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Jacktheaxe.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Jacktheaxe.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Moonbender's Wing",
@@ -157,7 +163,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/MoonbendersWing.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/MoonbendersWing.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Relentless Fury",
@@ -181,7 +188,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RelentlessFury.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RelentlessFury.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Rigwald's Savagery",
@@ -204,7 +212,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RigwarlAxe.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RigwarlAxe.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     },
     {
       "name": "Soul Taker",
@@ -228,7 +237,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Alexaxe.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Alexaxe.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Axe"
     }
   ],
   "Weapon: Two Handed Axe": [
@@ -253,7 +263,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/AtzirisDisfavour.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/AtzirisDisfavour.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "The Blood Reaper",
@@ -278,7 +289,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeUnique2.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeUnique2.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Debeon's Dirge",
@@ -294,7 +306,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/StringAxe.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/StringAxe.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "The Harvest",
@@ -310,7 +323,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TheExtractor.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TheExtractor.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Hezmana's Bloodlust",
@@ -326,7 +340,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/HezmanasBloodlust.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/HezmanasBloodlust.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Kaom's Primacy",
@@ -343,7 +358,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe11Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe11Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Kingmaker",
@@ -368,7 +384,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Alexaxeandheartbreaker.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Alexaxeandheartbreaker.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Kitava's Feast",
@@ -386,7 +403,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/KitavasHunger.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/KitavasHunger.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Limbsplit",
@@ -403,7 +421,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe_spare.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe_spare.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "The Cauteriser",
@@ -421,7 +440,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe_spare.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe_spare.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Ngamahu's Flame",
@@ -438,7 +458,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/RiriTeNgamahu.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/RiriTeNgamahu.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Reaper's Pursuit",
@@ -456,7 +477,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeUnique1.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeUnique1.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Uul-Netol's Kiss",
@@ -478,7 +500,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/UulNetolsKiss.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/UulNetolsKiss.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Uul-Netol's Embrace",
@@ -500,7 +523,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/UulNetolsKissUpgraded.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/UulNetolsKissUpgraded.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Wideswing",
@@ -518,7 +542,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Wideswing.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Wideswing.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     },
     {
       "name": "Wings of Entropy",
@@ -556,7 +581,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Entropywings.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Entropywings.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Axe"
     }
   ]
 }
