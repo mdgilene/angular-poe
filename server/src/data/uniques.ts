@@ -26,7 +26,7 @@ export function findUniques(query: Item | {}): Item[] {
 
   for (let category of Object.keys(UniqueItemData)) {
     for (let item of UniqueItemData[category]) {
-      console.log(item);
+      if (item.base === "Gut Ripper") console.log(item);
       for (let param of Object.keys(query)) {
         if (item[param].match(query[param])) {
           console.log("found item", item.name);
