@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node ./build",
     "build": "tsc",
-    "dev": "nodemon --exec ts-node src/index.ts"
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "parse": "ts-node utilities/luaUniqueParser.ts"
   },
   "dependencies": {
     "axios": "^0.18.0",

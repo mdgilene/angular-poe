@@ -4,20 +4,14 @@
       "name": "Dreadarc",
       "base": "Cleaver",
       "levelReq": 16,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Curse Enemies with Flammability on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Curse Enemies with level 10 Flammability on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Curse Enemies with Flammability on Hit"
+        ],
+        "Current": [
+          "Curse Enemies with level 10 Flammability on Hit"
+        ]
+      },
       "mods": [
         "Adds (5-15) to (20-25) Physical Damage",
         "Adds (5-15) to (20-25) Fire Damage",
@@ -27,84 +21,72 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dreadarc.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Dreadsurge",
       "base": "Cleaver",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds (5-15) to (20-25) Physical Damage",
-        "Adds (223�250) to (264�280) Fire Damage",
+        "Adds (223-250) to (264-280) Fire Damage",
         "5% increased Movement Speed",
-        "(7�10)% increased Attack Speed",
-        "+(15�25)% to Fire Resistance",
+        "(7-10)% increased Attack Speed",
+        "+(15-25)% to Fire Resistance",
         "Hits ignore Enemy Monster Fire Resistance while you are Ignited"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dreadarc.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Dyadus",
       "base": "Infernal Axe",
       "levelReq": 69,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Adds (170-190) to (200-220) Fire Damage in Main Hand",
-            "Adds (170-190) to (200-220) Cold Damage in Off Hand",
-            "Enemies Chilled by you take 40% increased Burning Damage",
-            "100% increased Chill Duration on Enemies when in Off Hand"
-          ]
-        },
-        {
-          "name": "Pre 3.3.0",
-          "mods": [
-            "Adds (255-285) to (300-330) Fire Damage in Main Hand",
-            "Adds (255-285) to (300-330) Cold Damage in Off Hand",
-            "Enemies Chilled by you take 100% increased Burning Damage",
-            "Chill Enemies for 1 second on Hit with this Weapon when in Off Hand"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds (255-285) to (300-330) Fire Damage in Main Hand",
-            "Adds (255-285) to (300-330) Cold Damage in Off Hand",
-            "100% increased Damage with Ignites inflicted on Chilled Enemies",
-            "Chill Enemies for 1 second on Hit with this Weapon when in Off Hand"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Adds (170-190) to (200-220) Fire Damage in Main Hand",
+          "Adds (170-190) to (200-220) Cold Damage in Off Hand",
+          "Enemies Chilled by you take 40% increased Burning Damage",
+          "100% increased Chill Duration on Enemies when in Off Hand"
+        ],
+        "Pre 3.3.0": [
+          "Adds (255-285) to (300-330) Fire Damage in Main Hand",
+          "Adds (255-285) to (300-330) Cold Damage in Off Hand",
+          "Enemies Chilled by you take 100% increased Burning Damage",
+          "Chill Enemies for 1 second on Hit with this Weapon when in Off Hand"
+        ],
+        "Current": [
+          "Adds (255-285) to (300-330) Fire Damage in Main Hand",
+          "Adds (255-285) to (300-330) Cold Damage in Off Hand",
+          "100% increased Damage with Ignites inflicted on Chilled Enemies",
+          "Chill Enemies for 1 second on Hit with this Weapon when in Off Hand"
+        ]
+      },
       "mods": [
         "(10-15)% increased Attack Speed",
         "25% Chance to Ignite when in Main Hand"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Dyadus.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "The Screaming Eagle",
       "base": "Jade Hatchet",
       "levelReq": 6,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "Adds (8-12) to (18-22) Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds (10-15) to (25-30) Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "Adds (8-12) to (18-22) Physical Damage"
+        ],
+        "Current": [
+          "Adds (10-15) to (25-30) Physical Damage"
+        ]
+      },
       "mods": [
         "+(10-15) to maximum Life",
         "+(5-7) Life gained on Kill",
@@ -113,13 +95,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Screamingeagle.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "The Gryphon",
       "base": "Jade Hatchet",
       "levelReq": 32,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Socketed Gems are supported by level 2 Chance to Flee",
         "(170-190)% increased Physical Damage",
@@ -131,26 +114,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Screamingeagle.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Jack, the Axe",
       "base": "Vaal Hatchet",
       "levelReq": 65,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Causes Bleeding on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "25% chance to cause Bleeding on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Causes Bleeding on Hit"
+        ],
+        "Current": [
+          "25% chance to cause Bleeding on Hit"
+        ]
+      },
       "mods": [
         "(90-110)% increased Physical Damage",
         "Adds (11-14) to (18-23) Physical Damage",
@@ -160,13 +138,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Jacktheaxe.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Moonbender's Wing",
       "base": "Tomahawk",
       "levelReq": 39,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(70-90)% increased Physical Damage",
         "Adds (5-9) to (13-17) Physical Damage",
@@ -177,26 +156,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/MoonbendersWing.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Relentless Fury",
       "base": "Decorative Axe",
       "levelReq": 29,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "0.6% of Physical Attack Damage Leeched as Life"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "2% of Physical Attack Damage Leeched as Life"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "0.6% of Physical Attack Damage Leeched as Life"
+        ],
+        "Current": [
+          "2% of Physical Attack Damage Leeched as Life"
+        ]
+      },
       "mods": [
         "(60-80)% increased Physical Damage",
         "Adds (3-5) to (7-10) Physical Damage",
@@ -206,26 +180,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RelentlessFury.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Rigwald's Savagery",
       "base": "Royal Axe",
       "levelReq": 67,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Causes Bleeding on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "25% chance to cause Bleeding on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Causes Bleeding on Hit"
+        ],
+        "Current": [
+          "25% chance to cause Bleeding on Hit"
+        ]
+      },
       "mods": [
         "Adds (50-70) to (135-165) Physical Damage",
         "40% increased Physical Weapon Damage while Dual Wielding",
@@ -234,26 +203,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/RigwarlAxe.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Soul Taker",
       "base": "Siege Axe",
       "levelReq": 59,
-      "variants": [
-        {
-          "name": "Pre 1.0.0",
-          "mods": [
-            "(160-200)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(100-140)% increased Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.0.0": [
+          "(160-200)% increased Physical Damage"
+        ],
+        "Current": [
+          "(100-140)% increased Physical Damage"
+        ]
+      },
       "mods": [
         "Adds 10 to 20 Physical Damage",
         "(20-25)% increased Attack Speed",
@@ -263,7 +227,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Alexaxe.png?scale=1&scaleIndex=0&w=2&h=3"
     }
   ],
   "Weapon: Two Handed Axe": [
@@ -271,20 +236,14 @@
       "name": "Atziri's Disfavour",
       "base": "Vaal Axe",
       "levelReq": 75,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Causes Bleeding on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "25% chance to cause Bleeding on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Causes Bleeding on Hit"
+        ],
+        "Current": [
+          "25% chance to cause Bleeding on Hit"
+        ]
+      },
       "mods": [
         "+2 to Level of Socketed Support Gems",
         "Adds (220-235) to (270-290) Physical Damage",
@@ -293,28 +252,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/AtzirisDisfavour.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Blood Reaper",
       "base": "Headsman Axe",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(100-120)% increased Physical Damage",
-            "Causes Bleeding on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(180�200)% increased Physical Damage",
-            "50% chance to cause Bleeding on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "(100-120)% increased Physical Damage",
+          "Causes Bleeding on Hit"
+        ],
+        "Current": [
+          "(180-200)% increased Physical Damage",
+          "50% chance to cause Bleeding on Hit"
+        ]
+      },
       "mods": [
         "+100 to maximum Life",
         "10.0 Life Regenerated per second",
@@ -323,13 +277,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeUnique2.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Debeon's Dirge",
       "base": "Despot Axe",
       "levelReq": 66,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds (310-350) to (460-500) Cold Damage",
         "15% increased Movement Speed if you've used a Warcry Recently",
@@ -338,13 +293,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/StringAxe.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Harvest",
       "base": "Jasper Chopper",
       "levelReq": 37,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(120-140)% increased Physical Damage",
         "1.2% of Damage Leeched as Life on Critical Strike",
@@ -353,13 +309,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TheExtractor.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Hezmana's Bloodlust",
       "base": "Vaal Axe",
       "levelReq": 64,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(150-170)% increased Physical Damage",
         "Adds (7-12) to (16-25) Physical Damage",
@@ -368,13 +325,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/HezmanasBloodlust.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Kaom's Primacy",
       "base": "Karui Chopper",
       "levelReq": 58,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(160-220)% increased Physical Damage",
         "Adds (16-21) to (32-38) Fire Damage",
@@ -384,29 +342,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe11Unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Kingmaker",
       "base": "Despot Axe",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+(100-150) to maximum Mana",
-            "Nearby Allies' spells have Culling Strike"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(30-40)% increased Critical Strike Chance",
-            "Insufficient Mana doesn't prevent your Melee Attacks",
-            "Nearby Allies have Culling Strike"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+(100-150) to maximum Mana",
+          "Nearby Allies' spells have Culling Strike"
+        ],
+        "Current": [
+          "(30-40)% increased Critical Strike Chance",
+          "Insufficient Mana doesn't prevent your Melee Attacks",
+          "Nearby Allies have Culling Strike"
+        ]
+      },
       "mods": [
         "(200-250)% increased Physical Damage",
         "(7-12)% increased Attack Speed",
@@ -414,13 +367,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Alexaxeandheartbreaker.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Kitava's Feast",
       "base": "Void Axe",
       "levelReq": 68,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Socketed Gems are supported by level 25 Melee Splash",
         "(250-300)% increased Physical Damage",
@@ -431,13 +385,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/KitavasHunger.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Limbsplit",
       "base": "Woodsplitter",
       "levelReq": 13,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+1 to Level of Socketed Strength Gems",
         "(80-100)% increased Physical Damage",
@@ -447,13 +402,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe_spare.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Cauteriser",
       "base": "Woodsplitter",
       "levelReq": 40,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+1 to Level of Socketed Strength Gems",
         "(80-100)% increased Physical Damage",
@@ -464,13 +420,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe_spare.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Ngamahu's Flame",
       "base": "Abyssal Axe",
       "levelReq": 55,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(190-230)% increased Physical Damage",
         "(8-12)% increased Attack Speed",
@@ -480,13 +437,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/RiriTeNgamahu.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Reaper's Pursuit",
       "base": "Shadow Axe",
       "levelReq": 33,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(100-125)% increased Physical Damage",
         "+10 Life Gained on Kill",
@@ -497,26 +455,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxeUnique1.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Uul-Netol's Kiss",
       "base": "Labrys",
       "levelReq": 49,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Attacks Cause Bleeding when Hitting Cursed Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Attacks have 25% chance to cause Bleeding when Hitting Cursed Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Attacks Cause Bleeding when Hitting Cursed Enemies"
+        ],
+        "Current": [
+          "Attacks have 25% chance to cause Bleeding when Hitting Cursed Enemies"
+        ]
+      },
       "mods": [
         "(140-170)% increased Physical Damage",
         "15% reduced Attack Speed",
@@ -524,26 +477,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/UulNetolsKiss.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Uul-Netol's Embrace",
       "base": "Vaal Axe",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Attacks Cause Bleeding when Hitting Cursed Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Attacks have 25% chance to cause Bleeding when Hitting Cursed Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Attacks Cause Bleeding when Hitting Cursed Enemies"
+        ],
+        "Current": [
+          "Attacks have 25% chance to cause Bleeding when Hitting Cursed Enemies"
+        ]
+      },
       "mods": [
         "(280-320)% increased Physical Damage",
         "(30-25)% reduced Attack Speed",
@@ -551,13 +499,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/UulNetolsKissUpgraded.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Wideswing",
       "base": "Poleaxe",
       "levelReq": 18,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Socketed Gems are Supported by level 20 Increased Area of Effect",
         "(120-160)% increased Physical Damage",
@@ -568,46 +517,35 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/Wideswing.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Wings of Entropy",
       "base": "Sundering Axe",
       "levelReq": 60,
-      "variants": [
-        {
-          "name": "Pre 1.3.0",
-          "mods": [
-            "25% of Block Chance applied to Spells",
-            "10% additional Chance to Block while Dual Wielding",
-            "(80-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "25% of Block Chance applied to Spells",
-            "8% additional Chance to Block while Dual Wielding",
-            "(80-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "25% of Block Chance applied to Spells",
-            "8% additional Chance to Block while Dual Wielding",
-            "(100-120)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+7% chance to Block Spell Damage",
-            "8% additional Chance to Block while Dual Wielding",
-            "(100-120)% increased Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.3.0": [
+          "25% of Block Chance applied to Spells",
+          "10% additional Chance to Block while Dual Wielding",
+          "(80-120)% increased Physical Damage"
+        ],
+        "Pre 2.0.0": [
+          "25% of Block Chance applied to Spells",
+          "8% additional Chance to Block while Dual Wielding",
+          "(80-120)% increased Physical Damage"
+        ],
+        "Pre 3.0.0": [
+          "25% of Block Chance applied to Spells",
+          "8% additional Chance to Block while Dual Wielding",
+          "(100-120)% increased Physical Damage"
+        ],
+        "Current": [
+          "+7% chance to Block Spell Damage",
+          "8% additional Chance to Block while Dual Wielding",
+          "(100-120)% increased Physical Damage"
+        ]
+      },
       "mods": [
         "Adds (55-65) to (100-120) Fire Damage in Main Hand",
         "Adds (55-65) to (100-120) Chaos Damage in Off Hand",
@@ -617,7 +555,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Entropywings.png?scale=1&scaleIndex=0&w=2&h=4"
     }
   ]
 }

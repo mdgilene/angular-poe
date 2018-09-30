@@ -4,7 +4,7 @@
       "name": "Andvarius",
       "base": "Gold Ring",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(6-15)% increased Rarity of Items found",
         "+10 to Dexterity",
@@ -13,60 +13,50 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring4Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Berek's Grip",
       "base": "Two-Stone Ring",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(10-15)% increased Cold Damage",
-            "Adds 1 to (1-50) Lightning Damage to Attacks",
-            "1% of Damage against Frozen Enemies Leeched as Life",
-            "1% of Damage against Shocked Enemies Leeched as Mana"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(25-30)% increased Cold Damage",
-            "Adds 1 to (50-70) Lightning Damage to Spells and Attacks",
-            "1% of Damage against Shocked Enemies Leeched as Life",
-            "1% of Damage against Frozen Enemies Leeched as Mana"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(10-15)% increased Cold Damage",
+          "Adds 1 to (1-50) Lightning Damage to Attacks",
+          "1% of Damage against Frozen Enemies Leeched as Life",
+          "1% of Damage against Shocked Enemies Leeched as Mana"
+        ],
+        "Current": [
+          "(25-30)% increased Cold Damage",
+          "Adds 1 to (50-70) Lightning Damage to Spells and Attacks",
+          "1% of Damage against Shocked Enemies Leeched as Life",
+          "1% of Damage against Frozen Enemies Leeched as Mana"
+        ]
+      },
       "mods": [
         "+(12-16)% to Cold and Lightning Resistances",
         "+(30-40) to maximum Life"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BereksGrip.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Berek's Pass",
       "base": "Two-Stone Ring",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(10-15)% increased Fire Damage",
-            "Adds 1 to (10-30) Cold Damage to Attacks"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(25-30)% increased Fire Damage",
-            "Adds (20-25) to (30-50) Cold Damage to Spells and Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(10-15)% increased Fire Damage",
+          "Adds 1 to (10-30) Cold Damage to Attacks"
+        ],
+        "Current": [
+          "(25-30)% increased Fire Damage",
+          "Adds (20-25) to (30-50) Cold Damage to Spells and Attacks"
+        ]
+      },
       "mods": [
         "+(12-16)% to Fire and Cold Resistances",
         "+(30-40) to maximum Energy Shield",
@@ -75,45 +65,41 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BereksPass.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Berek's Respite",
       "base": "Two-Stone Ring",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Adds 1 to (10-30) Fire Damage to Attacks",
-            "(10-15)% increased Lightning Damage",
-            "Shock a nearby Enemy for 2 seconds on Killing a Shocked Enemy",
-            "Ignite a nearby Enemy on Killing an Ignited Enemy"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds (20-25) to (30-50) Fire Damage to Spells and Attacks",
-            "(25-30)% increased Lightning Damage",
-            "Shocks all nearby Enemies on Killing a Shocked Enemy",
-            "Ignites all nearby Enemies on Killing an Ignited Enemy"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Adds 1 to (10-30) Fire Damage to Attacks",
+          "(10-15)% increased Lightning Damage",
+          "Shock a nearby Enemy for 2 seconds on Killing a Shocked Enemy",
+          "Ignite a nearby Enemy on Killing an Ignited Enemy"
+        ],
+        "Current": [
+          "Adds (20-25) to (30-50) Fire Damage to Spells and Attacks",
+          "(25-30)% increased Lightning Damage",
+          "Shocks all nearby Enemies on Killing a Shocked Enemy",
+          "Ignites all nearby Enemies on Killing an Ignited Enemy"
+        ]
+      },
       "mods": [
         "+(12-16)% to Fire and Lightning Resistances",
         "+(30-40) to maximum Mana"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BereksRespite.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Blackheart",
       "base": "Iron Ring",
       "levelReq": 1,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 1 to 4 Physical Damage to Attacks",
         "5% increased Physical Damage",
@@ -124,28 +110,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring1Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Voidheart",
       "base": "Iron Ring",
       "levelReq": 48,
-      "variants": [
-        {
-          "name": "Pre 2.4.0",
-          "mods": [
-            "Melee Attacks cause Bleeding",
-            "Melee Attacks Poison on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(30-50)% chance to cause Bleeding on Melee Hit",
-            "(20-40)% chance to Poison on Melee Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.4.0": [
+          "Melee Attacks cause Bleeding",
+          "Melee Attacks Poison on Hit"
+        ],
+        "Current": [
+          "(30-50)% chance to cause Bleeding on Melee Hit",
+          "(20-40)% chance to Poison on Melee Hit"
+        ]
+      },
       "mods": [
         "Adds 1 to 4 Physical Damage to Attacks",
         "5% increased Physical Damage",
@@ -156,30 +137,25 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring1Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Bloodboil",
       "base": "Coral Ring",
       "levelReq": 24,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Adds (7-10) to (15-20) Fire Damage to Attacks",
-            "45% reduced Effect of Chill on You",
-            "100% increased Ignite Duration on You"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds (12-15) to (25-30) Fire Damage to Attacks",
-            "75% reduced Effect of Chill on You",
-            "10% increased Movement Speed while Ignited"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Adds (7-10) to (15-20) Fire Damage to Attacks",
+          "45% reduced Effect of Chill on You",
+          "100% increased Ignite Duration on You"
+        ],
+        "Current": [
+          "Adds (12-15) to (25-30) Fire Damage to Attacks",
+          "75% reduced Effect of Chill on You",
+          "10% increased Movement Speed while Ignited"
+        ]
+      },
       "mods": [
         "+(20-30) to maximum Life",
         "+(20-40) to maximum Life",
@@ -187,13 +163,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BloodBoil.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Winterweave",
       "base": "Coral Ring",
       "levelReq": 53,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to maximum Life",
         "Adds (12–15) to (25–30) Fire Damage to Attacks",
@@ -205,32 +182,27 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BloodBoil.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Brinerot Mark",
       "base": "Unset Ring",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+2 to Level of Socketed Golem Gems",
-            "Socketed Gems are Supported by level 15 Concentrated Effect",
-            "(10-25)% increased Spell Damage",
-            "Socketed Gems are Supported by level 15 Increased Minion Life"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+3 to Level of Socketed Golem Gems",
-            "25% increased Effect of Buffs granted by Socketed Golem Skills",
-            "Socketed Golem Skills gain 20% of Maximum Life as Extra Maximum Energy Shield",
-            "(20-25)% increased Spell Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+2 to Level of Socketed Golem Gems",
+          "Socketed Gems are Supported by level 15 Concentrated Effect",
+          "(10-25)% increased Spell Damage",
+          "Socketed Gems are Supported by level 15 Increased Minion Life"
+        ],
+        "Current": [
+          "+3 to Level of Socketed Golem Gems",
+          "25% increased Effect of Buffs granted by Socketed Golem Skills",
+          "Socketed Golem Skills gain 20% of Maximum Life as Extra Maximum Energy Shield",
+          "(20-25)% increased Spell Damage"
+        ]
+      },
       "mods": [
         "Has 1 Socket",
         "+(15-25) to maximum Energy Shield",
@@ -238,26 +210,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Brinerot.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Call of the Brotherhood",
       "base": "Two-Stone Ring",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "50% of Lightning Damage Converted to Cold Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "40% of Lightning Damage Converted to Cold Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "50% of Lightning Damage Converted to Cold Damage"
+        ],
+        "Current": [
+          "40% of Lightning Damage Converted to Cold Damage"
+        ]
+      },
       "mods": [
         "+(12-16)% to Cold and Lightning Resistances",
         "+(15-25) to Intelligence",
@@ -267,29 +234,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Brotherhood.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Death Rush",
       "base": "Amethyst Ring",
       "levelReq": 46,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+(60-80) to Armour",
-            "You gain Onslaught for 2 seconds on Kill"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(260-300) to Armour",
-            "+(40-50) to maximum Life",
-            "You gain Onslaught for 4 seconds on Kill"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+(60-80) to Armour",
+          "You gain Onslaught for 2 seconds on Kill"
+        ],
+        "Current": [
+          "+(260-300) to Armour",
+          "+(40-50) to maximum Life",
+          "You gain Onslaught for 4 seconds on Kill"
+        ]
+      },
       "mods": [
         "+(9-13)% to Chaos Resistance",
         "+(300-350) to Accuracy Rating",
@@ -298,13 +260,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/AmethystRingUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Doedre's Damning",
       "base": "Paua Ring",
       "levelReq": 1,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-25) to maximum Mana",
         "+(5-10) to Intelligence",
@@ -314,25 +277,20 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Dream Fragments",
       "base": "Sapphire Ring",
       "levelReq": 24,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(30-40)% to Cold Resistance",
-            "Cannot be Chilled"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [],
+        "Current": [
+          "+(30-40)% to Cold Resistance",
+          "Cannot be Chilled"
+        ]
+      },
       "mods": [
         "+(20-30)% to Cold Resistance",
         "20% increased maximum Mana",
@@ -341,46 +299,42 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Emberwake",
       "base": "Ruby Ring",
       "levelReq": 16,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(15-25)% increased Fire Damage",
-            "5% chance to Ignite",
-            "You can inflict up to 300 Ignites on an Enemy",
-            "Your Critical Strikes do not deal extra Damage",
-            "80% less Burning Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(30-40)% increased Fire Damage",
-            "10% chance to Ignite",
-            "You can inflict an additional Ignite on an Enemy",
-            "Ignited Enemies Burn 65% slower"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "(15-25)% increased Fire Damage",
+          "5% chance to Ignite",
+          "You can inflict up to 300 Ignites on an Enemy",
+          "Your Critical Strikes do not deal extra Damage",
+          "80% less Burning Damage"
+        ],
+        "Current": [
+          "(30-40)% increased Fire Damage",
+          "10% chance to Ignite",
+          "You can inflict an additional Ignite on an Enemy",
+          "Ignited Enemies Burn 65% slower"
+        ]
+      },
       "mods": [
         "+(20-30)% to Fire Resistance",
         "(5-10)% increased Cast Speed"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring10.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Essence Worm",
       "base": "Unset Ring",
       "levelReq": 38,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Has 1 Socket",
         "+2 to Level of Socketed Aura Gems",
@@ -389,28 +343,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/EssenceWorm.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Gifts from Above",
       "base": "Diamond Ring",
       "levelReq": 28,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Creates Consecrated Ground on Critical Strike"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Trigger level 10 Consecrate when you deal a Critical Strike",
-            "50% increased Damage while on Consecrated Ground",
-            "5% additional Block Chance while on Consecrated Ground"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Creates Consecrated Ground on Critical Strike"
+        ],
+        "Current": [
+          "Trigger level 10 Consecrate when you deal a Critical Strike",
+          "50% increased Damage while on Consecrated Ground",
+          "5% additional Block Chance while on Consecrated Ground"
+        ]
+      },
       "mods": [
         "(20-30)% increased Global Critical Strike Chance",
         "(30-35)% increased Global Critical Strike Chance",
@@ -419,13 +368,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DiamondRingUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Heartbound Loop",
       "base": "Moonstone Ring",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(15-25) to maximum Energy Shield",
         "(10-15) Life Regenerated per second",
@@ -436,13 +386,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/HeartboundRing.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "The Hungry Loop",
       "base": "Unset Ring",
       "levelReq": null,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Has 1 Socket ",
         "Consumes Socketed Support Gems when they reach Maximum Level",
@@ -451,26 +402,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TheHungryLoop.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Kaom's Sign",
       "base": "Coral Ring",
       "levelReq": 1,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "0.4% of Physical Attack Damage Leeched as Life"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(2-4) Life gained for each Enemy hit by your Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "0.4% of Physical Attack Damage Leeched as Life"
+        ],
+        "Current": [
+          "+(2-4) Life gained for each Enemy hit by your Attacks"
+        ]
+      },
       "mods": [
         "+(20-30) to maximum Life",
         "+(10-20) to Strength",
@@ -478,13 +424,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Kaom's Way",
       "base": "Coral Ring",
       "levelReq": 32,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to maximum Life",
         "+(10-20) to Strength",
@@ -494,28 +441,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Kikazaru",
       "base": "Topaz Ring",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(13-17) Life Regenerated per second",
-            "20% reduced Effect of Curses on You"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "1 Life Regenerated per second per Level",
-            "40% reduced Effect of Curses on You"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(13-17) Life Regenerated per second",
+          "20% reduced Effect of Curses on You"
+        ],
+        "Current": [
+          "1 Life Regenerated per second per Level",
+          "40% reduced Effect of Curses on You"
+        ]
+      },
       "mods": [
         "+(20-30)% to Lightning Resistance",
         "+(10-15) to all Attributes",
@@ -523,57 +465,47 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Kikazaru.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Le Heup of All",
       "base": "Iron Ring",
       "levelReq": 24,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(10-20)% increased Damage",
-            "+(10-20) to all Attributes",
-            "(10-20)% increased Rarity of Items found",
-            "+(10-20)% to all Elemental Resistances"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(10-30)% increased Damage",
-            "+(10-30) to all Attributes",
-            "(10-30)% increased Rarity of Items found",
-            "+(10-30)% to all Elemental Resistances"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(10-20)% increased Damage",
+          "+(10-20) to all Attributes",
+          "(10-20)% increased Rarity of Items found",
+          "+(10-20)% to all Elemental Resistances"
+        ],
+        "Current": [
+          "(10-30)% increased Damage",
+          "+(10-30) to all Attributes",
+          "(10-30)% increased Rarity of Items found",
+          "+(10-30)% to all Elemental Resistances"
+        ]
+      },
       "mods": [
         "Adds 1 to 4 Physical Damage to Attacks"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Leheupofall.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Lori's Lantern",
       "base": "Prismatic Ring",
       "levelReq": 30,
-      "variants": [
-        {
-          "name": "Pre 1.0.0",
-          "mods": [
-            "+(8-12)% to all Elemental Resistances"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(8-10)% to all Elemental Resistances"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.0.0": [
+          "+(8-12)% to all Elemental Resistances"
+        ],
+        "Current": [
+          "+(8-10)% to all Elemental Resistances"
+        ]
+      },
       "mods": [
         "+10% to all Elemental Resistances",
         "(6-8)% increased Movement Speed when on Low Life",
@@ -583,28 +515,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/LorisLantern.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Malachai's Artifice",
       "base": "Unset Ring",
       "levelReq": 5,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "−25% to all Elemental Resistances",
-            "Socketed Gems have 40% reduced Elemental Equilibrium effect"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "−20% to all Elemental Resistances",
-            "Socketed Gems have 25% reduced Elemental Equilibrium effect"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "−25% to all Elemental Resistances",
+          "Socketed Gems have 40% reduced Elemental Equilibrium effect"
+        ],
+        "Current": [
+          "−20% to all Elemental Resistances",
+          "Socketed Gems have 25% reduced Elemental Equilibrium effect"
+        ]
+      },
       "mods": [
         "Has 1 Socket",
         "+(75-100)% to Fire Resistance when Socketed with a Red Gem",
@@ -615,13 +542,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MalachaisArtifice.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Mark of the Elder",
       "base": "Steel Ring",
       "levelReq": 80,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds (3-4) to (10–14) Physical Damage to Attacks",
         "Adds (26–32) to (42–48) Cold Damage to Attacks",
@@ -631,13 +559,14 @@
       ],
       "corrupted": false,
       "shaper": true,
-      "elder": true
+      "elder": true,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/UberElderRing.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Mark of the Shaper",
       "base": "Opal Ring",
       "levelReq": 80,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(15-25)% increased Elemental Damage",
         "Adds (13–18) to (50–56) Lightning Damage to Spells",
@@ -647,35 +576,27 @@
       ],
       "corrupted": false,
       "shaper": true,
-      "elder": true
+      "elder": true,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/UberShaperRing.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Ming's Heart",
       "base": "Amethyst Ring",
       "levelReq": 69,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "15% reduced maximum Life",
-            "15% reduced maximum Energy Shield"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "10% reduced maximum Life",
-            "10% reduced maximum Energy Shield"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(5-10)% reduced maximum Life",
-            "(5–10)% reduced maximum Energy Shield"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "15% reduced maximum Life",
+          "15% reduced maximum Energy Shield"
+        ],
+        "Pre 3.0.0": [
+          "10% reduced maximum Life",
+          "10% reduced maximum Energy Shield"
+        ],
+        "Current": [
+          "(5-10)% reduced maximum Life",
+          "(5–10)% reduced maximum Energy Shield"
+        ]
+      },
       "mods": [
         "+(9-13)% to Chaos Resistance",
         "+(40-50)% to Chaos Resistance",
@@ -683,13 +604,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MingsHeart.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Mokou's Embrace",
       "base": "Ruby Ring",
       "levelReq": 16,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30)% to Fire Resistance",
         "(15-25)% increased Fire Damage",
@@ -701,32 +623,27 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MokousEmbrace.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Mutewind Seal",
       "base": "Unset Ring",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+2 to Level of Socketed Golem Gems",
-            "Socketed Gems are Supported by level 13 Faster Attacks",
-            "(1-2)% chance to Dodge Attacks",
-            "Socketed Gems are Supported by level 16 Increased Minion Speed"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+3 to Level of Socketed Golem Gems",
-            "Socketed Golem Skills have 20% increased Attack and Cast Speed",
-            "(3-5)% chance to Dodge Attacks",
-            "Socketed Golem Gems grant Onslaught for 10 seconds on Summon"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+2 to Level of Socketed Golem Gems",
+          "Socketed Gems are Supported by level 13 Faster Attacks",
+          "(1-2)% chance to Dodge Attacks",
+          "Socketed Gems are Supported by level 16 Increased Minion Speed"
+        ],
+        "Current": [
+          "+3 to Level of Socketed Golem Gems",
+          "Socketed Golem Skills have 20% increased Attack and Cast Speed",
+          "(3-5)% chance to Dodge Attacks",
+          "Socketed Golem Gems grant Onslaught for 10 seconds on Summon"
+        ]
+      },
       "mods": [
         "Has 1 Socket",
         "Adds (5-10) to (11-15) Physical Damage to Attacks",
@@ -734,30 +651,25 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Mutewind.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Ngamahu's Sign",
       "base": "Ruby Ring",
       "levelReq": 29,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Adds (8-10) to (12-14) Fire Damage to Attacks",
-            "+(4-5) Life gained for each Ignited Enemy hit by your Attacks",
-            "5% chance to Ignite"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds (8-10) to (12-14) Fire Damage",
-            "(20-30) Life Gained on Igniting an Enemy",
-            "10% chance to Ignite"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Adds (8-10) to (12-14) Fire Damage to Attacks",
+          "+(4-5) Life gained for each Ignited Enemy hit by your Attacks",
+          "5% chance to Ignite"
+        ],
+        "Current": [
+          "Adds (8-10) to (12-14) Fire Damage",
+          "(20-30) Life Gained on Igniting an Enemy",
+          "10% chance to Ignite"
+        ]
+      },
       "mods": [
         "+(20-30)% to Fire Resistance",
         "+(15-25) to Strength",
@@ -765,13 +677,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/NgamahusSign.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "The Pariah",
       "base": "Unset Ring",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Has 1 Socket",
         "+2 to Level of Socketed Gems",
@@ -783,28 +696,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/ThePariah.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Perandus Signet",
       "base": "Paua Ring",
       "levelReq": 1,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "3% increased Experience gain",
-            "3% increased Intelligence for each Unique Item you have equipped"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "2% increased Experience gain",
-            "2% increased Intelligence for each Unique Item you have equipped"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "3% increased Experience gain",
+          "3% increased Intelligence for each Unique Item you have equipped"
+        ],
+        "Current": [
+          "2% increased Experience gain",
+          "2% increased Intelligence for each Unique Item you have equipped"
+        ]
+      },
       "mods": [
         "+(20-25) to maximum Mana",
         "+(25-30) to maximum Mana",
@@ -813,13 +721,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/LadyRing.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
-      "name": "Praxis ",
+      "name": "Praxis",
       "base": "Paua Ring",
       "levelReq": 22,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-25) to maximum Mana",
         "+(30-60) to maximum Mana",
@@ -829,35 +738,27 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Praxis.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Pyre",
       "base": "Sapphire Ring",
       "levelReq": 11,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(25-35)% increased Burning Damage",
-            "100% of Cold Damage Converted to Fire Damage"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(25-35)% increased Burning Damage",
-            "40% of Cold Damage Converted to Fire Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(60-80)% increased Burning Damage",
-            "40% of Cold Damage Converted to Fire Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(25-35)% increased Burning Damage",
+          "100% of Cold Damage Converted to Fire Damage"
+        ],
+        "Pre 3.0.0": [
+          "(25-35)% increased Burning Damage",
+          "40% of Cold Damage Converted to Fire Damage"
+        ],
+        "Current": [
+          "(60-80)% increased Burning Damage",
+          "40% of Cold Damage Converted to Fire Damage"
+        ]
+      },
       "mods": [
         "+(20-30)% to Cold Resistance",
         "+(25-35)% to Fire Resistance",
@@ -866,32 +767,27 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Cherufe.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Redblade Band",
       "base": "Unset Ring",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+2 to Level of Socketed Golem Gems",
-            "Adds (8-12) to (20-30) Fire Damage to Attacks",
-            "Socketed Gems are Supported by level 12 Lesser Multiple Projectiles",
-            "Socketed Gems are Supported by level 17 Increased Minion Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+3 to Level of Socketed Golem Gems",
-            "+(30-40) to maximum Life",
-            "Socketed Golem Skills have 25% chance to Taunt on Hit",
-            "Socketed Golem Skills have 5% Life Regenerated per second"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+2 to Level of Socketed Golem Gems",
+          "Adds (8-12) to (20-30) Fire Damage to Attacks",
+          "Socketed Gems are Supported by level 12 Lesser Multiple Projectiles",
+          "Socketed Gems are Supported by level 17 Increased Minion Damage"
+        ],
+        "Current": [
+          "+3 to Level of Socketed Golem Gems",
+          "+(30-40) to maximum Life",
+          "Socketed Golem Skills have 25% chance to Taunt on Hit",
+          "Socketed Golem Skills have 5% Life Regenerated per second"
+        ]
+      },
       "mods": [
         "Has 1 Socket",
         "+(30-40) to Strength",
@@ -899,13 +795,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Redblade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Rigwald's Crest",
       "base": "Two-Stone Ring",
       "levelReq": 49,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(12-16)% to Fire and Cold Resistances",
         "(20-30)% increased Fire Damage",
@@ -915,32 +812,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/RigwaldsCrest.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Romira's Banquet",
       "base": "Diamond Ring",
       "levelReq": 60,
-      "variants": [
-        {
-          "name": "Pre 1.1.0",
-          "mods": [
-            "+(10-20)% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "+(10-15)% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(15-25)% to Global Critical Strike Multiplier"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.1.0": [
+          "+(10-20)% to Global Critical Strike Multiplier"
+        ],
+        "Pre 2.2.0": [
+          "+(10-15)% to Global Critical Strike Multiplier"
+        ],
+        "Current": [
+          "+(15-25)% to Global Critical Strike Multiplier"
+        ]
+      },
       "mods": [
         "(20-30)% increased Global Critical Strike Chance",
         "+333 to Accuracy Rating",
@@ -951,100 +840,82 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/RomirasBanquet.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Shavronne's Revelation",
       "base": "Moonstone Ring",
       "levelReq": 30,
-      "variants": [
-        {
-          "name": "Pre 1.2.0",
-          "mods": [
-            "Right ring slot: 4% of Energy Shield Regenerated per second",
-            "Left ring slot: 100% increased Mana Regeneration Rate"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Right ring slot: 3% of Energy Shield Regenerated per second",
-            "Left ring slot: 100% increased Mana Regeneration Rate"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Right ring slot: 3% of Energy Shield Regenerated per second",
-            "Right ring slot: +100 to maximum Mana",
-            "Left ring slot: +100 to maximum Energy Shield",
-            "Left ring slot: 40 Mana Regenerated per second"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.2.0": [
+          "Right ring slot: 4% of Energy Shield Regenerated per second",
+          "Left ring slot: 100% increased Mana Regeneration Rate"
+        ],
+        "Pre 2.6.0": [
+          "Right ring slot: 3% of Energy Shield Regenerated per second",
+          "Left ring slot: 100% increased Mana Regeneration Rate"
+        ],
+        "Current": [
+          "Right ring slot: 3% of Energy Shield Regenerated per second",
+          "Right ring slot: +100 to maximum Mana",
+          "Left ring slot: +100 to maximum Energy Shield",
+          "Left ring slot: 40 Mana Regenerated per second"
+        ]
+      },
       "mods": [
         "+(15-25) to maximum Energy Shield",
         "+(60-75) to Intelligence"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MoonstoneRingUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Sibyl's Lament",
       "base": "Coral Ring",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(20-30)% increased Elemental Damage with Weapons",
-            "(20-40)% reduced Rarity of Items found",
-            "Left ring slot: 30% reduced Reflected Elemental Damage taken",
-            "Right ring slot: 30% reduced Reflected Physical Damage taken"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(20-30)% increased Elemental Damage with Weapons",
-            "(10-20)% reduced Rarity of Items found",
-            "Left ring slot: 30% reduced Reflected Elemental Damage taken",
-            "Right ring slot: 30% reduced Reflected Physical Damage taken"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(20-30)% increased Elemental Damage with Weapons",
-            "(10-20)% reduced Rarity of Items found",
-            "Left ring slot: 40% reduced Reflected Elemental Damage taken",
-            "Right ring slot: 40% reduced Reflected Physical Damage taken"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(20-30)% increased Elemental Damage with Attack Skills",
-            "(10-20)% reduced Rarity of Items found",
-            "Left ring slot: 40% reduced Reflected Elemental Damage taken",
-            "Right ring slot: 40% reduced Reflected Physical Damage taken"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(20-30)% increased Elemental Damage with Weapons",
+          "(20-40)% reduced Rarity of Items found",
+          "Left ring slot: 30% reduced Reflected Elemental Damage taken",
+          "Right ring slot: 30% reduced Reflected Physical Damage taken"
+        ],
+        "Pre 2.6.0": [
+          "(20-30)% increased Elemental Damage with Weapons",
+          "(10-20)% reduced Rarity of Items found",
+          "Left ring slot: 30% reduced Reflected Elemental Damage taken",
+          "Right ring slot: 30% reduced Reflected Physical Damage taken"
+        ],
+        "Pre 3.0.0": [
+          "(20-30)% increased Elemental Damage with Weapons",
+          "(10-20)% reduced Rarity of Items found",
+          "Left ring slot: 40% reduced Reflected Elemental Damage taken",
+          "Right ring slot: 40% reduced Reflected Physical Damage taken"
+        ],
+        "Current": [
+          "(20-30)% increased Elemental Damage with Attack Skills",
+          "(10-20)% reduced Rarity of Items found",
+          "Left ring slot: 40% reduced Reflected Elemental Damage taken",
+          "Right ring slot: 40% reduced Reflected Physical Damage taken"
+        ]
+      },
       "mods": [
         "+(20-30) to maximum Life",
         "Adds (8-15) to (20-28) Fire Damage to Attacks"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/SibylsLament.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
-      "name": "Snakepit ",
+      "name": "Snakepit",
       "base": "Sapphire Ring",
       "levelReq": 68,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30)% to Cold Resistance",
         "(20-40)% increased Cold Damage",
@@ -1053,13 +924,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Serpentseed.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Stormfire",
       "base": "Opal Ring",
       "levelReq": 80,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(15-25)% increased Elemental Damage",
         "(40–45)% increased Mana Regeneration Rate",
@@ -1070,164 +942,139 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/StormFire.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "The Taming",
       "base": "Prismatic Ring",
       "levelReq": 30,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "15% increased Elemental Damage with Weapons",
-            "+(10-15)% to all Elemental Resistances",
-            "15% increased Elemental Damage",
-            "5% chance to Freeze, Shock and Ignite",
-            "10% increased Damage per Freeze, Shock and Ignite on Enemy"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "30% increased Elemental Damage with Attack Skills",
-            "+(20-30)% to all Elemental Resistances",
-            "30% increased Elemental Damage",
-            "10% chance to Freeze, Shock and Ignite",
-            "20% increased Damage with Hits and Ailments per Freeze, Shock and Ignite on Enemy"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "15% increased Elemental Damage with Weapons",
+          "+(10-15)% to all Elemental Resistances",
+          "15% increased Elemental Damage",
+          "5% chance to Freeze, Shock and Ignite",
+          "10% increased Damage per Freeze, Shock and Ignite on Enemy"
+        ],
+        "Current": [
+          "30% increased Elemental Damage with Attack Skills",
+          "+(20-30)% to all Elemental Resistances",
+          "30% increased Elemental Damage",
+          "10% chance to Freeze, Shock and Ignite",
+          "20% increased Damage with Hits and Ailments per Freeze, Shock and Ignite on Enemy"
+        ]
+      },
       "mods": [
         "+(8-10)% to all Elemental Resistances"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TheTaming.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Tasalio's Sign",
       "base": "Sapphire Ring",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Adds 10 to 15 Physical Damage to Attacks against Frozen Enemies",
-            "Adds (5-6) to (7-9) Cold Damage to Attacks",
-            "20% reduced Chill Duration on You",
-            "5% chance to Freeze"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds 40 to 60 Cold Damage against Chilled Enemies",
-            "Adds (7-10) to (15-20) Cold Damage to Spells and Attacks",
-            "50% chance to Avoid being Chilled",
-            "10% chance to Freeze"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Adds 10 to 15 Physical Damage to Attacks against Frozen Enemies",
+          "Adds (5-6) to (7-9) Cold Damage to Attacks",
+          "20% reduced Chill Duration on You",
+          "5% chance to Freeze"
+        ],
+        "Current": [
+          "Adds 40 to 60 Cold Damage against Chilled Enemies",
+          "Adds (7-10) to (15-20) Cold Damage to Spells and Attacks",
+          "50% chance to Avoid being Chilled",
+          "10% chance to Freeze"
+        ]
+      },
       "mods": [
         "+(20-30)% to Cold Resistance",
         "+(200-300) to Evasion Rating"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TasaliosSign.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Thief's Torment",
       "base": "Prismatic Ring",
       "levelReq": 30,
-      "variants": [
-        {
-          "name": "Pre 1.0.0",
-          "mods": [
-            "+(8-12) to all Elemental Resistances",
-            "(15-25)% increased Quantity of Items found",
-            "+(8-12)% to all Elemental Resistances",
-            "+(20-30) Life gained for each Enemy hit by your Attacks",
-            "+15 Mana gained for each Enemy hit by your Attacks"
-          ]
-        },
-        {
-          "name": "Pre 1.1.0",
-          "mods": [
-            "+(8-10)% to all Elemental Resistances",
-            "(15-25)% increased Quantity of Items found",
-            "+(8-12)% to all Elemental Resistances",
-            "+(20-30) Life gained for each Enemy hit by your Attacks",
-            "+15 Mana gained for each Enemy hit by your Attacks"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+(8-10)% to all Elemental Resistances",
-            "(10-16)% increased Quantity of Items found",
-            "+(8-12)% to all Elemental Resistances",
-            "+(20-30) Life gained for each Enemy hit by your Attacks",
-            "+15 Mana gained for each Enemy hit by your Attacks"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(8-10)% to all Elemental Resistances",
-            "(10-16)% increased Quantity of Items found",
-            "+(16-24)% to all Elemental Resistances",
-            "+(40-60) Life gained for each Enemy hit by your Attacks",
-            "+30 Mana gained for each Enemy hit by your Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.0.0": [
+          "+(8-12) to all Elemental Resistances",
+          "(15-25)% increased Quantity of Items found",
+          "+(8-12)% to all Elemental Resistances",
+          "+(20-30) Life gained for each Enemy hit by your Attacks",
+          "+15 Mana gained for each Enemy hit by your Attacks"
+        ],
+        "Pre 1.1.0": [
+          "+(8-10)% to all Elemental Resistances",
+          "(15-25)% increased Quantity of Items found",
+          "+(8-12)% to all Elemental Resistances",
+          "+(20-30) Life gained for each Enemy hit by your Attacks",
+          "+15 Mana gained for each Enemy hit by your Attacks"
+        ],
+        "Pre 2.6.0": [
+          "+(8-10)% to all Elemental Resistances",
+          "(10-16)% increased Quantity of Items found",
+          "+(8-12)% to all Elemental Resistances",
+          "+(20-30) Life gained for each Enemy hit by your Attacks",
+          "+15 Mana gained for each Enemy hit by your Attacks"
+        ],
+        "Current": [
+          "+(8-10)% to all Elemental Resistances",
+          "(10-16)% increased Quantity of Items found",
+          "+(16-24)% to all Elemental Resistances",
+          "+(40-60) Life gained for each Enemy hit by your Attacks",
+          "+30 Mana gained for each Enemy hit by your Attacks"
+        ]
+      },
       "mods": [
         "Can't use other Rings",
         "50% reduced Effect of Curses on You"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/ThiefsTorment.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Timeclasp",
       "base": "Moonstone Ring",
       "levelReq": 22,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(5-8)% increased Cast Speed",
-            "15% reduced Mana Regeneration Rate",
-            "+(10-25) to maximum Energy Shield",
-            "Temporal Chains has 30% reduced Effect on You"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(5-10)% increased Cast Speed",
-            "15% increased Mana Regeneration Rate",
-            "+(15-25) to maximum Energy Shield",
-            "Temporal Chains has 50% reduced Effect on You"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(5-8)% increased Cast Speed",
+          "15% reduced Mana Regeneration Rate",
+          "+(10-25) to maximum Energy Shield",
+          "Temporal Chains has 30% reduced Effect on You"
+        ],
+        "Current": [
+          "(5-10)% increased Cast Speed",
+          "15% increased Mana Regeneration Rate",
+          "+(15-25) to maximum Energy Shield",
+          "Temporal Chains has 50% reduced Effect on You"
+        ]
+      },
       "mods": [
         "+(15-25) to maximum Energy Shield",
         "(10-15)% increased Attack Speed"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Timeclasp.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Timetwist",
       "base": "Moonstone Ring",
       "levelReq": 64,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(15-25) to maximum Energy Shield",
         "(10–15)% increased Attack Speed",
@@ -1239,35 +1086,27 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Timeclasp.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Valako's Sign",
       "base": "Topaz Ring",
       "levelReq": 38,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "15% increased Damage against Shocked Enemies",
-            "5% chance to Shock"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "40% increased Damage against Shocked Enemies",
-            "10% chance to Shock"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "40% increased Damage with Hits against Shocked Enemies",
-            "10% chance to Shock"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "15% increased Damage against Shocked Enemies",
+          "5% chance to Shock"
+        ],
+        "Pre 3.0.0": [
+          "40% increased Damage against Shocked Enemies",
+          "10% chance to Shock"
+        ],
+        "Current": [
+          "40% increased Damage with Hits against Shocked Enemies",
+          "10% chance to Shock"
+        ]
+      },
       "mods": [
         "+(20-30)% to Lightning Resistance",
         "20% increased Lightning Damage",
@@ -1276,13 +1115,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/ValakosSign.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
-      "name": "Valyrium ",
+      "name": "Valyrium",
       "base": "Moonstone Ring",
       "levelReq": 38,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(15-25) to maximum Energy Shield",
         "+(10-20) to maximum Energy Shield",
@@ -1292,13 +1132,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Valyrium.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Ventor's Gamble",
       "base": "Gold Ring",
       "levelReq": 65,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(6-15)% increased Rarity of Items found",
         "+(0-60) to maximum Life",
@@ -1310,26 +1151,28 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DieOfDestiny.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Voideye",
       "base": "Unset Ring",
       "levelReq": 45,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Has 1 Socket",
         "+5 to Level of Socketed Gems"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/unused4.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
-      "name": "The Warden's Brand ",
+      "name": "The Warden's Brand",
       "base": "Iron Ring",
       "levelReq": 30,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 1 to 4 Physical Damage to Attacks",
         "Adds (5-15) to (25–50) Physical Damage to Attacks",
@@ -1338,7 +1181,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/TheWardensBand.png?scale=1&scaleIndex=0&w=1&h=1"
     }
   ]
 }
