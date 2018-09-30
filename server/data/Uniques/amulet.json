@@ -4,37 +4,28 @@
       "name": "The Anvil",
       "base": "Amber Amulet",
       "levelReq": 45,
-      "variants": [
-        {
-          "name": "Pre 1.3.0",
-          "mods": [
-            "+(30-40) Life gained when you Block",
-            "+(10-20) Mana gained when you Block",
-            "20% reduced Movement Speed",
-            "10% Chance to Block",
-            "Reflects 200 to 250 Physical Damage to Attackers on Block"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+(34-48) Life gained when you Block",
-            "+(10-24) Mana gained when you Block",
-            "10% reduced Movement Speed",
-            "8% Chance to Block",
-            "Reflects 240 to 300 Physical Damage to Attackers on Block"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(34-48) Life gained when you Block",
-            "+(10-24) Mana gained when you Block",
-            "8% Chance to Block",
-            "Reflects 240 to 300 Physical Damage to Attackers on Block"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.3.0": [
+          "+(30-40) Life gained when you Block",
+          "+(10-20) Mana gained when you Block",
+          "20% reduced Movement Speed",
+          "10% Chance to Block",
+          "Reflects 200 to 250 Physical Damage to Attackers on Block"
+        ],
+        "Pre 2.6.0": [
+          "+(34-48) Life gained when you Block",
+          "+(10-24) Mana gained when you Block",
+          "10% reduced Movement Speed",
+          "8% Chance to Block",
+          "Reflects 240 to 300 Physical Damage to Attackers on Block"
+        ],
+        "Current": [
+          "+(34-48) Life gained when you Block",
+          "+(10-24) Mana gained when you Block",
+          "8% Chance to Block",
+          "Reflects 240 to 300 Physical Damage to Attackers on Block"
+        ]
+      },
       "mods": [
         "+(20-30) to Strength",
         "10% reduced Attack Speed",
@@ -44,13 +35,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Anvil.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Araku Tiki",
       "base": "Coral Amulet",
       "levelReq": 1,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(2-4) Life Regenerated per second",
         "You gain 100 Evasion Rating when on Low Life",
@@ -60,13 +52,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Ngamahu Tiki",
       "base": "Coral Amulet",
       "levelReq": 36,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(2-4) Life Regenerated per second",
         "(50-70)% increased Fire Damage",
@@ -77,13 +70,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "The Ascetic",
       "base": "Gold Amulet",
       "levelReq": 8,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(12-20)% increased Rarity of Items found",
         "(80-100)% increased Rarity of Items found with a Normal Item equipped",
@@ -91,13 +85,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet13.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Astramentis",
       "base": "Onyx Amulet",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(10-16) to all Attributes",
         "+(80-100) to all Attributes",
@@ -105,54 +100,44 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet36.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Atziri's Foible",
       "base": "Paua Amulet",
       "levelReq": 16,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+50 to maximum Mana",
-            "(8-12)% increased maximum Mana",
-            "(40-60)% increased Mana Regeneration Rate"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+100 to maximum Mana",
-            "(16-24)% increased maximum Mana",
-            "(80-100)% increased Mana Regeneration Rate"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "+50 to maximum Mana",
+          "(8-12)% increased maximum Mana",
+          "(40-60)% increased Mana Regeneration Rate"
+        ],
+        "Current": [
+          "+100 to maximum Mana",
+          "(16-24)% increased maximum Mana",
+          "(80-100)% increased Mana Regeneration Rate"
+        ]
+      },
       "mods": [
         "(20-30)% increased Mana Regeneration Rate",
         "Items and Gems have 25% reduced Attribute Requirements"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Quid.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "The Aylardex",
       "base": "Agate Amulet",
       "levelReq": 32,
-      "variants": [
-        {
-          "name": "Pre 2.5.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(80-100)% increased Power Charge Duration"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.5.0": [],
+        "Current": [
+          "(80-100)% increased Power Charge Duration"
+        ]
+      },
       "mods": [
         "+(16-24) to Strength and Intelligence",
         "+(30-50) to maximum Life",
@@ -164,47 +149,40 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Xedralyas.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Bisco's Collar",
       "base": "Gold Amulet",
       "levelReq": 30,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "150% increased Rarity of Items Dropped by Slain Magic Enemies",
-            "100% increased Quantity of Items Dropped by Slain Normal Enemies"
-          ]
-        },
-        {
-          "name": "Pre 3.2.0",
-          "mods": [
-            "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
-            "(50-100)% increased Quantity of Items Dropped by Slain Normal Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
-            "(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "150% increased Rarity of Items Dropped by Slain Magic Enemies",
+          "100% increased Quantity of Items Dropped by Slain Normal Enemies"
+        ],
+        "Pre 3.2.0": [
+          "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
+          "(50-100)% increased Quantity of Items Dropped by Slain Normal Enemies"
+        ],
+        "Current": [
+          "(100-150)% increased Rarity of Items Dropped by Slain Magic Enemies",
+          "(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies"
+        ]
+      },
       "mods": [
         "(12-20)% increased Rarity of Items found"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BiscosCollar.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Blightwell",
       "base": "Clutching Talisman",
       "levelReq": 28,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(15-25)% increased Defences",
         "+(20-30) to maximum Energy Shield",
@@ -215,13 +193,14 @@
       ],
       "corrupted": true,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TaintedSprings.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Blood of Corruption",
       "base": "Amber Amulet",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to Strength",
         "Grants level 10 Gluttony of Elements Skill",
@@ -231,18 +210,16 @@
       ],
       "corrupted": true,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HeartOfCorruption.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Bloodgrip",
       "base": "Coral Amulet",
       "levelReq": 55,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": []
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": []
+      },
       "mods": [
         "(2-4) Life Regenerated per second",
         "Adds 10 to 20 Physical Damage to Attacks",
@@ -253,18 +230,16 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BloodAmulet.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Bloodgrip",
       "base": "Marble Amulet",
       "levelReq": 74,
-      "variants": [
-        {
-          "name": "Current",
-          "mods": []
-        }
-      ],
+      "variants": {
+        "Current": []
+      },
       "mods": [
         "(1.2-1.6)% of Life Regenerated per second",
         "Adds 10 to 20 Physical Damage to Attacks",
@@ -275,28 +250,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BloodAmulet.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Carnage Heart",
       "base": "Onyx Amulet",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "25% reduced maximum Life",
-            "25% reduced maximum Energy Shield"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(30-40)% increased Damage while Leeching",
-            "50% increased Life Leeched per second"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "25% reduced maximum Life",
+          "25% reduced maximum Energy Shield"
+        ],
+        "Current": [
+          "(30-40)% increased Damage while Leeching",
+          "50% increased Life Leeched per second"
+        ]
+      },
       "mods": [
         "+(10-16) to all Attributes",
         "+(20-40) to all Attributes",
@@ -306,13 +276,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet37.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Daresso's Salute",
       "base": "Citrine Amulet",
       "levelReq": 16,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Strength and Dexterity",
         "50% reduced maximum Energy Shield",
@@ -324,13 +295,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Extractor Mentis",
       "base": "Agate Amulet",
       "levelReq": 16,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Strength and Intelligence",
         "+(30-50) to Strength",
@@ -342,13 +314,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ExtractorMentis.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Eye of Chayula",
       "base": "Onyx Amulet",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(10-16) to all Attributes",
         "20% reduced maximum Life",
@@ -357,13 +330,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Presence of Chayula",
       "base": "Onyx Amulet",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(10-16) to all Attributes",
         "30% increased Rarity of Items found",
@@ -373,13 +347,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/PresenceOfChayula.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
-      "name": "Eye of Innocence ",
+      "name": "Eye of Innocence",
       "base": "Citrine Amulet",
       "levelReq": 68,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Strength and Dexterity",
         "10% chance to Ignite",
@@ -389,222 +364,125 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/EyeOfInnocence.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Eyes of the Greatwolf",
       "base": "Greatwolf Talisman",
       "levelReq": 52,
-      "variants": [
-        {
-          "name": "Has Alt true",
-          "mods": [
-            "(24-32)% increased Attributes"
-          ]
-        },
-        {
-          "name": "Attributes",
-          "mods": [
-            "(30-50)% increased Global Defences"
-          ]
-        },
-        {
-          "name": "Global Defences",
-          "mods": [
-            "(38-62)% increased Chaos Damage"
-          ]
-        },
-        {
-          "name": "Chaos Damage",
-          "mods": [
-            "(40-60)% increased Attack Damage"
-          ]
-        },
-        {
-          "name": "Attack Damage",
-          "mods": [
-            "(40-60)% increased Cold Damage"
-          ]
-        },
-        {
-          "name": "Cold Damage",
-          "mods": [
-            "(40-60)% increased Fire Damage"
-          ]
-        },
-        {
-          "name": "Fire Damage",
-          "mods": [
-            "(40-60)% increased Lightning Damage"
-          ]
-        },
-        {
-          "name": "Lightning Damage",
-          "mods": [
-            "(40-60)% increased Spell Damage"
-          ]
-        },
-        {
-          "name": "Spell Damage",
-          "mods": [
-            "(40-60)% increased Global Physical Damage"
-          ]
-        },
-        {
-          "name": "Global Physical Damage",
-          "mods": [
-            "(40-60)% increased maximum Mana"
-          ]
-        },
-        {
-          "name": "Mana",
-          "mods": [
-            "(50-70)% increased Damage"
-          ]
-        },
-        {
-          "name": "Damage",
-          "mods": [
-            "(8-12)% increased Physical Damage Reduction"
-          ]
-        },
-        {
-          "name": "Physical Damage Reduction",
-          "mods": [
-            "(8-12)% chance to Freeze, Shock and Ignite"
-          ]
-        },
-        {
-          "name": "Chance to Freeze, Shock and Ignite",
-          "mods": [
-            "(80-100)% increased Global Critical Strike Chance"
-          ]
-        },
-        {
-          "name": "Crit Chance",
-          "mods": [
-            "(10-16)% increased Area of Effect"
-          ]
-        },
-        {
-          "name": "Area of Effect",
-          "mods": [
-            "(12-20)% increased Attack and Cast Speed"
-          ]
-        },
-        {
-          "name": "Attack/Cast Speed",
-          "mods": [
-            "(12-20)% increased Quantity of Items found"
-          ]
-        },
-        {
-          "name": "Item Quantity",
-          "mods": [
-            "(16-24)% increased maximum Life"
-          ]
-        },
-        {
-          "name": "Life",
-          "mods": [
-            "+(48-72)% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Crit Multiplier",
-          "mods": [
-            "+2 to maximum number of Zombies"
-          ]
-        },
-        {
-          "name": "Maximum number of Zombies",
-          "mods": [
-            "20% chance to gain a Frenzy Charge on Kill"
-          ]
-        },
-        {
-          "name": "Frenzy Charge on Kill",
-          "mods": [
-            "20% chance to gain a Power Charge on Kill"
-          ]
-        },
-        {
-          "name": "Power Charge on Kill",
-          "mods": [
-            "20% chance to gain a Endurance Charge on Kill"
-          ]
-        },
-        {
-          "name": "Endurance Charge on Kill",
-          "mods": [
-            "4% of Life Regenerated per second"
-          ]
-        },
-        {
-          "name": "Life Regen",
-          "mods": [
-            "100% of Cold Damage from Hits taken as Fire Damage"
-          ]
-        },
-        {
-          "name": "Cold taken as Fire",
-          "mods": [
-            "100% of Cold Damage from Hits taken as Lightning Damage"
-          ]
-        },
-        {
-          "name": "Cold taken as Lightning",
-          "mods": [
-            "100% of Fire Damage from Hits taken as Cold Damage"
-          ]
-        },
-        {
-          "name": "Fire taken as Cold",
-          "mods": [
-            "100% of Fire Damage from Hits taken as Lightning Damage"
-          ]
-        },
-        {
-          "name": "Fire taken as Lightning",
-          "mods": [
-            "100% of Lightning Damage from Hits taken as Cold Damage"
-          ]
-        },
-        {
-          "name": "Lightning taken as Cold",
-          "mods": [
-            "100% of Lightning Damage from Hits taken as Fire Damage"
-          ]
-        },
-        {
-          "name": "Lightning taken as Fire",
-          "mods": [
-            "Gain (12-24)% of Physical Damage as Extra Damage of a random Element"
-          ]
-        },
-        {
-          "name": "Gain Physical as random Element",
-          "mods": [
-            "Projectiles Pierce (4-6) additional Targets"
-          ]
-        },
-        {
-          "name": "Extra Pierces",
-          "mods": []
-        }
-      ],
+      "variants": {
+        "Has Alt true": [
+          "(24-32)% increased Attributes"
+        ],
+        "Attributes": [
+          "(30-50)% increased Global Defences"
+        ],
+        "Global Defences": [
+          "(38-62)% increased Chaos Damage"
+        ],
+        "Chaos Damage": [
+          "(40-60)% increased Attack Damage"
+        ],
+        "Attack Damage": [
+          "(40-60)% increased Cold Damage"
+        ],
+        "Cold Damage": [
+          "(40-60)% increased Fire Damage"
+        ],
+        "Fire Damage": [
+          "(40-60)% increased Lightning Damage"
+        ],
+        "Lightning Damage": [
+          "(40-60)% increased Spell Damage"
+        ],
+        "Spell Damage": [
+          "(40-60)% increased Global Physical Damage"
+        ],
+        "Global Physical Damage": [
+          "(40-60)% increased maximum Mana"
+        ],
+        "Mana": [
+          "(50-70)% increased Damage"
+        ],
+        "Damage": [
+          "(8-12)% increased Physical Damage Reduction"
+        ],
+        "Physical Damage Reduction": [
+          "(8-12)% chance to Freeze, Shock and Ignite"
+        ],
+        "Chance to Freeze, Shock and Ignite": [
+          "(80-100)% increased Global Critical Strike Chance"
+        ],
+        "Crit Chance": [
+          "(10-16)% increased Area of Effect"
+        ],
+        "Area of Effect": [
+          "(12-20)% increased Attack and Cast Speed"
+        ],
+        "Attack/Cast Speed": [
+          "(12-20)% increased Quantity of Items found"
+        ],
+        "Item Quantity": [
+          "(16-24)% increased maximum Life"
+        ],
+        "Life": [
+          "+(48-72)% to Global Critical Strike Multiplier"
+        ],
+        "Crit Multiplier": [
+          "+2 to maximum number of Zombies"
+        ],
+        "Maximum number of Zombies": [
+          "20% chance to gain a Frenzy Charge on Kill"
+        ],
+        "Frenzy Charge on Kill": [
+          "20% chance to gain a Power Charge on Kill"
+        ],
+        "Power Charge on Kill": [
+          "20% chance to gain a Endurance Charge on Kill"
+        ],
+        "Endurance Charge on Kill": [
+          "4% of Life Regenerated per second"
+        ],
+        "Life Regen": [
+          "100% of Cold Damage from Hits taken as Fire Damage"
+        ],
+        "Cold taken as Fire": [
+          "100% of Cold Damage from Hits taken as Lightning Damage"
+        ],
+        "Cold taken as Lightning": [
+          "100% of Fire Damage from Hits taken as Cold Damage"
+        ],
+        "Fire taken as Cold": [
+          "100% of Fire Damage from Hits taken as Lightning Damage"
+        ],
+        "Fire taken as Lightning": [
+          "100% of Lightning Damage from Hits taken as Cold Damage"
+        ],
+        "Lightning taken as Cold": [
+          "100% of Lightning Damage from Hits taken as Fire Damage"
+        ],
+        "Lightning taken as Fire": [
+          "Gain (12-24)% of Physical Damage as Extra Damage of a random Element"
+        ],
+        "Gain Physical as random Element": [
+          "Projectiles Pierce (4-6) additional Targets"
+        ],
+        "Extra Pierces": []
+      },
       "mods": [
         "Implicit Modifier magnitudes are doubled"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RigwaldsTalisman.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Gloomfang",
       "base": "Blue Pearl Amulet",
       "levelReq": 1,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(48-56)% increased Mana Regeneration Rate ",
         "0.5% of Chaos Damage Leeched as Life ",
@@ -615,13 +493,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShadowRay.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "The Halcyon",
       "base": "Jade Amulet",
       "levelReq": 35,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to Dexterity",
         "(10-20)% increased Cold Damage",
@@ -632,13 +511,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoon.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "The Pandemonius",
       "base": "Jade Amulet",
       "levelReq": 64,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to Dexterity",
         "(20-30)% increased Cold Damage",
@@ -649,13 +529,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoonUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Hinekora's Sight",
       "base": "Onyx Amulet",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(10-16) to all Attributes",
         "+1000 to Accuracy Rating",
@@ -665,13 +546,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HinekorasSight.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "The Ignomon",
       "base": "Gold Amulet",
       "levelReq": 8,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(12-20)% increased Rarity of Items found",
         "+10 to Dexterity",
@@ -682,13 +564,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "The Effigon",
       "base": "Gold Amulet",
       "levelReq": 57,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(12-20)% increased Rarity of Items found",
         "+10 to Dexterity",
@@ -701,59 +584,45 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Impresence",
       "base": "Onyx Amulet",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Physical",
-          "mods": [
-            "Adds (12-16) to (20–25) Physical Damage",
-            "+(450–500) to Armour",
-            "(30–40)% increased Stun and Block Recovery",
-            "100% reduced Vulnerability Mana Reservation"
-          ]
-        },
-        {
-          "name": "Fire",
-          "mods": [
-            "Adds (20–24) to (33–36) Fire Damage",
-            "1% of Life Regenerated per second",
-            "+(20–25)% to Fire Resistance",
-            "100% reduced Flammability Mana Reservation"
-          ]
-        },
-        {
-          "name": "Cold",
-          "mods": [
-            "Adds (20–24) to (33–36) Cold Damage",
-            "(45–50)% increased Mana Regeneration Rate",
-            "+(20–25)% to Cold Resistance",
-            "100% reduced Frostbite Mana Reservation"
-          ]
-        },
-        {
-          "name": "Lightning",
-          "mods": [
-            "Adds (10–13) to (43–47) Lightning Damage",
-            "1% of Energy Shield Regenerated per second",
-            "+(20–25)% to Lightning Resistance",
-            "100% reduced Conductivity Mana Reservation"
-          ]
-        },
-        {
-          "name": "Chaos",
-          "mods": [
-            "Adds (17–19) to (23–29) Chaos Damage",
-            "(30–40)% increased Damage over Time",
-            "+(17–23)% to Chaos Resistance",
-            "100% reduced Despair Mana Reservation"
-          ]
-        }
-      ],
+      "variants": {
+        "Physical": [
+          "Adds (12-16) to (20–25) Physical Damage",
+          "+(450–500) to Armour",
+          "(30–40)% increased Stun and Block Recovery",
+          "100% reduced Vulnerability Mana Reservation"
+        ],
+        "Fire": [
+          "Adds (20–24) to (33–36) Fire Damage",
+          "1% of Life Regenerated per second",
+          "+(20–25)% to Fire Resistance",
+          "100% reduced Flammability Mana Reservation"
+        ],
+        "Cold": [
+          "Adds (20–24) to (33–36) Cold Damage",
+          "(45–50)% increased Mana Regeneration Rate",
+          "+(20–25)% to Cold Resistance",
+          "100% reduced Frostbite Mana Reservation"
+        ],
+        "Lightning": [
+          "Adds (10–13) to (43–47) Lightning Damage",
+          "1% of Energy Shield Regenerated per second",
+          "+(20–25)% to Lightning Resistance",
+          "100% reduced Conductivity Mana Reservation"
+        ],
+        "Chaos": [
+          "Adds (17–19) to (23–29) Chaos Damage",
+          "(30–40)% increased Damage over Time",
+          "+(17–23)% to Chaos Resistance",
+          "100% reduced Despair Mana Reservation"
+        ]
+      },
       "mods": [
         "+(10-16) to all Attributes",
         "+(50–70) to maximum Life",
@@ -761,24 +630,19 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": true
+      "elder": true,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ElderChaos.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Karui Ward",
       "base": "Jade Amulet",
       "levelReq": 5,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "30% increased Projectile Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [],
+        "Current": [
+          "30% increased Projectile Damage"
+        ]
+      },
       "mods": [
         "+(20-30) to Dexterity",
         "+(20-30) to Strength",
@@ -788,27 +652,22 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Karui Charge",
       "base": "Jade Amulet",
       "levelReq": 24,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(15-20)% increased Attack Speed"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(5-10)% increased Attack Speed",
-            "30% increased Projectile Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(15-20)% increased Attack Speed"
+        ],
+        "Current": [
+          "(5-10)% increased Attack Speed",
+          "30% increased Projectile Damage"
+        ]
+      },
       "mods": [
         "+(20-30) to Dexterity",
         "+(20-30) to Strength",
@@ -818,13 +677,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Maligaro's Cruelty",
       "base": "Turquoise Amulet",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Dexterity and Intelligence",
         "(4-8)% increased maximum Life",
@@ -835,53 +695,39 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet15.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Marylene's Fallacy",
       "base": "Lapis Amulet",
       "levelReq": 40,
-      "variants": [
-        {
-          "name": "Pre 1.3.0",
-          "mods": [
-            "+(140-160)% to Global Critical Strike Multiplier",
-            "Non-critical strikes deal 25% Damage",
-            "60% less Critical Strike Chance"
-          ]
-        },
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "+(140-160)% to Global Critical Strike Multiplier",
-            "Non-critical strikes deal 25% Damage",
-            "50% less Critical Strike Chance"
-          ]
-        },
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "+(140-160)% to Global Critical Strike Multiplier",
-            "Non-critical strikes deal 40% Damage",
-            "40% less Critical Strike Chance"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "+(210-240)% to Global Critical Strike Multiplier",
-            "Non-critical strikes deal 40% Damage",
-            "40% less Critical Strike Chance"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(210-240)% to Global Critical Strike Multiplier",
-            "40% less Critical Strike Chance"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.3.0": [
+          "+(140-160)% to Global Critical Strike Multiplier",
+          "Non-critical strikes deal 25% Damage",
+          "60% less Critical Strike Chance"
+        ],
+        "Pre 2.0.0": [
+          "+(140-160)% to Global Critical Strike Multiplier",
+          "Non-critical strikes deal 25% Damage",
+          "50% less Critical Strike Chance"
+        ],
+        "Pre 2.2.0": [
+          "+(140-160)% to Global Critical Strike Multiplier",
+          "Non-critical strikes deal 40% Damage",
+          "40% less Critical Strike Chance"
+        ],
+        "Pre 2.6.0": [
+          "+(210-240)% to Global Critical Strike Multiplier",
+          "Non-critical strikes deal 40% Damage",
+          "40% less Critical Strike Chance"
+        ],
+        "Current": [
+          "+(210-240)% to Global Critical Strike Multiplier",
+          "40% less Critical Strike Chance"
+        ]
+      },
       "mods": [
         "+(20-30) to Intelligence",
         "+(80-120) to Accuracy Rating",
@@ -891,13 +737,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/MarylenesFallacy.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Natural Hierarchy",
       "base": "Rotfeather Talisman",
       "levelReq": 44,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(25-35)% increased Damage",
         "(10-15)% increased Physical Damage",
@@ -908,13 +755,14 @@
       ],
       "corrupted": true,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanUnique2.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Night's Hold",
       "base": "Black Maw Talisman",
       "levelReq": 25,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Has 1 Socket",
         "+2 to Level of Socketed Gems",
@@ -924,26 +772,21 @@
       ],
       "corrupted": true,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/SocketedTalisman.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Rashkaldor's Patience",
       "base": "Jade Amulet",
       "levelReq": 61,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "20% increased Duration of Elemental Status Ailments on Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "20% increased Duration of Elemental Ailments on Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "20% increased Duration of Elemental Status Ailments on Enemies"
+        ],
+        "Current": [
+          "20% increased Duration of Elemental Ailments on Enemies"
+        ]
+      },
       "mods": [
         "+(20-30) to Dexterity",
         "+(40-80) to maximum Life",
@@ -954,26 +797,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RashkaldorsPatience.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Rigwald's Curse",
       "base": "Wereclaw Talisman",
       "levelReq": 28,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "+(16-24)% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(24-36)% to Global Critical Strike Multiplier"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "+(16-24)% to Global Critical Strike Multiplier"
+        ],
+        "Current": [
+          "+(24-36)% to Global Critical Strike Multiplier"
+        ]
+      },
       "mods": [
         "+7% Base Unarmed Critical Strike Chance",
         "Modifiers to Claw Damage also apply to Unarmed Attack Damage",
@@ -982,26 +820,21 @@
       ],
       "corrupted": true,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UniqueDireClawTalisman.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Shaper's Seed",
       "base": "Agate Amulet",
       "levelReq": 16,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "Nearby Allies gain 1% of Life Regenerated per Second"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Nearby Allies gain 2% of Life Regenerated per Second"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "Nearby Allies gain 1% of Life Regenerated per Second"
+        ],
+        "Current": [
+          "Nearby Allies gain 2% of Life Regenerated per Second"
+        ]
+      },
       "mods": [
         "+(16-24) to Strength and Intelligence",
         "(30-50)% increased Mana Regeneration Rate",
@@ -1010,24 +843,19 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShapersSeed.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Sidhebreath",
       "base": "Paua Amulet",
       "levelReq": 1,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(10-15)% reduced Mana Cost of Minion Skills"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [],
+        "Current": [
+          "(10-15)% reduced Mana Cost of Minion Skills"
+        ]
+      },
       "mods": [
         "(20-30)% increased Mana Regeneration Rate",
         "+25% to Cold Resistance",
@@ -1038,26 +866,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Star of Wraeclast",
       "base": "Ruby Amulet",
       "levelReq": 28,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "30% increased Radius of Curse Skills"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "60% increased Area of Effect of Curse Skills"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "30% increased Radius of Curse Skills"
+        ],
+        "Current": [
+          "60% increased Area of Effect of Curse Skills"
+        ]
+      },
       "mods": [
         "+(20-30)% to Fire Resistance",
         "(30-50)% increased Cold Damage",
@@ -1067,32 +890,24 @@
       ],
       "corrupted": true,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/DirgeOfVictory.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Stone of Lazhwar",
       "base": "Lapis Amulet",
       "levelReq": 5,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "50% of Block Chance applied to Spells"
-          ]
-        },
-        {
-          "name": "Pre 3.4.0",
-          "mods": [
-            "+15% chance to Block Spell Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(12-15)% chance to Block Spell Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "50% of Block Chance applied to Spells"
+        ],
+        "Pre 3.4.0": [
+          "+15% chance to Block Spell Damage"
+        ],
+        "Current": [
+          "+(12-15)% chance to Block Spell Damage"
+        ]
+      },
       "mods": [
         "+(20-30) to Intelligence",
         "(10-15)% increased Cast Speed",
@@ -1100,13 +915,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5Unique.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Tear of Purity",
       "base": "Lapis Amulet",
       "levelReq": 20,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to Intelligence",
         "Grants level 10 Purity of Elements Skill",
@@ -1116,32 +932,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TearOfPurity.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Ungil's Harmony",
       "base": "Turquoise Amulet",
       "levelReq": 23,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "−50% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "−75% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "−25% to Global Critical Strike Multiplier"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "−50% to Global Critical Strike Multiplier"
+        ],
+        "Pre 2.6.0": [
+          "−75% to Global Critical Strike Multiplier"
+        ],
+        "Current": [
+          "−25% to Global Critical Strike Multiplier"
+        ]
+      },
       "mods": [
         "+(16-24) to Dexterity and Intelligence",
         "100% increased Global Critical Strike Chance",
@@ -1151,13 +959,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UngilsHarmony.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Victario's Acuity",
       "base": "Turquoise Amulet",
       "levelReq": 16,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Dexterity and Intelligence",
         "+(30-40)% to Lightning Resistance",
@@ -1169,26 +978,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Voice of the Storm",
       "base": "Lapis Amulet",
       "levelReq": 40,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Critical Strike Chance is increased by Uncapped Lightning Resistance"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Critical Strike Chance is increased by Lightning Resistance"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Critical Strike Chance is increased by Uncapped Lightning Resistance"
+        ],
+        "Current": [
+          "Critical Strike Chance is increased by Lightning Resistance"
+        ]
+      },
       "mods": [
         "+(20-30) to Intelligence",
         "+(10-15) to all Attributes",
@@ -1197,29 +1001,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStorm.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Choir of the Storm",
       "base": "Lapis Amulet",
       "levelReq": 69,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "-30% to Lightning Resistance",
-            "Critical Strike Chance is increased by Uncapped Lightning Resistance",
-            "Critical Strikes deal 50% increased Lightning Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Critical Strike Chance is increased by Lightning Resistance",
-            "50% increased Lightning Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "-30% to Lightning Resistance",
+          "Critical Strike Chance is increased by Uncapped Lightning Resistance",
+          "Critical Strikes deal 50% increased Lightning Damage"
+        ],
+        "Current": [
+          "Critical Strike Chance is increased by Lightning Resistance",
+          "50% increased Lightning Damage"
+        ]
+      },
       "mods": [
         "+(20-30) to Intelligence",
         "(10-20)% increased maximum Mana",
@@ -1227,13 +1026,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStormUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Voll's Devotion",
       "base": "Agate Amulet",
       "levelReq": 32,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Strength and Intelligence",
         "+(30-40) to maximum Life",
@@ -1245,13 +1045,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Warped Timepiece",
       "base": "Turquoise Amulet",
       "levelReq": 50,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(16-24) to Dexterity and Intelligence",
         "(8-12)% increased Attack Speed",
@@ -1263,13 +1064,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WarpedTimepiece.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Winterheart",
       "base": "Gold Amulet",
       "levelReq": 42,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(12-20)% increased Rarity of Items found",
         "+(20-30) to Dexterity",
@@ -1280,13 +1082,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WinterHeartALT.png?scale=1&scaleIndex=0&w=1&h=1"
     },
     {
       "name": "Xoph's Heart",
       "base": "Amber Amulet",
       "levelReq": 35,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to Strength",
         "+(20-30) to Strength",
@@ -1297,13 +1100,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeart.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Xoph's Blood",
       "base": "Amber Amulet",
       "levelReq": 64,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(20-30) to Strength",
         "10% increased maximum Life",
@@ -1315,13 +1119,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeartUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
     },
     {
       "name": "Yoke of Suffering",
       "base": "Onyx Amulet",
       "levelReq": 25,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+(10-16) to all Attributes ",
         "+(10–20)% to Fire Resistance ",
@@ -1334,7 +1139,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YokeOfSuffering.png?scale=1&scaleIndex=0&w=1&h=1"
     }
   ]
 }

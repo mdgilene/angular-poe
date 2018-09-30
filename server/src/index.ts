@@ -2,6 +2,8 @@ import express from "express";
 import axios from "axios";
 import cors from "cors";
 
+import { itemApi } from "./routes/itemApi";
+
 const CURRENT_LEAGUE = "Delve";
 
 const app = express();
@@ -77,17 +79,7 @@ app.get("/jewels", (req, res) => {
     );
 });
 
-app.get("/gems", (req, res) => {
-  axios
-    .get(
-      `http://poe.ninja/api/Data/GetSkillGemOverview?league=${CURRENT_LEAGUE}`
-    )
-    .then(response =>
-      res.json({
-        lines: filterUnique(response.data.lines)
-      })
-    );
-});
+app.use("/item-api", itemApi);
 
 const filterUnique = arr => {
   // return arr.filter((item, index, a) => {

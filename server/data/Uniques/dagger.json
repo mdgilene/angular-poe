@@ -4,16 +4,10 @@
       "name": "Arakaali's Fang",
       "base": "Fiend Dagger",
       "levelReq": 53,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": []
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [],
+        "Current": []
+      },
       "mods": [
         "40% increased Global Critical Strike Chance",
         "(170-200)% increased Physical Damage",
@@ -24,26 +18,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/FangUnique.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Bino's Kitchen Knife",
       "base": "Slaughter Knife",
       "levelReq": 65,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "+(10-15)% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+(15-25)% to Global Critical Strike Multiplier"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "+(10-15)% to Global Critical Strike Multiplier"
+        ],
+        "Current": [
+          "+(15-25)% to Global Critical Strike Multiplier"
+        ]
+      },
       "mods": [
         "30% increased Global Critical Strike Chance",
         "30% increased Damage over Time",
@@ -55,26 +44,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/BinosKitchenKnife.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Bloodplay",
       "base": "Stiletto",
       "levelReq": 15,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "10% chance to cause Bleeding on Hit"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "30% chance to cause Bleeding on Hit"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "10% chance to cause Bleeding on Hit"
+        ],
+        "Current": [
+          "30% chance to cause Bleeding on Hit"
+        ]
+      },
       "mods": [
         "30% increased Global Critical Strike Chance",
         "+20 to Dexterity",
@@ -85,38 +69,30 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/BloodPlay.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "The Consuming Dark",
       "base": "Fiend Dagger",
       "levelReq": 53,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "(40-60)% increased Spell Damage",
-            "45% of Fire Damage Converted to Chaos Damage",
-            "Your Chaos Damage Poisons Enemies"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(40-60)% increased Spell Damage",
-            "30% of Fire Damage Converted to Chaos Damage",
-            "Your Chaos Damage Poisons Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(40�60)% increased Fire Damage",
-            "30% of Fire Damage Converted to Chaos Damage",
-            "Your Chaos Damage has 60% chance to Poison Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "(40-60)% increased Spell Damage",
+          "45% of Fire Damage Converted to Chaos Damage",
+          "Your Chaos Damage Poisons Enemies"
+        ],
+        "Pre 3.0.0": [
+          "(40-60)% increased Spell Damage",
+          "30% of Fire Damage Converted to Chaos Damage",
+          "Your Chaos Damage Poisons Enemies"
+        ],
+        "Current": [
+          "(40-60)% increased Fire Damage",
+          "30% of Fire Damage Converted to Chaos Damage",
+          "Your Chaos Damage has 60% chance to Poison Enemies"
+        ]
+      },
       "mods": [
         "40% increased Global Critical Strike Chance",
         "+1 to Level of Socketed Fire Gems",
@@ -124,13 +100,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/ConsumingtheDark.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Divinarius",
       "base": "Imperial Skean",
       "levelReq": 66,
-      "variants": [],
+      "variants": {},
       "mods": [
         "30% increased Global Critical Strike Chance",
         "(50-70)% increased Spell Damage",
@@ -141,26 +118,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger7unique.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Goredrill",
       "base": "Skinning Knife",
       "levelReq": 5,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Melee Critical Strikes cause Bleeding"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "50% chance to cause Bleeding with Melee Critical Strikes with this Weapon"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Melee Critical Strikes cause Bleeding"
+        ],
+        "Current": [
+          "50% chance to cause Bleeding with Melee Critical Strikes with this Weapon"
+        ]
+      },
       "mods": [
         "30% increased Global Critical Strike Chance",
         "+(10-15) to Dexterity",
@@ -171,18 +143,19 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Goredrill.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Sanguine Gambol",
       "base": "Skinning Knife",
       "levelReq": 5,
-      "variants": [],
+      "variants": {},
       "mods": [
         "30% increased Global Critical Strike Chance",
-        "(50�70)% increased Physical Damage",
-        "Adds (70�85) to (110�118) Physical Damage",
-        "+(10�15) to Dexterity",
+        "(50-70)% increased Physical Damage",
+        "Adds (70-85) to (110-118) Physical Damage",
+        "+(10-15) to Dexterity",
         "30% increased Critical Strike Chance",
         "50% chance to cause Bleeding on Critical Strike",
         "40% increased Attack Damage against Bleeding Enemies",
@@ -190,26 +163,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Goredrill.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Heartbreaker",
       "base": "Royal Skean",
       "levelReq": 50,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(40-50)% increased Spell Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(60-70)% increased Spell Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(40-50)% increased Spell Damage"
+        ],
+        "Current": [
+          "(60-70)% increased Spell Damage"
+        ]
+      },
       "mods": [
         "30% increased Global Critical Strike Chance",
         "+(40-50) to maximum Mana",
@@ -219,38 +187,30 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Heartbreaker.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Mark of the Doubting Knight",
       "base": "Platinum Kris",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(180-210)% increased Physical Damage",
-            "Melee Critical Strikes have 25% chance to cause Bleeding",
-            "Melee Critical Strikes have 25% chance to Poison the Enemy"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(210-240)% increased Physical Damage",
-            "Melee Critical Strikes have 25% chance to cause Bleeding",
-            "Melee Critical Strikes have 25% chance to Poison the Enemy"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(250-270)% increased Physical Damage",
-            "50% chance to Cause Bleeding on Critical Strike",
-            "50% chance to Cause Poison on Critical Strike"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(180-210)% increased Physical Damage",
+          "Melee Critical Strikes have 25% chance to cause Bleeding",
+          "Melee Critical Strikes have 25% chance to Poison the Enemy"
+        ],
+        "Pre 2.6.0": [
+          "(210-240)% increased Physical Damage",
+          "Melee Critical Strikes have 25% chance to cause Bleeding",
+          "Melee Critical Strikes have 25% chance to Poison the Enemy"
+        ],
+        "Current": [
+          "(250-270)% increased Physical Damage",
+          "50% chance to Cause Bleeding on Critical Strike",
+          "50% chance to Cause Poison on Critical Strike"
+        ]
+      },
       "mods": [
         "50% increased Global Critical Strike Chance",
         "5% Additional Chance to Block while Dual Wielding",
@@ -259,13 +219,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/DoubtingKnight.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Mightflay",
       "base": "Flaying Knife",
       "levelReq": 35,
-      "variants": [],
+      "variants": {},
       "mods": [
         "30% increased Global Critical Strike Chance",
         "(80-100)% increased Physical Damage",
@@ -275,13 +236,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger2unique.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Taproot",
       "base": "Ambusher",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "30% increased Global Critical Strike Chance",
         "(180-200)% increased Physical Damage",
@@ -294,32 +256,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/MarrowGasher.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Ungil's Gauche",
       "base": "Boot Knife",
       "levelReq": 20,
-      "variants": [
-        {
-          "name": "Pre 1.1.0",
-          "mods": [
-            "12% additional Chance to Block while Dual Wielding"
-          ]
-        },
-        {
-          "name": "Pre 1.3.0",
-          "mods": [
-            "20% additional Chance to Block while Dual Wielding"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "12% additional Chance to Block while Dual Wielding"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.1.0": [
+          "12% additional Chance to Block while Dual Wielding"
+        ],
+        "Pre 1.3.0": [
+          "20% additional Chance to Block while Dual Wielding"
+        ],
+        "Current": [
+          "12% additional Chance to Block while Dual Wielding"
+        ]
+      },
       "mods": [
         "30% increased Global Critical Strike Chance",
         "(80-100)% increased Physical Damage",
@@ -330,62 +284,59 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger3unique.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Vulconus",
       "base": "Demon Dagger",
       "levelReq": 68,
-      "variants": [],
+      "variants": {},
       "mods": [
         "40% increased Global Critical Strike Chance ",
-        "Attacks with this Weapon deal (80�100) to (160�200) added Fire Damage to Bleeding Enemies ",
-        "Attacks with this Weapon deal (80�100) to (160�200) added Physical Damage to Ignited Enemies ",
+        "Attacks with this Weapon deal (80-100) to (160-200) added Fire Damage to Bleeding Enemies ",
+        "Attacks with this Weapon deal (80-100) to (160-200) added Physical Damage to Ignited Enemies ",
         "Attacks with this Weapon have 25% chance to inflict Bleeding against Ignited Enemies ",
         "Every 8 seconds, gain Avatar of Fire for 4 seconds ",
-        "(80�120)% increased Critical Strike Chance while you have Avatar of Fire ",
+        "(80-120)% increased Critical Strike Chance while you have Avatar of Fire ",
         "50% of Physical Damage Converted to Fire while you have Avatar of Fire ",
         "+1000 Armour while you do not have Avatar of Fire"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Vulconus.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "White Wind",
       "base": "Imperial Skean",
       "levelReq": 66,
-      "variants": [],
+      "variants": {},
       "mods": [
         "30% increased Global Critical Strike Chance",
-        "Adds (160�190) to (280�320) Cold Damage",
-        "(10�15)% increased Attack Speed",
-        "+(300�400) to Evasion Rating",
+        "Adds (160-190) to (280-320) Cold Damage",
+        "(10-15)% increased Attack Speed",
+        "+(300-400) to Evasion Rating",
         "20% chance to Dodge Attacks while your Off Hand is empty",
         "100% increased Cold Damage while your Off Hand is empty"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/WhiteWind.png?scale=1&scaleIndex=0&w=1&h=3"
     },
     {
       "name": "Widowmaker",
       "base": "Boot Blade",
       "levelReq": 44,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Adds (15-25) to (35-45) Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds (35�40) to (55�60) Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Adds (15-25) to (35-45) Physical Damage"
+        ],
+        "Current": [
+          "Adds (35-40) to (55-60) Physical Damage"
+        ]
+      },
       "mods": [
         "30% increased Global Critical Strike Chance",
         "(22-30)% increased Critical Strike Chance",
@@ -397,7 +348,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Widowmaker.png?scale=1&scaleIndex=0&w=1&h=3"
     }
   ]
 }

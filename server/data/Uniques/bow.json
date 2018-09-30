@@ -4,10 +4,10 @@
       "name": "Arborix",
       "base": "Assassin Bow",
       "levelReq": 62,
-      "variants": [],
+      "variants": {},
       "mods": [
-        "Adds (60�70) to (180�210) Physical Damage ",
-        "(80�100)% increased Evasion Rating",
+        "Adds (60-70) to (180-210) Physical Damage ",
+        "(80-100)% increased Evasion Rating",
         "2 Additional Arrows",
         "Every 16 seconds you gain iron Reflexes for 8 seconds",
         "30% more Bow Damage at Close Range while you have iron Reflexes",
@@ -16,37 +16,29 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/VerdantGuardianBow.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Chin Sol",
       "base": "Assassin Bow",
       "levelReq": 62,
-      "variants": [
-        {
-          "name": "Pre 1.2.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "(75-100)% increased Physical Damage",
-            "5% increased Attack Speed"
-          ]
-        },
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "(150-180)% increased Physical Damage",
-            "(10-14)% increased Attack Speed"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(150-180)% increased Physical Damage",
-            "(10-14)% increased Attack Speed"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.2.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "(75-100)% increased Physical Damage",
+          "5% increased Attack Speed"
+        ],
+        "Pre 2.0.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "(150-180)% increased Physical Damage",
+          "(10-14)% increased Attack Speed"
+        ],
+        "Current": [
+          "(150-180)% increased Physical Damage",
+          "(10-14)% increased Attack Speed"
+        ]
+      },
       "mods": [
         "+(10-20) to Dexterity",
         "Adds 25 to 50 Fire Damage",
@@ -55,43 +47,32 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow5unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Darkscorn",
       "base": "Assassin Bow",
       "levelReq": 62,
-      "variants": [
-        {
-          "name": "Pre 1.2.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "(100-125)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "(100-125)% increased Physical Damage",
-            "Adds (6-10) to (10-14) Physical Damage"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(100-125)% increased Physical Damage",
-            "Adds (10-15) to (15-20) Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(130-150)% increased Physical Damage",
-            "Adds (10-15) to (15-20) Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.2.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "(100-125)% increased Physical Damage"
+        ],
+        "Pre 2.0.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "(100-125)% increased Physical Damage",
+          "Adds (6-10) to (10-14) Physical Damage"
+        ],
+        "Pre 2.6.0": [
+          "(100-125)% increased Physical Damage",
+          "Adds (10-15) to (15-20) Physical Damage"
+        ],
+        "Current": [
+          "(130-150)% increased Physical Damage",
+          "Adds (10-15) to (15-20) Physical Damage"
+        ]
+      },
       "mods": [
         "10% increased Attack Speed",
         "25% of Physical Damage Converted to Chaos Damage",
@@ -100,32 +81,24 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Darkscorn.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Death's Harp",
       "base": "Death Bow",
       "levelReq": 32,
-      "variants": [
-        {
-          "name": "Pre 2.2.0",
-          "mods": [
-            "+100% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+150% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+100% to Global Critical Strike Multiplier"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.2.0": [
+          "+100% to Global Critical Strike Multiplier"
+        ],
+        "Pre 3.0.0": [
+          "+150% to Global Critical Strike Multiplier"
+        ],
+        "Current": [
+          "+100% to Global Critical Strike Multiplier"
+        ]
+      },
       "mods": [
         "(30-50)% increased Critical Strike Chance",
         "(100-125)% increased Physical Damage",
@@ -134,26 +107,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Deathsharp.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Death's Opus",
       "base": "Death Bow",
       "levelReq": 44,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "+150% to Global Critical Strike Multiplier"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "+100% to Global Critical Strike Multiplier"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "+150% to Global Critical Strike Multiplier"
+        ],
+        "Current": [
+          "+100% to Global Critical Strike Multiplier"
+        ]
+      },
       "mods": [
         "(30-50)% increased Critical Strike Chance",
         "(100-125)% increased Physical Damage",
@@ -163,186 +131,145 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Deathsharp.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Doomfletch",
       "base": "Royal Bow",
       "levelReq": 28,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "Adds (8-12) to (16-20) Physical Damage",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Weapons",
-            "Adds (8-12) to (16-20) Physical Damage",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
-          ]
-        },
-        {
-          "name": "Pre 3.1.0",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Attack Skills",
-            "Adds (8-12) to (16-20) Physical Damage",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Attack Skills",
-            "Adds (12-16) to (20-24) Physical Damage",
-            "Gain 100% of Bow Physical Damage as Extra Damage of an Element"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
+        ],
+        "Pre 2.6.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "Adds (8-12) to (16-20) Physical Damage",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
+        ],
+        "Pre 3.0.0": [
+          "(20-24)% increased Elemental Damage with Weapons",
+          "Adds (8-12) to (16-20) Physical Damage",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
+        ],
+        "Pre 3.1.0": [
+          "(20-24)% increased Elemental Damage with Attack Skills",
+          "Adds (8-12) to (16-20) Physical Damage",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of an Element"
+        ],
+        "Current": [
+          "(20-24)% increased Elemental Damage with Attack Skills",
+          "Adds (12-16) to (20-24) Physical Damage",
+          "Gain 100% of Bow Physical Damage as Extra Damage of an Element"
+        ]
+      },
       "mods": [
         "(10-14)% increased Attack Speed",
         "60% increased Mana Regeneration Rate"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/DoomFletch.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Doomfletch's Prism",
       "base": "Royal Bow",
       "levelReq": 40,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "Adds (8-12) to (16-20) Physical Damage",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of each Element"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Weapons",
-            "Adds (8-12) to (16-20) Physical Damage",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of each Element"
-          ]
-        },
-        {
-          "name": "Pre 3.1.0",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Attack Skills",
-            "Adds (8-12) to (16-20) Physical Damage",
-            "(30-40)% increased Critical Strike Chance",
-            "Gain 110% of Bow Physical Damage as Extra Damage of each Element"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Attack Skills",
-            "Adds (12-16) to (20-24) Physical Damage",
-            "Gain 100% of Bow Physical Damage as Extra Damage of each Element"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "Adds (8-12) to (16-20) Physical Damage",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of each Element"
+        ],
+        "Pre 3.0.0": [
+          "(20-24)% increased Elemental Damage with Weapons",
+          "Adds (8-12) to (16-20) Physical Damage",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of each Element"
+        ],
+        "Pre 3.1.0": [
+          "(20-24)% increased Elemental Damage with Attack Skills",
+          "Adds (8-12) to (16-20) Physical Damage",
+          "(30-40)% increased Critical Strike Chance",
+          "Gain 110% of Bow Physical Damage as Extra Damage of each Element"
+        ],
+        "Current": [
+          "(20-24)% increased Elemental Damage with Attack Skills",
+          "Adds (12-16) to (20-24) Physical Damage",
+          "Gain 100% of Bow Physical Damage as Extra Damage of each Element"
+        ]
+      },
       "mods": [
         "(10-14)% increased Attack Speed",
         "60% increased Mana Regeneration Rate"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/DoomFletch.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Hopeshredder",
       "base": "Ranger Bow",
       "levelReq": 60,
-      "variants": [
-        {
-          "name": "Pre 3.4.0",
-          "mods": [
-            "400 Cold Damage taken per second per Frenzy Charge while moving"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(15�25)% increased Attack Speed",
-            "200 Cold Damage taken per second per Frenzy Charge while moving"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.4.0": [
+          "400 Cold Damage taken per second per Frenzy Charge while moving"
+        ],
+        "Current": [
+          "(15-25)% increased Attack Speed",
+          "200 Cold Damage taken per second per Frenzy Charge while moving"
+        ]
+      },
       "mods": [
-        "Adds (130�150) to (270�300) Cold Damage ",
+        "Adds (130-150) to (270-300) Cold Damage ",
         "4% increased Movement Speed per Frenzy Charge ",
-        "+(400�500) to Accuracy Rating ",
+        "+(400-500) to Accuracy Rating ",
         "12 to 14 Cold Damage per Frenzy Charge ",
         "2% chance to Avoid Elemental Damage when Hit per Frenzy Charge ",
         "0.5% of Attack Damage Leeched as Life per Frenzy Charge "
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": true
+      "elder": true,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/ElderBow.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Infractem",
       "base": "Decimation Bow",
       "levelReq": 53,
-      "variants": [
-        {
-          "name": "Pre 1.2.0",
-          "mods": [
-            "(90-100)% increased Physical Damage",
-            "Arrows always Pierce",
-            "Cannot Leech"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(90-100)% increased Physical Damage",
-            "Adds (25-35) to (36-45) Physical Damage",
-            "Arrows always Pierce",
-            "Cannot Leech"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(110-125)% increased Physical Damage",
-            "Adds (25-35) to (36-45) Physical Damage",
-            "Arrows always Pierce",
-            "Cannot Leech Life"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(110-125)% increased Physical Damage",
-            "Adds (25-35) to (36-45) Physical Damage",
-            "Arrows Pierce all Targets",
-            "Cannot Leech Life"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 1.2.0": [
+          "(90-100)% increased Physical Damage",
+          "Arrows always Pierce",
+          "Cannot Leech"
+        ],
+        "Pre 2.6.0": [
+          "(90-100)% increased Physical Damage",
+          "Adds (25-35) to (36-45) Physical Damage",
+          "Arrows always Pierce",
+          "Cannot Leech"
+        ],
+        "Pre 3.0.0": [
+          "(110-125)% increased Physical Damage",
+          "Adds (25-35) to (36-45) Physical Damage",
+          "Arrows always Pierce",
+          "Cannot Leech Life"
+        ],
+        "Current": [
+          "(110-125)% increased Physical Damage",
+          "Adds (25-35) to (36-45) Physical Damage",
+          "Arrows Pierce all Targets",
+          "Cannot Leech Life"
+        ]
+      },
       "mods": [
         "(30-50)% increased Critical Strike Chance",
         "+(20-30) to Dexterity",
@@ -351,13 +278,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Infractem.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Iron Commander",
       "base": "Death Bow",
       "levelReq": 32,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(30-50)% increased Critical Strike Chance",
         "Adds (8-12) to (16-24) Physical Damage",
@@ -369,37 +297,26 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/IronCommendant.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Lioneye's Glare",
       "base": "Imperial Bow",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": []
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Weapons"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Attack Skills",
-            "Far Shot"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [],
+        "Pre 2.6.0": [
+          "(6-12)% increased Elemental Damage with Weapons"
+        ],
+        "Pre 3.0.0": [
+          "(20-24)% increased Elemental Damage with Weapons"
+        ],
+        "Current": [
+          "(20-24)% increased Elemental Damage with Attack Skills",
+          "Far Shot"
+        ]
+      },
       "mods": [
         "(150-175)% increased Physical Damage",
         "Adds (6-12) to (20-32) Physical Damage",
@@ -409,13 +326,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow8unique.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Null's Inclination",
       "base": "Ranger Bow",
       "levelReq": 60,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds (50-80) to (130-180) Chaos Damage",
         "(7-12)% increased Attack Speed",
@@ -426,24 +344,19 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NullBow.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Nuro's Harp",
       "base": "Harbinger Bow",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 2.5.0",
-          "mods": []
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "40% increased Effect of Chilled Ground"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.5.0": [],
+        "Current": [
+          "40% increased Effect of Chilled Ground"
+        ]
+      },
       "mods": [
         "(30-50)% increased Critical Strike Chance",
         "No Physical Damage",
@@ -455,28 +368,23 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NurosPurifyingHarp.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Quill Rain",
       "base": "Short Bow",
       "levelReq": 5,
-      "variants": [
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "50% less Weapon Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "100% increased Physical Damage",
-            "40% less Weapon Damage",
-            "+2 Mana gained for each Enemy hit by Attacks"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.6.0": [
+          "50% less Weapon Damage"
+        ],
+        "Current": [
+          "100% increased Physical Damage",
+          "40% less Weapon Damage",
+          "+2 Mana gained for each Enemy hit by Attacks"
+        ]
+      },
       "mods": [
         "+(10-20) to Dexterity",
         "100% increased Attack Speed",
@@ -485,64 +393,51 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow2unique.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Reach of the Council",
       "base": "Spine Bow",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 2.4.0",
-          "mods": [
-            "(50-70)% increased Physical Damage",
-            "Adds (25-40) to (100-115) Physical Damage",
-            "4 additional Arrows"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(40-50)% increased Physical Damage",
-            "Adds (15-30) to (70-95) Physical Damage",
-            "4 additional Arrows"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(40-50)% increased Physical Damage",
-            "Adds (15-30) to (70-95) Physical Damage",
-            "2 additional Arrows"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.4.0": [
+          "(50-70)% increased Physical Damage",
+          "Adds (25-40) to (100-115) Physical Damage",
+          "4 additional Arrows"
+        ],
+        "Pre 2.6.0": [
+          "(40-50)% increased Physical Damage",
+          "Adds (15-30) to (70-95) Physical Damage",
+          "4 additional Arrows"
+        ],
+        "Current": [
+          "(40-50)% increased Physical Damage",
+          "Adds (15-30) to (70-95) Physical Damage",
+          "2 additional Arrows"
+        ]
+      },
       "mods": [
         "(8-12)% increased Attack Speed",
         "20% reduced Projectile Speed"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BowOfTheCouncil.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
     },
     {
       "name": "Roth's Reach",
       "base": "Recurve Bow",
       "levelReq": 18,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(20-40)% increased Elemental Damage with Weapons"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(20-40)% increased Elemental Damage with Attack Skills"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "(20-40)% increased Elemental Damage with Weapons"
+        ],
+        "Current": [
+          "(20-40)% increased Elemental Damage with Attack Skills"
+        ]
+      },
       "mods": [
         "(60-80)% increased Physical Damage",
         "(4-8)% increased Attack Speed",
@@ -551,26 +446,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SarkhamsReach.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Silverbranch",
       "base": "Crude Bow",
       "levelReq": 2,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(50-80)% increased Physical Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(80-100)% increased Physical Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(50-80)% increased Physical Damage"
+        ],
+        "Current": [
+          "(80-100)% increased Physical Damage"
+        ]
+      },
       "mods": [
         "+1 to Level of Socketed Bow Gems",
         "10% increased Attack Speed",
@@ -579,13 +469,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1Unique.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
       "name": "Silverbough",
       "base": "Crude Bow",
       "levelReq": 36,
-      "variants": [],
+      "variants": {},
       "mods": [
         "+1 to Level of Socketed Gems",
         "+1 to Level of Socketed Bow Gems",
@@ -597,26 +488,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1Unique.png?scale=1&scaleIndex=0&w=2&h=3"
     },
     {
-      "name": "Slivertongue ",
+      "name": "Slivertongue",
       "base": "Harbinger Bow",
       "levelReq": 68,
-      "variants": [
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "Arrows that Pierce cause Bleeding"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Arrows that Pierce have 50% chance to cause Bleeding"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.0.0": [
+          "Arrows that Pierce cause Bleeding"
+        ],
+        "Current": [
+          "Arrows that Pierce have 50% chance to cause Bleeding"
+        ]
+      },
       "mods": [
         "(30-50)% increased Critical Strike Chance",
         "Adds (60-75) to (170-220) Physical Damage",
@@ -625,39 +511,35 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SilverTongue.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Storm Cloud",
       "base": "Long Bow",
       "levelReq": 9,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "Adds 1 to 75 Lightning Damage"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Adds 1 to 85 Lightning Damage"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "Adds 1 to 75 Lightning Damage"
+        ],
+        "Current": [
+          "Adds 1 to 85 Lightning Damage"
+        ]
+      },
       "mods": [
         "No Physical Damage",
         "(36-50)% increased Attack Speed"
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Stormcloud.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "The Tempest",
       "base": "Long Bow",
       "levelReq": 32,
-      "variants": [],
+      "variants": {},
       "mods": [
         "No Physical Damage",
         "100% increased Lightning Damage",
@@ -666,13 +548,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Stormcloud.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Voltaxic Rift",
       "base": "Spine Bow",
       "levelReq": 64,
-      "variants": [],
+      "variants": {},
       "mods": [
         "Adds 1 to (275-325) Lightning Damage",
         "(10-15)% increased Attack Speed",
@@ -682,49 +565,38 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Voidshaft.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Windripper",
       "base": "Imperial Bow",
       "levelReq": 66,
-      "variants": [
-        {
-          "name": "Pre 2.0.0",
-          "mods": [
-            "(80-100)% increased Critical Strike Chance",
-            "25% increased Quantity of Items Dropped by Slain Frozen enemies",
-            "50% increased Rarity of Items Dropped by Slain Shocked enemies"
-          ]
-        },
-        {
-          "name": "Pre 2.6.0",
-          "mods": [
-            "(6-12)% increased Elemental Damage with Weapons",
-            "(60-80)% increased Critical Strike Chance",
-            "15% increased Quantity of Items Dropped by Slain Frozen Enemies",
-            "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
-          ]
-        },
-        {
-          "name": "Pre 3.0.0",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Weapons",
-            "(60-80)% increased Critical Strike Chance",
-            "15% increased Quantity of Items Dropped by Slain Frozen Enemies",
-            "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "(20-24)% increased Elemental Damage with Attack Skills",
-            "(60-80)% increased Critical Strike Chance",
-            "15% increased Quantity of Items Dropped by Slain Frozen Enemies",
-            "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 2.0.0": [
+          "(80-100)% increased Critical Strike Chance",
+          "25% increased Quantity of Items Dropped by Slain Frozen enemies",
+          "50% increased Rarity of Items Dropped by Slain Shocked enemies"
+        ],
+        "Pre 2.6.0": [
+          "(6-12)% increased Elemental Damage with Weapons",
+          "(60-80)% increased Critical Strike Chance",
+          "15% increased Quantity of Items Dropped by Slain Frozen Enemies",
+          "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
+        ],
+        "Pre 3.0.0": [
+          "(20-24)% increased Elemental Damage with Weapons",
+          "(60-80)% increased Critical Strike Chance",
+          "15% increased Quantity of Items Dropped by Slain Frozen Enemies",
+          "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
+        ],
+        "Current": [
+          "(20-24)% increased Elemental Damage with Attack Skills",
+          "(60-80)% increased Critical Strike Chance",
+          "15% increased Quantity of Items Dropped by Slain Frozen Enemies",
+          "30% increased Rarity of Items Dropped by Slain Shocked Enemies"
+        ]
+      },
       "mods": [
         "Adds (32-40) to (48-60) Cold Damage",
         "Adds 1 to (80-100) Lightning Damage",
@@ -732,13 +604,14 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Eagle.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Xoph's Inception",
       "base": "Bone Bow",
       "levelReq": 23,
-      "variants": [],
+      "variants": {},
       "mods": [
         "(70-90)% increased Physical Damage",
         "+(20-30) Life gained on Killing Ignited Enemies",
@@ -747,26 +620,21 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigree.png?scale=1&scaleIndex=0&w=2&h=4"
     },
     {
       "name": "Xoph's Nurture",
       "base": "Citadel Bow",
       "levelReq": 64,
-      "variants": [
-        {
-          "name": "Pre 3.3.0",
-          "mods": [
-            "Ignites your Skills cause spread to other Enemies within a Radius of 12"
-          ]
-        },
-        {
-          "name": "Current",
-          "mods": [
-            "Ignites your Skills cause spread to other Enemies within a Radius of 15"
-          ]
-        }
-      ],
+      "variants": {
+        "Pre 3.3.0": [
+          "Ignites your Skills cause spread to other Enemies within a Radius of 12"
+        ],
+        "Current": [
+          "Ignites your Skills cause spread to other Enemies within a Radius of 15"
+        ]
+      },
       "mods": [
         "(250-300)% increased Physical Damage",
         "50% of Physical Damage Converted to Fire Damage",
@@ -775,7 +643,8 @@
       ],
       "corrupted": false,
       "shaper": false,
-      "elder": false
+      "elder": false,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigreeBREACH.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
     }
   ]
 }
