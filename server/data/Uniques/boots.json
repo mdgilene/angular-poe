@@ -1,1143 +1,1131 @@
-{
-  "Boots: Armour": [
-    {
-      "name": "Craiceann's Tracks",
-      "base": "Goliath Greaves",
-      "levelReq": 54,
-      "variants": {},
-      "mods": [
-        "(150-180)% increased Armour",
-        "+(50-70) to maximum Life",
-        "+(25-30)% to Cold Resistance",
-        "25% increased Movement Speed",
-        "Cannot be Stunned if you have at least 10 Crab Barriers",
-        "You only lose (5-7) Crab Barriers when you take Physical Damage from a Hit"
+[
+  {
+    "name": "Craiceann's Tracks",
+    "base": "Goliath Greaves",
+    "levelReq": 54,
+    "variants": {},
+    "mods": [
+      "(150-180)% increased Armour",
+      "+(50-70) to maximum Life",
+      "+(25-30)% to Cold Resistance",
+      "25% increased Movement Speed",
+      "Cannot be Stunned if you have at least 10 Crab Barriers",
+      "You only lose (5-7) Crab Barriers when you take Physical Damage from a Hit"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrabUniqueBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "The Infinite Pursuit",
+    "base": "Goliath Greaves",
+    "levelReq": 54,
+    "variants": {},
+    "mods": [
+      "+(30-60) to maximum Life",
+      "20% increased Movement Speed",
+      "Moving while Bleeding doesn't cause you to take extra Damage",
+      "15% increased Movement Speed while Bleeding",
+      "50% chance to be inflicted with Bleeding when Hit by an Attack"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "The Red Trail",
+    "base": "Titan Greaves",
+    "levelReq": 68,
+    "variants": {},
+    "mods": [
+      "(60-80)% increased Armour",
+      "+(50-70) to maximum Life",
+      "25% increased Movement Speed",
+      "Gain a Frenzy Charge on Hit while Bleeding",
+      "15% increased Movement Speed while Bleeding",
+      "10% additional Physical Damage Reduction while stationary",
+      "50% chance to be inflicted with Bleeding when Hit by an Attack",
+      "Gore Footprints"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TheInfinitePursuit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Kaom's Roots",
+    "base": "Titan Greaves",
+    "levelReq": 68,
+    "variants": {
+      "Pre 2.6.0": [
+        "+(120-150) to maximum Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrabUniqueBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
+      "Current": [
+        "+(150-200) to maximum Life",
+        "Cannot Be Slowed to Below Base Speed"
+      ]
     },
-    {
-      "name": "The Infinite Pursuit",
-      "base": "Goliath Greaves",
-      "levelReq": 54,
-      "variants": {},
-      "mods": [
-        "+(30-60) to maximum Life",
-        "20% increased Movement Speed",
-        "Moving while Bleeding doesn't cause you to take extra Damage",
-        "15% increased Movement Speed while Bleeding",
-        "50% chance to be inflicted with Bleeding when Hit by an Attack"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "The Red Trail",
-      "base": "Titan Greaves",
-      "levelReq": 68,
-      "variants": {},
-      "mods": [
-        "(60-80)% increased Armour",
-        "+(50-70) to maximum Life",
-        "25% increased Movement Speed",
-        "Gain a Frenzy Charge on Hit while Bleeding",
-        "15% increased Movement Speed while Bleeding",
-        "10% additional Physical Damage Reduction while stationary",
-        "50% chance to be inflicted with Bleeding when Hit by an Attack",
-        "Gore Footprints"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TheInfinitePursuit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Kaom's Roots",
-      "base": "Titan Greaves",
-      "levelReq": 68,
-      "variants": {
-        "Pre 2.6.0": [
-          "+(120-150) to maximum Life"
-        ],
-        "Current": [
-          "+(150-200) to maximum Life",
-          "Cannot Be Slowed to Below Base Speed"
-        ]
-      },
-      "mods": [
-        "Has no Sockets",
-        "Cannot be Knocked Back",
-        "Unwavering Stance"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/KaomsRoots.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Redblade Tramplers",
-      "base": "Ancient Greaves",
-      "levelReq": 46,
-      "variants": {
-        "Pre 2.6.0": [
-          "20% increased Movement Speed"
-        ],
-        "Current": [
-          "+(50-70) to maximum Life",
-          "25% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "Adds (2-5) to (7-10) Physical Damage to Attacks",
-        "(5-10)% reduced Enemy Stun Threshold",
-        "(150-200)% increased Armour",
-        "+(20-30)% to Fire Resistance",
-        "Unaffected by Burning Ground"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Rumblestep.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Stormcharger",
-      "base": "Plated Greaves",
-      "levelReq": null,
-      "variants": {},
-      "mods": [
-        "+(1-50)% to Lightning Resistance ",
-        "20% increased Movement Speed ",
-        "50% increased Shock Duration on Enemies ",
-        "30% of Physical Damage Converted to Lightning Damage ",
-        "(15-25)% increased Effect of Shock"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Stormcharger.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Windscream",
-      "base": "Reinforced Greaves",
-      "levelReq": 33,
-      "variants": {
-        "Pre 2.6.0": [
-          "10% increased Movement Speed",
-          "10% increased Elemental Damage"
-        ],
-        "Current": [
-          "15% increased Movement Speed",
-          "(10-20)% increased Elemental Damage"
-        ]
-      },
-      "mods": [
-        "(50-80)% increased Armour",
-        "+(10-15)% to all Elemental Resistances",
-        "Enemies can have 1 additional Curse"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Windshriek",
-      "base": "Reinforced Greaves",
-      "levelReq": 60,
-      "variants": {},
-      "mods": [
-        "(200-250)% increased Armour",
-        "+(10-15)% to all Elemental Resistances",
-        "25% increased Movement Speed",
-        "(10-20)% increased Elemental Damage",
-        "Enemies can have 1 additional Curse",
-        "60% increased Area of Effect of Curse Skills"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    }
-  ],
-  "Boots: Evasion": [
-    {
-      "name": "Abberath's Hooves",
-      "base": "Goathide Boots",
-      "levelReq": 12,
-      "variants": {},
-      "mods": [
-        "+(20-30) to Strength",
-        "15% increased Movement Speed",
-        "(6-10)% chance to Ignite",
-        "Ignite a nearby Enemy on Killing an Ignited Enemy",
-        "Casts level 7 Abberath's Fury when equipped",
-        "1% increased Fire Damage per 20 Strength",
-        "Burning Hoofprints"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbberathsHooves.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Atziri's Step",
-      "base": "Slink Boots",
-      "levelReq": 69,
-      "variants": {},
-      "mods": [
-        "180% increased Evasion Rating",
-        "+(55-75) to maximum Life",
-        "30% increased Movement Speed",
-        "(14-16)% Chance to Dodge Spell Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AtzirisStep.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "The Blood Dance",
-      "base": "Sharkskin Boots",
-      "levelReq": 44,
-      "variants": {
-        "Pre 1.0.0": [
-          "1% of Life Regenerated per Second per Frenzy Charge",
-          "3% increased Damage against Enemies on Low Life per Frenzy Charge"
-        ],
-        "Pre 2.1.0": [
-          "1% of Life Regenerated per Second per Frenzy Charge",
-          "6% increased Damage against Enemies on Low Life per Frenzy Charge"
-        ],
-        "Pre 3.0.0": [
-          "0.5% of Life Regenerated per Second per Frenzy Charge",
-          "6% increased Damage against Enemies on Low Life per Frenzy Charge"
-        ],
-        "Current": [
-          "0.5% of Life Regenerated per Second per Frenzy Charge",
-          "6% increased Damage per Frenzy Charge with Hits against Enemies on Low Life"
-        ]
-      },
-      "mods": [
-        "+(30-40) to Dexterity",
-        "20% increased Movement Speed",
-        "2% increased Movement Speed per Frenzy Charge",
-        "3% reduced Attack and Cast Speed per Frenzy Charge",
-        "(20-30)% chance to gain a Frenzy Charge on Kill",
-        "Gore Footprints"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GoreFrenzy.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Deerstalker",
-      "base": "Deerskin Boots",
-      "levelReq": 22,
-      "variants": {
-        "Pre 2.6.0": [
-          "30% increased Movement Speed for 9 seconds on Throwing a Trap"
-        ],
-        "Current": [
-          "15% increased Movement Speed",
-          "15% increased Movement Speed for 9 seconds on Throwing a Trap"
-        ]
-      },
-      "mods": [
-        "Socketed Gems are Supported by level 11 Trap",
-        "(160-200)% increased Evasion Rating",
-        "+(35-45) to maximum Life",
-        "(14-18)% increased Trap Throwing Speed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Farrul's Chase",
-      "base": "Slink Boots",
-      "levelReq": 69,
-      "variants": {},
-      "mods": [
-        "Trigger Level 20 Intimidating Cry when you lose Cat's Stealth",
-        "(110-150)% increased Evasion Rating",
-        "+(50-70) to maximum Life",
-        "20% increased Movement Speed",
-        "(40-50)% chance to avoid Bleeding",
-        "20% increased Movement Speed while you have Cat's Stealth"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TigerBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Goldwyrm",
-      "base": "Nubuck Boots",
-      "levelReq": 34,
-      "variants": {
-        "Pre 1.1.0": [
-          "(20-30)% increased Quantity of Items Found"
-        ],
-        "Current": [
-          "(14-20)% increased Quantity of Items Found"
-        ]
-      },
-      "mods": [
-        "60% increased Mana Regeneration Rate",
-        "+(40-50)% to Fire Resistance",
-        "10% increased Movement Speed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Garukhan's Flight",
-      "base": "Stealth Boots",
-      "levelReq": 62,
-      "variants": {},
-      "mods": [
-        "+(30-40) to Dexterity",
-        "(80-120)% increased Evasion Rating",
-        "30% increased Movement Speed",
-        "Immune to Burning Ground, Shocked Ground and Chilled Ground",
-        "Regenerate 100 Life per second while moving",
-        "+1 to Maximum Life per 10 Dexterity"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Seven-League Step",
-      "base": "Rawhide Boots",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "50% increased Movement Speed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Three-step Assault",
-      "base": "Shagreen Boots",
-      "levelReq": 55,
-      "variants": {
-        "Pre 2.6.0": [
-          "40% increased Evasion Rating while you have Onslaught",
-          "+(30-60) to maximum Life",
-          "20% increased Movement Speed"
-        ],
-        "Current": [
-          "100% increased Evasion Rating while you have Onslaught",
-          "+(50-70) to maximum Life",
-          "25% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "+(25-35) to Dexterity",
-        "(20-40)% increased Evasion Rating",
-        "10% chance to Dodge Spells while Phasing"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ThreeStepAssault.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Victario's Flight",
-      "base": "Goathide Boots",
-      "levelReq": 12,
-      "variants": {
-        "Pre 2.6.0": [
-          "30% increased Movement Speed when on Low Life"
-        ],
-        "Current": [
-          "15% increased Movement Speed",
-          "You and nearby allies have 10% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "+15 to Dexterity",
-        "+15 to Intelligence",
-        "(100-150)% increased Evasion Rating",
-        "(5-10)% of Damage taken Gained as Mana over 4 seconds when Hit"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexIntUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    }
-  ],
-  "Boots: Energy Shield": [
-    {
-      "name": "Bones of Ullr",
-      "base": "Silk Slippers",
-      "levelReq": 22,
-      "variants": {},
-      "mods": [
-        "+20 to maximum Life",
-        "+20 to maximum Mana",
-        "(40-60)% increased Energy Shield",
-        "(5-15)% increased Movement Speed",
-        "+1 to Maximum number of Zombies",
-        "+1 to Maximum number of Spectres"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/bootunique.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Inya's Epiphany",
-      "base": "Arcanist Slippers",
-      "levelReq": 61,
-      "variants": {},
-      "mods": [
-        "+(50-70) to maximum Life",
-        "25% increased Movement Speed",
-        "(5-8)% increased Intelligence",
-        "5% increased Damage per Power Charge",
-        "25% chance that if you would gain Power Charges, you instead gain up to",
-        "your maximum number of Power Charges"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/PaleCouncilBoots.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Rainbowstride",
-      "base": "Conjurer Boots",
-      "levelReq": 53,
-      "variants": {
-        "Pre 1.0.0": [
-          "(20-25)% of Block Chance applied to Spells",
-          "+(80-100) to maximum Mana",
-          "(150-200)% increased Energy Shield",
-          "+20% to all Elemental Resistances",
-          "20% increased Movement Speed"
-        ],
-        "Pre 1.1.0": [
-          "(20-25)% of Block Chance applied to Spells",
-          "+(80-100) to maximum Mana",
-          "(150-200)% increased Energy Shield",
-          "+8% to all Elemental Resistances",
-          "20% increased Movement Speed"
-        ],
-        "Pre 2.6.0": [
-          "(20-25)% of Block Chance applied to Spells",
-          "+(40-60) to maximum Mana",
-          "(140-180)% increased Energy Shield",
-          "+20% to all Elemental Resistances",
-          "20% increased Movement Speed"
-        ],
-        "Pre 3.0.0": [
-          "(20-25)% of Block Chance applied to Spells",
-          "+(40-60) to maximum Mana",
-          "(140-180)% increased Energy Shield",
-          "+20% to all Elemental Resistances",
-          "25% increased Movement Speed"
-        ],
-        "Pre 3.4.0": [
-          "+(6-7)% chance to Block Spell Damage",
-          "+(40-60) to maximum Mana",
-          "(140-180)% increased Energy Shield",
-          "+20% to all Elemental Resistances",
-          "25% increased Movement Speed"
-        ],
-        "Current": [
-          "+(4-6)% chance to Block Spell Damage",
-          "+(40-60) to maximum Mana",
-          "(140-180)% increased Energy Shield",
-          "+20% to all Elemental Resistances",
-          "25% increased Movement Speed"
-        ]
-      },
-      "mods": [],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/rainbowstride.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Shavronne's Pace",
-      "base": "Scholar Boots",
-      "levelReq": 32,
-      "variants": {
-        "Pre 2.0.0": [
-          "+10 to Intelligence",
-          "(50-70)% increased Energy Shield",
-          "35% increased Movement Speed when on Full Life"
-        ],
-        "Pre 2.6.0": [
-          "+(20-30) to Intelligence",
-          "(100-140)% increased Energy Shield",
-          "35% increased Movement Speed when on Full Life"
-        ],
-        "Current": [
-          "+(20-30) to Intelligence",
-          "(100-140)% increased Energy Shield",
-          "15% increased Movement Speed",
-          "20% increased Movement Speed when on Full Life"
-        ]
-      },
-      "mods": [
-        "+10 to Dexterity",
-        "(10-15)% increased Stun Recovery"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Shavronne's Gambit",
-      "base": "Scholar Boots",
-      "levelReq": 32,
-      "variants": {
-        "Pre 2.6.0": [
-          "35% increased Movement Speed when on Full Life",
-          "2% of Energy Shield regenerated per second while on Low Life"
-        ],
-        "Current": [
-          "15% increased Movement Speed",
-          "20% increased Movement Speed when on Full Life",
-          "1% of Energy Shield regenerated per second"
-        ]
-      },
-      "mods": [
-        "+10 to Dexterity",
-        "+(20-30) to Intelligence",
-        "(100-140)% increased Energy Shield",
-        "(10-15)% increased Stun Recovery"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Skyforth",
-      "base": "Sorcerer Boots",
-      "levelReq": 67,
-      "variants": {},
-      "mods": [
-        "+(60-120) to maximum Mana",
-        "30% increased Movement Speed",
-        "25% chance to gain a Power Charge on Critical Strike",
-        "6% reduced Mana Reserved",
-        "You have no Life Regeneration",
-        "Stun Threshold is based on 500% of your Mana instead of Life"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Skyforth.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Steppan Eard",
-      "base": "Sorcerer Boots",
-      "levelReq": 67,
-      "variants": {
-        "Pre 3.0.0": [
-          "(110-140)% increased Energy Shield"
-        ],
-        "Current": [
-          "(50-80)% increased Energy Shield"
-        ]
-      },
-      "mods": [
-        "+(20-30) to maximum Energy Shield",
-        "30% increased Movement Speed",
-        "20% increased Movement Speed on Shocked Ground",
-        "50% increased Damage on Burning Ground",
-        "2% of Life Regenerated Per Second on Chilled Ground",
-        "Unaffected by Desecrated Ground"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Assedaisfervor.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Wanderlust",
-      "base": "Wool Shoes",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+5 to Dexterity",
-        "(20-40)% increased Mana Regeneration Rate",
-        "+(10-20) to maximum Energy Shield",
-        "20% increased Movement Speed",
-        "Cannot be Frozen"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wanderlust.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Wondertrap",
-      "base": "Velvet Slippers",
-      "levelReq": 9,
-      "variants": {
-        "Pre 1.0.0": [
-          "15% increased Movement Speed"
-        ],
-        "Current": [
-          "10% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "+(5-10) to Strength",
-        "+(5-10) to Dexterity",
-        "+(5-10) to Intelligence",
-        "+(10-16) to maximum Energy Shield",
-        "100% increased Rarity of Items found when on Low Life"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Greedtrap",
-      "base": "Velvet Slippers",
-      "levelReq": 52,
-      "variants": {},
-      "mods": [
-        "+(5-10) to Strength",
-        "+(5-10) to Dexterity",
-        "+(5-10) to Intelligence",
-        "+(90-110) to maximum Energy Shield",
-        "(10-16)% increased Quantity of Items found when on Low Life",
+    "mods": [
+      "Has no Sockets",
+      "Cannot be Knocked Back",
+      "Unwavering Stance"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/KaomsRoots.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Redblade Tramplers",
+    "base": "Ancient Greaves",
+    "levelReq": 46,
+    "variants": {
+      "Pre 2.6.0": [
         "20% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    }
-  ],
-  "Boots: Armour/Evasion": [
-    {
-      "name": "Darkray Vectors",
-      "base": "Dragonscale Boots",
-      "levelReq": 65,
-      "variants": {
-        "Pre 2.6.0": [
-          "50% reduced Frenzy Charge Duration"
-        ],
-        "Current": [
-          "(40-70)% increased Armour and Evasion",
-          "40% reduced Frenzy Charge Duration"
-        ]
-      },
-      "mods": [
-        "+(20-40)% to Lightning Resistance",
-        "5% increased Movement Speed per Frenzy Charge",
-        "+1 to Maximum Frenzy Charge",
-        "25% reduced Light Radius",
-        "2% chance to Dodge Attacks per Frenzy Charge"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DarkrayVectors.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "+(50-70) to maximum Life",
+        "25% increased Movement Speed"
+      ]
     },
-    {
-      "name": "Dusktoe",
-      "base": "Ironscale Boots",
-      "levelReq": 18,
-      "variants": {
-        "Pre 2.6.0": [
-          "+(10-20) to maximum Life",
-          "+(10-20) to maximum Mana"
-        ],
-        "Current": [
-          "+(20-30) to maximum Life",
-          "Adds (15-20) to (25-30) Chaos Damage to Spells and Attacks while using a Flask"
-        ]
-      },
-      "mods": [
-        "(40-60)% increased Armour and Evasion",
+    "mods": [
+      "Adds (2-5) to (7-10) Physical Damage to Attacks",
+      "(5-10)% reduced Enemy Stun Threshold",
+      "(150-200)% increased Armour",
+      "+(20-30)% to Fire Resistance",
+      "Unaffected by Burning Ground"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Rumblestep.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Stormcharger",
+    "base": "Plated Greaves",
+    "levelReq": null,
+    "variants": {},
+    "mods": [
+      "+(1-50)% to Lightning Resistance ",
+      "20% increased Movement Speed ",
+      "50% increased Shock Duration on Enemies ",
+      "30% of Physical Damage Converted to Lightning Damage ",
+      "(15-25)% increased Effect of Shock"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Stormcharger.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Windscream",
+    "base": "Reinforced Greaves",
+    "levelReq": 33,
+    "variants": {
+      "Pre 2.6.0": [
+        "10% increased Movement Speed",
+        "10% increased Elemental Damage"
+      ],
+      "Current": [
         "15% increased Movement Speed",
-        "50% increased Stun Recovery",
-        "20% reduced Light Radius",
-        "+50% to Chaos Resistance while using a Flask"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+        "(10-20)% increased Elemental Damage"
+      ]
     },
-    {
-      "name": "Dusktoe",
-      "base": "Leatherscale Boots",
-      "levelReq": 18,
-      "variants": {
-        "Pre 2.0.0": []
-      },
-      "mods": [
-        "(40-60)% increased Armour and Evasion",
-        "+(10-20) to maximum Life",
-        "+(10-20) to maximum Mana",
+    "mods": [
+      "(50-80)% increased Armour",
+      "+(10-15)% to all Elemental Resistances",
+      "Enemies can have 1 additional Curse"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Windshriek",
+    "base": "Reinforced Greaves",
+    "levelReq": 60,
+    "variants": {},
+    "mods": [
+      "(200-250)% increased Armour",
+      "+(10-15)% to all Elemental Resistances",
+      "25% increased Movement Speed",
+      "(10-20)% increased Elemental Damage",
+      "Enemies can have 1 additional Curse",
+      "60% increased Area of Effect of Curse Skills"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Abberath's Hooves",
+    "base": "Goathide Boots",
+    "levelReq": 12,
+    "variants": {},
+    "mods": [
+      "+(20-30) to Strength",
+      "15% increased Movement Speed",
+      "(6-10)% chance to Ignite",
+      "Ignite a nearby Enemy on Killing an Ignited Enemy",
+      "Casts level 7 Abberath's Fury when equipped",
+      "1% increased Fire Damage per 20 Strength",
+      "Burning Hoofprints"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbberathsHooves.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Atziri's Step",
+    "base": "Slink Boots",
+    "levelReq": 69,
+    "variants": {},
+    "mods": [
+      "180% increased Evasion Rating",
+      "+(55-75) to maximum Life",
+      "30% increased Movement Speed",
+      "(14-16)% Chance to Dodge Spell Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AtzirisStep.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "The Blood Dance",
+    "base": "Sharkskin Boots",
+    "levelReq": 44,
+    "variants": {
+      "Pre 1.0.0": [
+        "1% of Life Regenerated per Second per Frenzy Charge",
+        "3% increased Damage against Enemies on Low Life per Frenzy Charge"
+      ],
+      "Pre 2.1.0": [
+        "1% of Life Regenerated per Second per Frenzy Charge",
+        "6% increased Damage against Enemies on Low Life per Frenzy Charge"
+      ],
+      "Pre 3.0.0": [
+        "0.5% of Life Regenerated per Second per Frenzy Charge",
+        "6% increased Damage against Enemies on Low Life per Frenzy Charge"
+      ],
+      "Current": [
+        "0.5% of Life Regenerated per Second per Frenzy Charge",
+        "6% increased Damage per Frenzy Charge with Hits against Enemies on Low Life"
+      ]
+    },
+    "mods": [
+      "+(30-40) to Dexterity",
+      "20% increased Movement Speed",
+      "2% increased Movement Speed per Frenzy Charge",
+      "3% reduced Attack and Cast Speed per Frenzy Charge",
+      "(20-30)% chance to gain a Frenzy Charge on Kill",
+      "Gore Footprints"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GoreFrenzy.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Deerstalker",
+    "base": "Deerskin Boots",
+    "levelReq": 22,
+    "variants": {
+      "Pre 2.6.0": [
+        "30% increased Movement Speed for 9 seconds on Throwing a Trap"
+      ],
+      "Current": [
         "15% increased Movement Speed",
-        "50% increased Stun Recovery",
-        "20% reduced Light Radius",
-        "+50% to Chaos Resistance while using a Flask"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+        "15% increased Movement Speed for 9 seconds on Throwing a Trap"
+      ]
     },
-    {
-      "name": "Duskblight",
-      "base": "Ironscale Boots",
-      "levelReq": 40,
-      "variants": {},
-      "mods": [
-        "Socketed Gems are Supported by Level 15 Added Chaos Damage",
-        "(120-150)% increased Armour and Evasion",
-        "+(50-60) to maximum Life",
-        "20% increased Movement Speed",
-        "50% increased Stun and Block Recovery",
-        "20% reduced Light Radius",
-        "+50% to Chaos Resistance during any Flask Effect"
+    "mods": [
+      "Socketed Gems are Supported by level 11 Trap",
+      "(160-200)% increased Evasion Rating",
+      "+(35-45) to maximum Life",
+      "(14-18)% increased Trap Throwing Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Farrul's Chase",
+    "base": "Slink Boots",
+    "levelReq": 69,
+    "variants": {},
+    "mods": [
+      "Trigger Level 20 Intimidating Cry when you lose Cat's Stealth",
+      "(110-150)% increased Evasion Rating",
+      "+(50-70) to maximum Life",
+      "20% increased Movement Speed",
+      "(40-50)% chance to avoid Bleeding",
+      "20% increased Movement Speed while you have Cat's Stealth"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TigerBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Goldwyrm",
+    "base": "Nubuck Boots",
+    "levelReq": 34,
+    "variants": {
+      "Pre 1.1.0": [
+        "(20-30)% increased Quantity of Items Found"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "(14-20)% increased Quantity of Items Found"
+      ]
     },
-    {
-      "name": "Lioneye's Paws",
-      "base": "Bronzescale Boots",
-      "levelReq": 30,
-      "variants": {},
-      "mods": [
-        "+(40-60) to Strength",
-        "+(40-60) to Dexterity",
-        "Adds 12 to 24 Fire Damage to Attacks",
-        "20% increased Movement Speed",
-        "40% reduced Movement Speed when on Low Life",
-        "20% increased Stun Recovery",
-        "Cannot be Stunned when on Low Life"
+    "mods": [
+      "60% increased Mana Regeneration Rate",
+      "+(40-50)% to Fire Resistance",
+      "10% increased Movement Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Garukhan's Flight",
+    "base": "Stealth Boots",
+    "levelReq": 62,
+    "variants": {},
+    "mods": [
+      "+(30-40) to Dexterity",
+      "(80-120)% increased Evasion Rating",
+      "30% increased Movement Speed",
+      "Immune to Burning Ground, Shocked Ground and Chilled Ground",
+      "Regenerate 100 Life per second while moving",
+      "+1 to Maximum Life per 10 Dexterity"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Seven-League Step",
+    "base": "Rawhide Boots",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "50% increased Movement Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Three-step Assault",
+    "base": "Shagreen Boots",
+    "levelReq": 55,
+    "variants": {
+      "Pre 2.6.0": [
+        "40% increased Evasion Rating while you have Onslaught",
+        "+(30-60) to maximum Life",
+        "20% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/LioneyesPaws.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "100% increased Evasion Rating while you have Onslaught",
+        "+(50-70) to maximum Life",
+        "25% increased Movement Speed"
+      ]
     },
-    {
-      "name": "Mutewind Whispersteps",
-      "base": "Serpentscale Boots",
-      "levelReq": 42,
-      "variants": {
-        "Pre 2.6.0": [
-          "Adds (15-19) to (28-35) Cold Damage to Spells",
-          "(20-40)% increased Critical Strike Chance for Spells",
-          "20% increased Movement Speed"
-        ],
-        "Current": [
-          "Adds (25-30) to (40-50) Cold Damage to Spells",
-          "(50-70)% increased Critical Strike Chance for Spells",
-          "25% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "(100-150)% increased Evasion Rating",
-        "+(20-30)% to Cold Resistance",
-        "Unaffected by Chilled Ground"
+    "mods": [
+      "+(25-35) to Dexterity",
+      "(20-40)% increased Evasion Rating",
+      "10% chance to Dodge Spells while Phasing"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ThreeStepAssault.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Victario's Flight",
+    "base": "Goathide Boots",
+    "levelReq": 12,
+    "variants": {
+      "Pre 2.6.0": [
+        "30% increased Movement Speed when on Low Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Targemtabi.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
+      "Current": [
+        "15% increased Movement Speed",
+        "You and nearby allies have 10% increased Movement Speed"
+      ]
     },
-    {
-      "name": "Saqawal's Talons",
-      "base": "Hydrascale Boots",
-      "levelReq": 59,
-      "variants": {},
-      "mods": [
-        "Grants Level 20 Aspect of the Avian Skill",
-        "(100-150)% increased Armour and Evasion",
-        "(20-30)% increased Movement Speed",
-        "+(-2-2) seconds to Avian's Flight Duration",
-        "100 Life Regenerated per Second while you have Avian's Flight",
-        "12 Mana Regenerated per Second while you have Avian's Flight"
+    "mods": [
+      "+15 to Dexterity",
+      "+15 to Intelligence",
+      "(100-150)% increased Evasion Rating",
+      "(5-10)% of Damage taken Gained as Mana over 4 seconds when Hit"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexIntUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Bones of Ullr",
+    "base": "Silk Slippers",
+    "levelReq": 22,
+    "variants": {},
+    "mods": [
+      "+20 to maximum Life",
+      "+20 to maximum Mana",
+      "(40-60)% increased Energy Shield",
+      "(5-15)% increased Movement Speed",
+      "+1 to Maximum number of Zombies",
+      "+1 to Maximum number of Spectres"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/bootunique.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Inya's Epiphany",
+    "base": "Arcanist Slippers",
+    "levelReq": 61,
+    "variants": {},
+    "mods": [
+      "+(50-70) to maximum Life",
+      "25% increased Movement Speed",
+      "(5-8)% increased Intelligence",
+      "5% increased Damage per Power Charge",
+      "25% chance that if you would gain Power Charges, you instead gain up to",
+      "your maximum number of Power Charges"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/PaleCouncilBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Rainbowstride",
+    "base": "Conjurer Boots",
+    "levelReq": 53,
+    "variants": {
+      "Pre 1.0.0": [
+        "(20-25)% of Block Chance applied to Spells",
+        "+(80-100) to maximum Mana",
+        "(150-200)% increased Energy Shield",
+        "+20% to all Elemental Resistances",
+        "20% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AvianBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    }
-  ],
-  "Boots: Armour/Energy Shield": [
-    {
-      "name": "Alberon's Warpath",
-      "base": "Soldier Boots",
-      "levelReq": 49,
-      "variants": {
-        "Pre 3.0.0": [
-          "+2 to Maximum number of Skeletons"
-        ],
-        "Current": [
-          "+1 to Maximum number of Skeletons"
-        ]
-      },
-      "mods": [
-        "Adds 1 to 80 Chaos Damage to Attacks",
-        "+(180-220) to Armour",
-        "+(9-12)% to Chaos Resistance",
-        "20% increased Movement Speed",
-        "(15-18)% increased Strength"
+      "Pre 1.1.0": [
+        "(20-25)% of Block Chance applied to Spells",
+        "+(80-100) to maximum Mana",
+        "(150-200)% increased Energy Shield",
+        "+8% to all Elemental Resistances",
+        "20% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Alberonswarpath.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Death's Door",
-      "base": "Crusader Boots",
-      "levelReq": 64,
-      "variants": {},
-      "mods": [
-        "+(20-40) to Strength",
-        "200% increased Armour and Energy Shield",
-        "+(10-15)% to all Elemental Resistances",
-        "25% increased Movement Speed",
-        "+1 to Maximum Endurance Charges",
-        "50% increased Elemental Ailment Duration on You",
-        "You are Immune to Bleeding"
+      "Pre 2.6.0": [
+        "(20-25)% of Block Chance applied to Spells",
+        "+(40-60) to maximum Mana",
+        "(140-180)% increased Energy Shield",
+        "+20% to all Elemental Resistances",
+        "20% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Deathsdoor.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Gang's Momentum",
-      "base": "Legion Boots",
-      "levelReq": 58,
-      "variants": {
-        "Pre 2.6.0": [
-          "(5-7)% chance to Ignite",
-          "15% increased Damage against Ignited Enemies"
-        ],
-        "Current": [
-          "(10-15)% chance to Ignite",
-          "(25-40)% increased Damage against Ignited Enemies"
-        ]
-      },
-      "mods": [
-        "(160-180)% increased Armour and Energy Shield",
-        "+(50-60)% to Fire Resistance",
+      "Pre 3.0.0": [
+        "(20-25)% of Block Chance applied to Spells",
+        "+(40-60) to maximum Mana",
+        "(140-180)% increased Energy Shield",
+        "+20% to all Elemental Resistances",
         "25% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GangsBoots.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Ralakesh's Impatience",
-      "base": "Riveted Boots",
-      "levelReq": 36,
-      "variants": {},
-      "mods": [
-        "+(15-25)% to Cold Resistance ",
-        "+(15-25)% to Chaos Resistance ",
-        "20% increased Movement Speed ",
-        "Gain a Frenzy, Endurance, or Power Charge once per second while you are Stationary ",
-        "Lose all Frenzy, Endurance, and Power Charges when you Move"
+      "Pre 3.4.0": [
+        "+(6-7)% chance to Block Spell Damage",
+        "+(40-60) to maximum Mana",
+        "(140-180)% increased Energy Shield",
+        "+20% to all Elemental Resistances",
+        "25% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RalakeshsImpatience.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "+(4-6)% chance to Block Spell Damage",
+        "+(40-60) to maximum Mana",
+        "(140-180)% increased Energy Shield",
+        "+20% to all Elemental Resistances",
+        "25% increased Movement Speed"
+      ]
     },
-    {
-      "name": "Wake of Destruction",
-      "base": "Mesh Boots",
-      "levelReq": 28,
-      "variants": {
-        "Pre 2.6.0": [],
-        "Current": [
-          "15% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "Adds 1 to 120 Lightning Damage to Attacks",
-        "+(10-20) Life gained on Kill",
-        "(20-60)% increased Armour and Energy Shield",
-        "10% Chance to Cause Monsters to Flee"
+    "mods": [],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/rainbowstride.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Shavronne's Pace",
+    "base": "Scholar Boots",
+    "levelReq": 32,
+    "variants": {
+      "Pre 2.0.0": [
+        "+10 to Intelligence",
+        "(50-70)% increased Energy Shield",
+        "35% increased Movement Speed when on Full Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/WakeOfDestruction.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    }
-  ],
-  "Boots: Evasion/Energy Shield": [
-    {
-      "name": "Brinerot Whalers",
-      "base": "Trapper Boots",
-      "levelReq": 41,
-      "variants": {
-        "Pre 2.6.0": [
-          "+(60-80) to maximum Energy Shield",
-          "20% increased Movement Speed"
-        ],
-        "Pre 3.0.0": [
-          "+(120-150) to maximum Energy Shield",
-          "25% increased Movement Speed"
-        ],
-        "Current": [
-          "+(80-100) to maximum Energy Shield",
-          "25% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "20% increased Physical Damage",
-        "+(20-30)% to Lightning Resistance",
-        "(20-40)% increased Projectile Damage",
-        "Unaffected by Shocked Ground"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Reefscourge.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Bubonic Trail",
-      "base": "Murder Boots",
-      "levelReq": 69,
-      "variants": {
-        "One Abyssal Socket": [
-          "Has 1 Abyssal Socket"
-        ],
-        "Two Abyssal Sockets": [
-          "Has 2 Abyssal Sockets"
-        ]
-      },
-      "mods": [
-        "Triggers level 20 Death Walk when Equipped",
-        "4% increased maximum Life",
-        "30% increased Movement Speed",
-        "10% increased Damage for each type of Abyssal Jewel affecting you"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbyssBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Fenumus' Spinnerets",
-      "base": "Assassin's Boots",
-      "levelReq": 63,
-      "variants": {},
-      "mods": [
-        "(160-200)% increased Evasion and Energy Shield",
-        "+(20-30)% to Lightning Resistance",
-        "+(17-23)% to Chaos Resistance",
-        "25% increased Movement Speed",
-        "Aspect of the Spider can inflict Spider's Web on Enemies an additional time",
-        "Gain (15-20) Energy Shield for each Enemy you Hit which is affected by a Spider's Web",
-        "(40-50)% increased Aspect of the Spider Debuff Duration"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiderArmourBoots.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Nomic's Storm",
-      "base": "Strapped Boots",
-      "levelReq": 16,
-      "variants": {
-        "Pre 2.0.0": [
-          "30% increased Physical Damage taken"
-        ],
-        "Pre 2.6.0": [
-          "20% increased Physical Damage taken"
-        ],
-        "Current": [
-          "15% increased Damage taken while on Full Energy Shield"
-        ]
-      },
-      "mods": [
-        "+(20-30) to Dexterity",
-        "+(30-50) to Evasion Rating",
-        "+(15-30) to maximum Energy Shield",
-        "20% increased Movement Speed",
-        "+20% to Cold Resistance",
-        "20% increased Movement Speed when on Full Energy Shield"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/NomicsStorm.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    },
-    {
-      "name": "Sin Trek",
-      "base": "Stealth Boots",
-      "levelReq": 62,
-      "variants": {
-        "Pre 2.0.0": [
-          "+(50-70) to maximum Energy Shield"
-        ],
-        "Pre 2.6.0": [
-          "+(70-100) to maximum Energy Shield"
-        ],
-        "Current": [
-          "+(100-160) to maximum Energy Shield"
-        ]
-      },
-      "mods": [
-        "+(20-30) to Dexterity",
+      "Pre 2.6.0": [
         "+(20-30) to Intelligence",
-        "(80-100)% increased Evasion Rating",
-        "30% increased Movement Speed",
-        "Enemies Cannot Leech Life From You"
+        "(100-140)% increased Energy Shield",
+        "35% increased Movement Speed when on Full Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SinTrek.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "+(20-30) to Intelligence",
+        "(100-140)% increased Energy Shield",
+        "15% increased Movement Speed",
+        "20% increased Movement Speed when on Full Life"
+      ]
     },
-    {
-      "name": "Sundance",
-      "base": "Clasped Boots",
-      "levelReq": 27,
-      "variants": {
-        "Pre 2.6.0": [
-          "10% increased Movement Speed"
-        ],
-        "Current": [
-          "20% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "10% increased Attack Speed",
-        "(80-120)% increased Evasion Rating",
-        "(20-30)% increased Rarity of Items found",
-        "+(30-40)% to Fire Resistance"
+    "mods": [
+      "+10 to Dexterity",
+      "(10-15)% increased Stun Recovery"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Shavronne's Gambit",
+    "base": "Scholar Boots",
+    "levelReq": 32,
+    "variants": {
+      "Pre 2.6.0": [
+        "35% increased Movement Speed when on Full Life",
+        "2% of Energy Shield regenerated per second while on Low Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "15% increased Movement Speed",
+        "20% increased Movement Speed when on Full Life",
+        "1% of Energy Shield regenerated per second"
+      ]
     },
-    {
-      "name": "Sunspite",
-      "base": "Clasped Boots",
-      "levelReq": 59,
-      "variants": {},
-      "mods": [
-        "10% increased Attack Speed",
-        "(260-300)% increased Evasion and Energy Shield",
-        "(20-30)% increased Rarity of Items found",
-        "+(30-40)% to Fire Resistance",
-        "20% increased Movement Speed",
-        "(10-20)% increased Movement Speed while Ignited",
-        "+25% chance to be Ignited",
-        "(75-125) Life Regenerated per second while Ignited"
+    "mods": [
+      "+10 to Dexterity",
+      "+(20-30) to Intelligence",
+      "(100-140)% increased Energy Shield",
+      "(10-15)% increased Stun Recovery"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Skyforth",
+    "base": "Sorcerer Boots",
+    "levelReq": 67,
+    "variants": {},
+    "mods": [
+      "+(60-120) to maximum Mana",
+      "30% increased Movement Speed",
+      "25% chance to gain a Power Charge on Critical Strike",
+      "6% reduced Mana Reserved",
+      "You have no Life Regeneration",
+      "Stun Threshold is based on 500% of your Mana instead of Life"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Skyforth.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Steppan Eard",
+    "base": "Sorcerer Boots",
+    "levelReq": 67,
+    "variants": {
+      "Pre 3.0.0": [
+        "(110-140)% increased Energy Shield"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
+      "Current": [
+        "(50-80)% increased Energy Shield"
+      ]
     },
-    {
-      "name": "Voidwalker",
-      "base": "Murder Boots",
-      "levelReq": 69,
-      "variants": {
-        "Pre 3.0.0": [
-          "Projectiles Pierce while Phasing"
-        ],
-        "Current": [
-          "Projectiles Pierce 5 additional Targets while you have Phasing"
-        ]
-      },
-      "mods": [
-        "+(30-50) to Dexterity",
-        "(140-180)% increased Evasion and Energy Shield",
-        "30% increased Movement Speed",
-        "20% chance to Avoid Projectiles while Phasing",
-        "You have Phasing if you've Killed Recently",
-        "Celestial Footprints",
-        "",
-        "}"
+    "mods": [
+      "+(20-30) to maximum Energy Shield",
+      "30% increased Movement Speed",
+      "20% increased Movement Speed on Shocked Ground",
+      "50% increased Damage on Burning Ground",
+      "2% of Life Regenerated Per Second on Chilled Ground",
+      "Unaffected by Desecrated Ground"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Assedaisfervor.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Wanderlust",
+    "base": "Wool Shoes",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+5 to Dexterity",
+      "(20-40)% increased Mana Regeneration Rate",
+      "+(10-20) to maximum Energy Shield",
+      "20% increased Movement Speed",
+      "Cannot be Frozen"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wanderlust.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Wondertrap",
+    "base": "Velvet Slippers",
+    "levelReq": 9,
+    "variants": {
+      "Pre 1.0.0": [
+        "15% increased Movement Speed"
       ],
-      "corrupted": false,
-      "shaper": true,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrossingTheVoid.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Boots"
-    }
-  ]
-}
+      "Current": [
+        "10% increased Movement Speed"
+      ]
+    },
+    "mods": [
+      "+(5-10) to Strength",
+      "+(5-10) to Dexterity",
+      "+(5-10) to Intelligence",
+      "+(10-16) to maximum Energy Shield",
+      "100% increased Rarity of Items found when on Low Life"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Greedtrap",
+    "base": "Velvet Slippers",
+    "levelReq": 52,
+    "variants": {},
+    "mods": [
+      "+(5-10) to Strength",
+      "+(5-10) to Dexterity",
+      "+(5-10) to Intelligence",
+      "+(90-110) to maximum Energy Shield",
+      "(10-16)% increased Quantity of Items found when on Low Life",
+      "20% increased Movement Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Darkray Vectors",
+    "base": "Dragonscale Boots",
+    "levelReq": 65,
+    "variants": {
+      "Pre 2.6.0": [
+        "50% reduced Frenzy Charge Duration"
+      ],
+      "Current": [
+        "(40-70)% increased Armour and Evasion",
+        "40% reduced Frenzy Charge Duration"
+      ]
+    },
+    "mods": [
+      "+(20-40)% to Lightning Resistance",
+      "5% increased Movement Speed per Frenzy Charge",
+      "+1 to Maximum Frenzy Charge",
+      "25% reduced Light Radius",
+      "2% chance to Dodge Attacks per Frenzy Charge"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DarkrayVectors.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Dusktoe",
+    "base": "Ironscale Boots",
+    "levelReq": 18,
+    "variants": {
+      "Pre 2.6.0": [
+        "+(10-20) to maximum Life",
+        "+(10-20) to maximum Mana"
+      ],
+      "Current": [
+        "+(20-30) to maximum Life",
+        "Adds (15-20) to (25-30) Chaos Damage to Spells and Attacks while using a Flask"
+      ]
+    },
+    "mods": [
+      "(40-60)% increased Armour and Evasion",
+      "15% increased Movement Speed",
+      "50% increased Stun Recovery",
+      "20% reduced Light Radius",
+      "+50% to Chaos Resistance while using a Flask"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Dusktoe",
+    "base": "Leatherscale Boots",
+    "levelReq": 18,
+    "variants": {
+      "Pre 2.0.0": []
+    },
+    "mods": [
+      "(40-60)% increased Armour and Evasion",
+      "+(10-20) to maximum Life",
+      "+(10-20) to maximum Mana",
+      "15% increased Movement Speed",
+      "50% increased Stun Recovery",
+      "20% reduced Light Radius",
+      "+50% to Chaos Resistance while using a Flask"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Duskblight",
+    "base": "Ironscale Boots",
+    "levelReq": 40,
+    "variants": {},
+    "mods": [
+      "Socketed Gems are Supported by Level 15 Added Chaos Damage",
+      "(120-150)% increased Armour and Evasion",
+      "+(50-60) to maximum Life",
+      "20% increased Movement Speed",
+      "50% increased Stun and Block Recovery",
+      "20% reduced Light Radius",
+      "+50% to Chaos Resistance during any Flask Effect"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Lioneye's Paws",
+    "base": "Bronzescale Boots",
+    "levelReq": 30,
+    "variants": {},
+    "mods": [
+      "+(40-60) to Strength",
+      "+(40-60) to Dexterity",
+      "Adds 12 to 24 Fire Damage to Attacks",
+      "20% increased Movement Speed",
+      "40% reduced Movement Speed when on Low Life",
+      "20% increased Stun Recovery",
+      "Cannot be Stunned when on Low Life"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/LioneyesPaws.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Mutewind Whispersteps",
+    "base": "Serpentscale Boots",
+    "levelReq": 42,
+    "variants": {
+      "Pre 2.6.0": [
+        "Adds (15-19) to (28-35) Cold Damage to Spells",
+        "(20-40)% increased Critical Strike Chance for Spells",
+        "20% increased Movement Speed"
+      ],
+      "Current": [
+        "Adds (25-30) to (40-50) Cold Damage to Spells",
+        "(50-70)% increased Critical Strike Chance for Spells",
+        "25% increased Movement Speed"
+      ]
+    },
+    "mods": [
+      "(100-150)% increased Evasion Rating",
+      "+(20-30)% to Cold Resistance",
+      "Unaffected by Chilled Ground"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Targemtabi.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Saqawal's Talons",
+    "base": "Hydrascale Boots",
+    "levelReq": 59,
+    "variants": {},
+    "mods": [
+      "Grants Level 20 Aspect of the Avian Skill",
+      "(100-150)% increased Armour and Evasion",
+      "(20-30)% increased Movement Speed",
+      "+(-2-2) seconds to Avian's Flight Duration",
+      "100 Life Regenerated per Second while you have Avian's Flight",
+      "12 Mana Regenerated per Second while you have Avian's Flight"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AvianBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Alberon's Warpath",
+    "base": "Soldier Boots",
+    "levelReq": 49,
+    "variants": {
+      "Pre 3.0.0": [
+        "+2 to Maximum number of Skeletons"
+      ],
+      "Current": [
+        "+1 to Maximum number of Skeletons"
+      ]
+    },
+    "mods": [
+      "Adds 1 to 80 Chaos Damage to Attacks",
+      "+(180-220) to Armour",
+      "+(9-12)% to Chaos Resistance",
+      "20% increased Movement Speed",
+      "(15-18)% increased Strength"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Alberonswarpath.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Death's Door",
+    "base": "Crusader Boots",
+    "levelReq": 64,
+    "variants": {},
+    "mods": [
+      "+(20-40) to Strength",
+      "200% increased Armour and Energy Shield",
+      "+(10-15)% to all Elemental Resistances",
+      "25% increased Movement Speed",
+      "+1 to Maximum Endurance Charges",
+      "50% increased Elemental Ailment Duration on You",
+      "You are Immune to Bleeding"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Deathsdoor.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Gang's Momentum",
+    "base": "Legion Boots",
+    "levelReq": 58,
+    "variants": {
+      "Pre 2.6.0": [
+        "(5-7)% chance to Ignite",
+        "15% increased Damage against Ignited Enemies"
+      ],
+      "Current": [
+        "(10-15)% chance to Ignite",
+        "(25-40)% increased Damage against Ignited Enemies"
+      ]
+    },
+    "mods": [
+      "(160-180)% increased Armour and Energy Shield",
+      "+(50-60)% to Fire Resistance",
+      "25% increased Movement Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GangsBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Ralakesh's Impatience",
+    "base": "Riveted Boots",
+    "levelReq": 36,
+    "variants": {},
+    "mods": [
+      "+(15-25)% to Cold Resistance ",
+      "+(15-25)% to Chaos Resistance ",
+      "20% increased Movement Speed ",
+      "Gain a Frenzy, Endurance, or Power Charge once per second while you are Stationary ",
+      "Lose all Frenzy, Endurance, and Power Charges when you Move"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RalakeshsImpatience.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Wake of Destruction",
+    "base": "Mesh Boots",
+    "levelReq": 28,
+    "variants": {
+      "Pre 2.6.0": [],
+      "Current": [
+        "15% increased Movement Speed"
+      ]
+    },
+    "mods": [
+      "Adds 1 to 120 Lightning Damage to Attacks",
+      "+(10-20) Life gained on Kill",
+      "(20-60)% increased Armour and Energy Shield",
+      "10% Chance to Cause Monsters to Flee"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/WakeOfDestruction.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Brinerot Whalers",
+    "base": "Trapper Boots",
+    "levelReq": 41,
+    "variants": {
+      "Pre 2.6.0": [
+        "+(60-80) to maximum Energy Shield",
+        "20% increased Movement Speed"
+      ],
+      "Pre 3.0.0": [
+        "+(120-150) to maximum Energy Shield",
+        "25% increased Movement Speed"
+      ],
+      "Current": [
+        "+(80-100) to maximum Energy Shield",
+        "25% increased Movement Speed"
+      ]
+    },
+    "mods": [
+      "20% increased Physical Damage",
+      "+(20-30)% to Lightning Resistance",
+      "(20-40)% increased Projectile Damage",
+      "Unaffected by Shocked Ground"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Reefscourge.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Bubonic Trail",
+    "base": "Murder Boots",
+    "levelReq": 69,
+    "variants": {
+      "One Abyssal Socket": [
+        "Has 1 Abyssal Socket"
+      ],
+      "Two Abyssal Sockets": [
+        "Has 2 Abyssal Sockets"
+      ]
+    },
+    "mods": [
+      "Triggers level 20 Death Walk when Equipped",
+      "4% increased maximum Life",
+      "30% increased Movement Speed",
+      "10% increased Damage for each type of Abyssal Jewel affecting you"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbyssBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Fenumus' Spinnerets",
+    "base": "Assassin's Boots",
+    "levelReq": 63,
+    "variants": {},
+    "mods": [
+      "(160-200)% increased Evasion and Energy Shield",
+      "+(20-30)% to Lightning Resistance",
+      "+(17-23)% to Chaos Resistance",
+      "25% increased Movement Speed",
+      "Aspect of the Spider can inflict Spider's Web on Enemies an additional time",
+      "Gain (15-20) Energy Shield for each Enemy you Hit which is affected by a Spider's Web",
+      "(40-50)% increased Aspect of the Spider Debuff Duration"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiderArmourBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Nomic's Storm",
+    "base": "Strapped Boots",
+    "levelReq": 16,
+    "variants": {
+      "Pre 2.0.0": [
+        "30% increased Physical Damage taken"
+      ],
+      "Pre 2.6.0": [
+        "20% increased Physical Damage taken"
+      ],
+      "Current": [
+        "15% increased Damage taken while on Full Energy Shield"
+      ]
+    },
+    "mods": [
+      "+(20-30) to Dexterity",
+      "+(30-50) to Evasion Rating",
+      "+(15-30) to maximum Energy Shield",
+      "20% increased Movement Speed",
+      "+20% to Cold Resistance",
+      "20% increased Movement Speed when on Full Energy Shield"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/NomicsStorm.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Sin Trek",
+    "base": "Stealth Boots",
+    "levelReq": 62,
+    "variants": {
+      "Pre 2.0.0": [
+        "+(50-70) to maximum Energy Shield"
+      ],
+      "Pre 2.6.0": [
+        "+(70-100) to maximum Energy Shield"
+      ],
+      "Current": [
+        "+(100-160) to maximum Energy Shield"
+      ]
+    },
+    "mods": [
+      "+(20-30) to Dexterity",
+      "+(20-30) to Intelligence",
+      "(80-100)% increased Evasion Rating",
+      "30% increased Movement Speed",
+      "Enemies Cannot Leech Life From You"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SinTrek.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Sundance",
+    "base": "Clasped Boots",
+    "levelReq": 27,
+    "variants": {
+      "Pre 2.6.0": [
+        "10% increased Movement Speed"
+      ],
+      "Current": [
+        "20% increased Movement Speed"
+      ]
+    },
+    "mods": [
+      "10% increased Attack Speed",
+      "(80-120)% increased Evasion Rating",
+      "(20-30)% increased Rarity of Items found",
+      "+(30-40)% to Fire Resistance"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Sunspite",
+    "base": "Clasped Boots",
+    "levelReq": 59,
+    "variants": {},
+    "mods": [
+      "10% increased Attack Speed",
+      "(260-300)% increased Evasion and Energy Shield",
+      "(20-30)% increased Rarity of Items found",
+      "+(30-40)% to Fire Resistance",
+      "20% increased Movement Speed",
+      "(10-20)% increased Movement Speed while Ignited",
+      "+25% chance to be Ignited",
+      "(75-125) Life Regenerated per second while Ignited"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  },
+  {
+    "name": "Voidwalker",
+    "base": "Murder Boots",
+    "levelReq": 69,
+    "variants": {
+      "Pre 3.0.0": [
+        "Projectiles Pierce while Phasing"
+      ],
+      "Current": [
+        "Projectiles Pierce 5 additional Targets while you have Phasing"
+      ]
+    },
+    "mods": [
+      "+(30-50) to Dexterity",
+      "(140-180)% increased Evasion and Energy Shield",
+      "30% increased Movement Speed",
+      "20% chance to Avoid Projectiles while Phasing",
+      "You have Phasing if you've Killed Recently",
+      "Celestial Footprints",
+      "",
+      "}"
+    ],
+    "corrupted": false,
+    "shaper": true,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrossingTheVoid.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Boots"
+  }
+]

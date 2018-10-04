@@ -1,489 +1,487 @@
-{
-  "Weapon: Wand": [
-    {
-      "name": "Abberath's Horn",
-      "base": "Goat's Horn",
-      "levelReq": 6,
-      "variants": {
-        "Pre 2.3.0": [
-          "(9-12)% increased Spell Damage"
-        ],
-        "Current": [
-          "(10-14)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "(20-30)% increased Fire Damage",
-        "Adds (4-6) to (8-12) Fire Damage to Spells",
-        "(40-60)% increased Global Critical Strike Chance",
-        "+10 Life Gained on Killing Ignited Enemies",
-        "25% reduced Ignite Duration on Enemies"
+[
+  {
+    "name": "Abberath's Horn",
+    "base": "Goat's Horn",
+    "levelReq": 6,
+    "variants": {
+      "Pre 2.3.0": [
+        "(9-12)% increased Spell Damage"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wychverge.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
+      "Current": [
+        "(10-14)% increased Spell Damage"
+      ]
     },
-    {
-      "name": "Apep's Rage",
-      "base": "Opal Wand",
-      "levelReq": 62,
-      "variants": {
-        "Pre 2.3.0": [
-          "(17-20)% increased Spell Damage"
-        ],
-        "Current": [
-          "(38-42)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "Adds (50-65) to (90-105) Chaos Damage to Spells",
-        "(25-30)% increased Cast Speed",
-        "+(5-10)% to Chaos Resistance",
-        "40% increased Mana Cost of Skills"
+    "mods": [
+      "(20-30)% increased Fire Damage",
+      "Adds (4-6) to (8-12) Fire Damage to Spells",
+      "(40-60)% increased Global Critical Strike Chance",
+      "+10 Life Gained on Killing Ignited Enemies",
+      "25% reduced Ignite Duration on Enemies"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wychverge.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Apep's Rage",
+    "base": "Opal Wand",
+    "levelReq": 62,
+    "variants": {
+      "Pre 2.3.0": [
+        "(17-20)% increased Spell Damage"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ApepsRage.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
+      "Current": [
+        "(38-42)% increased Spell Damage"
+      ]
     },
-    {
-      "name": "Ashcaller",
-      "base": "Quartz Wand",
-      "levelReq": 18,
-      "variants": {},
-      "mods": [
-        "(18-22)% increased Spell Damage",
-        "Adds (10-14) to (18-22) Fire Damage",
-        "Adds (4-6) to (7-9) Fire Damage to Spells",
-        "(40-50)% increased Burning Damage",
-        "(16-22)% chance to Ignite",
-        "10% chance to Trigger Level 8 Summon Raging Spirit on Kill"
+    "mods": [
+      "Adds (50-65) to (90-105) Chaos Damage to Spells",
+      "(25-30)% increased Cast Speed",
+      "+(5-10)% to Chaos Resistance",
+      "40% increased Mana Cost of Skills"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ApepsRage.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Ashcaller",
+    "base": "Quartz Wand",
+    "levelReq": 18,
+    "variants": {},
+    "mods": [
+      "(18-22)% increased Spell Damage",
+      "Adds (10-14) to (18-22) Fire Damage",
+      "Adds (4-6) to (7-9) Fire Damage to Spells",
+      "(40-50)% increased Burning Damage",
+      "(16-22)% chance to Ignite",
+      "10% chance to Trigger Level 8 Summon Raging Spirit on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Ashwaker.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Eclipse Solaris",
+    "base": "Crystal Wand",
+    "levelReq": 45,
+    "variants": {
+      "Pre 2.2.0": [
+        "(14-18)% increased Spell Damage",
+        "+(18-30)% to Global Critical Strike Multiplier"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Ashwaker.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Eclipse Solaris",
-      "base": "Crystal Wand",
-      "levelReq": 45,
-      "variants": {
-        "Pre 2.2.0": [
-          "(14-18)% increased Spell Damage",
-          "+(18-30)% to Global Critical Strike Multiplier"
-        ],
-        "Pre 2.3.0": [
-          "(14-18)% increased Spell Damage",
-          "+(27-33)% to Global Critical Strike Multiplier"
-        ],
-        "Current": [
-          "(29-33)% increased Spell Damage",
-          "+(27-33)% to Global Critical Strike Multiplier"
-        ]
-      },
-      "mods": [
-        "Adds (18-22) to (36-44) Physical Damage",
-        "20% increased Light Radius",
-        "Nearby Enemies are Blinded",
-        "(120-140)% increased Critical Strike Chance against Blinded Enemies"
+      "Pre 2.3.0": [
+        "(14-18)% increased Spell Damage",
+        "+(27-33)% to Global Critical Strike Multiplier"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Corona Solaris",
-      "base": "Crystal Wand",
-      "levelReq": 63,
-      "variants": {},
-      "mods": [
+      "Current": [
         "(29-33)% increased Spell Damage",
-        "Triggers Level 20 Blinding Aura when Equipped",
-        "Adds (18-22) to (36-44) Physical Damage",
-        "+(27-33)% to Global Critical Strike Multiplier",
-        "20% increased Light Radius",
-        "(120-140)% increased Critical Strike Chance against Blinded Enemies",
-        "Increases and Reductions to Light Radius also apply to Accuracy",
-        "Adds (145-157) to (196-210) Fire Damage to Hits with this Weapon against Blinded Enemies"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
+        "+(27-33)% to Global Critical Strike Multiplier"
+      ]
     },
-    {
-      "name": "Lifesprig",
-      "base": "Driftwood Wand",
-      "levelReq": 2,
-      "variants": {},
-      "mods": [
-        "(8-12)% increased Spell Damage",
-        "+1 to Level of Socketed Spell Gems",
-        "(20-28)% increased Spell Damage",
-        "(5-8)% increased Cast Speed",
-        "+(15-20) to maximum Life",
-        "+(15-20) to maximum Mana",
-        "Regenerate (6-8) Life over 1 second for each Spell you Cast"
+    "mods": [
+      "Adds (18-22) to (36-44) Physical Damage",
+      "20% increased Light Radius",
+      "Nearby Enemies are Blinded",
+      "(120-140)% increased Critical Strike Chance against Blinded Enemies"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Corona Solaris",
+    "base": "Crystal Wand",
+    "levelReq": 63,
+    "variants": {},
+    "mods": [
+      "(29-33)% increased Spell Damage",
+      "Triggers Level 20 Blinding Aura when Equipped",
+      "Adds (18-22) to (36-44) Physical Damage",
+      "+(27-33)% to Global Critical Strike Multiplier",
+      "20% increased Light Radius",
+      "(120-140)% increased Critical Strike Chance against Blinded Enemies",
+      "Increases and Reductions to Light Radius also apply to Accuracy",
+      "Adds (145-157) to (196-210) Fire Damage to Hits with this Weapon against Blinded Enemies"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Lifesprig",
+    "base": "Driftwood Wand",
+    "levelReq": 2,
+    "variants": {},
+    "mods": [
+      "(8-12)% increased Spell Damage",
+      "+1 to Level of Socketed Spell Gems",
+      "(20-28)% increased Spell Damage",
+      "(5-8)% increased Cast Speed",
+      "+(15-20) to maximum Life",
+      "+(15-20) to maximum Mana",
+      "Regenerate (6-8) Life over 1 second for each Spell you Cast"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Midnight Bargain",
+    "base": "Engraved Wand",
+    "levelReq": 40,
+    "variants": {
+      "Pre 2.3.0": [
+        "(12-16)% increased Spell Damage",
+        "+2 to Maximum number of Skeletons"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Midnight Bargain",
-      "base": "Engraved Wand",
-      "levelReq": 40,
-      "variants": {
-        "Pre 2.3.0": [
-          "(12-16)% increased Spell Damage",
-          "+2 to Maximum number of Skeletons"
-        ],
-        "Pre 3.0.0": [
-          "(22-26)% increased Spell Damage",
-          "+2 to Maximum number of Skeletons"
-        ],
-        "Current": [
-          "(22-26)% increased Spell Damage",
-          "+1 to Maximum number of Skeletons"
-        ]
-      },
-      "mods": [
-        "+(10-20) to Intelligence",
-        "Minions have (10-20)% increased Movement Speed",
-        "Minions deal (10-30)% increased Damage",
-        "+1 to Maximum number of Zombies",
-        "+1 to Maximum number of Spectres",
-        "Reserves 30% of Life",
-        "Cannot be used with Chaos Inoculation"
+      "Pre 3.0.0": [
+        "(22-26)% increased Spell Damage",
+        "+2 to Maximum number of Skeletons"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique3.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
+      "Current": [
+        "(22-26)% increased Spell Damage",
+        "+1 to Maximum number of Skeletons"
+      ]
     },
-    {
-      "name": "Moonsorrow",
-      "base": "Imbued Wand",
-      "levelReq": 59,
-      "variants": {
-        "Pre 2.0.0": [
-          "(15-19)% increased Spell Damage",
-          "Socketed Gems are supported by level 5 Blind",
-          "125% increased Physical Damage"
-        ],
-        "Pre 2.3.0": [
-          "(15-19)% increased Spell Damage",
-          "Socketed Gems are supported by level 5 Blind",
-          "175% increased Physical Damage"
-        ],
-        "Pre 3.0.0": [
-          "(33-37)% increased Spell Damage",
-          "Socketed Gems are supported by level 5 Blind",
-          "175% increased Physical Damage"
-        ],
-        "Current": [
-          "(33-37)% increased Spell Damage",
-          "Socketed Gems are supported by level 20 Blind",
-          "(250-275)% increased Physical Damage"
-        ]
-      },
-      "mods": [
-        "(30-40)% increased Spell Damage",
-        "+10 to Intelligence",
-        "(20-30)% increased Lightning Damage",
-        "10% increased Cast Speed",
-        "10% chance to Blind Enemies on hit"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique2.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Obliteration",
-      "base": "Demon's Horn",
-      "levelReq": 56,
-      "variants": {
-        "Pre 2.3.0": [
-          "(15-18)% increased Spell Damage"
-        ],
-        "Current": [
-          "(31-35)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "Adds (24-30) to (80-92) Physical Damage",
-        "(26-32)% increased Critical Strike Chance",
-        "Gain (13-15)% of Physical Damage as Extra Chaos Damage",
-        "Enemies you Kill have a 20% chance to Explode, dealing a quarter",
-        "of their maximum Life as Chaos Damage."
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Maledict.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Piscator's Vigil",
-      "base": "Tornado Wand",
-      "levelReq": 65,
-      "variants": {
-        "Pre 2.3.0": [
-          "(16-19)% increased Spell Damage"
-        ],
-        "Pre 2.6.0": [
-          "(35-39)% increased Spell Damage"
-        ],
-        "Current": [
-          "(35-39)% increased Spell Damage",
-          "Attacks with this Weapon Penetrate 5% Elemental Resistances"
-        ]
-      },
-      "mods": [
-        "No Physical Damage",
-        "(10-18)% increased Attack Speed",
-        "+(340-400) to Accuracy Rating",
-        "(20-30)% increased Critical Strike Chance",
-        "Attacks with this Weapon have (100-115)% increased Elemental Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PiscatorsVigil.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "The Poet's Pen",
-      "base": "Carved Wand",
-      "levelReq": 12,
-      "variants": {},
-      "mods": [
-        "(11-15)% increased Spell Damage ",
-        "+1 to Level of Socketed Active Skill Gems per 25 Player Levels ",
-        "Adds 3 to 5 Physical Damage to Attacks with this Weapon per 3 Player Levels ",
-        "(8-12)% increased Attack Speed ",
-        "Trigger a Socketed Spell when you Attack"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PoetsPen.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Reverberation Rod",
-      "base": "Spiraled Wand",
-      "levelReq": 24,
-      "variants": {
-        "Pre 2.3.0": [
-          "(10-14)% increased Spell Damage"
-        ],
-        "Current": [
-          "(15-19)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "+1 to Level of Socketed Gems",
-        "Socketed Gems are Supported by level 1 Spell Echo",
-        "+(10-30) to Intelligence"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Amplification Rod",
-      "base": "Spiraled Wand",
-      "levelReq": 36,
-      "variants": {},
-      "mods": [
+    "mods": [
+      "+(10-20) to Intelligence",
+      "Minions have (10-20)% increased Movement Speed",
+      "Minions deal (10-30)% increased Damage",
+      "+1 to Maximum number of Zombies",
+      "+1 to Maximum number of Spectres",
+      "Reserves 30% of Life",
+      "Cannot be used with Chaos Inoculation"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique3.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Moonsorrow",
+    "base": "Imbued Wand",
+    "levelReq": 59,
+    "variants": {
+      "Pre 2.0.0": [
         "(15-19)% increased Spell Damage",
-        "+1 to Level of Socketed Gems",
-        "Socketed Gems are Supported by level 1 Spell Echo",
-        "Socketed Gems are Supported by level 1 Increased Area of Effect",
-        "Socketed Gems are Supported by level 1 Controlled Destruction",
-        "+(10-30) to Intelligence"
+        "Socketed Gems are supported by level 5 Blind",
+        "125% increased Physical Damage"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Shade of Solaris",
-      "base": "Sage Wand",
-      "levelReq": 30,
-      "variants": {},
-      "mods": [
-        "(17-21)% increased Spell Damage",
-        "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
-        "Critical Strikes deal no Damage",
-        "120% increased Spell Damage if you've dealt a Critical Strike Recently"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/SolarisWand.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Shimmeron",
-      "base": "Tornado Wand",
-      "levelReq": 65,
-      "variants": {
-        "Pre 3.4.0": [
-          "400 Lightning Damage taken per second per Power Charge if you've dealt a Critical Strike Recently"
-        ],
-        "Current": [
-          "200 Lightning Damage taken per second per Power Charge if your Skills have dealt a Critical Strike Recently"
-        ]
-      },
-      "mods": [
-        "(35-39)% increased Spell Damage ",
-        "(30-40)% increased Spell Damage ",
-        "Adds (26-35) to (95-105) Lightning Damage to Spells ",
-        "+(6-10)% to Critical Strike Multiplier per Power Charge ",
-        "+0.3% Critical Strike Chance per Power Charge ",
-        "2% additional Chance to Block Spells per Power Charge ",
-        "Adds 3 to 9 Lightning Damage to Spells per Power Charge "
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ElderWand.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Storm Prison",
-      "base": "Carved Wand",
-      "levelReq": 12,
-      "variants": {
-        "Pre 2.3.0": [
-          "(9-13)% increased Spell Damage"
-        ],
-        "Current": [
-          "(11-15)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "(40-60)% increased Physical Damage",
-        "Adds 1 to (35-45) Lightning Damage",
-        "(15-25)% increased Mana Regeneration Rate",
-        "+1 Maximum Power Charge",
-        "(25-35)% chance to gain a Power Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/StormPrison.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    },
-    {
-      "name": "Tulborn",
-      "base": "Spiraled Wand",
-      "levelReq": 24,
-      "variants": {},
-      "mods": [
+      "Pre 2.3.0": [
         "(15-19)% increased Spell Damage",
-        "(10-15)% increased Cast Speed",
-        "50% chance to gain a Power Charge on Killing a Frozen Enemy",
-        "Adds 10 to 20 Cold Damage to Spells per Power Charge",
-        "+(20-25) Mana gained on Killing a Frozen Enemy"
+        "Socketed Gems are supported by level 5 Blind",
+        "175% increased Physical Damage"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Tulborn.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
-      "itemType": "Wand"
+      "Pre 3.0.0": [
+        "(33-37)% increased Spell Damage",
+        "Socketed Gems are supported by level 5 Blind",
+        "175% increased Physical Damage"
+      ],
+      "Current": [
+        "(33-37)% increased Spell Damage",
+        "Socketed Gems are supported by level 20 Blind",
+        "(250-275)% increased Physical Damage"
+      ]
     },
-    {
-      "name": "Tulfall",
-      "base": "Tornado Wand",
-      "levelReq": 65,
-      "variants": {},
-      "mods": [
+    "mods": [
+      "(30-40)% increased Spell Damage",
+      "+10 to Intelligence",
+      "(20-30)% increased Lightning Damage",
+      "10% increased Cast Speed",
+      "10% chance to Blind Enemies on hit"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique2.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Obliteration",
+    "base": "Demon's Horn",
+    "levelReq": 56,
+    "variants": {
+      "Pre 2.3.0": [
+        "(15-18)% increased Spell Damage"
+      ],
+      "Current": [
+        "(31-35)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "Adds (24-30) to (80-92) Physical Damage",
+      "(26-32)% increased Critical Strike Chance",
+      "Gain (13-15)% of Physical Damage as Extra Chaos Damage",
+      "Enemies you Kill have a 20% chance to Explode, dealing a quarter",
+      "of their maximum Life as Chaos Damage."
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Maledict.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Piscator's Vigil",
+    "base": "Tornado Wand",
+    "levelReq": 65,
+    "variants": {
+      "Pre 2.3.0": [
+        "(16-19)% increased Spell Damage"
+      ],
+      "Pre 2.6.0": [
+        "(35-39)% increased Spell Damage"
+      ],
+      "Current": [
         "(35-39)% increased Spell Damage",
-        "(10-15)% increased Cast Speed",
-        "50% chance to gain a Power Charge on Killing a Frozen Enemy",
-        "Adds 15 to 25 Cold Damage to Spells per Power Charge",
-        "Lose all Power Charges on reaching Maximum Power Charges",
-        "Gain a Frenzy Charge on reaching Maximum Power Charges",
-        "(10-15)% increased Cold Damage per Frenzy Charge"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/TulbornUpgraded.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
-      "itemType": "Wand"
+        "Attacks with this Weapon Penetrate 5% Elemental Resistances"
+      ]
     },
-    {
-      "name": "Twyzel",
-      "base": "Sage Wand",
-      "levelReq": 30,
-      "variants": {
-        "Pre 2.3.0": [
-          "(11-14)% increased Spell Damage"
-        ],
-        "Current": [
-          "(17-21)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "(80-120)% increased Physical Damage",
-        "Adds (5-8) to (13-17) Physical Damage",
-        "(5-10)% increased Attack Speed",
-        "(10-20)% increased Critical Strike Chance",
-        "Socketed Gems fire an additional Projectile"
+    "mods": [
+      "No Physical Damage",
+      "(10-18)% increased Attack Speed",
+      "+(340-400) to Accuracy Rating",
+      "(20-30)% increased Critical Strike Chance",
+      "Attacks with this Weapon have (100-115)% increased Elemental Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PiscatorsVigil.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "The Poet's Pen",
+    "base": "Carved Wand",
+    "levelReq": 12,
+    "variants": {},
+    "mods": [
+      "(11-15)% increased Spell Damage ",
+      "+1 to Level of Socketed Active Skill Gems per 25 Player Levels ",
+      "Adds 3 to 5 Physical Damage to Attacks with this Weapon per 3 Player Levels ",
+      "(8-12)% increased Attack Speed ",
+      "Trigger a Socketed Spell when you Attack"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PoetsPen.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Reverberation Rod",
+    "base": "Spiraled Wand",
+    "levelReq": 24,
+    "variants": {
+      "Pre 2.3.0": [
+        "(10-14)% increased Spell Damage"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1Unique.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
+      "Current": [
+        "(15-19)% increased Spell Damage"
+      ]
     },
-    {
-      "name": "Void Battery",
-      "base": "Prophecy Wand",
-      "levelReq": 68,
-      "variants": {
-        "Pre 2.3.0": [
-          "(16-20)% increased Spell Damage"
-        ],
-        "Current": [
-          "(36-40)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "80% reduced Spell Damage",
-        "(10-20)% increased Cast Speed",
-        "(50-65)% increased Global Critical Strike Chance",
-        "+(40-50) to maximum Mana",
-        "+1 to Maximum Power Charges",
-        "25% increased Spell Damage per Power Charge",
-        "",
-        "}"
+    "mods": [
+      "+1 to Level of Socketed Gems",
+      "Socketed Gems are Supported by level 1 Spell Echo",
+      "+(10-30) to Intelligence"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Amplification Rod",
+    "base": "Spiraled Wand",
+    "levelReq": 36,
+    "variants": {},
+    "mods": [
+      "(15-19)% increased Spell Damage",
+      "+1 to Level of Socketed Gems",
+      "Socketed Gems are Supported by level 1 Spell Echo",
+      "Socketed Gems are Supported by level 1 Increased Area of Effect",
+      "Socketed Gems are Supported by level 1 Controlled Destruction",
+      "+(10-30) to Intelligence"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Shade of Solaris",
+    "base": "Sage Wand",
+    "levelReq": 30,
+    "variants": {},
+    "mods": [
+      "(17-21)% increased Spell Damage",
+      "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
+      "Critical Strikes deal no Damage",
+      "120% increased Spell Damage if you've dealt a Critical Strike Recently"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/SolarisWand.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Shimmeron",
+    "base": "Tornado Wand",
+    "levelReq": 65,
+    "variants": {
+      "Pre 3.4.0": [
+        "400 Lightning Damage taken per second per Power Charge if you've dealt a Critical Strike Recently"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/VoidBattery.png?scale=1&scaleIndex=0&w=1&h=3",
-      "itemType": "Wand"
-    }
-  ]
-}
+      "Current": [
+        "200 Lightning Damage taken per second per Power Charge if your Skills have dealt a Critical Strike Recently"
+      ]
+    },
+    "mods": [
+      "(35-39)% increased Spell Damage ",
+      "(30-40)% increased Spell Damage ",
+      "Adds (26-35) to (95-105) Lightning Damage to Spells ",
+      "+(6-10)% to Critical Strike Multiplier per Power Charge ",
+      "+0.3% Critical Strike Chance per Power Charge ",
+      "2% additional Chance to Block Spells per Power Charge ",
+      "Adds 3 to 9 Lightning Damage to Spells per Power Charge "
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": true,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ElderWand.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Storm Prison",
+    "base": "Carved Wand",
+    "levelReq": 12,
+    "variants": {
+      "Pre 2.3.0": [
+        "(9-13)% increased Spell Damage"
+      ],
+      "Current": [
+        "(11-15)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "(40-60)% increased Physical Damage",
+      "Adds 1 to (35-45) Lightning Damage",
+      "(15-25)% increased Mana Regeneration Rate",
+      "+1 Maximum Power Charge",
+      "(25-35)% chance to gain a Power Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/StormPrison.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Tulborn",
+    "base": "Spiraled Wand",
+    "levelReq": 24,
+    "variants": {},
+    "mods": [
+      "(15-19)% increased Spell Damage",
+      "(10-15)% increased Cast Speed",
+      "50% chance to gain a Power Charge on Killing a Frozen Enemy",
+      "Adds 10 to 20 Cold Damage to Spells per Power Charge",
+      "+(20-25) Mana gained on Killing a Frozen Enemy"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Tulborn.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Tulfall",
+    "base": "Tornado Wand",
+    "levelReq": 65,
+    "variants": {},
+    "mods": [
+      "(35-39)% increased Spell Damage",
+      "(10-15)% increased Cast Speed",
+      "50% chance to gain a Power Charge on Killing a Frozen Enemy",
+      "Adds 15 to 25 Cold Damage to Spells per Power Charge",
+      "Lose all Power Charges on reaching Maximum Power Charges",
+      "Gain a Frenzy Charge on reaching Maximum Power Charges",
+      "(10-15)% increased Cold Damage per Frenzy Charge"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/TulbornUpgraded.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Twyzel",
+    "base": "Sage Wand",
+    "levelReq": 30,
+    "variants": {
+      "Pre 2.3.0": [
+        "(11-14)% increased Spell Damage"
+      ],
+      "Current": [
+        "(17-21)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "(80-120)% increased Physical Damage",
+      "Adds (5-8) to (13-17) Physical Damage",
+      "(5-10)% increased Attack Speed",
+      "(10-20)% increased Critical Strike Chance",
+      "Socketed Gems fire an additional Projectile"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1Unique.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  },
+  {
+    "name": "Void Battery",
+    "base": "Prophecy Wand",
+    "levelReq": 68,
+    "variants": {
+      "Pre 2.3.0": [
+        "(16-20)% increased Spell Damage"
+      ],
+      "Current": [
+        "(36-40)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "80% reduced Spell Damage",
+      "(10-20)% increased Cast Speed",
+      "(50-65)% increased Global Critical Strike Chance",
+      "+(40-50) to maximum Mana",
+      "+1 to Maximum Power Charges",
+      "25% increased Spell Damage per Power Charge",
+      "",
+      "}"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/VoidBattery.png?scale=1&scaleIndex=0&w=1&h=3",
+    "itemType": "Wand"
+  }
+]

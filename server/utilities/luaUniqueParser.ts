@@ -59,7 +59,7 @@ Promise.all([
   });
 
 function parseItems(fileName: string) {
-  const items = {};
+  const items: Item[] = [];
 
   const itemsRawString: string = fs
     .readFileSync(fileName)
@@ -74,7 +74,6 @@ function parseItems(fileName: string) {
   for (let itemType of itemsRaw) {
     const type = itemType.split(/\r\n|\n/g)[0].trim();
     if (type) {
-      items[type] = [];
       const itemsRaw = itemType.replace(type, "").split("]],[[");
       for (let itemRaw of itemsRaw) {
         const lines = itemRaw
@@ -83,7 +82,7 @@ function parseItems(fileName: string) {
           .replace(/[��]/g, "-")
           .trim()
           .split(/\r\n|\n/g);
-        items[type].push(createItem(lines));
+        items.push(createItem(lines));
       }
     }
   }
@@ -238,5 +237,5 @@ function findItemType(base: string): string {
       name: BaseItemData[key].name
     }))
     .filter(baseItem => baseItem.name === base);
-  return types[0].item_class;
+  return types[0] ? types[0].item_class : "Staff";
 }

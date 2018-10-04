@@ -1,64 +1,49 @@
-import { Component, OnInit, Input } from "@angular/core";
-import { ItemService } from "../../services/item.service";
-import { BsModalRef } from "ngx-bootstrap/modal";
+import { Component, OnInit, Input } from '@angular/core';
+import { UniqueItemService } from '../../services/unique-item.service';
+import { BsModalRef } from 'ngx-bootstrap/modal';
 
-import { default as itemRestrictions } from "../../resources/item-restrictions.json";
+import { default as itemRestrictions } from '../../resources/item-restrictions.json';
 
-import { Item, ItemType } from "../../models/ItemNew";
-import { Observable } from "rxjs";
-import { UniqueItemData, ItemFilter } from "../../models/UniqueItemData";
+import { Item, ItemType, ItemFilter } from '../../models/ItemNew';
+import { Observable } from 'rxjs';
 
 @Component({
-  selector: "exilebuilds-item-browser",
-  templateUrl: "./item-browser.component.html",
-  styleUrls: ["./item-browser.component.css"]
+  selector: 'exilebuilds-item-browser',
+  templateUrl: './item-browser.component.html',
+  styleUrls: ['./item-browser.component.css']
 })
 export class ItemBrowserComponent implements OnInit {
   _filter: ItemFilter = {};
-  _search: string = "";
+  searchText = '';
+  items: Observable<Item[]>;
 
   ItemType = ItemType;
 
-  uniqueItems: UniqueItemData;
-
-  displayItems: Item[] = [];
-
-  constructor(private modalRef: BsModalRef, private itemService: ItemService) {}
+  constructor(
+    private modalRef: BsModalRef,
+    private $uniques: UniqueItemService
+  ) {}
 
   ngOnInit() {
-    this.itemService.getUniques().subscribe(data => {
-      this.uniqueItems = new UniqueItemData(data);
-      console.log(this.uniqueItems);
-      this.filter = { type: ItemType.ONEHANDAXE, name: this.search };
-    });
+    this.filter = { itemType: ItemType.AMULET };
   }
 
-  setSelected() {}
-
-  filterItems() {
-    this.displayItems = this.uniqueItems.filter({
-      ...this.filter,
-      name: this.search
-    });
-  }
-
-  set search(search: string) {
-    this._search = search;
-    this.filterItems();
-  }
-
-  get search() {
-    return this._search;
+  get filter(): ItemFilter {
+    return this._filter;
   }
 
   set filter(filter: ItemFilter) {
-    this._filter = filter;
-    this.filterItems();
+    console.log(filter);
+    this._filter = Object.assign(this._filter, filter);
+    console.log(this._filter);
+    this.items = this.$uniques.filter(this.filter);
   }
 
-  get filter() {
-    return this._filter;
+  handleSearchChange() {
+    this.filter = { name: this.searchText };
   }
+
+  setSelected() {}
 
   //#region
   /*

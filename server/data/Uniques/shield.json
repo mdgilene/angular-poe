@@ -1,1322 +1,1310 @@
-{
-  "Shield: Armour": [
-    {
-      "name": "Ahn's Heritage",
-      "base": "Colossal Tower Shield",
-      "levelReq": 67,
-      "variants": {
-        "Pre 3.0.0": [],
-        "Current": [
-          "+(10-20) to maximum Life"
-        ]
-      },
-      "mods": [
-        "(50-100)% increased Armour",
+[
+  {
+    "name": "Ahn's Heritage",
+    "base": "Colossal Tower Shield",
+    "levelReq": 67,
+    "variants": {
+      "Pre 3.0.0": [],
+      "Current": [
+        "+(10-20) to maximum Life"
+      ]
+    },
+    "mods": [
+      "(50-100)% increased Armour",
+      "+(60-80) to maximum Life",
+      "-1 to maximum Endurance Charges",
+      "-10% to maximum Block Chance",
+      "+6% Chance to Block",
+      "+3% to all maximum Resistances while you have no Endurance Charges",
+      "You have Onslaught while at maximum Endurance Charges"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/AhnsHeritage.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "The Anticipation",
+    "base": "Ezomyte Tower Shield",
+    "levelReq": 64,
+    "variants": {
+      "Pre 3.0.0": [],
+      "Current": [
+        "+(30-40) to maximum Life"
+      ]
+    },
+    "mods": [
+      "(120-160)% increased Armour",
+      "+(50-70) to maximum Life",
+      "+6% Chance to Block",
+      "+1000 Armour if you've Blocked Recently",
+      "Permanently Intimidate Enemies on Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing1.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "The Surrender",
+    "base": "Ezomyte Tower Shield",
+    "levelReq": 64,
+    "variants": {
+      "Pre 3.0.0": [],
+      "Current": [
+        "+(30-40) to maximum Life"
+      ]
+    },
+    "mods": [
+      "Grants level 30 Reckoning Skill",
+      "(130-170)% increased Armour",
+      "+(65-80) to maximum Life",
+      "Recover 250 Life when you Block",
+      "+6% Chance to Block",
+      "+1500 Armour if you've Blocked Recently"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing2.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Chernobog's Pillar",
+    "base": "Ebony Tower Shield",
+    "levelReq": 61,
+    "variants": {
+      "Pre 2.0.0": [
+        "5% chance to Curse Enemies with Enfeeble on Hit"
+      ],
+      "Pre 2.6.0": [
+        "Adds (7-10) to (15-25) Fire Damage to Attacks",
+        "10% chance to Curse Enemies with Enfeeble on Hit"
+      ],
+      "Pre 3.0.0": [
+        "Adds (12-15) to (30-35) Fire Damage to Spells and Attacks",
         "+(60-80) to maximum Life",
-        "-1 to maximum Endurance Charges",
-        "-10% to maximum Block Chance",
-        "+6% Chance to Block",
-        "+3% to all maximum Resistances while you have no Endurance Charges",
-        "You have Onslaught while at maximum Endurance Charges"
+        "25% chance to Curse un-cursed Enemies with Enfeeble on Hit"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/AhnsHeritage.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
+      "Current": [
+        "+(20-30) to maximum Life",
+        "Adds (12-15) to (30-35) Fire Damage to Spells and Attacks",
+        "+(60-80) to maximum Life",
+        "25% chance to Curse un-cursed Enemies with Enfeeble on Hit"
+      ]
     },
-    {
-      "name": "The Anticipation",
-      "base": "Ezomyte Tower Shield",
-      "levelReq": 64,
-      "variants": {
-        "Pre 3.0.0": [],
-        "Current": [
-          "+(30-40) to maximum Life"
-        ]
-      },
-      "mods": [
-        "(120-160)% increased Armour",
-        "+(50-70) to maximum Life",
-        "+6% Chance to Block",
-        "+1000 Armour if you've Blocked Recently",
-        "Permanently Intimidate Enemies on Block"
+    "mods": [
+      "(120-150)% increased Armour",
+      "+(35-50)% to Fire Resistance",
+      "25% of Physical Damage Converted to Fire Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chernobogspillar.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Lioneye's Remorse",
+    "base": "Pinnacle Tower Shield",
+    "levelReq": 70,
+    "variants": {
+      "Pre 2.6.0": [
+        "+(80-100) to maximum Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing1.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
-      "itemType": "Shield"
+      "Pre 3.0.0": [
+        "+(160-180) to maximum Life"
+      ],
+      "Current": [
+        "+(20-30) to maximum Life",
+        "+(160-180) to maximum Life"
+      ]
     },
-    {
-      "name": "The Surrender",
-      "base": "Ezomyte Tower Shield",
-      "levelReq": 64,
-      "variants": {
-        "Pre 3.0.0": [],
-        "Current": [
-          "+(30-40) to maximum Life"
-        ]
-      },
-      "mods": [
-        "Grants level 30 Reckoning Skill",
-        "(130-170)% increased Armour",
-        "+(65-80) to maximum Life",
-        "Recover 250 Life when you Block",
-        "+6% Chance to Block",
-        "+1500 Armour if you've Blocked Recently"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing2.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
+    "mods": [
+      "(200-250)% increased Armour",
+      "5% reduced Movement Speed",
+      "20% increased Stun Recovery",
+      "−25 Physical Damage taken from Projectile Attacks",
+      "+5% Chance to Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique6.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Lycosidae",
+    "base": "Rawhide Tower Shield",
+    "levelReq": 11,
+    "variants": {
+      "Pre 3.0.0": [],
+      "Current": [
+        "+(10-20) to maximum Life"
+      ]
     },
-    {
-      "name": "Chernobog's Pillar",
-      "base": "Ebony Tower Shield",
-      "levelReq": 61,
-      "variants": {
-        "Pre 2.0.0": [
-          "5% chance to Curse Enemies with Enfeeble on Hit"
-        ],
-        "Pre 2.6.0": [
-          "Adds (7-10) to (15-25) Fire Damage to Attacks",
-          "10% chance to Curse Enemies with Enfeeble on Hit"
-        ],
-        "Pre 3.0.0": [
-          "Adds (12-15) to (30-35) Fire Damage to Spells and Attacks",
-          "+(60-80) to maximum Life",
-          "25% chance to Curse un-cursed Enemies with Enfeeble on Hit"
-        ],
-        "Current": [
-          "+(20-30) to maximum Life",
-          "Adds (12-15) to (30-35) Fire Damage to Spells and Attacks",
-          "+(60-80) to maximum Life",
-          "25% chance to Curse un-cursed Enemies with Enfeeble on Hit"
-        ]
-      },
-      "mods": [
-        "(120-150)% increased Armour",
-        "+(35-50)% to Fire Resistance",
-        "25% of Physical Damage Converted to Fire Damage"
+    "mods": [
+      "+(120-160) to Armour",
+      "+(30-40) to maximum Life",
+      "Your hits can't be Evaded",
+      "+(3-5)% Chance to Block",
+      "Adds 250 to 300 Cold Damage to Counterattacks"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lycosidae.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Magna Eclipsis",
+    "base": "Pinnacle Tower Shield",
+    "levelReq": 70,
+    "variants": {},
+    "mods": [
+      "+(20-30) to maximum Life ",
+      "+2 to Level of Socketed Gems ",
+      "Triggers Level 20 Elemental Aegis when Equipped ",
+      "(180–220)% increased Armour ",
+      "+(60–80) to maximum Life ",
+      "+(80–100) to Evasion Rating and Energy Shield"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MagnisEclipsis.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Redblade Banner",
+    "base": "Painted Tower Shield",
+    "levelReq": 35,
+    "variants": {
+      "Pre 2.6.0": [
+        "+(20-60) to maximum Life",
+        "+1 to Level of Socketed Warcry Gems",
+        "20% increased Endurance Charge Duration"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chernobogspillar.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
+      "Pre 3.0.0": [
+        "+(50-60) to maximum Life",
+        "(80-100)% increased Armour",
+        "2% of Attack Damage Leeched as Life against Taunted Enemies",
+        "50% increased Warcry Cooldown Recovery Speed"
+      ],
+      "Current": [
+        "+(20-30) to maximum Life",
+        "+(50-60) to maximum Life",
+        "(80-100)% increased Armour",
+        "2% of Attack Damage Leeched as Life against Taunted Enemies",
+        "50% increased Warcry Cooldown Recovery Speed"
+      ]
     },
-    {
-      "name": "Lioneye's Remorse",
-      "base": "Pinnacle Tower Shield",
-      "levelReq": 70,
-      "variants": {
-        "Pre 2.6.0": [
-          "+(80-100) to maximum Life"
-        ],
-        "Pre 3.0.0": [
-          "+(160-180) to maximum Life"
-        ],
-        "Current": [
-          "+(20-30) to maximum Life",
-          "+(160-180) to maximum Life"
-        ]
-      },
-      "mods": [
-        "(200-250)% increased Armour",
-        "5% reduced Movement Speed",
-        "20% increased Stun Recovery",
-        "−25 Physical Damage taken from Projectile Attacks",
-        "+5% Chance to Block"
+    "mods": [
+      "+5% Chance to Block",
+      "Gain +10 Life when you Taunt an Enemy"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/RedbladeBanner.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Titucius' Span",
+    "base": "Reinforced Tower Shield",
+    "levelReq": 30,
+    "variants": {
+      "Pre 2.6.0": [
+        "−10 Physical Damage taken from Projectile Attacks"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique6.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
+      "Pre 3.0.0": [
+        "−(50-80) Physical Damage taken from Projectile Attacks"
+      ],
+      "Current": [
+        "+(10-20) to maximum Life",
+        "−(50-80) Physical Damage taken from Projectile Attacks"
+      ]
     },
-    {
-      "name": "Lycosidae",
-      "base": "Rawhide Tower Shield",
-      "levelReq": 11,
-      "variants": {
-        "Pre 3.0.0": [],
-        "Current": [
-          "+(10-20) to maximum Life"
-        ]
-      },
-      "mods": [
-        "+(120-160) to Armour",
-        "+(30-40) to maximum Life",
-        "Your hits can't be Evaded",
-        "+(3-5)% Chance to Block",
-        "Adds 250 to 300 Cold Damage to Counterattacks"
+    "mods": [
+      "(60-80)% increased Armour",
+      "+(30-50) to maximum Life",
+      "200% increased Armour against Projectiles",
+      "+25% additional Block Chance against Projectiles"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique7.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Trolltimber Spire",
+    "base": "Cedar Tower Shield",
+    "levelReq": 17,
+    "variants": {
+      "Pre 2.6.0": [
+        "1% of Damage Leeched as Life for Skills used by Totems"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lycosidae.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
+      "Pre 3.0.0": [
+        "(130-150)% increased Armour",
+        "0.5% of Damage dealt by your Totems is Leeched to you as Life"
+      ],
+      "Current": [
+        "+(20-30) to maximum Life",
+        "(130-150)% increased Armour",
+        "0.5% of Damage dealt by your Totems is Leeched to you as Life"
+      ]
     },
-    {
-      "name": "Magna Eclipsis",
-      "base": "Pinnacle Tower Shield",
-      "levelReq": 70,
-      "variants": {},
-      "mods": [
-        "+(20-30) to maximum Life ",
-        "+2 to Level of Socketed Gems ",
-        "Triggers Level 20 Elemental Aegis when Equipped ",
-        "(180–220)% increased Armour ",
-        "+(60–80) to maximum Life ",
-        "+(80–100) to Evasion Rating and Energy Shield"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MagnisEclipsis.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
+    "mods": [
+      "+(40-60) to maximum Life",
+      "0.5% of Life Regenerated per Second",
+      "15% increased Area of Effect for Skills used by Totems"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique3.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Tukohama's Fortress",
+    "base": "Ebony Tower Shield",
+    "levelReq": 61,
+    "variants": {
+      "Pre 3.0.0": [],
+      "Current": [
+        "+(20-30) to maximum Life"
+      ]
     },
-    {
-      "name": "Redblade Banner",
-      "base": "Painted Tower Shield",
-      "levelReq": 35,
-      "variants": {
-        "Pre 2.6.0": [
-          "+(20-60) to maximum Life",
-          "+1 to Level of Socketed Warcry Gems",
-          "20% increased Endurance Charge Duration"
-        ],
-        "Pre 3.0.0": [
-          "+(50-60) to maximum Life",
-          "(80-100)% increased Armour",
-          "2% of Attack Damage Leeched as Life against Taunted Enemies",
-          "50% increased Warcry Cooldown Recovery Speed"
-        ],
-        "Current": [
-          "+(20-30) to maximum Life",
-          "+(50-60) to maximum Life",
-          "(80-100)% increased Armour",
-          "2% of Attack Damage Leeched as Life against Taunted Enemies",
-          "50% increased Warcry Cooldown Recovery Speed"
-        ]
-      },
-      "mods": [
-        "+5% Chance to Block",
-        "Gain +10 Life when you Taunt an Enemy"
+    "mods": [
+      "40% increased Totem Damage",
+      "+(80-100) to maximum Life",
+      "Can have up to 1 additional Totem summoned at a time",
+      "+300 Armour per active Totem",
+      "Blood Magic"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TukohamasFortress.png?scale=1&scaleIndex=0&w=2&h=4",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Atziri's Mirror",
+    "base": "Golden Buckler",
+    "levelReq": 54,
+    "variants": {
+      "Pre 2.0.0": [
+        "(80-100)% increased Evasion Rating"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/RedbladeBanner.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Titucius' Span",
-      "base": "Reinforced Tower Shield",
-      "levelReq": 30,
-      "variants": {
-        "Pre 2.6.0": [
-          "−10 Physical Damage taken from Projectile Attacks"
-        ],
-        "Pre 3.0.0": [
-          "−(50-80) Physical Damage taken from Projectile Attacks"
-        ],
-        "Current": [
-          "+(10-20) to maximum Life",
-          "−(50-80) Physical Damage taken from Projectile Attacks"
-        ]
-      },
-      "mods": [
-        "(60-80)% increased Armour",
-        "+(30-50) to maximum Life",
-        "200% increased Armour against Projectiles",
-        "+25% additional Block Chance against Projectiles"
+      "Pre 3.0.0": [
+        "(80-100)% increased Evasion Rating",
+        "50% reduced Duration of Curses on you"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique7.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Trolltimber Spire",
-      "base": "Cedar Tower Shield",
-      "levelReq": 17,
-      "variants": {
-        "Pre 2.6.0": [
-          "1% of Damage Leeched as Life for Skills used by Totems"
-        ],
-        "Pre 3.0.0": [
-          "(130-150)% increased Armour",
-          "0.5% of Damage dealt by your Totems is Leeched to you as Life"
-        ],
-        "Current": [
-          "+(20-30) to maximum Life",
-          "(130-150)% increased Armour",
-          "0.5% of Damage dealt by your Totems is Leeched to you as Life"
-        ]
-      },
-      "mods": [
-        "+(40-60) to maximum Life",
-        "0.5% of Life Regenerated per Second",
-        "15% increased Area of Effect for Skills used by Totems"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique3.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Tukohama's Fortress",
-      "base": "Ebony Tower Shield",
-      "levelReq": 61,
-      "variants": {
-        "Pre 3.0.0": [],
-        "Current": [
-          "+(20-30) to maximum Life"
-        ]
-      },
-      "mods": [
-        "40% increased Totem Damage",
-        "+(80-100) to maximum Life",
-        "Can have up to 1 additional Totem summoned at a time",
-        "+300 Armour per active Totem",
-        "Blood Magic"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TukohamasFortress.png?scale=1&scaleIndex=0&w=2&h=4",
-      "itemType": "Shield"
-    }
-  ],
-  "Shield: Evasion": [
-    {
-      "name": "Atziri's Mirror",
-      "base": "Golden Buckler",
-      "levelReq": 54,
-      "variants": {
-        "Pre 2.0.0": [
-          "(80-100)% increased Evasion Rating"
-        ],
-        "Pre 3.0.0": [
-          "(80-100)% increased Evasion Rating",
-          "50% reduced Duration of Curses on you"
-        ],
-        "Current": [
-          "6% increased Movement Speed",
-          "(180-200)% increased Evasion Rating",
-          "50% reduced Duration of Curses on you",
-          "10% additional Block chance while not Cursed",
-          "20% additional Spell Block chance while Cursed"
-        ]
-      },
-      "mods": [
-        "+(40-60) to Intelligence",
-        "+(20-30) to all Elemental Resistances",
-        "Curse Reflection"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Atziri's Reflection",
-      "base": "Golden Buckler",
-      "levelReq": 68,
-      "variants": {},
-      "mods": [
+      "Current": [
         "6% increased Movement Speed",
-        "+(40-60) to Intelligence",
-        "(180–200)% increased Evasion Rating",
-        "+(180–200) to maximum Energy Shield",
-        "+(20–30)% to all Elemental Resistances",
-        "Curse Reflection",
-        "Unaffected by Curses",
-        "(15–20)% increased Effect of your Curses"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
+        "(180-200)% increased Evasion Rating",
+        "50% reduced Duration of Curses on you",
+        "10% additional Block chance while not Cursed",
+        "20% additional Spell Block chance while Cursed"
+      ]
     },
-    {
-      "name": "Chalice of Horrors",
-      "base": "War Buckler",
-      "levelReq": 29,
-      "variants": {
-        "Pre 2.6.0": [],
-        "Pre 3.0.0": [
-          "+(40-50) to maximum Life",
-          "+(50-70) to maximum Energy Shield"
-        ],
-        "Current": [
-          "9% increased Movement Speed",
-          "+(40-50) to maximum Life",
-          "+(50-70) to maximum Energy Shield"
-        ]
-      },
-      "mods": [
-        "+1 to Level of Socketed Curse Gems",
-        "(30-50)% increased Evasion Rating",
-        "100% increased Curse Duration",
-        "+5% Chance to Block",
-        "10% Chance to Cause Monster to Flee on Block"
+    "mods": [
+      "+(40-60) to Intelligence",
+      "+(20-30) to all Elemental Resistances",
+      "Curse Reflection"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Atziri's Reflection",
+    "base": "Golden Buckler",
+    "levelReq": 68,
+    "variants": {},
+    "mods": [
+      "6% increased Movement Speed",
+      "+(40-60) to Intelligence",
+      "(180–200)% increased Evasion Rating",
+      "+(180–200) to maximum Energy Shield",
+      "+(20–30)% to all Elemental Resistances",
+      "Curse Reflection",
+      "Unaffected by Curses",
+      "(15–20)% increased Effect of your Curses"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Chalice of Horrors",
+    "base": "War Buckler",
+    "levelReq": 29,
+    "variants": {
+      "Pre 2.6.0": [],
+      "Pre 3.0.0": [
+        "+(40-50) to maximum Life",
+        "+(50-70) to maximum Energy Shield"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
+      "Current": [
+        "9% increased Movement Speed",
+        "+(40-50) to maximum Life",
+        "+(50-70) to maximum Energy Shield"
+      ]
     },
-    {
-      "name": "Thirst for Horrors",
-      "base": "War Buckler",
-      "levelReq": 32,
-      "variants": {
-        "Pre 2.6.0": [],
-        "Pre 3.0.0": [
-          "+(40-50) to maximum Life",
-          "+(50-70) to maximum Energy Shield"
-        ],
-        "Current": [
-          "9% increased Movement Speed",
-          "+(40-50) to maximum Life",
-          "+(50-70) to maximum Energy Shield"
-        ]
-      },
-      "mods": [
-        "+1 to Level of Socketed Curse Gems",
-        "(30-50)% increased Evasion Rating",
-        "100% increased Curse Duration",
-        "+5% Chance to Block",
-        "10% Chance to Cause Monster to Flee on Block",
-        "1% of Damage Leeched as Life against Cursed Enemies"
+    "mods": [
+      "+1 to Level of Socketed Curse Gems",
+      "(30-50)% increased Evasion Rating",
+      "100% increased Curse Duration",
+      "+5% Chance to Block",
+      "10% Chance to Cause Monster to Flee on Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Thirst for Horrors",
+    "base": "War Buckler",
+    "levelReq": 32,
+    "variants": {
+      "Pre 2.6.0": [],
+      "Pre 3.0.0": [
+        "+(40-50) to maximum Life",
+        "+(50-70) to maximum Energy Shield"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
+      "Current": [
+        "9% increased Movement Speed",
+        "+(40-50) to maximum Life",
+        "+(50-70) to maximum Energy Shield"
+      ]
     },
-    {
-      "name": "Crest of Perandus",
-      "base": "Pine Buckler",
-      "levelReq": 8,
-      "variants": {
-        "Pre 1.3.0": [
-          "+10% Chance to Block"
-        ],
-        "Pre 3.0.0": [
-          "+5% Chance to Block"
-        ],
-        "Current": [
-          "3% increased Movement Speed",
-          "+5% Chance to Block"
-        ]
-      },
-      "mods": [
-        "+(60-80) to maximum Life",
-        "(5-8) Life Regenerated per second",
-        "+30% to Lightning Resistance",
-        "0.6% of Physical Attack Damage Leeched as Life"
+    "mods": [
+      "+1 to Level of Socketed Curse Gems",
+      "(30-50)% increased Evasion Rating",
+      "100% increased Curse Duration",
+      "+5% Chance to Block",
+      "10% Chance to Cause Monster to Flee on Block",
+      "1% of Damage Leeched as Life against Cursed Enemies"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Crest of Perandus",
+    "base": "Pine Buckler",
+    "levelReq": 8,
+    "variants": {
+      "Pre 1.3.0": [
+        "+10% Chance to Block"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique5.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Great Old One's Ward",
-      "base": "Corrugated Buckler",
-      "levelReq": 46,
-      "variants": {
-        "Pre 3.0.0": [],
-        "Current": [
-          "3% increased Movement Speed"
-        ]
-      },
-      "mods": [
-        "Adds (8-12) to (15-20) Physical Damage to Attacks",
-        "(6-10)% increased Attack Speed",
-        "+(50-70) to maximum Life",
-        "(8-12)% Chance to Block Spells"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/GreatOldOnesWard.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Kaltenhalt",
-      "base": "Painted Buckler",
-      "levelReq": 16,
-      "variants": {
-        "Pre 1.0.0": [
-          "Reflects (5-10) Cold Damage to Melee Attackers"
-        ],
-        "Pre 2.6.0": [
-          "Reflects (25-50) Cold Damage to Melee Attackers"
-        ],
-        "Pre 3.0.0": [
-          "Gain (10-15)% of Physical Damage as Extra Cold Damage",
-          "Reflects (25-50) Cold Damage to Melee Attackers"
-        ],
-        "Current": [
-          "6% increased Movement Speed",
-          "Gain (10-15)% of Physical Damage as Extra Cold Damage",
-          "Reflects (25-50) Cold Damage to Melee Attackers"
-        ]
-      },
-      "mods": [
-        "(60-100)% increased Evasion Rating",
-        "+5% to maximum Cold Resistance",
-        "+50% to Cold Resistance",
+      "Pre 3.0.0": [
         "+5% Chance to Block"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Kaltensoul",
-      "base": "Painted Buckler",
-      "levelReq": 16,
-      "variants": {
-        "Pre 2.6.0": [],
-        "Pre 3.0.0": [
-          "Gain (10-15)% of Physical Damage as Extra Cold Damage"
-        ],
-        "Current": [
-          "6% increased Movement Speed",
-          "Gain (10-15)% of Physical Damage as Extra Cold Damage"
-        ]
-      },
-      "mods": [
-        "(60-100)% increased Evasion Rating",
-        "+5% to maximum Cold Resistance",
-        "+50% to Cold Resistance",
-        "Reflects (25-50) Cold Damage to Melee Attackers",
-        "+5% Chance to Block",
-        "20% of Fire Damage taken as Cold Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Mutewind Pennant",
-      "base": "Enameled Buckler",
-      "levelReq": 42,
-      "variants": {
-        "Pre 2.6.0": [
-          "+1 to Level of Socketed Warcry Gems",
-          "(20-30)% increased Chaos Damage",
-          "You gain Onslaught for 2 seconds on Killing Taunted Enemies"
-        ],
-        "Pre 3.0.0": [
-          "(80-100)% Increased Evasion Rating",
-          "You gain Onslaught for 4 seconds on using a Warcry",
-          "25% Increased Warcry Effect"
-        ],
-        "Current": [
-          "6% increased Movement Speed",
-          "(80-100)% Increased Evasion Rating",
-          "You gain Onslaught for 4 seconds on using a Warcry",
-          "25% Increased Warcry Effect"
-        ]
-      },
-      "mods": [
-        "+(20-40)% to Cold Resistance",
-        "10% increased Area of Effect of Area Skills"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MutewindPennant.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Thousand Teeth Temu",
-      "base": "Vaal Buckler",
-      "levelReq": 63,
-      "variants": {
-        "Pre 2.6.0": [],
-        "Pre 3.0.0": [
-          "10% of Damage Reflected Gained as Life"
-        ],
-        "Current": [
-          "3% increased Movement Speed",
-          "10% of Damage Reflected Gained as Life"
-        ]
-      },
-      "mods": [
-        "(100-120)% increased Evasion Rating",
-        "+(70-90) to maximum Life",
-        "0.4% of Physical Attack Damage Leeched as Life",
-        "+5% Chance to Block",
-        "Reflects 1 to 1000 Physical Damage to Attackers on Block"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    }
-  ],
-  "Shield: Energy Shield": [
-    {
-      "name": "Brinerot Flag",
-      "base": "Tarnished Spirit Shield",
-      "levelReq": 23,
-      "variants": {
-        "Pre 2.6.0": [
-          "5% increased Spell Damage",
-          "(8-12)% increased Attack Speed",
-          "+1 to Level of Socketed Warcry Gems",
-          "Gain +3 Mana when you hit a Taunted Enemy"
-        ],
-        "Pre 3.0.0": [
-          "5% increased Spell Damage",
-          "(8-12)% increased Cast Speed",
-          "+3 to Level of Socketed Warcry Gems",
-          "Gain 2 Power Charges on Using a Warcry"
-        ],
-        "Current": [
-          "(5-10)% increased Spell Damage",
-          "(8-12)% increased Cast Speed",
-          "+3 to Level of Socketed Warcry Gems",
-          "Gain 2 Power Charges on Using a Warcry"
-        ]
-      },
-      "mods": [
-        "+(70-90) to maximum Energy Shield",
-        "(20-40)% increased Mana Regeneration Rate"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BrinerotFlag.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Esh's Mirror",
-      "base": "Thorium Spirit Shield",
-      "levelReq": 53,
-      "variants": {},
-      "mods": [
-        "+(20-30) to Intelligence",
-        "+(40-70) to maximum Life",
-        "(80-100)% increased Energy Shield",
-        "+(35-40)% to Lightning Resistance",
-        "Adds 1 to 10 Lightning Damage for each Shocked Enemy you've Killed Recently",
-        "Shock Reflection"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirror.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Esh's Visage",
-      "base": "Vaal Spirit Shield",
-      "levelReq": 62,
-      "variants": {
-        "Pre 3.0.0": [
-          "5% increased Spell Damage"
-        ],
-        "Current": [
-          "(5-10)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "+(40-70) to maximum Life",
-        "(240-260)% increased Energy Shield",
-        "+(30-40)% to Lightning Resistance",
-        "+(17-29)% to Chaos Resistance",
-        "Chaos Damage does not bypass Energy Shield while not on Low Life or Low Mana",
-        "Reflect Shocks applied to you to all Nearby Enemies"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirrorUpgraded.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Kongming's Stratagem",
-      "base": "Ivory Spirit Shield",
-      "levelReq": 41,
-      "variants": {
-        "Pre 3.0.0": [
-          "15% increased Spell Damage",
-          "30% increased Fire Damage against Blinded Enemies"
-        ],
-        "Current": [
-          "(15-20)% increased Spell Damage",
-          "30% increased Fire Damage with Hits and Ailments against Blinded Enemies"
-        ]
-      },
-      "mods": [
-        "+(20-30) to Intelligence",
-        "(80-120)% increased Energy Shield",
-        "Socketed Trap Skills create a Smoke Cloud when triggered",
-        "30% reduced Spell Damage taken from Blinded Enemies",
-        "No Block Chance"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/KongmingsStratagem.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Light of Lunaris",
-      "base": "Jingling Spirit Shield",
-      "levelReq": 28,
-      "variants": {
-        "Pre 3.0.0": [
-          "10% increased Spell Damage"
-        ],
-        "Current": [
-          "(10-15)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "(60-80)% increased Critical Strike Chance for Spells",
-        "(100-140)% increased Energy Shield",
-        "+(3-5)% Chance to Block",
-        "+1% to Critical Strike Multiplier per 1% Block Chance",
-        "+25% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lunaris.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Malachai's Loop",
-      "base": "Harmonic Spirit Shield",
-      "levelReq": 65,
-      "variants": {
-        "Pre 2.6.0": [
-          "10% increased Spell Damage",
-          "(160-200)% increased Energy Shield"
-        ],
-        "Pre 3.0.0": [
-          "10% increased Spell Damage",
-          "(210-250)% increased Energy Shield"
-        ],
-        "Current": [
-          "(10-15)% increased Spell Damage",
-          "(210-250)% increased Energy Shield"
-        ]
-      },
-      "mods": [
-        "+2 to Maximum Power Charges",
-        "20% chance to gain a Power Charge on Hit",
-        "6% increased Spell Damage per Power Charge",
-        "Lose all Power Charges on reaching Maximum Power Charges",
-        "You are Shocked for 4 seconds on reaching Maximum Power Charges"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MalachaiLoop.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Matua Tupuna",
-      "base": "Tarnished Spirit Shield",
-      "levelReq": 23,
-      "variants": {
-        "Pre 3.0.0": [
-          "5% increased Spell Damage"
-        ],
-        "Current": [
-          "(5-10)% increased Spell Damage"
-        ]
-      },
-      "mods": [
-        "+2 to Level of Socketed Minion Gems",
-        "+(15-25) to maximum Mana",
-        "(40-80)% increased Energy Shield",
-        "10% increased Effect of Auras on You",
-        "10% increased Effect of Auras on your Minions",
-        "Spreads Tar when you take a Critical Strike"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Matuatupuna.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Rathpith Globe",
-      "base": "Titanium Spirit Shield",
-      "levelReq": 68,
-      "variants": {
-        "Pre 3.0.0": [
-          "(40-60)% of Block Chance applied to Spells"
-        ],
-        "Pre 3.4.0": [
-          "+(12-18)% chance to Block Spell Damage"
-        ],
-        "Current": [
-          "+(10-15)% chance to Block Spell Damage"
-        ]
-      },
-      "mods": [
-        "(40-60)% increased Spell Damage",
-        "10% increased maximum Life",
-        "(120-160)% increased Energy Shield",
-        "+25% to Lightning Resistance"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6unique.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Sentari's Answer",
-      "base": "Brass Spirit Shield",
-      "levelReq": 33,
-      "variants": {
-        "Pre 3.0.0": [
-          "25% of Block Chance applied to Spells"
-        ],
-        "Pre 3.4.0": [
-          "+7% chance to Block Spell Damage"
-        ],
-        "Current": [
-          "+10% chance to Block Spell Damage"
-        ]
-      },
-      "mods": [
-        "+(20-30) to Intelligence",
-        "(4-8)% increased Quantity of Items found",
-        "+5% Chance to Block",
-        "Applies level 15 Punishment on Blocking a Melee Attack",
-        "Applies level 15 Temporal Chains on Blocking a Projectile Attack",
-        "Applies level 15 Elemental Weakness on Blocking a Spell"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantarisAnswer.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    }
-  ],
-  "Shield: Armour/Evasion": [
-    {
-      "name": "Daresso's Courage",
-      "base": "Baroque Round Shield",
-      "levelReq": 54,
-      "variants": {
-        "Pre 2.6.0": [
-          "+(10-20)% to Fire Resistance",
-          "+(10-20)% to Cold Resistance",
-          "+(10-20)% to Lightning Resistance",
-          "120% of Block Chance applied to Spells when on Low Life"
-        ],
-        "Pre 3.0.0": [
-          "+(10-20)% to all Elemental Resistances",
-          "120% of Block Chance applied to Spells when on Low Life",
-          "20% chance to Block Spells if you've Blocked an Attack Recently",
-          "20% chance to Block Attacks if you've Blocked a Spell Recently"
-        ],
-        "Pre 3.4.0": [
-          "+(10-20)% to all Elemental Resistances",
-          "+36% chance to Block Spell Damage while on Low Life",
-          "20% chance to Block Spells if you've Blocked an Attack Recently",
-          "20% chance to Block Attacks if you've Blocked a Spell Recently"
-        ],
-        "Current": [
-          "+(10-20)% to all Elemental Resistances",
-          "+30% chance to Block Spell Damage while on Low Life",
-          "20% chance to Block Spells if you've Blocked an Attack Recently",
-          "20% chance to Block Attacks if you've Blocked a Spell Recently"
-        ]
-      },
-      "mods": [
-        "120% increased Block Recovery",
-        "20% increased Physical Damage",
-        "(100-120)% increased Armour and Evasion",
-        "+(3-6)% Chance to Block"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique1.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "The Deep One's Hide",
-      "base": "Studded Round Shield",
-      "levelReq": 20,
-      "variants": {
-        "Pre 2.6.0": [
-          "Adds 4 to 8 Cold Damage to Attacks"
-        ],
-        "Current": [
-          "Adds 12 to 15 Cold Damage to Attacks"
-        ]
-      },
-      "mods": [
-        "60% increased Block Recovery",
-        "Adds 4 to 8 Physical Damage to Attacks",
-        "(90-130)% increased Armour and Evasion",
-        "+(30-50)% to Fire Resistance",
-        "Curse Enemies with level 5 Vulnerability on Block"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chitinhull.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Vix Lunaris",
-      "base": "Cardinal Round Shield",
-      "levelReq": null,
-      "variants": {},
-      "mods": [
-        "+2 to Level of Socketed Gems ",
-        "Triggers Level 20 Cold Aegis when Equipped ",
-        "(200-250)% increased Armour and Evasion ",
-        "+(60–80) to maximum Life ",
-        "Cannot be Frozen"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique4.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Wheel of the Stormsail",
-      "base": "Rotted Round Shield",
-      "levelReq": 5,
-      "variants": {},
-      "mods": [
-        "60% increased Block Recovery",
-        "+(5-10) to Armour",
-        "(30-40)% increased Rarity of Items found",
-        "25% increased Curse Duration",
-        "100% increased Duration of Curses on you",
+      "Current": [
+        "3% increased Movement Speed",
         "+5% Chance to Block"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Wheelofthestormsail.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    }
-  ],
-  "Shield: Armour/Energy Shield": [
-    {
-      "name": "Aegis Aurora",
-      "base": "Champion Kite Shield",
-      "levelReq": 62,
-      "variants": {
-        "Pre 1.1.0": [
-          "(10-20)% increased Elemental Damage with Weapons",
-          "Replenishes Energy Shield by 4% of Armour when you Block"
-        ],
-        "Pre 3.0.0": [
-          "(10-20)% increased Elemental Damage with Weapons",
-          "Replenishes Energy Shield by 2% of Armour when you Block"
-        ],
-        "Current": [
-          "(10-20)% increased Elemental Damage with Attack Skills",
-          "Replenishes Energy Shield by 2% of Armour when you Block"
-        ]
-      },
-      "mods": [
-        "(80-100)% increased Armour and Energy Shield",
-        "+10% to all Elemental Resistances",
-        "+5% to maximum Cold Resistance",
-        "+6% Chance to Block"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique7unique.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
+      ]
     },
-    {
-      "name": "Broken Faith",
-      "base": "Archon Kite Shield",
-      "levelReq": 68,
-      "variants": {
-        "Pre 2.6.0": [
-          "-10% Chance to Block",
-          "(20-30)% increased Damage when you have no Energy Shield",
-          "30% Chance to gain Unholy Might on Block for 3 seconds"
-        ],
-        "Current": [
-          "5% Chance to Block",
-          "100% increased Global Armour when you have no Energy Shield",
-          "You gain Unholy Might for 10 seconds on Block"
-        ]
-      },
-      "mods": [
+    "mods": [
+      "+(60-80) to maximum Life",
+      "(5-8) Life Regenerated per second",
+      "+30% to Lightning Resistance",
+      "0.6% of Physical Attack Damage Leeched as Life"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique5.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Great Old One's Ward",
+    "base": "Corrugated Buckler",
+    "levelReq": 46,
+    "variants": {
+      "Pre 3.0.0": [],
+      "Current": [
+        "3% increased Movement Speed"
+      ]
+    },
+    "mods": [
+      "Adds (8-12) to (15-20) Physical Damage to Attacks",
+      "(6-10)% increased Attack Speed",
+      "+(50-70) to maximum Life",
+      "(8-12)% Chance to Block Spells"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/GreatOldOnesWard.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Kaltenhalt",
+    "base": "Painted Buckler",
+    "levelReq": 16,
+    "variants": {
+      "Pre 1.0.0": [
+        "Reflects (5-10) Cold Damage to Melee Attackers"
+      ],
+      "Pre 2.6.0": [
+        "Reflects (25-50) Cold Damage to Melee Attackers"
+      ],
+      "Pre 3.0.0": [
+        "Gain (10-15)% of Physical Damage as Extra Cold Damage",
+        "Reflects (25-50) Cold Damage to Melee Attackers"
+      ],
+      "Current": [
+        "6% increased Movement Speed",
+        "Gain (10-15)% of Physical Damage as Extra Cold Damage",
+        "Reflects (25-50) Cold Damage to Melee Attackers"
+      ]
+    },
+    "mods": [
+      "(60-100)% increased Evasion Rating",
+      "+5% to maximum Cold Resistance",
+      "+50% to Cold Resistance",
+      "+5% Chance to Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Kaltensoul",
+    "base": "Painted Buckler",
+    "levelReq": 16,
+    "variants": {
+      "Pre 2.6.0": [],
+      "Pre 3.0.0": [
+        "Gain (10-15)% of Physical Damage as Extra Cold Damage"
+      ],
+      "Current": [
+        "6% increased Movement Speed",
+        "Gain (10-15)% of Physical Damage as Extra Cold Damage"
+      ]
+    },
+    "mods": [
+      "(60-100)% increased Evasion Rating",
+      "+5% to maximum Cold Resistance",
+      "+50% to Cold Resistance",
+      "Reflects (25-50) Cold Damage to Melee Attackers",
+      "+5% Chance to Block",
+      "20% of Fire Damage taken as Cold Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Mutewind Pennant",
+    "base": "Enameled Buckler",
+    "levelReq": 42,
+    "variants": {
+      "Pre 2.6.0": [
+        "+1 to Level of Socketed Warcry Gems",
+        "(20-30)% increased Chaos Damage",
+        "You gain Onslaught for 2 seconds on Killing Taunted Enemies"
+      ],
+      "Pre 3.0.0": [
+        "(80-100)% Increased Evasion Rating",
+        "You gain Onslaught for 4 seconds on using a Warcry",
+        "25% Increased Warcry Effect"
+      ],
+      "Current": [
+        "6% increased Movement Speed",
+        "(80-100)% Increased Evasion Rating",
+        "You gain Onslaught for 4 seconds on using a Warcry",
+        "25% Increased Warcry Effect"
+      ]
+    },
+    "mods": [
+      "+(20-40)% to Cold Resistance",
+      "10% increased Area of Effect of Area Skills"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MutewindPennant.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Thousand Teeth Temu",
+    "base": "Vaal Buckler",
+    "levelReq": 63,
+    "variants": {
+      "Pre 2.6.0": [],
+      "Pre 3.0.0": [
+        "10% of Damage Reflected Gained as Life"
+      ],
+      "Current": [
+        "3% increased Movement Speed",
+        "10% of Damage Reflected Gained as Life"
+      ]
+    },
+    "mods": [
+      "(100-120)% increased Evasion Rating",
+      "+(70-90) to maximum Life",
+      "0.4% of Physical Attack Damage Leeched as Life",
+      "+5% Chance to Block",
+      "Reflects 1 to 1000 Physical Damage to Attackers on Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Brinerot Flag",
+    "base": "Tarnished Spirit Shield",
+    "levelReq": 23,
+    "variants": {
+      "Pre 2.6.0": [
+        "5% increased Spell Damage",
+        "(8-12)% increased Attack Speed",
+        "+1 to Level of Socketed Warcry Gems",
+        "Gain +3 Mana when you hit a Taunted Enemy"
+      ],
+      "Pre 3.0.0": [
+        "5% increased Spell Damage",
+        "(8-12)% increased Cast Speed",
+        "+3 to Level of Socketed Warcry Gems",
+        "Gain 2 Power Charges on Using a Warcry"
+      ],
+      "Current": [
+        "(5-10)% increased Spell Damage",
+        "(8-12)% increased Cast Speed",
+        "+3 to Level of Socketed Warcry Gems",
+        "Gain 2 Power Charges on Using a Warcry"
+      ]
+    },
+    "mods": [
+      "+(70-90) to maximum Energy Shield",
+      "(20-40)% increased Mana Regeneration Rate"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BrinerotFlag.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Esh's Mirror",
+    "base": "Thorium Spirit Shield",
+    "levelReq": 53,
+    "variants": {},
+    "mods": [
+      "+(20-30) to Intelligence",
+      "+(40-70) to maximum Life",
+      "(80-100)% increased Energy Shield",
+      "+(35-40)% to Lightning Resistance",
+      "Adds 1 to 10 Lightning Damage for each Shocked Enemy you've Killed Recently",
+      "Shock Reflection"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirror.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Esh's Visage",
+    "base": "Vaal Spirit Shield",
+    "levelReq": 62,
+    "variants": {
+      "Pre 3.0.0": [
+        "5% increased Spell Damage"
+      ],
+      "Current": [
+        "(5-10)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "+(40-70) to maximum Life",
+      "(240-260)% increased Energy Shield",
+      "+(30-40)% to Lightning Resistance",
+      "+(17-29)% to Chaos Resistance",
+      "Chaos Damage does not bypass Energy Shield while not on Low Life or Low Mana",
+      "Reflect Shocks applied to you to all Nearby Enemies"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirrorUpgraded.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Kongming's Stratagem",
+    "base": "Ivory Spirit Shield",
+    "levelReq": 41,
+    "variants": {
+      "Pre 3.0.0": [
+        "15% increased Spell Damage",
+        "30% increased Fire Damage against Blinded Enemies"
+      ],
+      "Current": [
+        "(15-20)% increased Spell Damage",
+        "30% increased Fire Damage with Hits and Ailments against Blinded Enemies"
+      ]
+    },
+    "mods": [
+      "+(20-30) to Intelligence",
+      "(80-120)% increased Energy Shield",
+      "Socketed Trap Skills create a Smoke Cloud when triggered",
+      "30% reduced Spell Damage taken from Blinded Enemies",
+      "No Block Chance"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/KongmingsStratagem.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Light of Lunaris",
+    "base": "Jingling Spirit Shield",
+    "levelReq": 28,
+    "variants": {
+      "Pre 3.0.0": [
+        "10% increased Spell Damage"
+      ],
+      "Current": [
+        "(10-15)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "(60-80)% increased Critical Strike Chance for Spells",
+      "(100-140)% increased Energy Shield",
+      "+(3-5)% Chance to Block",
+      "+1% to Critical Strike Multiplier per 1% Block Chance",
+      "+25% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lunaris.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Malachai's Loop",
+    "base": "Harmonic Spirit Shield",
+    "levelReq": 65,
+    "variants": {
+      "Pre 2.6.0": [
+        "10% increased Spell Damage",
+        "(160-200)% increased Energy Shield"
+      ],
+      "Pre 3.0.0": [
+        "10% increased Spell Damage",
+        "(210-250)% increased Energy Shield"
+      ],
+      "Current": [
+        "(10-15)% increased Spell Damage",
+        "(210-250)% increased Energy Shield"
+      ]
+    },
+    "mods": [
+      "+2 to Maximum Power Charges",
+      "20% chance to gain a Power Charge on Hit",
+      "6% increased Spell Damage per Power Charge",
+      "Lose all Power Charges on reaching Maximum Power Charges",
+      "You are Shocked for 4 seconds on reaching Maximum Power Charges"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MalachaiLoop.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Matua Tupuna",
+    "base": "Tarnished Spirit Shield",
+    "levelReq": 23,
+    "variants": {
+      "Pre 3.0.0": [
+        "5% increased Spell Damage"
+      ],
+      "Current": [
+        "(5-10)% increased Spell Damage"
+      ]
+    },
+    "mods": [
+      "+2 to Level of Socketed Minion Gems",
+      "+(15-25) to maximum Mana",
+      "(40-80)% increased Energy Shield",
+      "10% increased Effect of Auras on You",
+      "10% increased Effect of Auras on your Minions",
+      "Spreads Tar when you take a Critical Strike"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Matuatupuna.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Rathpith Globe",
+    "base": "Titanium Spirit Shield",
+    "levelReq": 68,
+    "variants": {
+      "Pre 3.0.0": [
+        "(40-60)% of Block Chance applied to Spells"
+      ],
+      "Pre 3.4.0": [
+        "+(12-18)% chance to Block Spell Damage"
+      ],
+      "Current": [
+        "+(10-15)% chance to Block Spell Damage"
+      ]
+    },
+    "mods": [
+      "(40-60)% increased Spell Damage",
+      "10% increased maximum Life",
+      "(120-160)% increased Energy Shield",
+      "+25% to Lightning Resistance"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6unique.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Sentari's Answer",
+    "base": "Brass Spirit Shield",
+    "levelReq": 33,
+    "variants": {
+      "Pre 3.0.0": [
+        "25% of Block Chance applied to Spells"
+      ],
+      "Pre 3.4.0": [
+        "+7% chance to Block Spell Damage"
+      ],
+      "Current": [
+        "+10% chance to Block Spell Damage"
+      ]
+    },
+    "mods": [
+      "+(20-30) to Intelligence",
+      "(4-8)% increased Quantity of Items found",
+      "+5% Chance to Block",
+      "Applies level 15 Punishment on Blocking a Melee Attack",
+      "Applies level 15 Temporal Chains on Blocking a Projectile Attack",
+      "Applies level 15 Elemental Weakness on Blocking a Spell"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantarisAnswer.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Daresso's Courage",
+    "base": "Baroque Round Shield",
+    "levelReq": 54,
+    "variants": {
+      "Pre 2.6.0": [
+        "+(10-20)% to Fire Resistance",
+        "+(10-20)% to Cold Resistance",
+        "+(10-20)% to Lightning Resistance",
+        "120% of Block Chance applied to Spells when on Low Life"
+      ],
+      "Pre 3.0.0": [
+        "+(10-20)% to all Elemental Resistances",
+        "120% of Block Chance applied to Spells when on Low Life",
+        "20% chance to Block Spells if you've Blocked an Attack Recently",
+        "20% chance to Block Attacks if you've Blocked a Spell Recently"
+      ],
+      "Pre 3.4.0": [
+        "+(10-20)% to all Elemental Resistances",
+        "+36% chance to Block Spell Damage while on Low Life",
+        "20% chance to Block Spells if you've Blocked an Attack Recently",
+        "20% chance to Block Attacks if you've Blocked a Spell Recently"
+      ],
+      "Current": [
+        "+(10-20)% to all Elemental Resistances",
+        "+30% chance to Block Spell Damage while on Low Life",
+        "20% chance to Block Spells if you've Blocked an Attack Recently",
+        "20% chance to Block Attacks if you've Blocked a Spell Recently"
+      ]
+    },
+    "mods": [
+      "120% increased Block Recovery",
+      "20% increased Physical Damage",
+      "(100-120)% increased Armour and Evasion",
+      "+(3-6)% Chance to Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique1.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "The Deep One's Hide",
+    "base": "Studded Round Shield",
+    "levelReq": 20,
+    "variants": {
+      "Pre 2.6.0": [
+        "Adds 4 to 8 Cold Damage to Attacks"
+      ],
+      "Current": [
+        "Adds 12 to 15 Cold Damage to Attacks"
+      ]
+    },
+    "mods": [
+      "60% increased Block Recovery",
+      "Adds 4 to 8 Physical Damage to Attacks",
+      "(90-130)% increased Armour and Evasion",
+      "+(30-50)% to Fire Resistance",
+      "Curse Enemies with level 5 Vulnerability on Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chitinhull.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Vix Lunaris",
+    "base": "Cardinal Round Shield",
+    "levelReq": null,
+    "variants": {},
+    "mods": [
+      "+2 to Level of Socketed Gems ",
+      "Triggers Level 20 Cold Aegis when Equipped ",
+      "(200-250)% increased Armour and Evasion ",
+      "+(60–80) to maximum Life ",
+      "Cannot be Frozen"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique4.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Wheel of the Stormsail",
+    "base": "Rotted Round Shield",
+    "levelReq": 5,
+    "variants": {},
+    "mods": [
+      "60% increased Block Recovery",
+      "+(5-10) to Armour",
+      "(30-40)% increased Rarity of Items found",
+      "25% increased Curse Duration",
+      "100% increased Duration of Curses on you",
+      "+5% Chance to Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Wheelofthestormsail.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Aegis Aurora",
+    "base": "Champion Kite Shield",
+    "levelReq": 62,
+    "variants": {
+      "Pre 1.1.0": [
+        "(10-20)% increased Elemental Damage with Weapons",
+        "Replenishes Energy Shield by 4% of Armour when you Block"
+      ],
+      "Pre 3.0.0": [
+        "(10-20)% increased Elemental Damage with Weapons",
+        "Replenishes Energy Shield by 2% of Armour when you Block"
+      ],
+      "Current": [
+        "(10-20)% increased Elemental Damage with Attack Skills",
+        "Replenishes Energy Shield by 2% of Armour when you Block"
+      ]
+    },
+    "mods": [
+      "(80-100)% increased Armour and Energy Shield",
+      "+10% to all Elemental Resistances",
+      "+5% to maximum Cold Resistance",
+      "+6% Chance to Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique7unique.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Broken Faith",
+    "base": "Archon Kite Shield",
+    "levelReq": 68,
+    "variants": {
+      "Pre 2.6.0": [
+        "-10% Chance to Block",
+        "(20-30)% increased Damage when you have no Energy Shield",
+        "30% Chance to gain Unholy Might on Block for 3 seconds"
+      ],
+      "Current": [
+        "5% Chance to Block",
+        "100% increased Global Armour when you have no Energy Shield",
+        "You gain Unholy Might for 10 seconds on Block"
+      ]
+    },
+    "mods": [
+      "+12% to all Elemental Resistances",
+      "0.4% of Chaos Damage Leeched as Life",
+      "Gain (5-10)% of Physical Damage as Extra Chaos Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantonisFaith.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Invictus Solaris",
+    "base": "Archon Kite Shield",
+    "levelReq": null,
+    "variants": {},
+    "mods": [
+      "+12% to all Elemental Resistances",
+      "+2 to Level of Socketed Gems ",
+      "Triggers Level 20 Fire Aegis when Equipped ",
+      "(200-250)% increased Armour and Energy Shield ",
+      "+(60–80) to maximum Life ",
+      "Cannot be Ignited"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Invictus.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Prism Guardian",
+    "base": "Archon Kite Shield",
+    "levelReq": 68,
+    "variants": {
+      "Pre 1.1.0": [
+        "+24% to all Elemental Resistances",
+        "+1 to Level of Aura Gems in this item"
+      ],
+      "Pre 2.0.0": [
         "+12% to all Elemental Resistances",
-        "0.4% of Chaos Damage Leeched as Life",
-        "Gain (5-10)% of Physical Damage as Extra Chaos Damage"
+        "+1 to Level of Aura Gems in this item"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantonisFaith.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Invictus Solaris",
-      "base": "Archon Kite Shield",
-      "levelReq": null,
-      "variants": {},
-      "mods": [
+      "Current": [
         "+12% to all Elemental Resistances",
-        "+2 to Level of Socketed Gems ",
-        "Triggers Level 20 Fire Aegis when Equipped ",
-        "(200-250)% increased Armour and Energy Shield ",
-        "+(60–80) to maximum Life ",
-        "Cannot be Ignited"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Invictus.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
+        "+2 to Level of Socketed Aura Gems"
+      ]
     },
-    {
-      "name": "Prism Guardian",
-      "base": "Archon Kite Shield",
-      "levelReq": 68,
-      "variants": {
-        "Pre 1.1.0": [
-          "+24% to all Elemental Resistances",
-          "+1 to Level of Aura Gems in this item"
-        ],
-        "Pre 2.0.0": [
-          "+12% to all Elemental Resistances",
-          "+1 to Level of Aura Gems in this item"
-        ],
-        "Current": [
-          "+12% to all Elemental Resistances",
-          "+2 to Level of Socketed Aura Gems"
-        ]
-      },
-      "mods": [
-        "Socketed Gems have Blood Magic",
-        "Socketed Gems have 25% reduced Mana Reservation",
-        "+(20-30) to Dexterity",
-        "+25% to all Elemental Resistances"
+    "mods": [
+      "Socketed Gems have Blood Magic",
+      "Socketed Gems have 25% reduced Mana Reservation",
+      "+(20-30) to Dexterity",
+      "+25% to all Elemental Resistances"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TheCorundum.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Rise of the Phoenix",
+    "base": "Mosaic Kite Shield",
+    "levelReq": 65,
+    "variants": {
+      "Pre 1.1.0": [
+        "+16% to all Elemental Resistances",
+        "6 Life Regenerated per second ",
+        "+8% to maximum Fire Resistance "
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TheCorundum.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Rise of the Phoenix",
-      "base": "Mosaic Kite Shield",
-      "levelReq": 65,
-      "variants": {
-        "Pre 1.1.0": [
-          "+16% to all Elemental Resistances",
-          "6 Life Regenerated per second ",
-          "+8% to maximum Fire Resistance "
-        ],
-        "Pre 3.1.0": [
-          "+8% to all Elemental Resistances",
-          "6 Life Regenerated per second ",
-          "+8% to maximum Fire Resistance "
-        ],
-        "Current": [
-          "+8% to all Elemental Resistances",
-          "+(40-60) Maximum Life",
-          "(15-20) Life Regenerated per second",
-          "+5% to maximum Fire Resistance"
-        ]
-      },
-      "mods": [
-        "(80-100)% increased Armour and Energy Shield",
-        "+(20-25)% to Fire Resistance",
-        "25% increased Fire Resistance while on Low Life",
-        "10% increased Movement Speed when on Low Life",
-        "Cannot be Ignited while on Low Life"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Riseofthephoenix.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Saffell's Frame",
-      "base": "Branded Kite Shield",
-      "levelReq": 59,
-      "variants": {
-        "Pre 1.1.0": [
-          "+8% to all Elemental Resistances",
-          "(100-120)% of Block Chance applied to Spells",
-          "+5% to all maximum Resistances"
-        ],
-        "Pre 3.0.0": [
-          "+4% to all Elemental Resistances",
-          "(70-80)% of Block Chance applied to Spells",
-          "+4% to all maximum Resistances"
-        ],
-        "Pre 3.4.0": [
-          "+4% to all Elemental Resistances",
-          "+(21-24)% chance to Block Spell Damage",
-          "+4% to all maximum Resistances"
-        ],
-        "Current": [
-          "+4% to all Elemental Resistances",
-          "+(15-20)% chance to Block Spell Damage",
-          "+4% to all maximum Resistances"
-        ]
-      },
-      "mods": [
-        "(20-30)% increased Spell Damage",
-        "+10% to all Elemental Resistances",
-        "Cannot Block Attacks"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique6.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Springleaf",
-      "base": "Plank Kite Shield",
-      "levelReq": 7,
-      "variants": {
-        "Pre 1.1.0": [
-          "+8% to all Elemental Resistances",
-          "6% of Life Regenerated per Second while on Low Life"
-        ],
-        "Pre 2.0.0": [
-          "+4% to all Elemental Resistances",
-          "6% of Life Regenerated per Second while on Low Life"
-        ],
-        "Pre 2.6.0": [
-          "+4% to all Elemental Resistances",
-          "1% of Life Regenerated per Second",
-          "5% of Life Regenerated per Second while on Low Life"
-        ],
-        "Current": [
-          "+4% to all Elemental Resistances",
-          "3% of Life Regenerated per Second",
-          "3% of Life Regenerated per Second while on Low Life"
-        ]
-      },
-      "mods": [
-        "(80-120)% increased Armour and Energy Shield",
-        "50% reduced Freeze Duration on You"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "The Oak",
-      "base": "Plank Kite Shield",
-      "levelReq": 40,
-      "variants": {
-        "Pre 2.6.0": [
-          "1% of Life Regenerated per Second",
-          "5% of Life Regenerated per Second while on Low Life"
-        ],
-        "Current": [
-          "3% of Life Regenerated per Second",
-          "3% of Life Regenerated per Second while on Low Life"
-        ]
-      },
-      "mods": [
-        "+4% to all Elemental Resistances",
-        "(80-120)% increased Armour and Energy Shield",
-        "+(100-150) to maximum Life",
-        "50% reduced Freeze Duration on You"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    },
-    {
-      "name": "The Unshattered Will",
-      "base": "Archon Kite Shield",
-      "levelReq": 68,
-      "variants": {},
-      "mods": [
-        "+12% to all Elemental Resistances",
-        "Grants Summon Harbinger of Focus Skill",
-        "+(60-80) to maximum Life",
-        "+(10-15)% to all Elemental Resistances",
-        "+(30-50) Mana gained when you Block",
-        "+5% Chance to Block",
-        "(50-70)% increased Damage with Channelling Skills"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Channeling Shield.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
-      "itemType": "Shield"
-    },
-    {
-      "name": "Victario's Charity",
-      "base": "Laminated Kite Shield",
-      "levelReq": 50,
-      "variants": {
-        "Pre 2.6.0": [
-          "10% increased Radius of Aura Skills"
-        ],
-        "Current": [
-          "20% increased Area of Effect of Aura Skills"
-        ]
-      },
-      "mods": [
+      "Pre 3.1.0": [
         "+8% to all Elemental Resistances",
-        "+(50-70) to maximum Life",
-        "+(20-30)% to Lightning Resistance",
-        "+11% to Chaos Resistance",
-        "10% chance to grant a Power Charge to nearby Allies on Kill",
-        "5% chance to grant a Frenzy Charge to nearby Allies on Hit"
+        "6 Life Regenerated per second ",
+        "+8% to maximum Fire Resistance "
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/VictarosCharity.png?scale=1&scaleIndex=0&w=2&h=3",
-      "itemType": "Shield"
-    }
-  ],
-  "Shield: Evasion/Energy Shield": [
-    {
-      "name": "Glitterdisc",
-      "base": "Burnished Spiked Shield",
-      "levelReq": 27,
-      "variants": {
-        "Pre 3.0.0": [
-          "Reflects (10-23) Physical Damage to Melee Attackers"
-        ],
-        "Current": [
-          "4% chance to Dodge Attacks",
-          "You always Ignite while Burning"
-        ]
-      },
-      "mods": [
-        "(120-140)% increased Evasion and Energy Shield",
-        "+(30-50) to maximum Life",
-        "+(20-30) to maximum Energy Shield",
-        "10% increased Rarity of Items found",
-        "25% chance to avoid Fire Damage when Hit"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Glitterdisk.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
+      "Current": [
+        "+8% to all Elemental Resistances",
+        "+(40-60) Maximum Life",
+        "(15-20) Life Regenerated per second",
+        "+5% to maximum Fire Resistance"
+      ]
     },
-    {
-      "name": "Jaws of Agony",
-      "base": "Supreme Spiked Shield",
-      "levelReq": 70,
-      "variants": {
-        "Pre 2.0.0": [
-          "Reflects (221-260) Physical Damage to Melee Attackers",
-          "15% chance to gain a Power Charge on Throwing a Trap"
-        ],
-        "Pre 3.0.0": [
-          "Reflects (221-260) Physical Damage to Melee Attackers",
-          "25% chance to gain a Power Charge on Throwing a Trap"
-        ],
-        "Current": [
-          "4% chance to Dodge Spell Damage",
-          "25% chance to gain a Power Charge on Throwing a Trap"
-        ]
-      },
-      "mods": [
-        "(18-28)% increased Trap Damage",
-        "(15-25)% increased Physical Damage",
-        "+(60-80) to maximum Life",
-        "−(14-18) Physical Damage taken from Attacks",
-        "Grants level 20 Bear Trap Skill"
+    "mods": [
+      "(80-100)% increased Armour and Energy Shield",
+      "+(20-25)% to Fire Resistance",
+      "25% increased Fire Resistance while on Low Life",
+      "10% increased Movement Speed when on Low Life",
+      "Cannot be Ignited while on Low Life"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Riseofthephoenix.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Saffell's Frame",
+    "base": "Branded Kite Shield",
+    "levelReq": 59,
+    "variants": {
+      "Pre 1.1.0": [
+        "+8% to all Elemental Resistances",
+        "(100-120)% of Block Chance applied to Spells",
+        "+5% to all maximum Resistances"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BearTrapShield2.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
+      "Pre 3.0.0": [
+        "+4% to all Elemental Resistances",
+        "(70-80)% of Block Chance applied to Spells",
+        "+4% to all maximum Resistances"
+      ],
+      "Pre 3.4.0": [
+        "+4% to all Elemental Resistances",
+        "+(21-24)% chance to Block Spell Damage",
+        "+4% to all maximum Resistances"
+      ],
+      "Current": [
+        "+4% to all Elemental Resistances",
+        "+(15-20)% chance to Block Spell Damage",
+        "+4% to all maximum Resistances"
+      ]
     },
-    {
-      "name": "Leper's Alms",
-      "base": "Mirrored Spiked Shield",
-      "levelReq": 66,
-      "variants": {},
-      "mods": [
-        "4% chance to Dodge Attacks ",
-        "(130-150)% increased Evasion and Energy Shield ",
-        "+(60–80) to maximum Life ",
-        "40% increased Duration of Ailments on Enemies ",
-        "+(3–4)% Chance to Block ",
-        "Shared Suffering"
+    "mods": [
+      "(20-30)% increased Spell Damage",
+      "+10% to all Elemental Resistances",
+      "Cannot Block Attacks"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique6.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Springleaf",
+    "base": "Plank Kite Shield",
+    "levelReq": 7,
+    "variants": {
+      "Pre 1.1.0": [
+        "+8% to all Elemental Resistances",
+        "6% of Life Regenerated per Second while on Low Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/LepersAlms.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
+      "Pre 2.0.0": [
+        "+4% to all Elemental Resistances",
+        "6% of Life Regenerated per Second while on Low Life"
+      ],
+      "Pre 2.6.0": [
+        "+4% to all Elemental Resistances",
+        "1% of Life Regenerated per Second",
+        "5% of Life Regenerated per Second while on Low Life"
+      ],
+      "Current": [
+        "+4% to all Elemental Resistances",
+        "3% of Life Regenerated per Second",
+        "3% of Life Regenerated per Second while on Low Life"
+      ]
     },
-    {
-      "name": "Maligaro's Lens",
-      "base": "Compound Spiked Shield",
-      "levelReq": 45,
-      "variants": {
-        "Pre 3.0.0": [
-          "Reflects (51-70) Physical Damage to Melee Attackers"
-        ],
-        "Current": [
-          "2% chance to Dodge Spell Damage"
-        ]
-      },
-      "mods": [
-        "(10-15)% increased Attack Speed",
-        "(10-20)% increased maximum Life",
-        "−50% to all Elemental Resistances",
-        "10% increased Area of Effect of Area Skills",
-        "Nearby allies Recover 2% of your maximum Life when you Die",
-        "",
-        "}"
+    "mods": [
+      "(80-120)% increased Armour and Energy Shield",
+      "50% reduced Freeze Duration on You"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "The Oak",
+    "base": "Plank Kite Shield",
+    "levelReq": 40,
+    "variants": {
+      "Pre 2.6.0": [
+        "1% of Life Regenerated per Second",
+        "5% of Life Regenerated per Second while on Low Life"
       ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MaligarosLens.png?scale=1&scaleIndex=0&w=2&h=2",
-      "itemType": "Shield"
-    }
-  ]
-}
+      "Current": [
+        "3% of Life Regenerated per Second",
+        "3% of Life Regenerated per Second while on Low Life"
+      ]
+    },
+    "mods": [
+      "+4% to all Elemental Resistances",
+      "(80-120)% increased Armour and Energy Shield",
+      "+(100-150) to maximum Life",
+      "50% reduced Freeze Duration on You"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "The Unshattered Will",
+    "base": "Archon Kite Shield",
+    "levelReq": 68,
+    "variants": {},
+    "mods": [
+      "+12% to all Elemental Resistances",
+      "Grants Summon Harbinger of Focus Skill",
+      "+(60-80) to maximum Life",
+      "+(10-15)% to all Elemental Resistances",
+      "+(30-50) Mana gained when you Block",
+      "+5% Chance to Block",
+      "(50-70)% increased Damage with Channelling Skills"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Channeling Shield.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Victario's Charity",
+    "base": "Laminated Kite Shield",
+    "levelReq": 50,
+    "variants": {
+      "Pre 2.6.0": [
+        "10% increased Radius of Aura Skills"
+      ],
+      "Current": [
+        "20% increased Area of Effect of Aura Skills"
+      ]
+    },
+    "mods": [
+      "+8% to all Elemental Resistances",
+      "+(50-70) to maximum Life",
+      "+(20-30)% to Lightning Resistance",
+      "+11% to Chaos Resistance",
+      "10% chance to grant a Power Charge to nearby Allies on Kill",
+      "5% chance to grant a Frenzy Charge to nearby Allies on Hit"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/VictarosCharity.png?scale=1&scaleIndex=0&w=2&h=3",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Glitterdisc",
+    "base": "Burnished Spiked Shield",
+    "levelReq": 27,
+    "variants": {
+      "Pre 3.0.0": [
+        "Reflects (10-23) Physical Damage to Melee Attackers"
+      ],
+      "Current": [
+        "4% chance to Dodge Attacks",
+        "You always Ignite while Burning"
+      ]
+    },
+    "mods": [
+      "(120-140)% increased Evasion and Energy Shield",
+      "+(30-50) to maximum Life",
+      "+(20-30) to maximum Energy Shield",
+      "10% increased Rarity of Items found",
+      "25% chance to avoid Fire Damage when Hit"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Glitterdisk.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Jaws of Agony",
+    "base": "Supreme Spiked Shield",
+    "levelReq": 70,
+    "variants": {
+      "Pre 2.0.0": [
+        "Reflects (221-260) Physical Damage to Melee Attackers",
+        "15% chance to gain a Power Charge on Throwing a Trap"
+      ],
+      "Pre 3.0.0": [
+        "Reflects (221-260) Physical Damage to Melee Attackers",
+        "25% chance to gain a Power Charge on Throwing a Trap"
+      ],
+      "Current": [
+        "4% chance to Dodge Spell Damage",
+        "25% chance to gain a Power Charge on Throwing a Trap"
+      ]
+    },
+    "mods": [
+      "(18-28)% increased Trap Damage",
+      "(15-25)% increased Physical Damage",
+      "+(60-80) to maximum Life",
+      "−(14-18) Physical Damage taken from Attacks",
+      "Grants level 20 Bear Trap Skill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BearTrapShield2.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Leper's Alms",
+    "base": "Mirrored Spiked Shield",
+    "levelReq": 66,
+    "variants": {},
+    "mods": [
+      "4% chance to Dodge Attacks ",
+      "(130-150)% increased Evasion and Energy Shield ",
+      "+(60–80) to maximum Life ",
+      "40% increased Duration of Ailments on Enemies ",
+      "+(3–4)% Chance to Block ",
+      "Shared Suffering"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/LepersAlms.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  },
+  {
+    "name": "Maligaro's Lens",
+    "base": "Compound Spiked Shield",
+    "levelReq": 45,
+    "variants": {
+      "Pre 3.0.0": [
+        "Reflects (51-70) Physical Damage to Melee Attackers"
+      ],
+      "Current": [
+        "2% chance to Dodge Spell Damage"
+      ]
+    },
+    "mods": [
+      "(10-15)% increased Attack Speed",
+      "(10-20)% increased maximum Life",
+      "−50% to all Elemental Resistances",
+      "10% increased Area of Effect of Area Skills",
+      "Nearby allies Recover 2% of your maximum Life when you Die",
+      "",
+      "}"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MaligarosLens.png?scale=1&scaleIndex=0&w=2&h=2",
+    "itemType": "Shield"
+  }
+]

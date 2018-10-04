@@ -1,2125 +1,2115 @@
-{
-  "Jewel: Drop": [
-    {
-      "name": "Anatomical Knowledge",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(6-8)% increased maximum Life",
-        "Adds 1 to Maximum Life per 3 Intelligence Allocated in Radius"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Anima Stone",
-      "base": "Prismatic Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Can Summon up to 1 additional Golem at a time",
-        "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemChaos.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Apparitions",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Minions have (5-10)% increased Movement Speed",
-        "Minions have (2-5)% additional chance to Dodge Attacks"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique10.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Army of Bones",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": []
-      },
-      "mods": [
-        "Minions deal (8-12)% increased Damage",
-        "+2 to maximum number of Skeletons",
-        "(10-20)% reduced Skeleton Duration"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Blue Dream",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Gain 5% of Lightning Damage as Extra Chaos Damage",
-        "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
-        "also grant an equal chance to gain a Power Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDream.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Blue Nightmare",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Gain 5% of Lightning Damage as Extra Chaos Damage",
-        "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
-        "also grant Chance to Block Spells at 35% of its value",
-        "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
-        "also grant an equal chance to gain a Power Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Brawn",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(4-6)% increased Dexterity",
-        "(4-6)% increased Strength",
-        "(10-15)% reduced Intelligence"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Brute Force Solution",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+(16-24) to Intelligence",
-        "Strength from Passives in Radius is Transformed to Intelligence"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoINT.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Careful Planning",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+(16-24) to Dexterity",
-        "Intelligence from Passives in Radius is Transformed to Dexterity"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoDEX.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Cheap Construction",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "10% reduced Trap Duration",
-        "Can have up to 1 additional Trap placed at a time"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel1.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Clear Mind",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(20-30)% increased Mana Regeneration Rate",
-        "(40-60)% increased Spell Damage while no Mana is Reserved"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique13.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Coated Shrapnel",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Traps and Mines deal (3-5) to (10-15) additional Physical Damage",
-        "Traps and Mines have a 25% chance to Poison on Hit"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel10.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Cold Steel",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage",
-        "Increases and Reductions to Cold Damage in Radius are Transformed to apply to Physical Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Efficient Training",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+(16-24) to Strength",
-        "Intelligence from Passives in Radius is Transformed to Strength"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoSTR.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Eldritch Knowledge",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "5% increased Chaos Damage per 10 Intelligence from Allocated Passives in Radius"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique9.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Energised Armour",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(15-20)% increased Armour",
-        "Increases and Reductions to Energy Shield in Radius are Transformed to apply to Armour at 200% of their value"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Energy From Within",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.5.0": [
-          "(8-12)% increased maximum Energy Shield"
-        ],
-        "Current": [
-          "(3-6)% increased maximum Energy Shield"
-        ]
-      },
-      "mods": [
-        "Increases and Reductions to Life in Radius are Transformed to apply to Energy Shield"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fertile Mind",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+(16-24) to Intelligence",
-        "Dexterity from Passives in Radius is Transformed to Intelligence"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoINT.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fireborn",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fluid Motion",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+(16-24) to Dexterity",
-        "Strength from Passives in Radius is Transformed to Dexterity"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoDEX.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fortified Legion",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Minions have (5-15)% increased maximum Life",
-        "Minions Recover 2% of their Maximum Life when they Block"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel4.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fragile Bloom",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "2% of Life Regenerated per Second",
-        "10% increased Damage taken"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique20.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "From Dust",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Summon 2 additional Skeleton Warriors with Summon Skeleton",
-        "+1 second to Summon Skeleton Cooldown"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique11.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Golden Rule",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(30-40)% increased Armour while Bleeding ",
-        "Bleeding you inflict is Reflected to you ",
-        "+1% to Chaos Resistance per Poison on you ",
-        "Poison you inflict is Reflected to you"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGoldenRule.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Grand Spectrum",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "Gain 15 Mana per Grand Spectrum"
-        ],
-        "Current": [
-          "Gain 30 Mana per Grand Spectrum"
-        ]
-      },
-      "mods": [],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Grand Spectrum",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "Gain 75 Armour per Grand Spectrum"
-        ],
-        "Current": [
-          "Gain 200 Armour per Grand Spectrum"
-        ]
-      },
-      "mods": [],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Grand Spectrum",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.5.0": [
-          "5% increased Elemental Damage per Grand Spectrum"
-        ],
-        "Pre 3.0.0": [
-          "4% increased Elemental Damage per Grand Spectrum"
-        ],
-        "Current": [
-          "12% increased Elemental Damage per Grand Spectrum"
-        ]
-      },
-      "mods": [],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Green Dream",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Gain 5% of Cold Damage as Extra Chaos Damage",
-        "Passives granting Cold Resistance or all Elemental Resistances in Radius",
-        "also grant an equal chance to gain a Frenzy Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDream.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Green Nightmare",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Gain 5% of Cold Damage as Extra Chaos Damage",
-        "Passives granting Cold Resistance or all Elemental Resistances in Radius",
-        "also grant Chance to Dodge Attacks at 35% of its value",
-        "Passives granting Cold Resistance or all Elemental Resistances in Radius",
-        "also grant an equal chance to gain a Frenzy Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Hair Trigger",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "(20-30)% increased Trap Trigger Radius"
-        ],
-        "Current": [
-          "(40-60)% increased Trap Trigger Area of Effect"
-        ]
-      },
-      "mods": [
-        "(15-25)% increased Trap Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Healthy Mind",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(15-20)% increased maximum Mana",
-        "Increases and Reductions to Life in Radius are Transformed to apply to Mana at 200% of their value"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Hidden Potential",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(20-25)% increased Damage for each Equipped Magic Item"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique17.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Hotfooted",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Movement Speed while Ignited"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique14.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Inertia",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+(16-24) to Strength",
-        "Dexterity from Passives in Radius is Transformed to Strength"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoSTR.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Inspired Learning",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "If 4 Notables are Allocated in Radius, When you Kill a Rare monster, you gain 1",
-        "of its mods for 20 seconds"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique7.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Intuitive Leap",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Passives in Radius can be Allocated without being connected to your tree"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Izaro's Turmoil",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(18-25)% increased Fire Damage",
-        "(18-25)% increased Cold Damage",
-        "2% chance to Freeze",
-        "2% chance to Ignite"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique21.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Lioneye's Fall",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Melee and Melee Weapon Type modifiers in Radius are Transformed to Bow Modifiers"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/LioneyesFall.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Malicious Intent",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "5% chance to Gain Unholy Might for 4 seconds on Melee Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel3.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Mantra of Flames",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Adds (3-5) to (8-12) Fire Attack Damage per Buff on You",
-        "Adds (2-3) to (5-8) Fire Spell Damage per Buff on You"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique16.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Martial Artistry",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Area of Effect while Unarmed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Might in All Forms",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Might of the Meek",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "50% increased Effect of non-Keystone Passive Skills in Radius",
-        "Notable Passive Skills in Radius grant nothing"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PotencyOfTheUnremarkable.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Primordial Eminence",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Golems have (16-20)% increased Attack and Cast Speed",
-        "30% increased Effect of Buffs granted by your Golems",
-        "Golems have +(800-1000) to Armour",
-        "Primordial"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemArctic.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Primordial Harmony",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.3.0": [
-          "Golems have (10-15)% increased Cooldown Recovery Speed"
-        ],
-        "Current": [
-          "Golems have (30-45)% increased Cooldown Recovery Speed"
-        ]
-      },
-      "mods": [
-        "Golem Skills have (20-30)% increased Cooldown Recovery Speed",
-        "(16-20)% increased Golem Damage for each Type of Golem you have Summoned",
-        "Golems regenerate 2% of their Maximum Life per second",
-        "Primordial"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemTempest.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Primordial Might",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds",
-        "Golems Summoned in the past 8 seconds deal (35-45)% increased Damage",
-        "Golems have (18-22)% increased Maximum Life",
-        "Your Golems are aggressive",
-        "Primordial"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemInfernal.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Pugilist",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "1% increased Evasion Rating per 3 Dexterity Allocated in Radius",
-        "1% increased Claw Physical Damage per 3 Dexterity Allocated in Radius",
-        "1% increased Melee Physical Damage while Unarmed per 3 Dexterity Allocated in Radius"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Pure Talent",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "While your Passive Skill Tree connects to a class' Starting location, you gain:"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PureTalent.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Rain of Splinters",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(30-50)% reduced Totem Damage",
-        "Totems Fire 2 additional Projectiles"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Reckless Defence",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "20% of Block Chance applied to Spells"
-        ],
-        "Pre 3.4.0": [
-          "+6% chance to Block Spell Damage"
-        ],
-        "Current": [
-          "+(2-4)% chance to Block Spell Damage"
-        ]
-      },
-      "mods": [
-        "(2-4)% chance to Block Attack Damage",
-        "(7-10)% additional Chance to receive a Critical Strike"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RecklessDefense.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Red Dream",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Gain 5% of Fire Damage as Extra Chaos Damage",
-        "Passives granting Fire Resistance or all Elemental Resistances in Radius",
-        "also grant an equal chance to gain an Endurance Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDream.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Red Nightmare",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Gain 5% of Fire Damage as Extra Chaos Damage",
-        "Passives granting Fire Resistance or all Elemental Resistances in Radius",
-        "also grant Chance to Block at 35% of its value",
-        "Passives granting Fire Resistance or all Elemental Resistances in Radius",
-        "also grant an equal chance to gain an Endurance Charge on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Soul's Wick",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+2 to maximum number of Spectres",
-        "(40-50)% reduced Mana Cost of Raise Spectre ",
-        "Spectres have (800–1000)% increased Critical Strike Chance ",
-        "Spectres have a Base Duration of 20 seconds",
-        "Spectres do not travel between Areas"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SoulsWick.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Spire of Stone",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "3% increased Totem Life per 10 Strength Allocated in Radius",
-        "Totems cannot be Stunned"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Static Electricity",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius",
-        "Adds 1 to 2 Lightning Damage to Attacks"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "To Dust",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Current": []
-      },
-      "mods": [
-        "Minions deal (8-12)% increased Damage",
-        "(10-20)% reduced Skeleton Duration",
-        "(3-5)% increased Skeleton Movement Speed",
-        "(7-10)% increased Skeleton Attack Speed",
-        "(7-10)% increased Skeleton Cast speed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Unstable Payload",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(8-12)% Chance for Traps to Trigger an additional time"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel1.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Watcher's Eye",
-      "base": "Prismatic Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Has Alt true": [
-          "(1-1.5)% of Fire Damage Leeched as Life while affected by Anger"
-        ],
-        "Anger: Fire Leech": [
-          "Damage Penetrates (10-15)% Fire Resistance while affected by Anger"
-        ],
-        "Anger: Fire Pen": [
-          "Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger"
-        ],
-        "Anger: Physical Add Fire": [
-          "(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger"
-        ],
-        "Anger: Physical Convert Fire": [
-          "(6-10)% of Damage taken from Mana before Life while affected by Clarity"
-        ],
-        "Clarity: Dmg. Mana before Life": [
-          "Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity"
-        ],
-        "Clarity: Mana Add Energy Shield": [
-          "(10-15)% chance to Recover 10% of Maximum Mana when you use a Skill while affected by Clarity"
-        ],
-        "Clarity: Recover Mana": [
-          "-(10-5) to Total Mana Cost of Skills while affected by Clarity"
-        ],
-        "Clarity: Mana Cost": [
-          "(5-8)% chance to Block while affected by Determination"
-        ],
-        "Determination: Block": [
-          "(5-8)% additional Physical Damage Reduction while affected by Determination"
-        ],
-        "Determination: Phys Dmg Reduct": [
-          "You take (60-40)% reduced Extra Damage from Critical Strikes while affected by Determination"
-        ],
-        "Determination: Red. Crit Dmg": [
-          "Unaffected by Vulnerability while affected by Determination"
-        ],
-        "Determination: Vuln. Immune": [
-          "(5-8)% chance to Block Spells while affected by Discipline"
-        ],
-        "Discipline: Spell Block": [
-          "(20-30) Energy Shield gained for each Enemy Hit while affected by Discipline"
-        ],
-        "Discipline: Energy Shield on Hit": [
-          "(1.5-2.5)% of Maximum Energy Shield Regenerated per Second while affected by Discipline"
-        ],
-        "Discipline: Energy Shield Regen": [
-          "(30-40)% faster start of Energy Shield Recharge while affected by Discipline"
-        ],
-        "Discipline: Faster Rchrg. Start": [
-          "+(5-8)% chance to Evade Attacks while affected by Grace"
-        ],
-        "Grace: Additional Evade": [
-          "(6-10)% chance to Dodge Attacks while affected by Grace"
-        ],
-        "Grace: Dodge Chance": [
-          "(10-15)% increased Movement Speed while affected by Grace"
-        ],
-        "Grace: Movement Speed": [
-          "Unaffected by Enfeeble while affected by Grace"
-        ],
-        "Grace: Enfeeble Immune": [
-          "(5-8)% chance to Dodge Spells while affected by Haste"
-        ],
-        "Haste: Spell Dodge Chance": [
-          "You gain Onslaught for 4 seconds on Kill while affected by Haste"
-        ],
-        "Haste: Onslaught on Kill": [
-          "You have Phasing while affected by Haste"
-        ],
-        "Haste: Phasing": [
-          "Unaffected by Temporal Chains while affected by Haste"
-        ],
-        "Haste: Temp. Chains Immune": [
-          "Adds (58-70) to (88-104) Cold Damage while affected by Hatred"
-        ],
-        "Hatred: Added Cold Damage": [
-          "+(1.2-1.8)% to Critical Strike Chance while affected by Hatred"
-        ],
-        "Hatred: Crit Chance": [
-          "Damage Penetrates (10-15)% Cold Resistance while affected by Hatred"
-        ],
-        "Hatred: Cold Pen": [
-          "(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred"
-        ],
-        "Hatred: Physical Convert Cold": [
-          "(8-12)% of Physical Damage taken as Cold Damage while affected by Purity of Elements"
-        ],
-        "Purity of Elements: Phys as Cold": [
-          "(8-12)% of Physical Damage taken as Fire Damage while affected by Purity of Elements"
-        ],
-        "Purity of Elements: Phys as Fire": [
-          "(8-12)% of Physical Damage taken as Lightning Damage while affected by Purity of Elements"
-        ],
-        "Purity of Elements: Phys as Light": [
-          "Unaffected by Elemental Weakness while affected by Purity of Elements"
-        ],
-        "Purity of Elements: EW Immune": [
-          "Immune to Ignite while affected by Purity of Fire"
-        ],
-        "Purity of Fire: Ignite Immune": [
-          "(6-10)% of Physical Damage taken as Fire Damage while affected by Purity of Fire"
-        ],
-        "Purity of Fire: Phys as Fire": [
-          "Unaffected by Burning Ground while affected by Purity of Fire"
-        ],
-        "Purity of Fire: Bur.Gr Immune": [
-          "Unaffected by Flammability while affected by Purity of Fire"
-        ],
-        "Purity of Fire: Flamm. Immune": [
-          "Immune to Freeze while affected by Purity of Ice"
-        ],
-        "Purity of Ice: Freeze Immune": [
-          "(6-10)% of Physical Damage taken as Cold Damage while affected by Purity of Ice"
-        ],
-        "Purity of Ice: Phys as Cold": [
-          "Unaffected by Chilled Ground while affected by Purity of Ice"
-        ],
-        "Purity of Ice: Chl.Gr Immune": [
-          "Unaffected by Frostbite while affected by Purity of Ice"
-        ],
-        "Purity of Ice: Frostbite Immune": [
-          "Immune to Shock while affected by Purity of Lightning"
-        ],
-        "Purity of Lightning: Shock Immune": [
-          "(6-10)% of Physical Damage taken as Lightning Damage while affected by Purity of Lightning"
-        ],
-        "Purity of Lightning: Phys as Light": [
-          "Unaffected by Conductivity while affected by Purity of Lightning"
-        ],
-        "Purity of Lightning: Cond. Immune": [
-          "Unaffected by Shocked Ground while affected by Purity of Lightning"
-        ],
-        "Purity of Lightning: Shk.Gr Immune": [
-          "(1-1.5)% of Damage leeched as Life while affected by Vitality"
-        ],
-        "Vitality: Life Leech": [
-          "(100-140) Life Regenerated per Second while affected by Vitality"
-        ],
-        "Vitality: Life Regen": [
-          "(20-30) Life gained for each Enemy Hit while affected by Vitality"
-        ],
-        "Vitality: Life on Hit": [
-          "(20-30)% increased Life Recovery Rate while affected by Vitality"
-        ],
-        "Vitality: Life Recovery": [
-          "(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath"
-        ],
-        "Wrath: Light Leech": [
-          "Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath"
-        ],
-        "Wrath: Light Pen": [
-          "Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath"
-        ],
-        "Wrath: Phys Add Light": [
-          "(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath"
-        ],
-        "Wrath: Phys Convert Light": []
-      },
-      "mods": [
-        "(4-6)% increased maximum Energy Shield",
-        "(4–6)% increased maximum Life ",
-        "(4–6)% increased maximum Mana"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ElderJewel.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    }
-  ],
-  "Jewel: Threshold": [
-    {
-      "name": "Collateral Damage",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Physical Damage",
-        "With at least 40 Dexterity in Radius, Shrapnel Shot has 25% increased Area of Effect",
-        "With at least 40 Dexterity in Radius, Shrapnel Shot's",
-        "cone has a 50% chance to deal Double Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ShrapnelShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Dead Reckoning",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "With at least 40 Intelligence in Radius, can summon up to 3 Skeleton Mages with Summon Skeletons"
-        ],
-        "Current": [
-          "With at least 40 Intelligence in Radius, can summon up to 5 Skeleton Mages with Summon Skeletons"
-        ]
-      },
-      "mods": [
-        "Minions have +(7-10)% to all Elemental Resistances"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AdditionalSkeletonMagesModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fight for Survival",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Cold Damage",
-        "With at least 40 Dexterity in Radius, Melee Damage ",
-        "dealt by Frost Blades Penetrates 15% Cold Resistance",
-        "With at least 40 Dexterity in Radius, Frost Blades has 25% increased Projectile Speed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostBladesThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "First Snow",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(7-10)% increased Projectile Damage ",
-        "With at least 40 Intelligence in Radius, Freezing Pulse fires 2 additional Projectiles",
-        "With at least 40 Intelligence in Radius, 25% increased Freezing Pulse Damage if",
-        "you've Shattered an Enemy Recently"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FreezingPulseThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Frozen Trail",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(7-10)% increased Projectile Damage",
-        "With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles",
-        "With at least 40 Intelligence in Radius, Frostbolt Projectiles gain 40% increased Projectile",
-        "Speed per second"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostboltThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Growing Agony",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Attack Damage for each Poison on the Enemy"
-        ],
-        "Pre 3.0.0": [
-          "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Attack Damage for each Poison on the Enemy",
-          "With at least 40 Dexterity in Radius, Viper Strike has a 10% chance per Poison on Enemy to grant Unholy Might for 4 seconds on Hit"
-        ],
-        "Current": [
-          "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Damage with Hits and Poison for each Poison on the Enemy",
-          "With at least 40 Dexterity in Radius, Viper Strike has a 10% chance per Poison on Enemy to grant Unholy Might for 4 seconds on Hit"
-        ]
-      },
-      "mods": [
-        "(4-12)% increased Damage over Time"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PoisonDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Hazardous Research",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Lightning Damage",
-        "With at least 40 Intelligence in Radius, Spark fires 2 additional Projectiles",
-        "With at least 40 Intelligence in Radius, Spark fires Projectiles in a Nova",
-        "(20-15)% reduced Spark Duration"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SparkThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Inevitability",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Fire Damage",
-        "With at least 40 Intelligence in Radius, Magma Orb fires an additional Projectile",
-        "With at least 40 Intelligence in Radius, Magma Orb",
-        "has 10% increased Area of Effect per Chain"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MagmaOrbThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Long Winter",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Cold Damage ",
-        "With 40 Intelligence in Radius, 20% of Glacial Cascade Physical Damage",
-        "Converted to Cold Damage",
-        "With 40 Intelligence in Radius, Glacial Cascade has an additional Burst"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialCascadeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Might and Influence",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Physical Damage",
-        "With at least 40 Dexterity in Radius, Dual Strike has a 20% chance",
-        "to deal Double Damage with the Main-Hand Weapon",
-        "With at least 40 Dexterity in Radius, Dual Strike deals Off-Hand Splash Damage",
-        "to surrounding targets"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DualStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Omen on the Winds",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "(15-20)% increased Damage against Chilled Enemies",
-          "With at least 40 Dexterity in Radius, Ice Shot has 50% chance of Projectiles Piercing"
-        ],
-        "Pre 3.1.0": [
-          "(15-20)% increased Damage with Hits against Chilled Enemies",
-          "With at least 40 Dexterity in Radius, Ice Shot Pierces 5 additional Targets"
-        ],
-        "Current": [
-          "(15-20)% increased Damage with Hits against Chilled Enemies",
-          "With at least 40 Dexterity in Radius, Ice Shot Pierces 3 additional Targets"
-        ]
-      },
-      "mods": [
-        "With at least 40 Dexterity in Radius, Ice Shot has 25% increased Area of Effect"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/IceShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Overwhelming Odds",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Physical Damage",
-        "With at least 40 Strength in Radius, Cleave grants Fortify on Hit",
-        "With at least 40 Strength in Radius, Cleave has 3% increased Area of",
-        "Effect per Nearby Enemy"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/CleaveThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Pitch Darkness",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(5-15)% increased Fire Damage",
-        "With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Burning Ground if it Ignites an Enemy.",
-        "With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Tar if it does not Ignite an Enemy."
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Rapid Expansion",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Strength in Radius, Ground Slam has a 20% increased angle"
-        ],
-        "Pre 3.3.0": [
-          "With at least 40 Strength in Radius, Ground Slam has a 35% increased angle",
-          "With at least 40 Strength in Radius, Ground Slam has a 25% chance to grant an Endurance Charge when you Stun an Enemy"
-        ],
-        "Current": [
-          "With at least 40 Strength in Radius, Ground Slam has a 50% increased angle",
-          "With at least 40 Strength in Radius, Ground Slam has a 35% chance to grant an Endurance Charge when you Stun an Enemy"
-        ]
-      },
-      "mods": [
-        "(4-12)% increased Physical Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GroundSlamModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Ring of Blades",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "With at least 40 Dexterity in Radius, Ethereal Knives fires 10 additional Projectiles"
-        ],
-        "Current": [
-          "With at least 40 Dexterity in Radius, Ethereal Knives fires 5 additional Projectiles"
-        ]
-      },
-      "mods": [
-        "(10-15)% increased Physical Damage ",
-        "With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a Nova"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/EtherealKnivesThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Rolling Flames",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Intelligence in Radius, Fireball Projectiles gain Area of Effect Radius as they travel further, up to 50% increased Radius."
-        ],
-        "Current": [
-          "With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius as they travel farther, up to +4 Radius"
-        ]
-      },
-      "mods": [
-        "(5-15)% increased Fire Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FireballModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Shattered Chains",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(5-15)% increased Cold Damage",
-        "With at least 40 Strength in Radius, 20% increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Spirit Guards",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 4 Ranged Weapons"
-        ],
-        "Current": [
-          "With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 8 Ranged Weapons"
-        ]
-      },
-      "mods": [
-        "Minions deal (8-12)% increased Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AnimateWeaponModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Spirited Response",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(5-10)% increased maximum Mana",
-        "With at least 40 Intelligence in Radius, 10% of Damage taken gained as Mana over 4 seconds when Hit during Rallying Cry for you and Allies"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/InspiringCryModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Spreading Rot",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(7-13)% increased Chaos Damage",
-        "With at least 40 Intelligence in Radius, Blight has 50% increased Hinder Duration",
-        "With at least 40 Intelligence in Radius, Enemies Hindered by Blight take 25% increased Chaos Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlightThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Steel Spirit",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 4% increased Damage each time it Hits."
-        ],
-        "Current": [
-          "With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 5% increased Damage each time it Hits."
-        ]
-      },
-      "mods": [
-        "(6-10)% increased Projectile Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectralThrowModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Sudden Ignition",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Fire Damage ",
-        "With at least 40 Dexterity in Radius, Burning",
-        "Arrow can inflict an additional Ignite on an Enemy"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Unending Hunger",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Minions have (5-8)% increased Area of Effect of Area Skills",
-        "With at least 40 Intelligence in Radius, Raised Spectres have a 50% chance to gain Soul Eater for 30 seconds on Kill"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectreJewel.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "The Vigil",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Strength in Radius, Vigilant Strike also Fortifies Nearby Allies for 3 seconds."
-        ],
-        "Current": [
-          "With at least 40 Strength in Radius, Vigilant Strike Fortifies you and Nearby Allies for 12 seconds"
-        ]
-      },
-      "mods": [
-        "(8-15)% increased Armour"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/VigilanteModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Violent Dead",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "Minions deal (10-15)% increased Damage ",
-        "With at least 40 Intelligence in Radius, Raised",
-        "Zombies' Slam Attack has 100% increased Cooldown Recovery Speed",
-        "With at least 40 Intelligence in Radius, Raised Zombies' Slam",
-        "Attack deals 30% increased Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RaiseZombieThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Volley Fire",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(6-10)% increased Projectile Damage",
-        "With at least 40 Dexterity in Radius, Barrage fires an additional 2 projectiles simultaneously on the first and final attacks"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BarrageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Weight of the Empire",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(4-12)% increased Physical Damage",
-        "With at least 40 Strength in Radius, Heavy Strike has a 20% chance to deal Double Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DoubleDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Wildfire",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Fire Damage ",
-        "With at least 40 Strength in Radius, Molten Strike fires 2 additional Projectiles",
-        "With at least 40 Strength in Radius, Molten Strike has 25% increased Area of Effect"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MoltenStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Winter's Bounty",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 2.6.0": [
-          "With at least 40 Intelligence in Radius, Cold Snap has a 25% chance to grant a Power Charge on Kill"
-        ],
-        "Pre 3.3.0": [
-          "With at least 40 Intelligence in Radius, Cold Snap has a 50% chance to grant a Power Charge on Kill"
-        ],
-        "Current": [
-          "With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of Frenzy Charges when Enemies die in it's Area",
-          "With at least 40 Intelligence in Radius, Cold Snap Cooldown can be bypassed by Power Charges instead of Frenzy Charges"
-        ]
-      },
-      "mods": [
-        "(5-15)% increased Cold Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ColdSnapModifier.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Winter Burial",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(10-15)% increased Cold Damage ",
-        "With at least 40 Strength in Radius, Glacial Hammer deals",
-        "Cold-only Splash Damage to surrounding targets",
-        "With at least 40 Strength in Radius, 25% of Glacial",
-        "Hammer Physical Damage converted to Cold Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    }
-  ],
-  "Jewel: Corrupted": [
-    {
-      "name": "Ancient Waystones",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "60% reduced Mana Cost of Totem Skills that cast an Aura"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Atziri's Reign",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(15-20)% increased Vaal Skill Effect Duration"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Blood Sacrifice",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "1% of maximum Mana gained on Kill",
-        "Removes 1% of maximum Life on Kill",
-        "Removes 1% of maximum Energy Shield on Kill"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Brittle Barrier",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "20% faster start of Energy Shield Recharge",
-        "10% increased Damage Taken while Energy Shield is Full"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Chill of Corruption",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "50% chance to gain an additional Vaal Soul per Enemy Shattered"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Combustibles",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "10% reduced Quantity of Items found",
-        "(20-30)% increased Burning Damage"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Corrupted Energy",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fevered Mind",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(20-30)% increased Spell Damage",
-        "100% increased Mana Cost of Skills"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Fragility",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "−1 Maximum Endurance Charges"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Hungry Abyss",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Mutated Growth",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Pacifism",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "−1 Maximum Frenzy Charges"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Powerlessness",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "−1 Maximum Power Charges"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Sacrificial Harvest",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(20-30)% chance to gain an additional Vaal Soul on Kill"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Self-Flagellation",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "You can have one additional Curse",
-        "(10-20)% increased Damage per Curse on you"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Vaal Sentencing",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(80-120)% increased Vaal Skill Critical Strike Chance"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Weight of Sin",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "(15-20)% increased Chaos Damage",
-        "15% reduced Movement Speed"
-      ],
-      "corrupted": true,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    }
-  ],
-  "Jewel: Quest rewards": [
-    {
-      "name": "Assassin's Haste",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "10% increased Mana Regeneration Rate",
-        "4% increased Movement Speed",
-        "4% increased Attack and Cast Speed"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Conqueror's Efficiency",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "3% reduced Mana Cost of Skills",
-        "4% increased Skill Effect Duration",
-        "2% reduced Mana Reserved"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Conqueror's Longevity",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "3% chance to Avoid Elemental Status Ailments"
-        ],
-        "Current": [
-          "3% chance to Avoid Elemental Ailments"
-        ]
-      },
-      "mods": [
-        "8% increased Life Recovery from Flasks",
-        "2% chance to Dodge Attacks"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Conqueror's Potency",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "4% increased Effect of your Curses",
-        "8% increased effect of Flasks",
-        "3% increased effect of Non-Curse Auras you Cast"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Poacher's Aim",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {
-        "Pre 3.0.0": [
-          "15% chance of Projectiles Piercing"
-        ],
-        "Current": [
-          "Projectiles Pierce an additional Target"
-        ]
-      },
-      "mods": [
-        "10% increased Projectile Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Survival Instincts",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "+20 to Dexterity",
-        "+6% to all Elemental Resistances"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique2.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Survival Secrets",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "3 Mana Regenerated per second",
-        "10% increased Elemental Damage"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique12.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Survival Skills",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "10% increased Physical Damage",
-        "+50 to Armour"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique4.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Warlord's Reach",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "8% increased Attack Damage",
-        "+1 Melee Weapon and Unarmed Range"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    }
-  ],
-  "Jewel: Labyrinth rewards": [
-    {
-      "name": "Emperor's Cunning",
-      "base": "Viridian Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "20% increased Accuracy Rating",
-        "3% increased Character Size",
-        "(4-6)% increased Dexterity"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Cunning.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Emperor's Mastery",
-      "base": "Prismatic Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "4% increased maximum Life",
-        "3% increased Character Size",
-        "5% increased Defences",
-        "(5-7)% increased Attributes"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Mastery.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Emperor's Might",
-      "base": "Crimson Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "10% increased Damage",
-        "3% increased Character Size",
-        "(4-6)% increased Strength"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Might.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    },
-    {
-      "name": "Emperor's Wit",
-      "base": "Cobalt Jewel",
-      "levelReq": 1,
-      "variants": {},
-      "mods": [
-        "30% increased Global Critical Strike Chance",
-        "3% increased Character Size",
-        "(4-6)% increased Intelligence"
-      ],
-      "corrupted": false,
-      "shaper": false,
-      "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Wit.png?scale=1&scaleIndex=0&w=1&h=1",
-      "itemType": "Jewel"
-    }
-  ]
-}
+[
+  {
+    "name": "Anatomical Knowledge",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(6-8)% increased maximum Life",
+      "Adds 1 to Maximum Life per 3 Intelligence Allocated in Radius"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Anima Stone",
+    "base": "Prismatic Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Can Summon up to 1 additional Golem at a time",
+      "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemChaos.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Apparitions",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Minions have (5-10)% increased Movement Speed",
+      "Minions have (2-5)% additional chance to Dodge Attacks"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique10.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Army of Bones",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": []
+    },
+    "mods": [
+      "Minions deal (8-12)% increased Damage",
+      "+2 to maximum number of Skeletons",
+      "(10-20)% reduced Skeleton Duration"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Blue Dream",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Gain 5% of Lightning Damage as Extra Chaos Damage",
+      "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain a Power Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDream.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Blue Nightmare",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Gain 5% of Lightning Damage as Extra Chaos Damage",
+      "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
+      "also grant Chance to Block Spells at 35% of its value",
+      "Passives granting Lightning Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain a Power Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Brawn",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(4-6)% increased Dexterity",
+      "(4-6)% increased Strength",
+      "(10-15)% reduced Intelligence"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Brute Force Solution",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+(16-24) to Intelligence",
+      "Strength from Passives in Radius is Transformed to Intelligence"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoINT.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Careful Planning",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+(16-24) to Dexterity",
+      "Intelligence from Passives in Radius is Transformed to Dexterity"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoDEX.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Cheap Construction",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "10% reduced Trap Duration",
+      "Can have up to 1 additional Trap placed at a time"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel1.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Clear Mind",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(20-30)% increased Mana Regeneration Rate",
+      "(40-60)% increased Spell Damage while no Mana is Reserved"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique13.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Coated Shrapnel",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Traps and Mines deal (3-5) to (10-15) additional Physical Damage",
+      "Traps and Mines have a 25% chance to Poison on Hit"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel10.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Cold Steel",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage",
+      "Increases and Reductions to Cold Damage in Radius are Transformed to apply to Physical Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Efficient Training",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+(16-24) to Strength",
+      "Intelligence from Passives in Radius is Transformed to Strength"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/INTtoSTR.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Eldritch Knowledge",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "5% increased Chaos Damage per 10 Intelligence from Allocated Passives in Radius"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique9.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Energised Armour",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(15-20)% increased Armour",
+      "Increases and Reductions to Energy Shield in Radius are Transformed to apply to Armour at 200% of their value"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Energy From Within",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.5.0": [
+        "(8-12)% increased maximum Energy Shield"
+      ],
+      "Current": [
+        "(3-6)% increased maximum Energy Shield"
+      ]
+    },
+    "mods": [
+      "Increases and Reductions to Life in Radius are Transformed to apply to Energy Shield"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fertile Mind",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+(16-24) to Intelligence",
+      "Dexterity from Passives in Radius is Transformed to Intelligence"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoINT.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fireborn",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fluid Motion",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+(16-24) to Dexterity",
+      "Strength from Passives in Radius is Transformed to Dexterity"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/STRtoDEX.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fortified Legion",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Minions have (5-15)% increased maximum Life",
+      "Minions Recover 2% of their Maximum Life when they Block"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel4.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fragile Bloom",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "2% of Life Regenerated per Second",
+      "10% increased Damage taken"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique20.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "From Dust",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Summon 2 additional Skeleton Warriors with Summon Skeleton",
+      "+1 second to Summon Skeleton Cooldown"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique11.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Golden Rule",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(30-40)% increased Armour while Bleeding ",
+      "Bleeding you inflict is Reflected to you ",
+      "+1% to Chaos Resistance per Poison on you ",
+      "Poison you inflict is Reflected to you"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGoldenRule.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Grand Spectrum",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "Gain 15 Mana per Grand Spectrum"
+      ],
+      "Current": [
+        "Gain 30 Mana per Grand Spectrum"
+      ]
+    },
+    "mods": [],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Grand Spectrum",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "Gain 75 Armour per Grand Spectrum"
+      ],
+      "Current": [
+        "Gain 200 Armour per Grand Spectrum"
+      ]
+    },
+    "mods": [],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Grand Spectrum",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.5.0": [
+        "5% increased Elemental Damage per Grand Spectrum"
+      ],
+      "Pre 3.0.0": [
+        "4% increased Elemental Damage per Grand Spectrum"
+      ],
+      "Current": [
+        "12% increased Elemental Damage per Grand Spectrum"
+      ]
+    },
+    "mods": [],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueGrandSpectrum.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Green Dream",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Gain 5% of Cold Damage as Extra Chaos Damage",
+      "Passives granting Cold Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain a Frenzy Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDream.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Green Nightmare",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Gain 5% of Cold Damage as Extra Chaos Damage",
+      "Passives granting Cold Resistance or all Elemental Resistances in Radius",
+      "also grant Chance to Dodge Attacks at 35% of its value",
+      "Passives granting Cold Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain a Frenzy Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Hair Trigger",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "(20-30)% increased Trap Trigger Radius"
+      ],
+      "Current": [
+        "(40-60)% increased Trap Trigger Area of Effect"
+      ]
+    },
+    "mods": [
+      "(15-25)% increased Trap Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Healthy Mind",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(15-20)% increased maximum Mana",
+      "Increases and Reductions to Life in Radius are Transformed to apply to Mana at 200% of their value"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Hidden Potential",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(20-25)% increased Damage for each Equipped Magic Item"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique17.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Hotfooted",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Movement Speed while Ignited"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique14.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Inertia",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+(16-24) to Strength",
+      "Dexterity from Passives in Radius is Transformed to Strength"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DEXtoSTR.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Inspired Learning",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "If 4 Notables are Allocated in Radius, When you Kill a Rare monster, you gain 1",
+      "of its mods for 20 seconds"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique7.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Intuitive Leap",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Passives in Radius can be Allocated without being connected to your tree"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Izaro's Turmoil",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(18-25)% increased Fire Damage",
+      "(18-25)% increased Cold Damage",
+      "2% chance to Freeze",
+      "2% chance to Ignite"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique21.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Lioneye's Fall",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Melee and Melee Weapon Type modifiers in Radius are Transformed to Bow Modifiers"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/LioneyesFall.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Malicious Intent",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "5% chance to Gain Unholy Might for 4 seconds on Melee Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel3.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Mantra of Flames",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Adds (3-5) to (8-12) Fire Attack Damage per Buff on You",
+      "Adds (2-3) to (5-8) Fire Spell Damage per Buff on You"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique16.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Martial Artistry",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Area of Effect while Unarmed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Might in All Forms",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Might of the Meek",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "50% increased Effect of non-Keystone Passive Skills in Radius",
+      "Notable Passive Skills in Radius grant nothing"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PotencyOfTheUnremarkable.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Primordial Eminence",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Golems have (16-20)% increased Attack and Cast Speed",
+      "30% increased Effect of Buffs granted by your Golems",
+      "Golems have +(800-1000) to Armour",
+      "Primordial"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemArctic.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Primordial Harmony",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.3.0": [
+        "Golems have (10-15)% increased Cooldown Recovery Speed"
+      ],
+      "Current": [
+        "Golems have (30-45)% increased Cooldown Recovery Speed"
+      ]
+    },
+    "mods": [
+      "Golem Skills have (20-30)% increased Cooldown Recovery Speed",
+      "(16-20)% increased Golem Damage for each Type of Golem you have Summoned",
+      "Golems regenerate 2% of their Maximum Life per second",
+      "Primordial"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemTempest.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Primordial Might",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds",
+      "Golems Summoned in the past 8 seconds deal (35-45)% increased Damage",
+      "Golems have (18-22)% increased Maximum Life",
+      "Your Golems are aggressive",
+      "Primordial"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GolemInfernal.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Pugilist",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "1% increased Evasion Rating per 3 Dexterity Allocated in Radius",
+      "1% increased Claw Physical Damage per 3 Dexterity Allocated in Radius",
+      "1% increased Melee Physical Damage while Unarmed per 3 Dexterity Allocated in Radius"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Pure Talent",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "While your Passive Skill Tree connects to a class' Starting location, you gain:"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PureTalent.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Rain of Splinters",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(30-50)% reduced Totem Damage",
+      "Totems Fire 2 additional Projectiles"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Reckless Defence",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "20% of Block Chance applied to Spells"
+      ],
+      "Pre 3.4.0": [
+        "+6% chance to Block Spell Damage"
+      ],
+      "Current": [
+        "+(2-4)% chance to Block Spell Damage"
+      ]
+    },
+    "mods": [
+      "(2-4)% chance to Block Attack Damage",
+      "(7-10)% additional Chance to receive a Critical Strike"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RecklessDefense.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Red Dream",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Gain 5% of Fire Damage as Extra Chaos Damage",
+      "Passives granting Fire Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain an Endurance Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDream.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Red Nightmare",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Gain 5% of Fire Damage as Extra Chaos Damage",
+      "Passives granting Fire Resistance or all Elemental Resistances in Radius",
+      "also grant Chance to Block at 35% of its value",
+      "Passives granting Fire Resistance or all Elemental Resistances in Radius",
+      "also grant an equal chance to gain an Endurance Charge on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/TheRedDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Soul's Wick",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+2 to maximum number of Spectres",
+      "(40-50)% reduced Mana Cost of Raise Spectre ",
+      "Spectres have (800–1000)% increased Critical Strike Chance ",
+      "Spectres have a Base Duration of 20 seconds",
+      "Spectres do not travel between Areas"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SoulsWick.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Spire of Stone",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "3% increased Totem Life per 10 Strength Allocated in Radius",
+      "Totems cannot be Stunned"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedKarui2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Static Electricity",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius",
+      "Adds 1 to 2 Lightning Damage to Attacks"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenJewel7.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "To Dust",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Current": []
+    },
+    "mods": [
+      "Minions deal (8-12)% increased Damage",
+      "(10-20)% reduced Skeleton Duration",
+      "(3-5)% increased Skeleton Movement Speed",
+      "(7-10)% increased Skeleton Attack Speed",
+      "(7-10)% increased Skeleton Cast speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Unstable Payload",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(8-12)% Chance for Traps to Trigger an additional time"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueJewel1.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Watcher's Eye",
+    "base": "Prismatic Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Has Alt true": [
+        "(1-1.5)% of Fire Damage Leeched as Life while affected by Anger"
+      ],
+      "Anger: Fire Leech": [
+        "Damage Penetrates (10-15)% Fire Resistance while affected by Anger"
+      ],
+      "Anger: Fire Pen": [
+        "Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger"
+      ],
+      "Anger: Physical Add Fire": [
+        "(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger"
+      ],
+      "Anger: Physical Convert Fire": [
+        "(6-10)% of Damage taken from Mana before Life while affected by Clarity"
+      ],
+      "Clarity: Dmg. Mana before Life": [
+        "Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity"
+      ],
+      "Clarity: Mana Add Energy Shield": [
+        "(10-15)% chance to Recover 10% of Maximum Mana when you use a Skill while affected by Clarity"
+      ],
+      "Clarity: Recover Mana": [
+        "-(10-5) to Total Mana Cost of Skills while affected by Clarity"
+      ],
+      "Clarity: Mana Cost": [
+        "(5-8)% chance to Block while affected by Determination"
+      ],
+      "Determination: Block": [
+        "(5-8)% additional Physical Damage Reduction while affected by Determination"
+      ],
+      "Determination: Phys Dmg Reduct": [
+        "You take (60-40)% reduced Extra Damage from Critical Strikes while affected by Determination"
+      ],
+      "Determination: Red. Crit Dmg": [
+        "Unaffected by Vulnerability while affected by Determination"
+      ],
+      "Determination: Vuln. Immune": [
+        "(5-8)% chance to Block Spells while affected by Discipline"
+      ],
+      "Discipline: Spell Block": [
+        "(20-30) Energy Shield gained for each Enemy Hit while affected by Discipline"
+      ],
+      "Discipline: Energy Shield on Hit": [
+        "(1.5-2.5)% of Maximum Energy Shield Regenerated per Second while affected by Discipline"
+      ],
+      "Discipline: Energy Shield Regen": [
+        "(30-40)% faster start of Energy Shield Recharge while affected by Discipline"
+      ],
+      "Discipline: Faster Rchrg. Start": [
+        "+(5-8)% chance to Evade Attacks while affected by Grace"
+      ],
+      "Grace: Additional Evade": [
+        "(6-10)% chance to Dodge Attacks while affected by Grace"
+      ],
+      "Grace: Dodge Chance": [
+        "(10-15)% increased Movement Speed while affected by Grace"
+      ],
+      "Grace: Movement Speed": [
+        "Unaffected by Enfeeble while affected by Grace"
+      ],
+      "Grace: Enfeeble Immune": [
+        "(5-8)% chance to Dodge Spells while affected by Haste"
+      ],
+      "Haste: Spell Dodge Chance": [
+        "You gain Onslaught for 4 seconds on Kill while affected by Haste"
+      ],
+      "Haste: Onslaught on Kill": [
+        "You have Phasing while affected by Haste"
+      ],
+      "Haste: Phasing": [
+        "Unaffected by Temporal Chains while affected by Haste"
+      ],
+      "Haste: Temp. Chains Immune": [
+        "Adds (58-70) to (88-104) Cold Damage while affected by Hatred"
+      ],
+      "Hatred: Added Cold Damage": [
+        "+(1.2-1.8)% to Critical Strike Chance while affected by Hatred"
+      ],
+      "Hatred: Crit Chance": [
+        "Damage Penetrates (10-15)% Cold Resistance while affected by Hatred"
+      ],
+      "Hatred: Cold Pen": [
+        "(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred"
+      ],
+      "Hatred: Physical Convert Cold": [
+        "(8-12)% of Physical Damage taken as Cold Damage while affected by Purity of Elements"
+      ],
+      "Purity of Elements: Phys as Cold": [
+        "(8-12)% of Physical Damage taken as Fire Damage while affected by Purity of Elements"
+      ],
+      "Purity of Elements: Phys as Fire": [
+        "(8-12)% of Physical Damage taken as Lightning Damage while affected by Purity of Elements"
+      ],
+      "Purity of Elements: Phys as Light": [
+        "Unaffected by Elemental Weakness while affected by Purity of Elements"
+      ],
+      "Purity of Elements: EW Immune": [
+        "Immune to Ignite while affected by Purity of Fire"
+      ],
+      "Purity of Fire: Ignite Immune": [
+        "(6-10)% of Physical Damage taken as Fire Damage while affected by Purity of Fire"
+      ],
+      "Purity of Fire: Phys as Fire": [
+        "Unaffected by Burning Ground while affected by Purity of Fire"
+      ],
+      "Purity of Fire: Bur.Gr Immune": [
+        "Unaffected by Flammability while affected by Purity of Fire"
+      ],
+      "Purity of Fire: Flamm. Immune": [
+        "Immune to Freeze while affected by Purity of Ice"
+      ],
+      "Purity of Ice: Freeze Immune": [
+        "(6-10)% of Physical Damage taken as Cold Damage while affected by Purity of Ice"
+      ],
+      "Purity of Ice: Phys as Cold": [
+        "Unaffected by Chilled Ground while affected by Purity of Ice"
+      ],
+      "Purity of Ice: Chl.Gr Immune": [
+        "Unaffected by Frostbite while affected by Purity of Ice"
+      ],
+      "Purity of Ice: Frostbite Immune": [
+        "Immune to Shock while affected by Purity of Lightning"
+      ],
+      "Purity of Lightning: Shock Immune": [
+        "(6-10)% of Physical Damage taken as Lightning Damage while affected by Purity of Lightning"
+      ],
+      "Purity of Lightning: Phys as Light": [
+        "Unaffected by Conductivity while affected by Purity of Lightning"
+      ],
+      "Purity of Lightning: Cond. Immune": [
+        "Unaffected by Shocked Ground while affected by Purity of Lightning"
+      ],
+      "Purity of Lightning: Shk.Gr Immune": [
+        "(1-1.5)% of Damage leeched as Life while affected by Vitality"
+      ],
+      "Vitality: Life Leech": [
+        "(100-140) Life Regenerated per Second while affected by Vitality"
+      ],
+      "Vitality: Life Regen": [
+        "(20-30) Life gained for each Enemy Hit while affected by Vitality"
+      ],
+      "Vitality: Life on Hit": [
+        "(20-30)% increased Life Recovery Rate while affected by Vitality"
+      ],
+      "Vitality: Life Recovery": [
+        "(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath"
+      ],
+      "Wrath: Light Leech": [
+        "Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath"
+      ],
+      "Wrath: Light Pen": [
+        "Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath"
+      ],
+      "Wrath: Phys Add Light": [
+        "(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath"
+      ],
+      "Wrath: Phys Convert Light": []
+    },
+    "mods": [
+      "(4-6)% increased maximum Energy Shield",
+      "(4–6)% increased maximum Life ",
+      "(4–6)% increased maximum Mana"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ElderJewel.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Collateral Damage",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Physical Damage",
+      "With at least 40 Dexterity in Radius, Shrapnel Shot has 25% increased Area of Effect",
+      "With at least 40 Dexterity in Radius, Shrapnel Shot's",
+      "cone has a 50% chance to deal Double Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ShrapnelShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Dead Reckoning",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "With at least 40 Intelligence in Radius, can summon up to 3 Skeleton Mages with Summon Skeletons"
+      ],
+      "Current": [
+        "With at least 40 Intelligence in Radius, can summon up to 5 Skeleton Mages with Summon Skeletons"
+      ]
+    },
+    "mods": [
+      "Minions have +(7-10)% to all Elemental Resistances"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AdditionalSkeletonMagesModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fight for Survival",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Cold Damage",
+      "With at least 40 Dexterity in Radius, Melee Damage ",
+      "dealt by Frost Blades Penetrates 15% Cold Resistance",
+      "With at least 40 Dexterity in Radius, Frost Blades has 25% increased Projectile Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostBladesThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "First Snow",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(7-10)% increased Projectile Damage ",
+      "With at least 40 Intelligence in Radius, Freezing Pulse fires 2 additional Projectiles",
+      "With at least 40 Intelligence in Radius, 25% increased Freezing Pulse Damage if",
+      "you've Shattered an Enemy Recently"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FreezingPulseThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Frozen Trail",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(7-10)% increased Projectile Damage",
+      "With at least 40 Intelligence in Radius, Frostbolt fires 2 additional Projectiles",
+      "With at least 40 Intelligence in Radius, Frostbolt Projectiles gain 40% increased Projectile",
+      "Speed per second"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FrostboltThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Growing Agony",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Attack Damage for each Poison on the Enemy"
+      ],
+      "Pre 3.0.0": [
+        "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Attack Damage for each Poison on the Enemy",
+        "With at least 40 Dexterity in Radius, Viper Strike has a 10% chance per Poison on Enemy to grant Unholy Might for 4 seconds on Hit"
+      ],
+      "Current": [
+        "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Damage with Hits and Poison for each Poison on the Enemy",
+        "With at least 40 Dexterity in Radius, Viper Strike has a 10% chance per Poison on Enemy to grant Unholy Might for 4 seconds on Hit"
+      ]
+    },
+    "mods": [
+      "(4-12)% increased Damage over Time"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/PoisonDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Hazardous Research",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Lightning Damage",
+      "With at least 40 Intelligence in Radius, Spark fires 2 additional Projectiles",
+      "With at least 40 Intelligence in Radius, Spark fires Projectiles in a Nova",
+      "(20-15)% reduced Spark Duration"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SparkThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Inevitability",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Fire Damage",
+      "With at least 40 Intelligence in Radius, Magma Orb fires an additional Projectile",
+      "With at least 40 Intelligence in Radius, Magma Orb",
+      "has 10% increased Area of Effect per Chain"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MagmaOrbThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Long Winter",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Cold Damage ",
+      "With 40 Intelligence in Radius, 20% of Glacial Cascade Physical Damage",
+      "Converted to Cold Damage",
+      "With 40 Intelligence in Radius, Glacial Cascade has an additional Burst"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialCascadeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Might and Influence",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Physical Damage",
+      "With at least 40 Dexterity in Radius, Dual Strike has a 20% chance",
+      "to deal Double Damage with the Main-Hand Weapon",
+      "With at least 40 Dexterity in Radius, Dual Strike deals Off-Hand Splash Damage",
+      "to surrounding targets"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DualStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Omen on the Winds",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "(15-20)% increased Damage against Chilled Enemies",
+        "With at least 40 Dexterity in Radius, Ice Shot has 50% chance of Projectiles Piercing"
+      ],
+      "Pre 3.1.0": [
+        "(15-20)% increased Damage with Hits against Chilled Enemies",
+        "With at least 40 Dexterity in Radius, Ice Shot Pierces 5 additional Targets"
+      ],
+      "Current": [
+        "(15-20)% increased Damage with Hits against Chilled Enemies",
+        "With at least 40 Dexterity in Radius, Ice Shot Pierces 3 additional Targets"
+      ]
+    },
+    "mods": [
+      "With at least 40 Dexterity in Radius, Ice Shot has 25% increased Area of Effect"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/IceShotThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Overwhelming Odds",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Physical Damage",
+      "With at least 40 Strength in Radius, Cleave grants Fortify on Hit",
+      "With at least 40 Strength in Radius, Cleave has 3% increased Area of",
+      "Effect per Nearby Enemy"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/CleaveThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Pitch Darkness",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(5-15)% increased Fire Damage",
+      "With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Burning Ground if it Ignites an Enemy.",
+      "With at least 40 Dexterity in Radius, Burning Arrow has a 10% chance to spread Tar if it does not Ignite an Enemy."
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Rapid Expansion",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Strength in Radius, Ground Slam has a 20% increased angle"
+      ],
+      "Pre 3.3.0": [
+        "With at least 40 Strength in Radius, Ground Slam has a 35% increased angle",
+        "With at least 40 Strength in Radius, Ground Slam has a 25% chance to grant an Endurance Charge when you Stun an Enemy"
+      ],
+      "Current": [
+        "With at least 40 Strength in Radius, Ground Slam has a 50% increased angle",
+        "With at least 40 Strength in Radius, Ground Slam has a 35% chance to grant an Endurance Charge when you Stun an Enemy"
+      ]
+    },
+    "mods": [
+      "(4-12)% increased Physical Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GroundSlamModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Ring of Blades",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "With at least 40 Dexterity in Radius, Ethereal Knives fires 10 additional Projectiles"
+      ],
+      "Current": [
+        "With at least 40 Dexterity in Radius, Ethereal Knives fires 5 additional Projectiles"
+      ]
+    },
+    "mods": [
+      "(10-15)% increased Physical Damage ",
+      "With at least 40 Dexterity in Radius, Ethereal Knives fires Projectiles in a Nova"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/EtherealKnivesThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Rolling Flames",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Intelligence in Radius, Fireball Projectiles gain Area of Effect Radius as they travel further, up to 50% increased Radius."
+      ],
+      "Current": [
+        "With at least 40 Intelligence in Radius, Fireball Projectiles gain Radius as they travel farther, up to +4 Radius"
+      ]
+    },
+    "mods": [
+      "(5-15)% increased Fire Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/FireballModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Shattered Chains",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(5-15)% increased Cold Damage",
+      "With at least 40 Strength in Radius, 20% increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Spirit Guards",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 4 Ranged Weapons"
+      ],
+      "Current": [
+        "With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 8 Ranged Weapons"
+      ]
+    },
+    "mods": [
+      "Minions deal (8-12)% increased Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/AnimateWeaponModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Spirited Response",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(5-10)% increased maximum Mana",
+      "With at least 40 Intelligence in Radius, 10% of Damage taken gained as Mana over 4 seconds when Hit during Rallying Cry for you and Allies"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/InspiringCryModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Spreading Rot",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(7-13)% increased Chaos Damage",
+      "With at least 40 Intelligence in Radius, Blight has 50% increased Hinder Duration",
+      "With at least 40 Intelligence in Radius, Enemies Hindered by Blight take 25% increased Chaos Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlightThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Steel Spirit",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 4% increased Damage each time it Hits."
+      ],
+      "Current": [
+        "With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 5% increased Damage each time it Hits."
+      ]
+    },
+    "mods": [
+      "(6-10)% increased Projectile Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectralThrowModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Sudden Ignition",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Fire Damage ",
+      "With at least 40 Dexterity in Radius, Burning",
+      "Arrow can inflict an additional Ignite on an Enemy"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BurningArrowThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Unending Hunger",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Minions have (5-8)% increased Area of Effect of Area Skills",
+      "With at least 40 Intelligence in Radius, Raised Spectres have a 50% chance to gain Soul Eater for 30 seconds on Kill"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SpectreJewel.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "The Vigil",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Strength in Radius, Vigilant Strike also Fortifies Nearby Allies for 3 seconds."
+      ],
+      "Current": [
+        "With at least 40 Strength in Radius, Vigilant Strike Fortifies you and Nearby Allies for 12 seconds"
+      ]
+    },
+    "mods": [
+      "(8-15)% increased Armour"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/VigilanteModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Violent Dead",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "Minions deal (10-15)% increased Damage ",
+      "With at least 40 Intelligence in Radius, Raised",
+      "Zombies' Slam Attack has 100% increased Cooldown Recovery Speed",
+      "With at least 40 Intelligence in Radius, Raised Zombies' Slam",
+      "Attack deals 30% increased Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RaiseZombieThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Volley Fire",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(6-10)% increased Projectile Damage",
+      "With at least 40 Dexterity in Radius, Barrage fires an additional 2 projectiles simultaneously on the first and final attacks"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BarrageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Weight of the Empire",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(4-12)% increased Physical Damage",
+      "With at least 40 Strength in Radius, Heavy Strike has a 20% chance to deal Double Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/DoubleDamageModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Wildfire",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Fire Damage ",
+      "With at least 40 Strength in Radius, Molten Strike fires 2 additional Projectiles",
+      "With at least 40 Strength in Radius, Molten Strike has 25% increased Area of Effect"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MoltenStrikeThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Winter's Bounty",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 2.6.0": [
+        "With at least 40 Intelligence in Radius, Cold Snap has a 25% chance to grant a Power Charge on Kill"
+      ],
+      "Pre 3.3.0": [
+        "With at least 40 Intelligence in Radius, Cold Snap has a 50% chance to grant a Power Charge on Kill"
+      ],
+      "Current": [
+        "With at least 40 Intelligence in Radius, Cold Snap grants Power Charges instead of Frenzy Charges when Enemies die in it's Area",
+        "With at least 40 Intelligence in Radius, Cold Snap Cooldown can be bypassed by Power Charges instead of Frenzy Charges"
+      ]
+    },
+    "mods": [
+      "(5-15)% increased Cold Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/ColdSnapModifier.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Winter Burial",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(10-15)% increased Cold Damage ",
+      "With at least 40 Strength in Radius, Glacial Hammer deals",
+      "Cold-only Splash Damage to surrounding targets",
+      "With at least 40 Strength in Radius, 25% of Glacial",
+      "Hammer Physical Damage converted to Cold Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GlacialHammerThreshold.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Ancient Waystones",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "60% reduced Mana Cost of Totem Skills that cast an Aura"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Atziri's Reign",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(15-20)% increased Vaal Skill Effect Duration"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Blood Sacrifice",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "1% of maximum Mana gained on Kill",
+      "Removes 1% of maximum Life on Kill",
+      "Removes 1% of maximum Energy Shield on Kill"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Brittle Barrier",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "20% faster start of Energy Shield Recharge",
+      "10% increased Damage Taken while Energy Shield is Full"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Chill of Corruption",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "50% chance to gain an additional Vaal Soul per Enemy Shattered"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Combustibles",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "10% reduced Quantity of Items found",
+      "(20-30)% increased Burning Damage"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Corrupted Energy",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fevered Mind",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(20-30)% increased Spell Damage",
+      "100% increased Mana Cost of Skills"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Fragility",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "−1 Maximum Endurance Charges"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RedCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Hungry Abyss",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt3.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Mutated Growth",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Pacifism",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "−1 Maximum Frenzy Charges"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Powerlessness",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "−1 Maximum Power Charges"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt6.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Sacrificial Harvest",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(20-30)% chance to gain an additional Vaal Soul on Kill"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Self-Flagellation",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "You can have one additional Curse",
+      "(10-20)% increased Damage per Curse on you"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt5.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Vaal Sentencing",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(80-120)% increased Vaal Skill Critical Strike Chance"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/BlueCorrupt1.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Weight of Sin",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "(15-20)% increased Chaos Damage",
+      "15% reduced Movement Speed"
+    ],
+    "corrupted": true,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GreenCorrupt4.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Assassin's Haste",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "10% increased Mana Regeneration Rate",
+      "4% increased Movement Speed",
+      "4% increased Attack and Cast Speed"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Conqueror's Efficiency",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "3% reduced Mana Cost of Skills",
+      "4% increased Skill Effect Duration",
+      "2% reduced Mana Reserved"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Conqueror's Longevity",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "3% chance to Avoid Elemental Status Ailments"
+      ],
+      "Current": [
+        "3% chance to Avoid Elemental Ailments"
+      ]
+    },
+    "mods": [
+      "8% increased Life Recovery from Flasks",
+      "2% chance to Dodge Attacks"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Conqueror's Potency",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "4% increased Effect of your Curses",
+      "8% increased effect of Flasks",
+      "3% increased effect of Non-Curse Auras you Cast"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardBlue.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Poacher's Aim",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {
+      "Pre 3.0.0": [
+        "15% chance of Projectiles Piercing"
+      ],
+      "Current": [
+        "Projectiles Pierce an additional Target"
+      ]
+    },
+    "mods": [
+      "10% increased Projectile Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardGreen.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Survival Instincts",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "+20 to Dexterity",
+      "+6% to all Elemental Resistances"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique2.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Survival Secrets",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "3 Mana Regenerated per second",
+      "10% increased Elemental Damage"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique12.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Survival Skills",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "10% increased Physical Damage",
+      "+50 to Armour"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/unique4.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Warlord's Reach",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "8% increased Attack Damage",
+      "+1 Melee Weapon and Unarmed Range"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardRed.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Emperor's Cunning",
+    "base": "Viridian Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "20% increased Accuracy Rating",
+      "3% increased Character Size",
+      "(4-6)% increased Dexterity"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Cunning.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Emperor's Mastery",
+    "base": "Prismatic Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "4% increased maximum Life",
+      "3% increased Character Size",
+      "5% increased Defences",
+      "(5-7)% increased Attributes"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Mastery.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Emperor's Might",
+    "base": "Crimson Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "10% increased Damage",
+      "3% increased Character Size",
+      "(4-6)% increased Strength"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Might.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  },
+  {
+    "name": "Emperor's Wit",
+    "base": "Cobalt Jewel",
+    "levelReq": 1,
+    "variants": {},
+    "mods": [
+      "30% increased Global Critical Strike Chance",
+      "3% increased Character Size",
+      "(4-6)% increased Intelligence"
+    ],
+    "corrupted": false,
+    "shaper": false,
+    "elder": false,
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Wit.png?scale=1&scaleIndex=0&w=1&h=1",
+    "itemType": "Jewel"
+  }
+]
