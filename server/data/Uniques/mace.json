@@ -22,7 +22,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace5Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace5Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Callinellus Malleus",
@@ -46,7 +47,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/CallinellusMalleus.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/CallinellusMalleus.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Cameria's Maul",
@@ -75,7 +77,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/AmericsMaul.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/AmericsMaul.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Cameria's Avarice",
@@ -94,7 +97,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/AmericsMaul.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/AmericsMaul.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Clayshaper",
@@ -119,7 +123,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/ClayShaper.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/ClayShaper.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Flesh-Eater",
@@ -146,7 +151,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace6Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace6Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Frostbreath",
@@ -178,7 +184,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/FrostBreath.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/FrostBreath.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Gorebreaker",
@@ -202,7 +209,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3Unique.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3Unique.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Lavianga's Wisdom",
@@ -227,7 +235,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3a.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3a.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Mjölner",
@@ -270,7 +279,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Mjolner.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/Mjolner.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     },
     {
       "name": "Nebuloch",
@@ -296,7 +306,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/ElderMace.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/ElderMace.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Mace"
     }
   ],
   "Weapon: Sceptre": [
@@ -317,7 +328,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/ElderSceptre.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/ElderSceptre.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Axiom Perpetuum",
@@ -341,7 +353,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/AxiomPerpetuum.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/AxiomPerpetuum.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Balefire",
@@ -359,7 +372,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Baelfire.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Baelfire.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Bitterdream",
@@ -384,7 +398,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8unique2.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8unique2.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Breath of the Council",
@@ -407,7 +422,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Plaguebringer.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Plaguebringer.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Sceptre"
     },
     {
       "name": "Brutus' Lead Sprinkler",
@@ -441,7 +457,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/TheLeadSprinkler.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/TheLeadSprinkler.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Sceptre"
     },
     {
       "name": "The Dark Seer",
@@ -482,7 +499,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/VoidGaze.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/VoidGaze.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Sceptre"
     },
     {
       "name": "Death's Hand",
@@ -505,7 +523,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/EndOfEra.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/EndOfEra.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Doon Cuebiyari",
@@ -530,7 +549,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/DoonCuebiyari.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/DoonCuebiyari.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Doryani's Catalyst",
@@ -556,7 +576,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/DoryanisCatalyst.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/DoryanisCatalyst.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Mon'tregul's Grasp",
@@ -593,7 +614,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/MontregulsGrasp.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/MontregulsGrasp.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Nycta's Lantern",
@@ -633,7 +655,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Lychnuslyaei.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Lychnuslyaei.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Singularity",
@@ -662,7 +685,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Gloomeye.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Gloomeye.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "Spine of the First Claimant",
@@ -692,7 +716,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Oathkeeper.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Oathkeeper.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     },
     {
       "name": "The Supreme Truth",
@@ -722,7 +747,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Thesupremetruth.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Thesupremetruth.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Sceptre"
     }
   ],
   "Weapon: Two Handed Mace": [
@@ -750,7 +776,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/BrainScrambler.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Chober Chaber",
@@ -781,7 +808,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/ChoberChaber.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/ChoberChaber.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Geofri's Baptism",
@@ -804,7 +832,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Geofri's Devotion",
@@ -823,7 +852,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Hrimnor's Hymn",
@@ -847,7 +877,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Hrimnor's Dirge",
@@ -873,7 +904,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Jorrhast's Blacksteel",
@@ -898,7 +930,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/JorrhastsBlacksteel.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/JorrhastsBlacksteel.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Kongor's Undying Rage",
@@ -931,7 +964,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/KongorsUndyingRage.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/KongorsUndyingRage.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Marohi Erqi",
@@ -957,7 +991,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace2unique2.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace2unique2.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Quecholli",
@@ -981,7 +1016,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Panquetzaliztli",
@@ -999,7 +1035,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Tidebreaker",
@@ -1017,7 +1054,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Tidebreaker.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Tidebreaker.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Trypanon",
@@ -1038,7 +1076,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Trypanon.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Trypanon.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     },
     {
       "name": "Voidhome",
@@ -1064,7 +1103,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Voidhome.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/Voidhome.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Mace"
     }
   ]
 }

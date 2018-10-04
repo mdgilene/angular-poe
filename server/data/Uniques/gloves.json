@@ -24,7 +24,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AtzirisAcuity.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AtzirisAcuity.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Craiceann's Pincers",
@@ -42,7 +43,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/CrabUniqueGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/CrabUniqueGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Doryani's Fist",
@@ -64,7 +66,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DoryanisFist.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DoryanisFist.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Empire's Grasp",
@@ -79,7 +82,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hither.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hither.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Giantsbane",
@@ -95,7 +99,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Deathforge.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Deathforge.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Lochtonial Caress",
@@ -119,7 +124,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/LochtonialCaress.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/LochtonialCaress.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Meginord's Vise",
@@ -142,7 +148,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr5.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr5.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Veruso's Battering Rams",
@@ -160,7 +167,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/VerusosBatteringRams.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/VerusosBatteringRams.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Winds of Change",
@@ -183,7 +191,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr6.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr6.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     }
   ],
   "Gloves: Evasion": [
@@ -200,7 +209,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ElderGloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ElderGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Hrimsorrow",
@@ -226,7 +236,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hrimsorrow.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hrimsorrow.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Hrimburn",
@@ -253,7 +264,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hrimsorrow.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hrimsorrow.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Maligaro's Virtuosity",
@@ -279,7 +291,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/MaligarosVirtousity.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/MaligarosVirtousity.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Oskarm",
@@ -297,7 +310,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ZenoGloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ZenoGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     }
   ],
   "Gloves: Energy Shield": [
@@ -317,7 +331,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/EmbalmersGloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/EmbalmersGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Asenath's Gentle Touch",
@@ -339,7 +354,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AsenathsGentleTouch.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AsenathsGentleTouch.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Doedre's Tenure",
@@ -363,7 +379,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DoedresTenure.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DoedresTenure.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Doedre's Malevolence",
@@ -381,7 +398,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DoedresTenure.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DoedresTenure.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Grip of the Council",
@@ -399,7 +417,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3Unique2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3Unique2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Kalisa's Grace",
@@ -416,7 +435,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/KalisasGrace.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/KalisasGrace.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Sadima's Touch",
@@ -438,7 +458,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SadimasTouch.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SadimasTouch.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Voidbringer",
@@ -466,7 +487,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hellbringer.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Hellbringer.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     }
   ],
   "Gloves: Armour/Evasion": [
@@ -484,7 +506,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Aurseize.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Aurseize.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Farrul's Pounce",
@@ -502,7 +525,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/TigerGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/TigerGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Flesh and Spirit",
@@ -520,7 +544,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/FleshAndSpirit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/FleshAndSpirit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Haemophilia",
@@ -539,7 +564,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/bleedgloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/bleedgloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Slitherpinch",
@@ -562,7 +588,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Slitherpinch.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Slitherpinch.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Surgebinders",
@@ -584,7 +611,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SurgeBinders.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SurgeBinders.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Tombfist",
@@ -607,7 +635,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AbyssGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AbyssGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Vaal Caress",
@@ -631,7 +660,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/VaalCaress.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/VaalCaress.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Wyrmsign",
@@ -649,7 +679,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/WyrmsignGloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/WyrmsignGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     }
   ],
   "Gloves: Armour/Energy Shield": [
@@ -670,7 +701,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/NullAndVoid.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/NullAndVoid.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Repentance",
@@ -687,7 +719,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Repentance.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Repentance.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Saqawal's Winds",
@@ -705,7 +738,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AvianGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AvianGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Shackles of the Wretched",
@@ -730,7 +764,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RecallingtheWretched.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RecallingtheWretched.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Shaper's Touch",
@@ -759,7 +794,8 @@
       "corrupted": false,
       "shaper": true,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ShapersGloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ShapersGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Southbound",
@@ -781,7 +817,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Northbound.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Northbound.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Volkuur's Guidance",
@@ -814,7 +851,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/PaleCouncilGloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/PaleCouncilGloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     }
   ],
   "Gloves: Evasion/Energy Shield": [
@@ -833,7 +871,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Allelopathy.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/Allelopathy.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Facebreaker",
@@ -868,7 +907,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexIntUnique1.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexIntUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Fenumus' Weave",
@@ -886,7 +926,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiderArmour Gloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiderArmour Gloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Ondar's Clasp",
@@ -909,7 +950,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/OndarsClasp.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/OndarsClasp.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Malachai's Mark",
@@ -926,7 +968,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/MalachaisMark.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/MalachaisMark.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Shadows and Dust",
@@ -954,7 +997,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ShadowsAndDust.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ShadowsAndDust.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Gloves"
     },
     {
       "name": "Snakebite",
@@ -978,7 +1022,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/frenzygloves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/frenzygloves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     },
     {
       "name": "Thunderfist",
@@ -1007,7 +1052,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/thunderclaw.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/thunderclaw.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Gloves"
     }
   ]
 }

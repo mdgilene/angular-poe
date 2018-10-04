@@ -18,7 +18,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/AhnsMight.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/AhnsMight.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Beltimber Blade",
@@ -36,7 +37,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/VerdantGuardianSword2.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/VerdantGuardianSword2.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Dreamfeather",
@@ -66,7 +68,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Dreamfeather.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Dreamfeather.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Ephemeral Edge",
@@ -96,7 +99,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword8Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword8Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "The Goddess Scorned",
@@ -129,7 +133,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessscorned.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessscorned.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "The Goddess Unleashed",
@@ -157,7 +162,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "http://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Grelwood Shank",
@@ -176,7 +182,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/VerdantGuardianSword1.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/VerdantGuardianSword1.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Hyaon's Fury",
@@ -217,7 +224,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HyaonsFury.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HyaonsFury.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Ichimonji",
@@ -245,7 +253,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/BladeOfVastri.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/BladeOfVastri.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Innsbury Edge",
@@ -269,7 +278,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/ElderSword.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/ElderSword.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Lakishu's Blade",
@@ -294,7 +304,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword5Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword5Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Oni-Goroshi",
@@ -312,7 +323,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "The Princess",
@@ -338,7 +350,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword3Unique.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword3Unique.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Prismatic Eclipse",
@@ -368,7 +381,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/PrismaticEclipse.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/PrismaticEclipse.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Razor of the Seventh Sun",
@@ -391,7 +405,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/RazorOfTheSeventhSun.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/RazorOfTheSeventhSun.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Rebuke of the Vaal",
@@ -416,7 +431,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword7Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword7Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Redbeak",
@@ -441,7 +457,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword1Unique.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword1Unique.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Dreadbeak",
@@ -461,7 +478,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword1Unique.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword1Unique.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Rigwald's Command",
@@ -485,7 +503,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/RigwarlSword.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/RigwarlSword.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "The Rippling Thoughts",
@@ -505,7 +524,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HarbingerLeagueSword.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HarbingerLeagueSword.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Scaeva",
@@ -532,7 +552,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Scaeva.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Scaeva.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Severed in Sleep",
@@ -561,7 +582,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep1.png?scale=1&scaleIndex=0&w=1&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep1.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "United in Dream",
@@ -590,7 +612,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep2.png?scale=1&scaleIndex=0&w=1&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep2.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "The Tempestuous Steel",
@@ -615,7 +638,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TempestuousSteel.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TempestuousSteel.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "One Hand Sword"
     },
     {
       "name": "Varunastra",
@@ -638,7 +662,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Varunastra.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Varunastra.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "One Hand Sword"
     }
   ],
   "Weapon: Thrusting Sword": [
@@ -666,7 +691,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Aurumvorax.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Aurumvorax.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     },
     {
       "name": "Chitus' Needle",
@@ -694,7 +720,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/UniqueRapier1.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/UniqueRapier1.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     },
     {
       "name": "Cospri's Malice",
@@ -720,7 +747,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/CosprisMalice.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/CosprisMalice.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     },
     {
       "name": "Daresso's Passion",
@@ -744,7 +772,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Daressos.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Daressos.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     },
     {
       "name": "Ewar's Mirage",
@@ -773,7 +802,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/EwarsMirage.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/EwarsMirage.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     },
     {
       "name": "Fidelitas' Spike",
@@ -803,7 +833,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/FidelitasSpike.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/FidelitasSpike.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     },
     {
       "name": "The Goddess Bound",
@@ -834,7 +865,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/UniqueRapier6.png?scale=1&scaleIndex=0&w=1&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/UniqueRapier6.png?scale=1&scaleIndex=0&w=1&h=4",
+      "itemType": "Thrusting One Hand Sword"
     }
   ],
   "Weapon: Two Handed Sword": [
@@ -862,7 +894,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Rhysblade.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Rhysblade.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "The Dancing Duo",
@@ -883,7 +916,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Rhysblade.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Rhysblade.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Doomsower",
@@ -912,7 +946,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/DoomSower.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/DoomSower.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Edge of Madness",
@@ -938,7 +973,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/EdgeOfMadness.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/EdgeOfMadness.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Hiltless",
@@ -962,7 +998,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Hiltless.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Hiltless.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Kondo's Pride",
@@ -992,7 +1029,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/KondosPride.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/KondosPride.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Oro's Sacrifice",
@@ -1020,7 +1058,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/OrosSacrifice.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/OrosSacrifice.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Queen's Decree",
@@ -1051,7 +1090,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique3.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique3.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Queen's Escape",
@@ -1083,7 +1123,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique3.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique3.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Rigwald's Charge",
@@ -1106,7 +1147,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword5Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword5Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Shiversting",
@@ -1129,7 +1171,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword6Unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword6Unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Starforge",
@@ -1148,7 +1191,8 @@
       "corrupted": false,
       "shaper": true,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Starforge.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Starforge.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Terminus Est",
@@ -1174,7 +1218,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique2.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSwordUnique2.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     },
     {
       "name": "Voidforge",
@@ -1196,7 +1241,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Starforge.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/Starforge.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Two Hand Sword"
     }
   ]
 }

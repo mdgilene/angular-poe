@@ -23,7 +23,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Turncoatsfortune.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Turncoatsfortune.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+      "itemType": "Belt"
     },
     {
       "name": "Auxium",
@@ -43,7 +44,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Auxium.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Auxium.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Auxium",
@@ -67,7 +69,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Auxium.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Auxium.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Bated Breath",
@@ -89,7 +92,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BatedBreath.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BatedBreath.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Belt of the Deceiver",
@@ -114,7 +118,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BeltOfTheDeciever.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BeltOfTheDeciever.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Bisco's Leash",
@@ -131,7 +136,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BiscosLeash.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BiscosLeash.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Cyclopean Coil",
@@ -150,7 +156,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/ElderBelt.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/ElderBelt.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Darkness Enthroned",
@@ -165,7 +172,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/DarknessEnthroned.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/DarknessEnthroned.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+      "itemType": "Belt"
     },
     {
       "name": "Doryani's Invitation",
@@ -211,7 +219,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/DoryanisInvitation.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/DoryanisInvitation.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Dyadian Dawn",
@@ -237,7 +246,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/MotherDyadus.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/MotherDyadus.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Faminebind",
@@ -255,7 +265,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Faminebind.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Faminebind.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+      "itemType": "Belt"
     },
     {
       "name": "Feastbind",
@@ -273,7 +284,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Feastbind.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Feastbind.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+      "itemType": "Belt"
     },
     {
       "name": "The Flow Untethered",
@@ -292,7 +304,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/HarbingerBelt.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/HarbingerBelt.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Gluttony",
@@ -310,7 +323,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Gluttony.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Gluttony.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Headhunter",
@@ -334,7 +348,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Headhunter.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Headhunter.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+      "itemType": "Belt"
     },
     {
       "name": "Immortal Flesh",
@@ -363,7 +378,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/ImmortalFlesh.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/ImmortalFlesh.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "The Magnate",
@@ -384,7 +400,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "The Nomad",
@@ -402,7 +419,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "The Tactician",
@@ -421,7 +439,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Maligaro's Restraint",
@@ -439,7 +458,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/MaligarosRestraint.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/MaligarosRestraint.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Meginord's Girdle",
@@ -463,7 +483,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt7Unique.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt7Unique.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Perandus Blazon",
@@ -487,7 +508,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique2.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/BuckledBeltUnique2.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Perseverance",
@@ -505,7 +527,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Perserverance.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Perserverance.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Prismweave",
@@ -541,7 +564,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Prismweave.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Prismweave.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "The Retch",
@@ -561,7 +585,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/TheRetch.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/TheRetch.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Ryslatha's Coil",
@@ -579,7 +604,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/RyuslathasClutches.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/RyuslathasClutches.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Soul Tether",
@@ -599,7 +625,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/SoulTether.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/SoulTether.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Soulthirst",
@@ -618,7 +645,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Soulthirst.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Soulthirst.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Sunblast",
@@ -637,7 +665,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt8.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt8.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     },
     {
       "name": "Umbilicus Immortalis",
@@ -654,7 +683,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/UmbilicusImmortalis.png?scale=1&scaleIndex=0&w=2&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/UmbilicusImmortalis.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+      "itemType": "Belt"
     },
     {
       "name": "Wurm's Molt",
@@ -672,7 +702,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6Unique.png?scale=1&scaleIndex=0&w=2&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6Unique.png?scale=1&scaleIndex=0&w=2&h=1",
+      "itemType": "Belt"
     }
   ]
 }

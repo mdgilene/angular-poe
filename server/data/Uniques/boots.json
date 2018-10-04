@@ -16,7 +16,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrabUniqueBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrabUniqueBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "The Infinite Pursuit",
@@ -33,7 +34,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "The Red Trail",
@@ -53,7 +55,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TheInfinitePursuit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TheInfinitePursuit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Kaom's Roots",
@@ -76,7 +79,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/KaomsRoots.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/KaomsRoots.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Redblade Tramplers",
@@ -101,7 +105,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Rumblestep.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Rumblestep.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Stormcharger",
@@ -118,7 +123,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Stormcharger.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Stormcharger.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Windscream",
@@ -142,7 +148,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Windshriek",
@@ -160,7 +167,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Windscream.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     }
   ],
   "Boots: Evasion": [
@@ -181,7 +189,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbberathsHooves.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbberathsHooves.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Atziri's Step",
@@ -197,7 +206,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AtzirisStep.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AtzirisStep.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "The Blood Dance",
@@ -232,7 +242,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GoreFrenzy.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GoreFrenzy.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Deerstalker",
@@ -256,7 +267,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Farrul's Chase",
@@ -274,7 +286,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TigerBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TigerBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Goldwyrm",
@@ -296,7 +309,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique2.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Garukhan's Flight",
@@ -314,7 +328,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Seven-League Step",
@@ -327,7 +342,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Three-step Assault",
@@ -353,7 +369,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ThreeStepAssault.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ThreeStepAssault.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Victario's Flight",
@@ -377,7 +394,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexIntUnique2.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexIntUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     }
   ],
   "Boots: Energy Shield": [
@@ -397,7 +415,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/bootunique.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/bootunique.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Inya's Epiphany",
@@ -415,7 +434,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/PaleCouncilBoots.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/PaleCouncilBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Rainbowstride",
@@ -469,7 +489,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/rainbowstride.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/rainbowstride.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Shavronne's Pace",
@@ -500,7 +521,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Shavronne's Gambit",
@@ -526,7 +548,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/ShavronnesPace.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Skyforth",
@@ -544,7 +567,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Skyforth.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Skyforth.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Steppan Eard",
@@ -569,7 +593,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Assedaisfervor.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Assedaisfervor.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Wanderlust",
@@ -586,7 +611,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wanderlust.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wanderlust.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Wondertrap",
@@ -610,7 +636,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Greedtrap",
@@ -628,7 +655,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Wondertrap.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     }
   ],
   "Boots: Armour/Evasion": [
@@ -655,7 +683,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DarkrayVectors.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DarkrayVectors.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Dusktoe",
@@ -681,7 +710,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Dusktoe",
@@ -702,7 +732,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Duskblight",
@@ -721,7 +752,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Lioneye's Paws",
@@ -740,7 +772,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/LioneyesPaws.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/LioneyesPaws.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Mutewind Whispersteps",
@@ -766,7 +799,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Targemtabi.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Targemtabi.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Saqawal's Talons",
@@ -784,7 +818,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AvianBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AvianBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     }
   ],
   "Boots: Armour/Energy Shield": [
@@ -810,7 +845,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Alberonswarpath.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Alberonswarpath.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Death's Door",
@@ -829,7 +865,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Deathsdoor.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Deathsdoor.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Gang's Momentum",
@@ -853,7 +890,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GangsBoots.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/GangsBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Ralakesh's Impatience",
@@ -870,7 +908,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RalakeshsImpatience.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RalakeshsImpatience.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Wake of Destruction",
@@ -891,7 +930,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/WakeOfDestruction.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/WakeOfDestruction.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     }
   ],
   "Boots: Evasion/Energy Shield": [
@@ -922,7 +962,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Reefscourge.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Reefscourge.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Bubonic Trail",
@@ -945,7 +986,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbyssBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbyssBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Boots"
     },
     {
       "name": "Fenumus' Spinnerets",
@@ -964,7 +1006,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiderArmourBoots.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiderArmourBoots.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Nomic's Storm",
@@ -992,7 +1035,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/NomicsStorm.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/NomicsStorm.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Sin Trek",
@@ -1019,7 +1063,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SinTrek.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SinTrek.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Sundance",
@@ -1042,7 +1087,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Sunspite",
@@ -1062,7 +1108,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Sundance.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     },
     {
       "name": "Voidwalker",
@@ -1089,7 +1136,8 @@
       "corrupted": false,
       "shaper": true,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrossingTheVoid.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrossingTheVoid.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Boots"
     }
   ]
 }

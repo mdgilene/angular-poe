@@ -24,7 +24,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Abyssus.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Abyssus.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Baron",
@@ -42,7 +43,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheBaron.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheBaron.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Ezomyte Peak",
@@ -58,7 +60,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/EzomytePeak.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/EzomytePeak.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Ezomyte Hold",
@@ -75,7 +78,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/EzomytePeak.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/EzomytePeak.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Formless Flame",
@@ -91,7 +95,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlames.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlames.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "The Formless Inferno",
@@ -108,7 +113,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlamesUPGRADE.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlamesUPGRADE.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Hrimnor's Resolve",
@@ -142,7 +148,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HrimnorsResolve.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HrimnorsResolve.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     }
   ],
   "Helmet: Evasion": [
@@ -162,7 +169,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Wolfhead.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Wolfhead.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Fairgraves' Tricorne",
@@ -180,7 +188,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FairgravesTricorne.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FairgravesTricorne.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Goldrim",
@@ -196,7 +205,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexUnique2.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexUnique2.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Heatshiver",
@@ -223,7 +233,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Heatshiver.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Heatshiver.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Frostferno",
@@ -241,7 +252,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Heatshiver.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Heatshiver.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Obscurantis",
@@ -257,7 +269,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Obscurantis.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Obscurantis.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Rat's Nest",
@@ -275,7 +288,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/RatsNest.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/RatsNest.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Saqawal's Flock",
@@ -292,7 +306,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AvianHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AvianHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Starkonja's Head",
@@ -318,7 +333,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Furryheadofstarkonja.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Furryheadofstarkonja.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     }
   ],
   "Helmet: Energy Shield": [
@@ -344,7 +360,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HyrrisMark.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HyrrisMark.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Asenath's Chant",
@@ -363,7 +380,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HyrrisMark.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HyrrisMark.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Chitus' Apex",
@@ -380,7 +398,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ChitusApex.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ChitusApex.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Crown of Eyes",
@@ -398,7 +417,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofEyes.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofEyes.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Crown of Thorns",
@@ -420,7 +440,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Martyr's Crown",
@@ -442,7 +463,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofThorns.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Doedre's Scorn",
@@ -472,7 +494,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/DoedresScorn.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/DoedresScorn.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Eber's Unification",
@@ -489,7 +512,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PaleCouncilHelmet.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PaleCouncilHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Fenumus' Toxins",
@@ -507,7 +531,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiderArmourHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiderArmourHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Indigon",
@@ -525,7 +550,8 @@
       "corrupted": false,
       "shaper": true,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/UberElderHelmet.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/UberElderHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Mark of the Red Covenant",
@@ -543,7 +569,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PhantasmlaFlame.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PhantasmlaFlame.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Rime Gaze",
@@ -568,7 +595,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexIntUnique1.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexIntUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Scold's Bridle",
@@ -584,7 +612,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ScoldsBridle.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ScoldsBridle.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Wraithlord",
@@ -600,7 +629,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Wraithlord.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Wraithlord.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Ylfeban's Trickery",
@@ -624,7 +654,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Ylfeban.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Ylfeban.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     }
   ],
   "Helmet: Armour/Evasion": [
@@ -644,7 +675,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Blacksuncrest.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Blacksuncrest.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Bringer of Rain",
@@ -683,7 +715,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheBringerofRain.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheBringerofRain.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Deidbell",
@@ -705,7 +738,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Deidbellow",
@@ -729,7 +763,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Deidbell.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Devoto's Devotion",
@@ -748,7 +783,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex2unique.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex2unique.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Peregrine",
@@ -773,7 +809,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThePeregrine.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThePeregrine.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Skullhead",
@@ -796,7 +833,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Skullhead.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Skullhead.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     }
   ],
   "Helmet: Armour/Energy Shield": [
@@ -816,7 +854,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AhnsContempt.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AhnsContempt.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Brine Crown",
@@ -835,7 +874,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheBrineCrown.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheBrineCrown.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Broken Crown",
@@ -863,7 +903,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/BrokenCrown.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/BrokenCrown.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Craiceann's Chitin",
@@ -887,7 +928,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrabUniqueHelmet.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrabUniqueHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Geofri's Crest",
@@ -905,7 +947,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/GeofrisCrest.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/GeofrisCrest.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Honourhome",
@@ -922,7 +965,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Honourhome.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Honourhome.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Kitava's Thirst",
@@ -939,7 +983,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/KitavasThirst.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/KitavasThirst.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Lightpoacher",
@@ -963,7 +1008,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AbyssHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AbyssHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Malachai's Vision",
@@ -985,7 +1031,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisVision.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "http://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisVision.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Memory Vault",
@@ -1003,7 +1050,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ElderGuardian.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ElderGuardian.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Mindspiral",
@@ -1028,7 +1076,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Mindspiral.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Mindspiral.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Speaker's Wreath",
@@ -1045,7 +1094,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MinionHelmet.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MinionHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Veil of the Night",
@@ -1062,7 +1112,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/VeilOfTheNight.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/VeilOfTheNight.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Voll's Vision",
@@ -1078,7 +1129,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/VollsVision.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/VollsVision.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     }
   ],
   "Helmet: Evasion/Energy Shield": [
@@ -1101,7 +1153,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofthePaleKing.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofthePaleKing.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Farrul's Bite",
@@ -1119,7 +1172,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TigerHelmet.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TigerHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Gorgon's Gaze",
@@ -1137,7 +1191,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PillarsOfArun.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/PillarsOfArun.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Gull",
@@ -1170,7 +1225,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheGull.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheGull.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "Heretic's Veil",
@@ -1198,7 +1254,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FaceOfDivinity.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FaceOfDivinity.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Leer Cast",
@@ -1215,7 +1272,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt9x.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt9x.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Malachai's Simula",
@@ -1240,7 +1298,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisSimula.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisSimula.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Malachai's Awakening",
@@ -1259,7 +1318,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisSimula.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisSimula.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "Mind of the Council",
@@ -1277,7 +1337,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThunderingWhispers.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThunderingWhispers.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "The Tempest's Binding",
@@ -1296,7 +1357,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ChillShockHarbingerMask.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ChillShockHarbingerMask.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Helmet"
     },
     {
       "name": "The Three Dragons",
@@ -1312,7 +1374,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThreeDragons.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThreeDragons.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     },
     {
       "name": "The Vertex",
@@ -1332,7 +1395,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheVertex.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheVertex.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Helmet"
     }
   ]
 }

@@ -22,7 +22,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wychverge.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wychverge.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Apep's Rage",
@@ -45,7 +46,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ApepsRage.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ApepsRage.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Ashcaller",
@@ -63,7 +65,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Ashwaker.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Ashwaker.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Eclipse Solaris",
@@ -92,7 +95,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Corona Solaris",
@@ -112,7 +116,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique1.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Lifesprig",
@@ -131,7 +136,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/LifeSprig.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Midnight Bargain",
@@ -163,7 +169,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique3.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique3.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Moonsorrow",
@@ -201,7 +208,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique2.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/WandUnique2.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Obliteration",
@@ -225,7 +233,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Maledict.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Maledict.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Piscator's Vigil",
@@ -253,7 +262,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PiscatorsVigil.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PiscatorsVigil.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "The Poet's Pen",
@@ -270,7 +280,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PoetsPen.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/PoetsPen.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Reverberation Rod",
@@ -292,7 +303,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Amplification Rod",
@@ -310,7 +322,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ReverberationRod.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Shade of Solaris",
@@ -326,7 +339,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/SolarisWand.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/SolarisWand.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Shimmeron",
@@ -352,7 +366,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ElderWand.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ElderWand.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Storm Prison",
@@ -376,7 +391,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/StormPrison.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/StormPrison.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Tulborn",
@@ -393,7 +409,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Tulborn.png?scale=1&scaleIndex=0&w=1&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Tulborn.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+      "itemType": "Wand"
     },
     {
       "name": "Tulfall",
@@ -412,7 +429,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/TulbornUpgraded.png?scale=1&scaleIndex=0&w=1&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/TulbornUpgraded.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+      "itemType": "Wand"
     },
     {
       "name": "Twyzel",
@@ -436,7 +454,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1Unique.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1Unique.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     },
     {
       "name": "Void Battery",
@@ -463,7 +482,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/VoidBattery.png?scale=1&scaleIndex=0&w=1&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/VoidBattery.png?scale=1&scaleIndex=0&w=1&h=3",
+      "itemType": "Wand"
     }
   ]
 }

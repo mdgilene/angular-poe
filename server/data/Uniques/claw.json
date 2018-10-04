@@ -24,7 +24,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Clawshield3.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Clawshield3.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Al Dhih",
@@ -57,7 +58,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Aldhih.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Aldhih.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Allure",
@@ -82,7 +84,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Allure.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Allure.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Bloodseeker",
@@ -108,7 +111,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Bloodseeker.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Bloodseeker.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Cybil's Paw",
@@ -136,7 +140,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/CybilsClaw.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/CybilsClaw.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Essentia Sanguis",
@@ -170,7 +175,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5Unique2.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5Unique2.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Essentia Sanguis",
@@ -195,7 +201,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5Unique2.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5Unique2.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Hand of Thought and Motion",
@@ -225,7 +232,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion1.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion1.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Claw"
     },
     {
       "name": "Hand of Wisdom and Action",
@@ -256,7 +264,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Claw"
     },
     {
       "name": "Izaro's Dilemma",
@@ -280,7 +289,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Edgeoftheempire.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Edgeoftheempire.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Last Resort",
@@ -298,7 +308,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/NerasLastResort.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/NerasLastResort.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Mortem Morsu",
@@ -336,7 +347,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8unique.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8unique.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Ornament of the East",
@@ -366,7 +378,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/OrnamentOfTheEast.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/OrnamentOfTheEast.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Rive",
@@ -391,7 +404,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/BleedClaw.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/BleedClaw.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "The Scourge",
@@ -410,7 +424,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/TheScourge.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/TheScourge.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Touch of Anguish",
@@ -436,7 +451,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/TouchOfAnguish.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/TouchOfAnguish.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "The Wasp Nest",
@@ -456,7 +472,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Leviathanivory.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Leviathanivory.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     },
     {
       "name": "Wildslash",
@@ -484,7 +501,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Wildslash.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Wildslash.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Claw"
     }
   ]
 }

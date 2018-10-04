@@ -1,17 +1,67 @@
-import { Component, OnInit, Input } from '@angular/core';
-import { ItemService, ItemFilter } from '../../services/item.service';
-import { Item, ArmourType } from '../../models/item';
-import { BsModalRef } from 'ngx-bootstrap/modal';
+import { Component, OnInit, Input } from "@angular/core";
+import { ItemService } from "../../services/item.service";
+import { BsModalRef } from "ngx-bootstrap/modal";
 
-import { default as itemRestrictions } from '../../resources/item-restrictions.json';
-import { Slot } from '../../models/build';
+import { default as itemRestrictions } from "../../resources/item-restrictions.json";
+
+import { Item, ItemType } from "../../models/ItemNew";
+import { Observable } from "rxjs";
+import { UniqueItemData, ItemFilter } from "../../models/UniqueItemData";
 
 @Component({
-  selector: 'exilebuilds-item-browser',
-  templateUrl: './item-browser.component.html',
-  styleUrls: ['./item-browser.component.css']
+  selector: "exilebuilds-item-browser",
+  templateUrl: "./item-browser.component.html",
+  styleUrls: ["./item-browser.component.css"]
 })
 export class ItemBrowserComponent implements OnInit {
+  _filter: ItemFilter = {};
+  _search: string = "";
+
+  ItemType = ItemType;
+
+  uniqueItems: UniqueItemData;
+
+  displayItems: Item[] = [];
+
+  constructor(private modalRef: BsModalRef, private itemService: ItemService) {}
+
+  ngOnInit() {
+    this.itemService.getUniques().subscribe(data => {
+      this.uniqueItems = new UniqueItemData(data);
+      console.log(this.uniqueItems);
+      this.filter = { type: ItemType.ONEHANDAXE, name: this.search };
+    });
+  }
+
+  setSelected() {}
+
+  filterItems() {
+    this.displayItems = this.uniqueItems.filter({
+      ...this.filter,
+      name: this.search
+    });
+  }
+
+  set search(search: string) {
+    this._search = search;
+    this.filterItems();
+  }
+
+  get search() {
+    return this._search;
+  }
+
+  set filter(filter: ItemFilter) {
+    this._filter = filter;
+    this.filterItems();
+  }
+
+  get filter() {
+    return this._filter;
+  }
+
+  //#region
+  /*
   @Input()
   slot;
   @Input()
@@ -26,6 +76,7 @@ export class ItemBrowserComponent implements OnInit {
 
   constructor(private modalRef: BsModalRef, private itemService: ItemService) {}
 
+
   ngOnInit() {
     const validTypes: string[] = [];
     Object.keys(itemRestrictions).forEach(itemType => {
@@ -38,7 +89,7 @@ export class ItemBrowserComponent implements OnInit {
       type: validTypes
     });
 
-    this.getFilteredItems().subscribe(items => (this.items = items));
+    //this.getFilteredItems().subscribe(items => (this.items = items));
   }
 
   setSelected(item: Item) {
@@ -91,6 +142,8 @@ export class ItemBrowserComponent implements OnInit {
   }
 
   getFilteredItems() {
-    return this.itemService.getFilteredItems(this.filter);
+    //return this.itemService.getFilteredItems(this.filter);
   }
+  */
+  //#endregion
 }

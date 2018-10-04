@@ -22,7 +22,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/AhnsHeritage.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/AhnsHeritage.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "The Anticipation",
@@ -44,7 +45,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing1.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing1.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "The Surrender",
@@ -67,7 +69,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing2.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing2.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "Chernobog's Pillar",
@@ -101,7 +104,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chernobogspillar.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chernobogspillar.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "Lioneye's Remorse",
@@ -129,7 +133,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique6.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique6.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "Lycosidae",
@@ -151,7 +156,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lycosidae.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lycosidae.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "Magna Eclipsis",
@@ -169,7 +175,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MagnisEclipsis.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MagnisEclipsis.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "Redblade Banner",
@@ -202,7 +209,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/RedbladeBanner.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/RedbladeBanner.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Titucius' Span",
@@ -229,7 +237,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique7.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique7.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     },
     {
       "name": "Trolltimber Spire",
@@ -257,7 +266,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique3.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique3.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Tukohama's Fortress",
@@ -279,7 +289,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TukohamasFortress.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TukohamasFortress.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Shield"
     }
   ],
   "Shield: Evasion": [
@@ -311,7 +322,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Atziri's Reflection",
@@ -331,7 +343,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5Unique.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Chalice of Horrors",
@@ -359,7 +372,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Thirst for Horrors",
@@ -388,7 +402,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chaliceofhorrors.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Crest of Perandus",
@@ -415,7 +430,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique5.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique5.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Great Old One's Ward",
@@ -436,7 +452,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/GreatOldOnesWard.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/GreatOldOnesWard.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Kaltenhalt",
@@ -468,7 +485,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Kaltensoul",
@@ -495,7 +513,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique6.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Mutewind Pennant",
@@ -526,7 +545,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MutewindPennant.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MutewindPennant.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Thousand Teeth Temu",
@@ -552,7 +572,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexUnique1.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     }
   ],
   "Shield: Energy Shield": [
@@ -587,7 +608,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BrinerotFlag.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BrinerotFlag.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Esh's Mirror",
@@ -605,7 +627,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirror.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirror.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Esh's Visage",
@@ -630,7 +653,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirrorUpgraded.png?scale=1&scaleIndex=0&w=2&h=2&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirrorUpgraded.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Kongming's Stratagem",
@@ -656,7 +680,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/KongmingsStratagem.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/KongmingsStratagem.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Light of Lunaris",
@@ -680,7 +705,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lunaris.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Lunaris.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Malachai's Loop",
@@ -710,7 +736,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MalachaiLoop.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MalachaiLoop.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Matua Tupuna",
@@ -735,7 +762,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Matuatupuna.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Matuatupuna.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Rathpith Globe",
@@ -761,7 +789,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6unique.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6unique.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Sentari's Answer",
@@ -789,7 +818,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantarisAnswer.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantarisAnswer.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     }
   ],
   "Shield: Armour/Evasion": [
@@ -832,7 +862,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique1.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique1.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "The Deep One's Hide",
@@ -856,7 +887,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chitinhull.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Chitinhull.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Vix Lunaris",
@@ -873,7 +905,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique4.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDexUnique4.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Wheel of the Stormsail",
@@ -891,7 +924,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Wheelofthestormsail.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Wheelofthestormsail.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     }
   ],
   "Shield: Armour/Energy Shield": [
@@ -922,7 +956,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique7unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique7unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Broken Faith",
@@ -948,7 +983,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantonisFaith.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantonisFaith.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Invictus Solaris",
@@ -966,7 +1002,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Invictus.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Invictus.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Prism Guardian",
@@ -995,7 +1032,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TheCorundum.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/TheCorundum.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Rise of the Phoenix",
@@ -1029,7 +1067,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Riseofthephoenix.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Riseofthephoenix.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Saffell's Frame",
@@ -1065,7 +1104,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique6.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique6.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "Springleaf",
@@ -1098,7 +1138,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "The Oak",
@@ -1123,7 +1164,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrIntUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     },
     {
       "name": "The Unshattered Will",
@@ -1142,7 +1184,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Channeling Shield.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Channeling Shield.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Shield"
     },
     {
       "name": "Victario's Charity",
@@ -1167,7 +1210,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/VictarosCharity.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/VictarosCharity.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Shield"
     }
   ],
   "Shield: Evasion/Energy Shield": [
@@ -1194,7 +1238,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Glitterdisk.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Glitterdisk.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Jaws of Agony",
@@ -1224,7 +1269,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BearTrapShield2.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BearTrapShield2.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Leper's Alms",
@@ -1242,7 +1288,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/LepersAlms.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/LepersAlms.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     },
     {
       "name": "Maligaro's Lens",
@@ -1268,7 +1315,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MaligarosLens.png?scale=1&scaleIndex=0&w=2&h=2"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MaligarosLens.png?scale=1&scaleIndex=0&w=2&h=2",
+      "itemType": "Shield"
     }
   ]
 }

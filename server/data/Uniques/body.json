@@ -14,7 +14,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Bramblejack.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Bramblejack.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Wall of Brambles",
@@ -31,7 +32,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Bramblejack.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Bramblejack.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Brass Dome",
@@ -48,7 +50,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DomeOfBrass.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DomeOfBrass.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Craiceann's Carapace",
@@ -66,7 +69,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CrabUnique.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CrabUnique.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Body Armour"
     },
     {
       "name": "Death's Oath",
@@ -100,7 +104,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Deathsoath.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Deathsoath.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Greed's Embrace",
@@ -119,7 +124,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/GreedsEmbrace.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/GreedsEmbrace.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Kaom's Heart",
@@ -140,7 +146,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr3CUnique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr3CUnique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Lioneye's Vision",
@@ -163,7 +170,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/LioneyesArmour.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/LioneyesArmour.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Iron Heart",
@@ -180,7 +188,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/IronHeart Final.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/IronHeart Final.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Solaris Lorica",
@@ -204,7 +213,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/tornfleshofgods.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/tornfleshofgods.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ],
   "Body: Evasion": [
@@ -229,7 +239,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Ashrend.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Ashrend.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Briskwrap",
@@ -258,7 +269,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Briskwrap.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Briskwrap.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Wildwrap",
@@ -277,7 +289,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Briskwrap.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Briskwrap.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Bronn's Lithe",
@@ -302,7 +315,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Bronnslithe.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Bronnslithe.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Cospri's Will",
@@ -326,7 +340,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CosprisWill.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CosprisWill.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Foxshade",
@@ -349,7 +364,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Foxshade.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Foxshade.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Fox's Fortune",
@@ -368,7 +384,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Foxshade.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Foxshade.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Hyrri's Ire",
@@ -408,7 +425,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3CUnique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3CUnique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Kintsugi",
@@ -425,7 +443,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kintsugi.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kintsugi.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Body Armour"
     },
     {
       "name": "Queen of the Forest",
@@ -451,7 +470,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/QueenoftheForest.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/QueenoftheForest.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Rat Cage",
@@ -475,7 +495,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheRatCage.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheRatCage.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Snowblind Grace",
@@ -493,7 +514,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheSnowblindGrace.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheSnowblindGrace.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Perfect Form",
@@ -512,7 +534,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/ThePerfectForm.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/ThePerfectForm.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Body Armour"
     },
     {
       "name": "Yriel's Fostering",
@@ -544,7 +567,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/PaleCouncilArmour.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/PaleCouncilArmour.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ],
   "Body: Energy Shield": [
@@ -570,7 +594,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BeastFurShawl.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BeastFurShawl.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Cloak of Flame",
@@ -587,7 +612,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1Aunique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1Aunique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Cloak of Tawm'r Isley",
@@ -610,7 +636,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TomOReillyCloak.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TomOReillyCloak.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Coming Calamity",
@@ -626,7 +653,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SpiritHarness.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SpiritHarness.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Covenant",
@@ -666,7 +694,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Embrace.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Embrace.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Dialla's Malefaction",
@@ -683,7 +712,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DiallasMalefaction.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DiallasMalefaction.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Doedre's Skin",
@@ -702,7 +732,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DoedresSkin.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DoedresSkin.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Fenumus' Shroud",
@@ -720,7 +751,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SpiderArmourBody.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SpiderArmourBody.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Infernal Mantle",
@@ -745,7 +777,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Infernalmantle.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Infernalmantle.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Infernal Mantle",
@@ -766,7 +799,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Infernalmantle.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Infernalmantle.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Shavronne's Wrappings",
@@ -793,7 +827,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1CUnique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1CUnique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Skin of the Loyal",
@@ -808,7 +843,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGrasp.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGrasp.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Body Armour"
     },
     {
       "name": "Skin of the Lords",
@@ -893,7 +929,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "http://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGraspGrand.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "http://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGraspGrand.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Soul Mantle",
@@ -922,7 +959,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SoulMantle.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SoulMantle.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Tabula Rasa",
@@ -933,7 +971,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TabulaRasa.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TabulaRasa.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Thousand Ribbons",
@@ -965,7 +1004,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Thousandribbons.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Thousandribbons.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Vis Mortis",
@@ -990,7 +1030,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/VisMortis.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/VisMortis.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Zahndethus' Cassock",
@@ -1028,7 +1069,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Zahndethuscassock.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Zahndethuscassock.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ],
   "Body: Armour/Evasion": [
@@ -1047,7 +1089,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/bellyofthebeast.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/bellyofthebeast.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Cherrubim's Maleficence",
@@ -1074,7 +1117,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CherrubimsCrave.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CherrubimsCrave.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Daresso's Defiance",
@@ -1099,7 +1143,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DaressosDefiance.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DaressosDefiance.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Farrul's Fur",
@@ -1117,7 +1162,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TigerBodyArmour.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TigerBodyArmour.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Gruthkul's Pelt",
@@ -1136,7 +1182,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/WilefangsPelt.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/WilefangsPelt.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Lightning Coil",
@@ -1159,7 +1206,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/LightningCoil.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/LightningCoil.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Viper's Scales",
@@ -1177,7 +1225,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Scalesoftheserpent.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Scalesoftheserpent.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ],
   "Body: Armour/Energy Shield": [
@@ -1215,7 +1264,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/StrInt3AUnique2.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/StrInt3AUnique2.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Chains of Command",
@@ -1235,7 +1285,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/ChainsOfCommand.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/ChainsOfCommand.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Geofri's Sanctuary",
@@ -1264,7 +1315,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/GeofriSanctuary.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/GeofriSanctuary.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Icetomb",
@@ -1289,7 +1341,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Icetomb.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Icetomb.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Crystal Vault",
@@ -1310,7 +1363,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Icetomb.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Icetomb.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Incandescent Heart",
@@ -1337,7 +1391,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Illuminatis.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Illuminatis.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Kingsguard",
@@ -1354,7 +1409,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kingsguard.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kingsguard.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Lightbane Raiment",
@@ -1392,7 +1448,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Lightbanerainment.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Lightbanerainment.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Loreweave",
@@ -1414,7 +1471,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Loreweave.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Loreweave.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Voll's Protector",
@@ -1429,7 +1487,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/StrInt3AUnique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/StrInt3AUnique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ],
   "Body: Evasion/Energy Shield": [
@@ -1449,7 +1508,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CommunalFlesh.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CommunalFlesh.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Carcass Jack",
@@ -1473,7 +1533,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CarcassJack.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CarcassJack.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Cloak of Defiance",
@@ -1502,7 +1563,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CloakOfDefiance.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CloakOfDefiance.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Dendrobate",
@@ -1520,7 +1582,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Dendrobatis.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Dendrobatis.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Inpulsa's Broken Heart",
@@ -1538,7 +1601,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/OnShocked.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/OnShocked.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "The Restless Ward",
@@ -1564,7 +1628,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheRestlessWard.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheRestlessWard.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Saqawal's Nest",
@@ -1582,7 +1647,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AvianBodyArmour.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AvianBodyArmour.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Shroud of the Lightless",
@@ -1609,7 +1675,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AbyssBody.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AbyssBody.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Body Armour"
     },
     {
       "name": "Tinkerskin",
@@ -1628,7 +1695,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TrapperArmour.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TrapperArmour.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     },
     {
       "name": "Victario's Influence",
@@ -1654,7 +1722,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/VictariosJacket.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/VictariosJacket.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ],
   "Body: Armour/Evasion/Energy Shield": [
@@ -1744,7 +1813,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AtzirisSplendour.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AtzirisSplendour.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Body Armour"
     }
   ]
 }

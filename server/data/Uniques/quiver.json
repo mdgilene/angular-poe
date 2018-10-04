@@ -25,7 +25,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/AsphyxiasWrath.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/AsphyxiasWrath.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Blackgleam",
@@ -49,7 +50,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique1.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique1.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "The Signal Fire",
@@ -68,7 +70,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique1.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique1.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Craghead",
@@ -85,7 +88,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique4.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique4.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Cragfall",
@@ -103,7 +107,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique4.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverUnique4.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Drillneck",
@@ -128,7 +133,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Drillneck.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Drillneck.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "The Fracturing Spinner",
@@ -146,7 +152,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HarbingerQuiver.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HarbingerQuiver.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Quiver"
     },
     {
       "name": "Hyrri's Bite",
@@ -170,7 +177,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HryyisBite.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HryyisBite.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Hyrri's Demise",
@@ -190,7 +198,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HryyisBite.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HryyisBite.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Maloney's Nightfall",
@@ -224,7 +233,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/MaloneysNightfall.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/MaloneysNightfall.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Rearguard",
@@ -243,7 +253,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Rearguard.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Rearguard.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Rigwald's Quills",
@@ -262,7 +273,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/RigwaldsQuills.png?scale=1&scaleIndex=0&w=2&h=3&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/RigwaldsQuills.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+      "itemType": "Quiver"
     },
     {
       "name": "Saemus' Gift",
@@ -281,7 +293,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/SeamusGift.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/SeamusGift.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Skirmish",
@@ -299,7 +312,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/TheSkirmish.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/TheSkirmish.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Soul Strike",
@@ -324,7 +338,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Soulstrike.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Soulstrike.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     },
     {
       "name": "Voidfletcher",
@@ -345,7 +360,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/EldarQuiver.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/EldarQuiver.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Quiver"
     }
   ]
 }

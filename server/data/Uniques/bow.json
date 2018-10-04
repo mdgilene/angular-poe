@@ -17,7 +17,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/VerdantGuardianBow.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/VerdantGuardianBow.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Chin Sol",
@@ -48,7 +49,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow5unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow5unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Darkscorn",
@@ -82,7 +84,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Darkscorn.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Darkscorn.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Death's Harp",
@@ -108,7 +111,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Deathsharp.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Deathsharp.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Death's Opus",
@@ -132,7 +136,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Deathsharp.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Deathsharp.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Doomfletch",
@@ -175,7 +180,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/DoomFletch.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/DoomFletch.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Doomfletch's Prism",
@@ -213,7 +219,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/DoomFletch.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/DoomFletch.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Hopeshredder",
@@ -239,7 +246,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/ElderBow.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/ElderBow.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Infractem",
@@ -279,7 +287,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Infractem.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Infractem.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Iron Commander",
@@ -298,7 +307,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/IronCommendant.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/IronCommendant.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Lioneye's Glare",
@@ -327,7 +337,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow8unique.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow8unique.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Null's Inclination",
@@ -345,7 +356,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NullBow.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NullBow.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Nuro's Harp",
@@ -369,7 +381,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NurosPurifyingHarp.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/NurosPurifyingHarp.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Quill Rain",
@@ -394,7 +407,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow2unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow2unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Bow"
     },
     {
       "name": "Reach of the Council",
@@ -424,7 +438,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BowOfTheCouncil.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BowOfTheCouncil.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+      "itemType": "Bow"
     },
     {
       "name": "Roth's Reach",
@@ -447,7 +462,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SarkhamsReach.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SarkhamsReach.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Silverbranch",
@@ -470,7 +486,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Bow"
     },
     {
       "name": "Silverbough",
@@ -489,7 +506,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1Unique.png?scale=1&scaleIndex=0&w=2&h=3"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1Unique.png?scale=1&scaleIndex=0&w=2&h=3",
+      "itemType": "Bow"
     },
     {
       "name": "Slivertongue",
@@ -512,7 +530,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SilverTongue.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SilverTongue.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Storm Cloud",
@@ -533,7 +552,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Stormcloud.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Stormcloud.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "The Tempest",
@@ -549,7 +569,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Stormcloud.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Stormcloud.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Voltaxic Rift",
@@ -566,7 +587,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Voidshaft.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Voidshaft.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Windripper",
@@ -605,7 +627,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Eagle.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Eagle.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Xoph's Inception",
@@ -621,7 +644,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigree.png?scale=1&scaleIndex=0&w=2&h=4"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigree.png?scale=1&scaleIndex=0&w=2&h=4",
+      "itemType": "Bow"
     },
     {
       "name": "Xoph's Nurture",
@@ -644,7 +668,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigreeBREACH.png?scale=1&scaleIndex=0&w=2&h=4&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigreeBREACH.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+      "itemType": "Bow"
     }
   ]
 }

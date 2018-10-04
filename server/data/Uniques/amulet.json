@@ -36,7 +36,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Anvil.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Anvil.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Araku Tiki",
@@ -53,7 +54,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Ngamahu Tiki",
@@ -71,7 +73,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "The Ascetic",
@@ -86,7 +89,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet13.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet13.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Astramentis",
@@ -101,7 +105,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet36.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet36.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Atziri's Foible",
@@ -126,7 +131,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Quid.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Quid.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "The Aylardex",
@@ -148,7 +154,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Xedralyas.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Xedralyas.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Bisco's Collar",
@@ -172,7 +179,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BiscosCollar.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BiscosCollar.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Blightwell",
@@ -190,7 +198,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TaintedSprings.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TaintedSprings.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Blood of Corruption",
@@ -207,7 +216,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HeartOfCorruption.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HeartOfCorruption.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Bloodgrip",
@@ -227,7 +237,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BloodAmulet.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BloodAmulet.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Bloodgrip",
@@ -247,7 +258,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BloodAmulet.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BloodAmulet.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Carnage Heart",
@@ -273,7 +285,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet37.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet37.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Daresso's Salute",
@@ -292,7 +305,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Extractor Mentis",
@@ -311,7 +325,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ExtractorMentis.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ExtractorMentis.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Eye of Chayula",
@@ -327,7 +342,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Presence of Chayula",
@@ -344,7 +360,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/PresenceOfChayula.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/PresenceOfChayula.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Eye of Innocence",
@@ -361,7 +378,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/EyeOfInnocence.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/EyeOfInnocence.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Eyes of the Greatwolf",
@@ -428,7 +446,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RigwaldsTalisman.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RigwaldsTalisman.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Gloomfang",
@@ -446,7 +465,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShadowRay.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShadowRay.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "The Halcyon",
@@ -464,7 +484,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoon.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoon.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "The Pandemonius",
@@ -482,7 +503,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoonUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoonUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Hinekora's Sight",
@@ -499,7 +521,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HinekorasSight.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HinekorasSight.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "The Ignomon",
@@ -517,7 +540,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "The Effigon",
@@ -537,7 +561,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Impresence",
@@ -583,7 +608,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": true,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ElderChaos.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ElderChaos.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Karui Ward",
@@ -603,7 +629,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Karui Charge",
@@ -626,7 +653,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Maligaro's Cruelty",
@@ -644,7 +672,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet15.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet15.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Marylene's Fallacy",
@@ -686,7 +715,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/MarylenesFallacy.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/MarylenesFallacy.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Natural Hierarchy",
@@ -704,7 +734,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanUnique2.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanUnique2.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Night's Hold",
@@ -721,7 +752,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/SocketedTalisman.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/SocketedTalisman.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Rashkaldor's Patience",
@@ -744,7 +776,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RashkaldorsPatience.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RashkaldorsPatience.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Rigwald's Curse",
@@ -763,7 +796,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UniqueDireClawTalisman.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UniqueDireClawTalisman.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Shaper's Seed",
@@ -782,7 +816,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShapersSeed.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/ShapersSeed.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Sidhebreath",
@@ -803,7 +838,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Star of Wraeclast",
@@ -823,7 +859,8 @@
       "corrupted": true,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/DirgeOfVictory.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/DirgeOfVictory.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Stone of Lazhwar",
@@ -842,7 +879,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5Unique.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5Unique.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Tear of Purity",
@@ -859,7 +897,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TearOfPurity.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TearOfPurity.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Ungil's Harmony",
@@ -880,7 +919,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UngilsHarmony.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UngilsHarmony.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Victario's Acuity",
@@ -899,7 +939,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Voice of the Storm",
@@ -922,7 +963,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStorm.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStorm.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Choir of the Storm",
@@ -947,7 +989,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStormUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStormUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Voll's Devotion",
@@ -966,7 +1009,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Warped Timepiece",
@@ -985,7 +1029,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WarpedTimepiece.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WarpedTimepiece.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Winterheart",
@@ -1003,7 +1048,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WinterHeartALT.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/WinterHeartALT.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Xoph's Heart",
@@ -1021,7 +1067,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeart.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeart.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Xoph's Blood",
@@ -1040,7 +1087,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeartUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeartUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+      "itemType": "Amulet"
     },
     {
       "name": "Yoke of Suffering",
@@ -1060,7 +1108,8 @@
       "corrupted": false,
       "shaper": false,
       "elder": false,
-      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YokeOfSuffering.png?scale=1&scaleIndex=0&w=1&h=1"
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YokeOfSuffering.png?scale=1&scaleIndex=0&w=1&h=1",
+      "itemType": "Amulet"
     }
   ]
 }
