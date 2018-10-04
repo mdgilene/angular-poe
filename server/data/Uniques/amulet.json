@@ -134,9 +134,7 @@
       "levelReq": 32,
       "variants": {
         "Pre 2.5.0": [],
-        "Current": [
-          "(80-100)% increased Power Charge Duration"
-        ]
+        "Current": ["(80-100)% increased Power Charge Duration"]
       },
       "mods": [
         "+(16-24) to Strength and Intelligence",
@@ -170,9 +168,7 @@
           "(35-50)% increased Quantity of Items Dropped by Slain Normal Enemies"
         ]
       },
-      "mods": [
-        "(12-20)% increased Rarity of Items found"
-      ],
+      "mods": ["(12-20)% increased Rarity of Items found"],
       "corrupted": false,
       "shaper": false,
       "elder": false,
@@ -372,81 +368,39 @@
       "base": "Greatwolf Talisman",
       "levelReq": 52,
       "variants": {
-        "Has Alt true": [
-          "(24-32)% increased Attributes"
-        ],
-        "Attributes": [
-          "(30-50)% increased Global Defences"
-        ],
-        "Global Defences": [
-          "(38-62)% increased Chaos Damage"
-        ],
-        "Chaos Damage": [
-          "(40-60)% increased Attack Damage"
-        ],
-        "Attack Damage": [
-          "(40-60)% increased Cold Damage"
-        ],
-        "Cold Damage": [
-          "(40-60)% increased Fire Damage"
-        ],
-        "Fire Damage": [
-          "(40-60)% increased Lightning Damage"
-        ],
-        "Lightning Damage": [
-          "(40-60)% increased Spell Damage"
-        ],
-        "Spell Damage": [
-          "(40-60)% increased Global Physical Damage"
-        ],
-        "Global Physical Damage": [
-          "(40-60)% increased maximum Mana"
-        ],
-        "Mana": [
-          "(50-70)% increased Damage"
-        ],
-        "Damage": [
-          "(8-12)% increased Physical Damage Reduction"
-        ],
+        "Has Alt true": ["(24-32)% increased Attributes"],
+        "Attributes": ["(30-50)% increased Global Defences"],
+        "Global Defences": ["(38-62)% increased Chaos Damage"],
+        "Chaos Damage": ["(40-60)% increased Attack Damage"],
+        "Attack Damage": ["(40-60)% increased Cold Damage"],
+        "Cold Damage": ["(40-60)% increased Fire Damage"],
+        "Fire Damage": ["(40-60)% increased Lightning Damage"],
+        "Lightning Damage": ["(40-60)% increased Spell Damage"],
+        "Spell Damage": ["(40-60)% increased Global Physical Damage"],
+        "Global Physical Damage": ["(40-60)% increased maximum Mana"],
+        "Mana": ["(50-70)% increased Damage"],
+        "Damage": ["(8-12)% increased Physical Damage Reduction"],
         "Physical Damage Reduction": [
           "(8-12)% chance to Freeze, Shock and Ignite"
         ],
         "Chance to Freeze, Shock and Ignite": [
           "(80-100)% increased Global Critical Strike Chance"
         ],
-        "Crit Chance": [
-          "(10-16)% increased Area of Effect"
-        ],
-        "Area of Effect": [
-          "(12-20)% increased Attack and Cast Speed"
-        ],
-        "Attack/Cast Speed": [
-          "(12-20)% increased Quantity of Items found"
-        ],
-        "Item Quantity": [
-          "(16-24)% increased maximum Life"
-        ],
-        "Life": [
-          "+(48-72)% to Global Critical Strike Multiplier"
-        ],
-        "Crit Multiplier": [
-          "+2 to maximum number of Zombies"
-        ],
+        "Crit Chance": ["(10-16)% increased Area of Effect"],
+        "Area of Effect": ["(12-20)% increased Attack and Cast Speed"],
+        "Attack/Cast Speed": ["(12-20)% increased Quantity of Items found"],
+        "Item Quantity": ["(16-24)% increased maximum Life"],
+        "Life": ["+(48-72)% to Global Critical Strike Multiplier"],
+        "Crit Multiplier": ["+2 to maximum number of Zombies"],
         "Maximum number of Zombies": [
           "20% chance to gain a Frenzy Charge on Kill"
         ],
-        "Frenzy Charge on Kill": [
-          "20% chance to gain a Power Charge on Kill"
-        ],
+        "Frenzy Charge on Kill": ["20% chance to gain a Power Charge on Kill"],
         "Power Charge on Kill": [
           "20% chance to gain a Endurance Charge on Kill"
         ],
-        "Endurance Charge on Kill": [
-          "4% of Life Regenerated per second"
-        ],
-        "Life Regen": [
-          "100% of Cold Damage from Hits taken as Fire Damage"
-        ],
+        "Endurance Charge on Kill": ["4% of Life Regenerated per second"],
+        "Life Regen": ["100% of Cold Damage from Hits taken as Fire Damage"],
         "Cold taken as Fire": [
           "100% of Cold Damage from Hits taken as Lightning Damage"
         ],
@@ -470,9 +424,7 @@
         ],
         "Extra Pierces": []
       },
-      "mods": [
-        "Implicit Modifier magnitudes are doubled"
-      ],
+      "mods": ["Implicit Modifier magnitudes are doubled"],
       "corrupted": false,
       "shaper": false,
       "elder": false,
@@ -639,9 +591,7 @@
       "levelReq": 5,
       "variants": {
         "Pre 2.6.0": [],
-        "Current": [
-          "30% increased Projectile Damage"
-        ]
+        "Current": ["30% increased Projectile Damage"]
       },
       "mods": [
         "+(20-30) to Dexterity",
@@ -660,9 +610,7 @@
       "base": "Jade Amulet",
       "levelReq": 24,
       "variants": {
-        "Pre 2.6.0": [
-          "(15-20)% increased Attack Speed"
-        ],
+        "Pre 2.6.0": ["(15-20)% increased Attack Speed"],
         "Current": [
           "(5-10)% increased Attack Speed",
           "30% increased Projectile Damage"
@@ -783,9 +731,7 @@
         "Pre 3.0.0": [
           "20% increased Duration of Elemental Status Ailments on Enemies"
         ],
-        "Current": [
-          "20% increased Duration of Elemental Ailments on Enemies"
-        ]
+        "Current": ["20% increased Duration of Elemental Ailments on Enemies"]
       },
       "mods": [
         "+(20-30) to Dexterity",
@@ -805,12 +751,8 @@
       "base": "Wereclaw Talisman",
       "levelReq": 28,
       "variants": {
-        "Pre 2.2.0": [
-          "+(16-24)% to Global Critical Strike Multiplier"
-        ],
-        "Current": [
-          "+(24-36)% to Global Critical Strike Multiplier"
-        ]
+        "Pre 2.2.0": ["+(16-24)% to Global Critical Strike Multiplier"],
+        "Current": ["+(24-36)% to Global Critical Strike Multiplier"]
       },
       "mods": [
         "+7% Base Unarmed Critical Strike Chance",
@@ -828,12 +770,8 @@
       "base": "Agate Amulet",
       "levelReq": 16,
       "variants": {
-        "Pre 2.6.0": [
-          "Nearby Allies gain 1% of Life Regenerated per Second"
-        ],
-        "Current": [
-          "Nearby Allies gain 2% of Life Regenerated per Second"
-        ]
+        "Pre 2.6.0": ["Nearby Allies gain 1% of Life Regenerated per Second"],
+        "Current": ["Nearby Allies gain 2% of Life Regenerated per Second"]
       },
       "mods": [
         "+(16-24) to Strength and Intelligence",
@@ -852,9 +790,7 @@
       "levelReq": 1,
       "variants": {
         "Pre 3.0.0": [],
-        "Current": [
-          "(10-15)% reduced Mana Cost of Minion Skills"
-        ]
+        "Current": ["(10-15)% reduced Mana Cost of Minion Skills"]
       },
       "mods": [
         "(20-30)% increased Mana Regeneration Rate",
@@ -874,12 +810,8 @@
       "base": "Ruby Amulet",
       "levelReq": 28,
       "variants": {
-        "Pre 2.6.0": [
-          "30% increased Radius of Curse Skills"
-        ],
-        "Current": [
-          "60% increased Area of Effect of Curse Skills"
-        ]
+        "Pre 2.6.0": ["30% increased Radius of Curse Skills"],
+        "Current": ["60% increased Area of Effect of Curse Skills"]
       },
       "mods": [
         "+(20-30)% to Fire Resistance",
@@ -898,15 +830,9 @@
       "base": "Lapis Amulet",
       "levelReq": 5,
       "variants": {
-        "Pre 3.0.0": [
-          "50% of Block Chance applied to Spells"
-        ],
-        "Pre 3.4.0": [
-          "+15% chance to Block Spell Damage"
-        ],
-        "Current": [
-          "+(12-15)% chance to Block Spell Damage"
-        ]
+        "Pre 3.0.0": ["50% of Block Chance applied to Spells"],
+        "Pre 3.4.0": ["+15% chance to Block Spell Damage"],
+        "Current": ["+(12-15)% chance to Block Spell Damage"]
       },
       "mods": [
         "+(20-30) to Intelligence",
@@ -940,15 +866,9 @@
       "base": "Turquoise Amulet",
       "levelReq": 23,
       "variants": {
-        "Pre 2.2.0": [
-          "−50% to Global Critical Strike Multiplier"
-        ],
-        "Pre 2.6.0": [
-          "−75% to Global Critical Strike Multiplier"
-        ],
-        "Current": [
-          "−25% to Global Critical Strike Multiplier"
-        ]
+        "Pre 2.2.0": ["−50% to Global Critical Strike Multiplier"],
+        "Pre 2.6.0": ["−75% to Global Critical Strike Multiplier"],
+        "Current": ["−25% to Global Critical Strike Multiplier"]
       },
       "mods": [
         "+(16-24) to Dexterity and Intelligence",
