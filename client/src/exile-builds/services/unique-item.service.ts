@@ -16,10 +16,14 @@ export class UniqueItemService {
 
   private get uniques(): Observable<Item[]> {
     if (!this._uniques) {
+      this.loading = true;
       const request = this.$http.get<Item[]>(
         'http://localhost:4300/item-api/uniques'
       );
-      request.subscribe(items => (this._uniques = items));
+      request.subscribe(items => {
+        this._uniques = items;
+        this.loading = false;
+      });
       return request;
     }
     return of(this._uniques);
