@@ -8,6 +8,7 @@
   padding: 0;
   overflow: hidden;
   display: flex;
+  border-radius: 0.5rem;
 }
 
 .sidebar {
@@ -69,6 +70,14 @@
 
 .fa-spinner {
   animation: rotate-360 1s linear infinite;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.disabled:hover {
+  cursor: default !important;
 }
 
 /* width */

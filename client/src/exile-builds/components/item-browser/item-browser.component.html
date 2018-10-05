@@ -1,37 +1,43 @@
-<div *ngIf="!$uniques.loading; else loadingSpinner" class="modal-body no-gutters p-1">
+<div *ngIf="!$uniques.loading; else loadingSpinner" class="modal-body no-gutters">
   <div class="col-3 sidebar">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item" (click)="clearFilter()">All</li>
+    </ul>
     <h5 class="ml-2 my-2">Armour</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.HELMET}">Helmet</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.BODY}">Body Armour</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.GLOVES}">Gloves</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.BOOTS}">Boots</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.SHIELD}">Shields</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.QUIVER}">Quivers</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.HELMET)" (click)="filter = {itemType: ItemType.HELMET}">{{ItemType.HELMET}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.BODY)" (click)="filter = {itemType: ItemType.BODY}">{{ItemType.BODY}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.GLOVES)" (click)="filter = {itemType: ItemType.GLOVES}">{{ItemType.GLOVES}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.BOOTS)" (click)="filter = {itemType: ItemType.BOOTS}">{{ItemType.BOOTS}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.SHIELD)" (click)="filter = {itemType: ItemType.SHIELD}">{{ItemType.SHIELD}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.QUIVER)" (click)="filter = {itemType: ItemType.QUIVER}">{{ItemType.QUIVER}}</li>
     </ul>
     <h5 class="ml-2 my-2">Weapons</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.ONEHANDSWORD}">One-Hand Swords</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.TWOHANDSWORD}">Two-Hand Swords</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.ONEHANDMACE}">One-Hand Maces</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.TWOHANDMACE}">Two-Hand Maces</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.ONEHANDAXE}">One-Hand Axes</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.TWOHANDAXE}">Two-Hand Axes</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.STAFF}">Staves</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.DAGGER}">Daggers</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.WAND}">Wands</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.BOW}">Bows</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.ONEHANDSWORD)" (click)="filter = {itemType: ItemType.ONEHANDSWORD}">{{ItemType.ONEHANDSWORD}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.TWOHANDSWORD)" (click)="filter = {itemType: ItemType.TWOHANDSWORD}">{{ItemType.TWOHANDSWORD}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.ONEHANDMACE)" (click)="filter = {itemType: ItemType.ONEHANDMACE}">{{ItemType.ONEHANDMACE}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.TWOHANDMACE)" (click)="filter = {itemType: ItemType.TWOHANDMACE}">{{ItemType.TWOHANDMACE}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.ONEHANDAXE)" (click)="filter = {itemType: ItemType.ONEHANDAXE}">{{ItemType.ONEHANDAXE}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.TWOHANDAXE)" (click)="filter = {itemType: ItemType.TWOHANDAXE}">{{ItemType.TWOHANDAXE}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.STAFF)" (click)="filter = {itemType: ItemType.STAFF}">{{ItemType.STAFF}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.DAGGER)" (click)="filter = {itemType: ItemType.DAGGER}">{{ItemType.DAGGER}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.WAND)" (click)="filter = {itemType: ItemType.WAND}">{{ItemType.WAND}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.BOW)" (click)="filter = {itemType: ItemType.BOW}">{{ItemType.BOW}}</li>
     </ul>
     <h5 class="ml-2 my-2">Jewelry</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.RING}">Rings</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.AMULET}">Amulet</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.BELT}">Belts</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.RING)" (click)="filter = {itemType: ItemType.RING}">{{ItemType.RING}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.AMULET)" (click)="filter = {itemType: ItemType.AMULET}">{{ItemType.AMULET}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.BELT)" (click)="filter = {itemType: ItemType.BELT}">{{ItemType.BELT}}</li>
     </ul>
     <h5 class="ml-2 my-2">Other</h5>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.FLASK}">Flasks</li>
-      <li class="list-group-item" (click)="filter = {itemType: ItemType.JEWEL}">Jewels</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.LIFEFLASK)" (click)="filter = {itemType: ItemType.LIFEFLASK}">{{ItemType.LIFEFLASK}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.MANALASK)" (click)="filter = {itemType: ItemType.MANALASK}">{{ItemType.MANALASK}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.HYBRIDFLASK)" (click)="filter = {itemType: ItemType.HYBRIDFLASK}">{{ItemType.HYBRIDFLASK}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.UTILITYFLASK)" (click)="filter = {itemType: ItemType.UTILITYFLASK}">{{ItemType.UTILITYFLASK}}</li>
+      <li class="list-group-item" [class.disabled]="!validTypes.includes(ItemType.JEWEL)" (click)="filter = {itemType: ItemType.JEWEL}">{{ItemType.JEWEL}}</li>
     </ul>
   </div>
   <div class="col content">
@@ -52,9 +58,6 @@
         <div class="col-6 ml-auto d-flex justify-content-center align-items-center">
           <div class="input-group">
             <input type="text" class="form-control" [(ngModel)]="searchText" (ngModelChange)="handleSearchChange()">
-            <div class="input-group-append">
-              <button class="btn btn-outline-info" type="button"><i class="fas fa-search"></i></button>
-            </div>
           </div>
         </div>
       </div>
@@ -65,17 +68,5 @@
 <ng-template #loadingSpinner>
   <div class="modal-body no-gutters p-1 d-flex align-items-center justify-content-center">
     <i class="fas fa-spinner fa-3x"></i>
-  </div>
-</ng-template>
-
-<ng-template #itemGrid>
-  <div class="item-grid p-2">
-    <div *ngFor="let item of filteredItems()" class="item-grid-item card bg-secondary" [class.border-info]="item === selectedItem"
-      (click)="setSelected(item)">
-      <img src={{item.icon}} class="card-img-top" />
-      <div class="card-footer">
-        {{item.name}}
-      </div>
-    </div>
   </div>
 </ng-template>

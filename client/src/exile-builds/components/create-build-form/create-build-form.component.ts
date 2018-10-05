@@ -1,16 +1,10 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormArray, Validators, FormGroup } from '@angular/forms';
-import {
-  Build,
-  ClassCombos,
-  SlotInfo,
-  Slot,
-  GemGroup
-} from '../../models/build';
-import { WeaponType } from '../../models/item';
+import { Build, ClassCombos, SlotInfo, Slot } from '../../models/build';
+import { Item, ItemType } from '../../models/Item';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ItemBrowserComponent } from '../item-browser/item-browser.component';
-import { GemBrowserComponent } from '../gem-browser/gem-browser.component';
+import { isTwoHanded } from '../../utilities/BuildUtilities';
 
 @Component({
   selector: 'exilebuilds-create-build-form',
@@ -52,31 +46,53 @@ export class CreateBuildFormComponent {
   });
 
   constructor(private modalService: BsModalService, private fb: FormBuilder) {
-    // Handle form value changes
-    this.buildForm.valueChanges.subscribe(values => {
-      // Show/Hide weapon2 depending on what is in main hand
-      const weapon1 = values.items.weapon1;
-      if (
-        weapon1.itemType === WeaponType.TwoHandedAxe ||
-        weapon1.itemType === WeaponType.TwoHandedMace ||
-        weapon1.itemType === WeaponType.TwoHandedSword
-      ) {
-        this.showWeapon2 = false;
-      } else {
-        this.showWeapon2 = true;
-      }
-    });
-
     this.modalService.onHide.subscribe(reason => {
       if (reason === null) {
-        this.buildForm.patchValue({
-          items: {
-            [this.itemBrowserRef.content.slot]: this.itemBrowserRef.content
-              .selectedItem
-          }
-        });
-
+        const { slot, selectedItem } = this.itemBrowserRef.content;
+        console.log(slot, selectedItem);
+        this.updateItemInSlot(slot, selectedItem);
         // TODO: Update this.itemSlots to match the maximum number of sockets for the selected item
+      }
+    });
+  }
+
+  updateItemInSlot(slot: Slot, item: Item) {
+    if (SlotInfo[slot].validItemTypes.includes(item.itemType)) {
+      this.patchSlot(slot, item);
+
+      switch (slot) {
+        case Slot.WEAPON1:
+          const weapon2 = this.items.get(Slot.WEAPON2).value as Item;
+          if (
+            isTwoHanded(item) &&
+            weapon2.itemType &&
+            (item.itemType !== ItemType.BOW ||
+              (item.itemType === ItemType.BOW &&
+                weapon2.itemType !== ItemType.QUIVER))
+          ) {
+            this.patchSlot(Slot.WEAPON2, {});
+          }
+          break;
+        case Slot.WEAPON2:
+          const weapon1 = this.items.get(Slot.WEAPON1).value as Item;
+          if (
+            isTwoHanded(weapon1) ||
+            (item.itemType === ItemType.QUIVER &&
+              weapon1.itemType !== ItemType.BOW)
+          ) {
+            this.patchSlot(Slot.WEAPON1, {});
+          }
+          break;
+      }
+
+      console.log(this.buildForm.value);
+    }
+  }
+
+  patchSlot(slot: Slot, item: Item | {}) {
+    this.buildForm.patchValue({
+      items: {
+        [slot]: item
       }
     });
   }
@@ -98,17 +114,7 @@ export class CreateBuildFormComponent {
   openItemBrowser(slot) {
     this.itemBrowserRef = this.modalService.show(ItemBrowserComponent, {
       initialState: {
-        slot: slot,
-        currentItems: this.buildForm.value.items
-      },
-      class: 'item-browser'
-    });
-  }
-
-  openGemBrowser(group: number, index: number) {
-    this.gemBrowserRef = this.modalService.show(GemBrowserComponent, {
-      initialState: {
-        currentLinks: this.gemGroups.at(group).get('links').value
+        slot: slot
       },
       class: 'item-browser'
     });

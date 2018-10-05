@@ -1,4 +1,4 @@
-import { Item } from './item';
+import { Item, ItemType } from './Item';
 
 export interface Build {
   _id?: string;
@@ -30,7 +30,10 @@ export interface SkillsSection extends Section {
   gemGroups: GemGroup[];
 }
 
-export interface PassivesSection extends Section {}
+export interface PassivesSection extends Section {
+  // Keystones?
+  keystones: any[];
+}
 
 export interface Class {
   primary?: PrimaryClass;
@@ -148,14 +151,73 @@ export const ClassCombos = [
 ];
 
 export const SlotInfo = {
-  [Slot.HEAD]: { displayText: 'Head', maxSockets: 4 },
-  [Slot.BODY]: { displayText: 'Body', maxSockets: 6 },
-  [Slot.WEAPON1]: { displayText: 'Main Hand', maxSockets: 6 },
-  [Slot.WEAPON2]: { displayText: 'Off Hand', maxSockets: 3 },
-  [Slot.GLOVES]: { displayText: 'Gloves', maxSockets: 4 },
-  [Slot.BOOTS]: { displayText: 'Boots', maxSockets: 4 },
-  [Slot.RING1]: { displayText: 'Left Ring', maxSockets: 1 },
-  [Slot.RING2]: { displayText: 'Right Ring', maxSockets: 1 },
-  [Slot.AMULET]: { displayText: 'Amulet', maxSockets: 1 },
-  [Slot.BELT]: { displayText: 'Belt', maxSockets: 0 }
+  [Slot.HEAD]: {
+    displayText: 'Head',
+    maxSockets: 4,
+    validItemTypes: [ItemType.HELMET]
+  },
+  [Slot.BODY]: {
+    displayText: 'Body',
+    maxSockets: 6,
+    validItemTypes: [ItemType.BODY]
+  },
+  [Slot.WEAPON1]: {
+    displayText: 'Main Hand',
+    maxSockets: 6,
+    validItemTypes: [
+      ItemType.TWOHANDAXE,
+      ItemType.TWOHANDMACE,
+      ItemType.TWOHANDSWORD,
+      ItemType.ONEHANDAXE,
+      ItemType.ONEHANDMACE,
+      ItemType.ONEHANDSWORD,
+      ItemType.STAFF,
+      ItemType.BOW,
+      ItemType.DAGGER,
+      ItemType.WAND
+    ]
+  },
+  [Slot.WEAPON2]: {
+    displayText: 'Off Hand',
+    maxSockets: 3,
+    validItemTypes: [
+      ItemType.ONEHANDAXE,
+      ItemType.ONEHANDMACE,
+      ItemType.ONEHANDSWORD,
+      ItemType.DAGGER,
+      ItemType.WAND,
+      ItemType.SHIELD,
+      ItemType.QUIVER
+    ]
+  },
+  [Slot.GLOVES]: {
+    displayText: 'Gloves',
+    maxSockets: 4,
+    validItemTypes: [ItemType.GLOVES]
+  },
+  [Slot.BOOTS]: {
+    displayText: 'Boots',
+    maxSockets: 4,
+    validItemTypes: [ItemType.BOOTS]
+  },
+  [Slot.RING1]: {
+    displayText: 'Left Ring',
+    maxSockets: 1,
+    validItemTypes: [ItemType.RING]
+  },
+  [Slot.RING2]: {
+    displayText: 'Right Ring',
+    maxSockets: 1,
+    validItemTypes: [ItemType.RING]
+  },
+  [Slot.AMULET]: {
+    displayText: 'Amulet',
+    maxSockets: 1,
+    validItemTypes: [ItemType.AMULET]
+  },
+  [Slot.BELT]: {
+    displayText: 'Belt',
+    maxSockets: 0,
+    validItemTypes: [ItemType.BELT]
+  }
 };

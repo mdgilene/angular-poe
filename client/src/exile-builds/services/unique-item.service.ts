@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { filter } from 'lodash';
-import { Item, ItemFilter } from '../models/ItemNew';
+import { Item, ItemFilter } from '../models/Item';
 
 @Injectable({
   providedIn: 'root'
