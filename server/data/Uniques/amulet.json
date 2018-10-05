@@ -88,7 +88,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet13.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet13.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -201,7 +201,7 @@
     "corrupted": true,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TaintedSprings.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TaintedSprings.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -308,7 +308,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -363,7 +363,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/PresenceOfChayula.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/PresenceOfChayula.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -493,7 +493,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RigwaldsTalisman.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RigwaldsTalisman.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -531,7 +531,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoon.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoon.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -550,7 +550,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoonUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/GlacierCacoonUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -568,7 +568,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HinekorasSight.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HinekorasSight.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -853,7 +853,7 @@
     "corrupted": true,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UniqueDireClawTalisman.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/UniqueDireClawTalisman.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -1018,7 +1018,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -1042,7 +1042,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStorm.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStorm.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -1068,7 +1068,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStormUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/VoiceOfTheStormUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -1088,7 +1088,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmuletUnique.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -1146,7 +1146,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeart.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeart.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {
@@ -1166,7 +1166,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeartUpgrade.png?scale=1&scaleIndex=0&w=1&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/YphethakksHeartUpgrade.png?scale=1&scaleIndex=0&w=1&h=1",
     "itemType": "Amulet"
   },
   {

@@ -15,7 +15,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrabUniqueBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/CrabUniqueBoots.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -33,7 +33,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBootsALT3.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -54,7 +54,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TheInfinitePursuit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TheInfinitePursuit.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -104,7 +104,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Rumblestep.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Rumblestep.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -339,7 +339,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexUnique3.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -588,7 +588,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Assedaisfervor.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Assedaisfervor.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -792,7 +792,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Targemtabi.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Targemtabi.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -811,7 +811,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AvianBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AvianBoots.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -951,7 +951,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Reefscourge.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/Reefscourge.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {
@@ -975,7 +975,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbyssBoots.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/AbyssBoots.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Boots"
   },
   {

@@ -151,7 +151,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HarbingerQuiver.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/HarbingerQuiver.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Quiver"
   },
   {
@@ -272,7 +272,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/RigwaldsQuills.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/RigwaldsQuills.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Quiver"
   },
   {

@@ -437,7 +437,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BowOfTheCouncil.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BowOfTheCouncil.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Bow"
   },
   {
@@ -667,7 +667,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigreeBREACH.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/BloodPerigreeBREACH.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Bow"
   }
 ]

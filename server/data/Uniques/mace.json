@@ -419,7 +419,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Plaguebringer.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/Plaguebringer.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Sceptre"
   },
   {
@@ -454,7 +454,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/TheLeadSprinkler.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/TheLeadSprinkler.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Sceptre"
   },
   {
@@ -496,7 +496,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/VoidGaze.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/VoidGaze.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Sceptre"
   },
   {

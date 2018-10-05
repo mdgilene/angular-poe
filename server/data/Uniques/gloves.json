@@ -42,7 +42,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/CrabUniqueGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/CrabUniqueGloves.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -412,7 +412,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3Unique2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3Unique2.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -537,7 +537,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/FleshAndSpirit.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/FleshAndSpirit.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -628,7 +628,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AbyssGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AbyssGloves.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -653,7 +653,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/VaalCaress.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/VaalCaress.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -692,7 +692,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/NullAndVoid.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/NullAndVoid.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -729,7 +729,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AvianGloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/AvianGloves.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -915,7 +915,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiderArmour Gloves.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiderArmour Gloves.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {
@@ -986,7 +986,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ShadowsAndDust.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ShadowsAndDust.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Gloves"
   },
   {

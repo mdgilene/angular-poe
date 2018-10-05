@@ -153,7 +153,7 @@
   },
   {
     "name": "Disintegrator",
-    "base": "Maelstrom Staff",
+    "base": "Maelström Staff",
     "levelReq": 64,
     "variants": {},
     "mods": [
@@ -175,7 +175,7 @@
   },
   {
     "name": "Duskdawn",
-    "base": "Maelstr-m Staff",
+    "base": "Maelström Staff",
     "levelReq": 64,
     "variants": {
       "Pre 2.6.0": [
@@ -242,7 +242,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Rage Staff.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Rage Staff.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Staff"
   },
   {
@@ -589,7 +589,7 @@
   },
   {
     "name": "Taryn's Shiver",
-    "base": "Maelstr-m Staff",
+    "base": "Maelström Staff",
     "levelReq": 64,
     "variants": {
       "Pre 2.0.0": [

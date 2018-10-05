@@ -94,7 +94,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlames.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlames.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -112,7 +112,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlamesUPGRADE.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/FormlessInFlamesUPGRADE.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -303,7 +303,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AvianHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AvianHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -526,7 +526,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiderArmourHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiderArmourHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -607,7 +607,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ScoldsBridle.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ScoldsBridle.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -649,7 +649,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Ylfeban.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Ylfeban.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -919,7 +919,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrabUniqueHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrabUniqueHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -999,7 +999,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AbyssHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/AbyssHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -1142,7 +1142,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofthePaleKing.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/CrownofthePaleKing.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -1161,7 +1161,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TigerHelmet.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TigerHelmet.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -1214,7 +1214,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheGull.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/TheGull.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -1326,7 +1326,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThunderingWhispers.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ThunderingWhispers.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {
@@ -1346,7 +1346,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ChillShockHarbingerMask.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/ChillShockHarbingerMask.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Helmet"
   },
   {

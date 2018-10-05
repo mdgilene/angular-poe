@@ -44,7 +44,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing1.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing1.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Shield"
   },
   {
@@ -68,7 +68,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing2.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Longing2.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Shield"
   },
   {
@@ -208,7 +208,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/RedbladeBanner.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/RedbladeBanner.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Shield"
   },
   {
@@ -265,7 +265,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique3.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrUnique3.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Shield"
   },
   {
@@ -542,7 +542,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MutewindPennant.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/MutewindPennant.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Shield"
   },
   {
@@ -603,7 +603,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BrinerotFlag.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/BrinerotFlag.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Shield"
   },
   {
@@ -622,7 +622,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirror.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirror.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Shield"
   },
   {
@@ -648,7 +648,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirrorUpgraded.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/EshsMirrorUpgraded.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Shield"
   },
   {
@@ -974,7 +974,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantonisFaith.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/SantonisFaith.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Shield"
   },
   {

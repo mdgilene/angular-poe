@@ -231,7 +231,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion1.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion1.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Claw"
   },
   {
@@ -263,7 +263,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion2.png?scale=1&scaleIndex=0&w=2&h=2&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/ThoughtMotion2.png?scale=1&scaleIndex=0&w=2&h=2",
     "itemType": "Claw"
   },
   {

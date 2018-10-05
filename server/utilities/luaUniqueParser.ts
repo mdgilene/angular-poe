@@ -1,6 +1,6 @@
-import fs from "fs";
-import path from "path";
-import axios from "axios";
+import fs from 'fs';
+import path from 'path';
+import axios from 'axios';
 
 interface Item {
   name: string;
@@ -21,10 +21,10 @@ interface ItemVariants {
 
 const NinjaData: any[] = [];
 const BaseItemData = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "../data/base_items.json")).toString()
+  fs.readFileSync(path.join(__dirname, '../data/base_items.json')).toString()
 );
 
-const CURRENT_LEAGUE = "Delve";
+const CURRENT_LEAGUE = 'Delve';
 
 Promise.all([
   axios.get(
@@ -44,16 +44,16 @@ Promise.all([
   )
 ])
   .then(responses => {
-    for (let res of responses) {
+    for (const res of responses) {
       NinjaData.push(...res.data.lines);
     }
   })
   .then(() => {
-    const files = fs.readdirSync(path.join(__dirname, "../data/Uniques"));
-    for (let file of files) {
+    const files = fs.readdirSync(path.join(__dirname, '../data/Uniques'));
+    for (const file of files) {
       if (file.match(/.lua$/)) {
-        parseItems(path.join(__dirname, "../data/Uniques/" + file));
-        console.log(file, "parsed");
+        parseItems(path.join(__dirname, '../data/Uniques/' + file));
+        console.log(file, 'parsed');
       }
     }
   });
@@ -65,21 +65,21 @@ function parseItems(fileName: string) {
     .readFileSync(fileName)
     .toString()
     .slice(0, -1)
-    .replace("-- Item data (c) Grinding Gear Games", "")
-    .replace("return {", "")
+    .replace('-- Item data (c) Grinding Gear Games', '')
+    .replace('return {', '')
     .trim();
 
-  const itemsRaw = itemsRawString.split("--");
+  const itemsRaw = itemsRawString.split('--');
 
-  for (let itemType of itemsRaw) {
+  for (const itemType of itemsRaw) {
     const type = itemType.split(/\r\n|\n/g)[0].trim();
     if (type) {
-      const itemsRaw = itemType.replace(type, "").split("]],[[");
-      for (let itemRaw of itemsRaw) {
+      const itemsRaw = itemType.replace(type, '').split(']],[[');
+      for (const itemRaw of itemsRaw) {
         const lines = itemRaw
-          .replace(/\]\],\[\[|\[\[|\]\],?/g, "")
-          .replace("–", "-") // Fixes weird character encoding issue
-          .replace(/[��]/g, "-")
+          .replace(/\]\],\[\[|\[\[|\]\],?/g, '')
+          .replace('–', '-') // Fixes weird character encoding issue
+          .replace(/[��]/g, '-')
           .trim()
           .split(/\r\n|\n/g);
         items.push(createItem(lines));
@@ -88,23 +88,23 @@ function parseItems(fileName: string) {
   }
 
   fs.writeFileSync(
-    fileName.replace(".lua", ".json"),
+    fileName.replace('.lua', '.json'),
     JSON.stringify(items, null, 2)
   );
 }
 
 function createItem(lines) {
   const item: Item = {
-    name: "",
-    base: "",
+    name: '',
+    base: '',
     levelReq: 0,
     variants: {},
     mods: [],
     corrupted: false,
     shaper: false,
     elder: false,
-    icon: "",
-    itemType: ""
+    icon: '',
+    itemType: ''
   };
 
   item.name = lines[0].trim();
@@ -122,26 +122,32 @@ function createItem(lines) {
   );
 
   try {
-    item.icon = filteredItems[0].icon;
+    item.icon = filteredItems[0].icon.replace('&relic=1', '');
   } catch (e) {
-    if (item.name === "Skin of the Lords")
+    if (item.name === 'Skin of the Lords') {
       item.icon =
-        "http://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGraspGrand.png?scale=1&scaleIndex=0&w=2&h=3";
-    if (item.name === "Malachai's Vision")
+        'http://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGraspGrand.png?scale=1&scaleIndex=0&w=2&h=3';
+    }
+    if (item.name === 'Malachai\'s Vision') {
       item.icon =
-        "http://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisVision.png?scale=1&scaleIndex=0&w=2&h=2";
-    if (item.name === "Army of Bones")
+        'http://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MalachaisVision.png?scale=1&scaleIndex=0&w=2&h=2';
+    }
+    if (item.name === 'Army of Bones') {
       item.icon =
-        "http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1";
-    if (item.name === "The Blue Nightmare")
+        'http://web.poecdn.com/image/Art/2DItems/Jewels/unique8.png?scale=1&scaleIndex=0&w=1&h=1';
+    }
+    if (item.name === 'The Blue Nightmare') {
       item.icon =
-        "http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1";
-    if (item.name === "The Green Nightmare")
+        'http://web.poecdn.com/image/Art/2DItems/Jewels/TheBlueDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1';
+    }
+    if (item.name === 'The Green Nightmare') {
       item.icon =
-        "http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1";
-    if (item.name === "The Goddess Unleashed")
+        'http://web.poecdn.com/image/Art/2DItems/Jewels/TheGreenDreamUpgrade.png?scale=1&scaleIndex=0&w=1&h=1';
+    }
+    if (item.name === 'The Goddess Unleashed') {
       item.icon =
-        "http://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3";
+        'http://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png?scale=1&scaleIndex=0&w=2&h=3';
+    }
   }
 
   return item;
@@ -150,9 +156,9 @@ function createItem(lines) {
 function getLevelReq(raw: string[]): number {
   let levelReq = 1;
 
-  for (let line of raw) {
+  for (const line of raw) {
     if (line.match(/^Requires Level/g)) {
-      levelReq = parseInt(line.replace(/Requires Level/g, ""));
+      levelReq = parseInt(line.replace(/Requires Level/g, ''));
     }
   }
 
@@ -163,21 +169,21 @@ function getVariants(raw: string[]): ItemVariants {
   const variants: ItemVariants = {};
 
   // Get Variant Names
-  for (let line of raw) {
+  for (const line of raw) {
     if (line.match(/Variant:.*/g)) {
-      const name = line.replace(/Variant: (\{2_6\})?/g, "");
+      const name = line.replace(/Variant: (\{2_6\})?/g, '');
       variants[name] = [];
     }
   }
 
   // Get Variant mods
-  for (let line of raw) {
+  for (const line of raw) {
     const varSpecs = line.match(/{variant:([0-9,]+)}/g);
     if (varSpecs) {
       const varIds = varSpecs[0].match(/[0-9]+/g) || [];
-      for (let varId of varIds) {
+      for (const varId of varIds) {
         const name = Object.keys(variants)[parseInt(varId) - 1];
-        const mod = line.replace(/{variant:([0-9,]+)}/g, "");
+        const mod = line.replace(/{variant:([0-9,]+)}/g, '');
         variants[name].push(mod);
       }
     }
@@ -190,7 +196,7 @@ function getMods(raw: string[]): string[] {
   const mods: string[] = [];
 
   let i = 0;
-  for (let line of raw) {
+  for (const line of raw) {
     i++;
     if (
       i > 2 &&
@@ -204,7 +210,7 @@ function getMods(raw: string[]): string[] {
 }
 
 function isCorrupted(raw: string[]): boolean {
-  for (let line of raw) {
+  for (const line of raw) {
     if (line.match(/Corrupted/g)) {
       return true;
     }
@@ -213,7 +219,7 @@ function isCorrupted(raw: string[]): boolean {
 }
 
 function isShaper(raw: string[]): boolean {
-  for (let line of raw) {
+  for (const line of raw) {
     if (line.match(/Shaper Item/g)) {
       return true;
     }
@@ -222,7 +228,7 @@ function isShaper(raw: string[]): boolean {
 }
 
 function isElder(raw: string[]): boolean {
-  for (let line of raw) {
+  for (const line of raw) {
     if (line.match(/Elder Item/g)) {
       return true;
     }
@@ -237,5 +243,14 @@ function findItemType(base: string): string {
       name: BaseItemData[key].name
     }))
     .filter(baseItem => baseItem.name === base);
-  return types[0] ? types[0].item_class : "Staff";
+  return types[0] ? convertFlaskTypeNames(types[0].item_class) : 'Staff';
+}
+
+function convertFlaskTypeNames(type: string): string {
+  if (type.match(/Flask/g)) {
+    console.log(type.replace('Flask', ' Flask'));
+    return type.replace('Flask', ' Flask');
+  } else {
+    return type;
+  }
 }

@@ -22,7 +22,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Turncoatsfortune.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Turncoatsfortune.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {
@@ -171,7 +171,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/DarknessEnthroned.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/DarknessEnthroned.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {
@@ -264,7 +264,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Faminebind.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Faminebind.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {
@@ -283,7 +283,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Feastbind.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Feastbind.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {
@@ -303,7 +303,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/HarbingerBelt.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/HarbingerBelt.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {
@@ -347,7 +347,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Headhunter.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Headhunter.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {
@@ -682,7 +682,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/UmbilicusImmortalis.png?scale=1&scaleIndex=0&w=2&h=1&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/UmbilicusImmortalis.png?scale=1&scaleIndex=0&w=2&h=1",
     "itemType": "Belt"
   },
   {

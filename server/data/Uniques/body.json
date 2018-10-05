@@ -440,7 +440,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kintsugi.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/Kintsugi.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Body Armour"
   },
   {
@@ -492,7 +492,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheRatCage.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/TheRatCage.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Body Armour"
   },
   {
@@ -531,7 +531,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/ThePerfectForm.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/ThePerfectForm.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Body Armour"
   },
   {
@@ -838,7 +838,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGrasp.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/MyriadGrasp.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Body Armour"
   },
   {
@@ -1664,7 +1664,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AbyssBody.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/AbyssBody.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "Body Armour"
   },
   {

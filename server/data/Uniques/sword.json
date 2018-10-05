@@ -523,7 +523,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HarbingerLeagueSword.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HarbingerLeagueSword.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "One Hand Sword"
   },
   {
@@ -581,7 +581,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep1.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep1.png?scale=1&scaleIndex=0&w=1&h=3",
     "itemType": "One Hand Sword"
   },
   {
@@ -611,7 +611,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep2.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/EternalSleep2.png?scale=1&scaleIndex=0&w=1&h=3",
     "itemType": "One Hand Sword"
   },
   {
@@ -661,7 +661,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Varunastra.png?scale=1&scaleIndex=0&w=2&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/Varunastra.png?scale=1&scaleIndex=0&w=2&h=3",
     "itemType": "One Hand Sword"
   },
   {
@@ -968,7 +968,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/EdgeOfMadness.png?scale=1&scaleIndex=0&w=2&h=4&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/EdgeOfMadness.png?scale=1&scaleIndex=0&w=2&h=4",
     "itemType": "Two Hand Sword"
   },
   {

@@ -19,7 +19,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvQmxvb2RPZlRoZUthcnVpIiwic3AiOjAuNjA4NSwicmxjIjp0cnVlLCJsZXZlbCI6MH1d/9cd154fc63/Item.png",
-    "itemType": "LifeFlask"
+    "itemType": "Life Flask"
   },
   {
     "name": "Doedre's Elixir",
@@ -44,7 +44,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MjY6IkFydC8yREl0ZW1z/L0ZsYXNrcy95Rmxhc2s0/IjtzOjI6InNwIjtkOjAu/NjA4NTE5MjY5Nzc2ODc2/MztzOjU6ImxldmVsIjtp/OjA7fWk6MTtpOjQ7aTow/O2k6OTt9/c79e006a61/Item.png",
-    "itemType": "ManaFlask"
+    "itemType": "Mana Flask"
   },
   {
     "name": "Lavianga's Spirit",
@@ -60,7 +60,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvTGF2aWFuZ2FzT2lsIiwic3AiOjAuNjA4NSwicmxjIjp0cnVlLCJsZXZlbCI6MH1d/d7b63e4eac/Item.png",
-    "itemType": "ManaFlask"
+    "itemType": "Mana Flask"
   },
   {
     "name": "Zerphi's Last Breath",
@@ -75,7 +75,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/WzksNCx7ImYiOiJBcnRcLzJESXRlbXNcL0ZsYXNrc1wvWmVycGhpc0xhc3RCcmVhdGgiLCJzcCI6MC42MDg1LCJybGMiOnRydWUsImxldmVsIjowfV0/f6b6b1f0cd/Item.png",
-    "itemType": "ManaFlask"
+    "itemType": "Mana Flask"
   },
   {
     "name": "Divination Distillate",
@@ -103,7 +103,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mjg6IkFydC8yREl0ZW1z/L0ZsYXNrcy95Rmxhc2tz/MTciO3M6Mjoic3AiO2Q6/MC42MDg1MTkyNjk3NzY4/NzYzO3M6NToibGV2ZWwi/O2k6MDt9aToxO2k6NDtp/OjA7aTo5O30,/e9a9debfb2/Item.png",
-    "itemType": "HybridFlask"
+    "itemType": "Hybrid Flask"
   },
   {
     "name": "The Writhing Jar",
@@ -120,7 +120,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzA6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Xcml0aGlu/Z0phciI7czoyOiJzcCI7/ZDowLjYwODUxOTI2OTc3/Njg3NjM7czo1OiJsZXZl/bCI7aTowO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/b9fc3a5656/Item.png",
-    "itemType": "HybridFlask"
+    "itemType": "Hybrid Flask"
   },
   {
     "name": "Atziri's Promise",
@@ -143,7 +143,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzM6IkFydC8yREl0ZW1z/L0ZsYXNrcy9BdHppcmlz/UHJvbWlzZSI7czoyOiJz/cCI7ZDowLjYwODUxOTI2/OTc3Njg3NjM7czo1OiJs/ZXZlbCI7aTowO31pOjE7/aTo0O2k6MDtpOjk7fQ,,/ad6d35edab/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Coralito's Signature",
@@ -161,7 +161,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzE6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Hb3Jnb25z/Rmxhc2siO3M6Mjoic3Ai/O2Q6MC42MDg1MTkyNjk3/NzY4NzYzO3M6NToibGV2/ZWwiO2k6MDt9aToxO2k6/NDtpOjA7aTo5O30,/aeaa2d7e7d/Item.png",
-    "itemType": "UtilityFlaskCritical"
+    "itemType": "Utility FlaskCritical"
   },
   {
     "name": "Coruscating Elixir",
@@ -182,7 +182,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzA6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Db3J1c0Vs/aXhpciI7czoyOiJzcCI7/ZDowLjYwODUxOTI2OTc3/Njg3NjM7czo1OiJsZXZl/bCI7aTowO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/ad0e834aba/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Dying Sun",
@@ -204,7 +204,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzE6IkFydC8yREl0ZW1z/L0ZsYXNrcy9TaGFwZXJz/Rmxhc2siO3M6Mjoic3Ai/O2Q6MC42MDg1MTkyNjk3/NzY4NzYzO3M6NToibGV2/ZWwiO2k6MDt9aToxO2k6/NDtpOjA7aTo5O30,/f4367fb454/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Forbidden Taste",
@@ -231,7 +231,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjg6IlN0/YW5kYXJkIjtzOjk6ImFj/Y291bnRJZCI7TzoxODoi/R3JpbmRiXERhdGFiYXNl/XElkIjoxOntzOjI6Imlk/IjtpOjA7fXM6MTA6InNp/bXBsaWZpZWQiO2I6MTtp/OjI7YTozOntzOjE6ImYi/O3M6MzE6IkFydC8yREl0/ZW1zL0ZsYXNrcy9QaGFu/dG9tQmxvb2QiO3M6Mjoi/c3AiO2Q6MC42MDg1MTky/Njk3NzY4NzYzO3M6NToi/bGV2ZWwiO2k6MDt9aTox/O2k6NDtpOjA7aTo5O30,/f3f3db7881/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Kiara's Determination",
@@ -252,7 +252,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mzg6IkFydC8yREl0ZW1z/L0ZsYXNrcy9LaWFyYXNE/ZXRlcm1pbmF0aW9uIjtz/OjI6InNwIjtkOjAuNjA4/NTE5MjY5Nzc2ODc2Mztz/OjU6ImxldmVsIjtpOjA7/fWk6MTtpOjQ7aTowO2k6/OTt9/c076e7b9cf/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Lion's Roar",
@@ -285,7 +285,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MjY6IkFydC8yREl0ZW1z/L0ZsYXNrcy95Rmxhc2s1/IjtzOjI6InNwIjtkOjAu/NjA4NTE5MjY5Nzc2ODc2/MztzOjU6ImxldmVsIjtp/OjA7fWk6MTtpOjQ7aTow/O2k6OTt9/650bad3030/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Rotgut",
@@ -317,7 +317,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjE0OiJI/YXJkY29yZSBBYnlzcyI7/czo5OiJhY2NvdW50SWQi/O086MTg6IkdyaW5kYlxE/YXRhYmFzZVxJZCI6MTp7/czoyOiJpZCI7aTowO31z/OjEwOiJzaW1wbGlmaWVk/IjtiOjE7aToyO2E6Mzp7/czoxOiJmIjtzOjI1OiJB/cnQvMkRJdGVtcy9GbGFz/a3MvUm90Z3V0IjtzOjI6/InNwIjtkOjAuNjA4NTE5/MjY5Nzc2ODc2MztzOjU6/ImxldmVsIjtpOjA7fWk6/MTtpOjQ7aTowO2k6OTt9/4fee015035/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Rumi's Concoction",
@@ -342,7 +342,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjg6IlN0/YW5kYXJkIjtzOjk6ImFj/Y291bnRJZCI7TzoxODoi/R3JpbmRiXERhdGFiYXNl/XElkIjoxOntzOjI6Imlk/IjtpOjA7fXM6MTA6InNp/bXBsaWZpZWQiO2I6MTtp/OjI7YTozOntzOjE6ImYi/O3M6Mjk6IkFydC8yREl0/ZW1zL0ZsYXNrcy9CbG9j/a0ZsYXNrIjtzOjI6InNw/IjtkOjAuNjA4NTE5MjY5/Nzc2ODc2MztzOjU6Imxl/dmVsIjtpOjA7fWk6MTtp/OjQ7aTowO2k6OTt9/4cd7b38b7a/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Sin's Rebirth",
@@ -359,7 +359,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjE0OiJI/YXJkY29yZSBBYnlzcyI7/czo5OiJhY2NvdW50SWQi/O086MTg6IkdyaW5kYlxE/YXRhYmFzZVxJZCI6MTp7/czoyOiJpZCI7aTowO31z/OjEwOiJzaW1wbGlmaWVk/IjtiOjE7aToyO2E6Mzp7/czoxOiJmIjtzOjIyOiJB/cnQvMkRJdGVtcy9GbGFz/a3MvU2luIjtzOjI6InNw/IjtkOjAuNjA4NTE5MjY5/Nzc2ODc2MztzOjU6Imxl/dmVsIjtpOjA7fWk6MTtp/OjQ7aTowO2k6OTt9/07ac283b2f/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Taste of Hate",
@@ -387,7 +387,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzA6IkFydC8yREl0ZW1z/L0ZsYXNrcy9UYXN0ZU9m/SGF0ZSI7czoyOiJzcCI7/ZDowLjYwODUxOTI2OTc3/Njg3NjM7czo1OiJsZXZl/bCI7aTowO31pOjE7aTo0/O2k6MDtpOjk7fQ,,/28aa26db24/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "The Overflowing Chalice",
@@ -405,7 +405,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mzc6IkFydC8yREl0ZW1z/L0ZsYXNrcy9PdmVyZmxv/d2luZ0NoYWxpY2UiO3M6/Mjoic3AiO2Q6MC42MDg1/MTkyNjk3NzY4NzYzO3M6/NToibGV2ZWwiO2k6MDt9/aToxO2k6NDtpOjA7aTo5/O30,/98eac4b15e/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "The Sorrow of the Divine",
@@ -421,7 +421,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzY6IkFydC8yREl0ZW1z/L0ZsYXNrcy9Tb3Jyb3dP/ZlRoZURpdmluZSI7czoy/OiJzcCI7ZDowLjYwODUx/OTI2OTc3Njg3NjM7czo1/OiJsZXZlbCI7aTowO31p/OjE7aTo0O2k6MDtpOjk7/fQ,,/ed686240b8/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Vessel of Vinktar",
@@ -526,7 +526,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzE6IkFydC8yREl0ZW1z/L0ZsYXNrcy9WaW5rdGFy/Rmxhc2siO3M6Mjoic3Ai/O2Q6MC42MDg1MTkyNjk3/NzY4NzYzO3M6NToibGV2/ZWwiO2k6MDt9aToxO2k6/NDtpOjA7aTo5O30,/995730348c/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "The Wise Oak",
@@ -550,7 +550,7 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/Mjk6IkFydC8yREl0ZW1z/L0ZsYXNrcy9UaGVXaXNl/T2FrIjtzOjI6InNwIjtk/OjAuNjA4NTE5MjY5Nzc2/ODc2MztzOjU6ImxldmVs/IjtpOjA7fWk6MTtpOjQ7/aTowO2k6OTt9/7d63c23c51/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   },
   {
     "name": "Witchfire Brew",
@@ -573,6 +573,6 @@
     "shaper": false,
     "elder": false,
     "icon": "https://web.poecdn.com/gen/image/YTo2OntzOjEwOiJsZWFn/dWVOYW1lIjtzOjU6IkFi/eXNzIjtzOjk6ImFjY291/bnRJZCI7TzoxODoiR3Jp/bmRiXERhdGFiYXNlXElk/IjoxOntzOjI6ImlkIjtp/OjA7fXM6MTA6InNpbXBs/aWZpZWQiO2I6MTtpOjI7/YTozOntzOjE6ImYiO3M6/MzI6IkFydC8yREl0ZW1z/L0ZsYXNrcy9XaXRjaEZp/cmVCcmV3IjtzOjI6InNw/IjtkOjAuNjA4NTE5MjY5/Nzc2ODc2MztzOjU6Imxl/dmVsIjtpOjA7fWk6MTtp/OjQ7aTowO2k6OTt9/e269fc39de/Item.png",
-    "itemType": "UtilityFlask"
+    "itemType": "Utility Flask"
   }
 ]

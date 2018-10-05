@@ -408,7 +408,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Tulborn.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Tulborn.png?scale=1&scaleIndex=0&w=1&h=3",
     "itemType": "Wand"
   },
   {
@@ -428,7 +428,7 @@
     "corrupted": false,
     "shaper": false,
     "elder": false,
-    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/TulbornUpgraded.png?scale=1&scaleIndex=0&w=1&h=3&relic=1",
+    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/TulbornUpgraded.png?scale=1&scaleIndex=0&w=1&h=3",
     "itemType": "Wand"
   },
   {
