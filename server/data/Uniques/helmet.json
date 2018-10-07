@@ -1377,9 +1377,7 @@
       "+(30-40) to maximum Energy Shield",
       "+(24-30)% to Chaos Resistance",
       "Enemies cannot Leech Mana from You",
-      "Socketed Gems have 50% reduced Mana Cost",
-      "",
-      "}"
+      "Socketed Gems have 50% reduced Mana Cost"
     ],
     "corrupted": false,
     "shaper": false,

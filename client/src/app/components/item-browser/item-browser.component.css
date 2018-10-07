@@ -13,6 +13,7 @@
 
 .sidebar {
   overflow-y: scroll;
+  width: 200px;
 }
 
 .sidebar .list-group:hover {
@@ -22,6 +23,20 @@
 .content {
   display: flex;
   flex-direction: column;
+}
+
+.info-panel {
+  width: 300px;
+  padding: 0.5rem;
+}
+
+.info-panel img {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.mod {
+  font-size: 1rem;
 }
 
 .error-container {
@@ -47,16 +62,8 @@
   cursor: pointer;
 }
 
-.card-img-top {
-  height: 200px;
-  object-fit: scale-down;
-}
-
-.card-footer {
-  flex-grow: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.item-display {
+  text-align: center;
 }
 
 @keyframes rotate-360 {
@@ -74,10 +81,6 @@
 
 .disabled {
   pointer-events: none;
-}
-
-.disabled:hover {
-  cursor: default !important;
 }
 
 /* width */

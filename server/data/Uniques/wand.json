@@ -474,9 +474,7 @@
       "(50-65)% increased Global Critical Strike Chance",
       "+(40-50) to maximum Mana",
       "+1 to Maximum Power Charges",
-      "25% increased Spell Damage per Power Charge",
-      "",
-      "}"
+      "25% increased Spell Damage per Power Charge"
     ],
     "corrupted": false,
     "shaper": false,

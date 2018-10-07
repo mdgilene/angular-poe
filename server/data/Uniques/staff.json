@@ -689,9 +689,7 @@
       "(60-80)% increased Spell Damage",
       "+(70-100) to Maximum Energy Shield",
       "Reflects 1 to 150 Lightning Damage to Melee Attackers",
-      "20% Chance for Energy Shield Recharge to Start when you Block",
-      "",
-      "}"
+      "20% Chance for Energy Shield Recharge to Start when you Block"
     ],
     "corrupted": false,
     "shaper": false,

@@ -1793,9 +1793,7 @@
     "mods": [
       "+(20-24)% to all Elemental Resistances",
       "+100 Life Gained on Kill",
-      "+100 Mana Gained on Kill",
-      "",
-      "}"
+      "+100 Mana Gained on Kill"
     ],
     "corrupted": false,
     "shaper": false,

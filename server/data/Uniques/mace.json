@@ -1091,9 +1091,7 @@
       "50% increased Attack Speed",
       "(30-50)% reduced Rarity of Items found",
       "(30-50)% reduced Experience gain",
-      "0.4% of Physical Attack Damage Leeched as Mana",
-      "",
-      "}"
+      "0.4% of Physical Attack Damage Leeched as Mana"
     ],
     "corrupted": false,
     "shaper": false,

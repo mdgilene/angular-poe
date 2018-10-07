@@ -64,9 +64,9 @@ function parseItems(fileName: string) {
   const itemsRawString: string = fs
     .readFileSync(fileName)
     .toString()
-    .slice(0, -1)
     .replace('-- Item data (c) Grinding Gear Games', '')
     .replace('return {', '')
+    .slice(0, -2)
     .trim();
 
   const itemsRaw = itemsRawString.split('--');
@@ -77,7 +77,7 @@ function parseItems(fileName: string) {
       const itemsRaw = itemType.replace(type, '').split(']],[[');
       for (const itemRaw of itemsRaw) {
         const lines = itemRaw
-          .replace(/\]\],\[\[|\[\[|\]\],?/g, '')
+          .replace(/\]\],\[\[|\[\[|\]\](,?)/g, '')
           .replace('–', '-') // Fixes weird character encoding issue
           .replace(/[��]/g, '-')
           .trim()
@@ -108,6 +108,10 @@ function createItem(lines) {
   };
 
   item.name = lines[0].trim();
+  if (item.name === 'Wings of Entropy') {
+    console.log(lines);
+  }
+
   item.base = lines[1].trim();
   item.levelReq = getLevelReq(lines);
   item.variants = getVariants(lines);
@@ -248,7 +252,6 @@ function findItemType(base: string): string {
 
 function convertFlaskTypeNames(type: string): string {
   if (type.match(/Flask/g)) {
-    console.log(type.replace('Flask', ' Flask'));
     return type.replace('Flask', ' Flask');
   } else {
     return type;

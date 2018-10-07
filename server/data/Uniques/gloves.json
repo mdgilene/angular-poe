@@ -1034,9 +1034,7 @@
       "10% increased Attack Speed",
       "+(25-30) to maximum Energy Shield",
       "100% increased Shock Duration on Enemies",
-      "10% increased Stun Duration on Enemies",
-      "",
-      "}"
+      "10% increased Stun Duration on Enemies"
     ],
     "corrupted": false,
     "shaper": false,

@@ -1,5 +1,5 @@
 <div *ngIf="!$uniques.loading; else loadingSpinner" class="modal-body no-gutters">
-  <div class="col-3 sidebar">
+  <div class="sidebar">
     <ul class="list-group list-group-flush">
       <li class="list-group-item" (click)="clearFilter()">All</li>
     </ul>
@@ -42,13 +42,8 @@
   </div>
   <div class="col content">
     <div class="item-grid p-2">
-      <div *ngFor="let item of items | async" class="item-grid-item card bg-secondary" [class.border-info]="item === selectedItem"
-        (click)="setSelected(item)">
-        <img src={{item.icon}} class="card-img-top" />
-        <div class="card-footer">
-          {{item.name}}
-        </div>
-      </div>
+      <exilebuilds-item-card *ngFor="let item of items | async" [item]="item" (click)=setSelectedItem(item) [selected]="item === selectedItem"
+        class="item-grid-item"></exilebuilds-item-card>
     </div>
     <div class="toolbar container py-1 px-2">
       <div class="row">
@@ -63,7 +58,30 @@
       </div>
     </div>
   </div>
+  <div class="info-panel">
+    <div *ngIf="selectedItem; then itemInfoPanel else selectItemMessage"></div>
+  </div>
 </div>
+
+<ng-template #itemInfoPanel>
+  <div class="item-display">
+    <h4>{{selectedItem.name}}</h4>
+    <img [src]="selectedItem.icon" [alt]="selectedItem.name">
+    <div class="mod-list">
+      <div *ngFor="let mod of selectedItem.mods" class="mod">{{mod}}</div>
+      <div *ngFor="let mod of selectedItem.variants[selectedVariant]" class="mod">{{mod}}</div>
+    </div>
+    <select *ngIf="(selectedItem.variants | keys).length > 0" name="variant" [(ngModel)]="selectedVariant" class="form-control">
+      <option *ngFor="let variant of selectedItem.variants | keys" [value]="variant">{{variant}}</option>
+    </select>
+  </div>
+</ng-template>
+
+<ng-template #selectItemMessage>
+  <div class="h-100 d-flex align-items-center justify-content-center text-center">
+    <h4>Select an item to view its stats</h4>
+  </div>
+</ng-template>
 
 <ng-template #loadingSpinner>
   <div class="modal-body no-gutters p-1 d-flex align-items-center justify-content-center">

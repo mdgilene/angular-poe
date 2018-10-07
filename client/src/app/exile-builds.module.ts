@@ -18,6 +18,7 @@ import { ItemBrowserComponent } from './components/item-browser/item-browser.com
 import { ItemControlComponent } from './components/item-control/item-control.component';
 import { ModalModule } from 'ngx-bootstrap/modal';
 import { HttpClientModule } from '@angular/common/http';
+import { ItemCardComponent } from './components/item-card/item-card.component';
 
 @NgModule({
   imports: [
@@ -36,7 +37,8 @@ import { HttpClientModule } from '@angular/common/http';
     CreateBuildFormComponent,
     KeysPipe,
     ValuesPipe,
-    ItemControlComponent
+    ItemControlComponent,
+    ItemCardComponent
   ],
   entryComponents: [ItemBrowserComponent],
   bootstrap: [ExileBuildsComponent]

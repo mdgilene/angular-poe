@@ -355,9 +355,7 @@
       "(22-30)% increased Critical Strike Chance",
       "+(30-40)% to Global Critical Strike Multiplier",
       "100% increased Critical Strike Chance against Enemies on Full Life",
-      "1% of Attack Damage Leeched as Life on Critical Strike",
-      "",
-      "}"
+      "1% of Attack Damage Leeched as Life on Critical Strike"
     ],
     "corrupted": false,
     "shaper": false,

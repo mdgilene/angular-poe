@@ -571,9 +571,7 @@
     "mods": [
       "Adds (55-65) to (100-120) Fire Damage in Main Hand",
       "Adds (55-65) to (100-120) Chaos Damage in Off Hand",
-      "Counts as Dual Wielding",
-      "",
-      "}"
+      "Counts as Dual Wielding"
     ],
     "corrupted": false,
     "shaper": false,

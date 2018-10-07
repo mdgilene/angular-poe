@@ -493,9 +493,7 @@
       "Adds (2-6) to (16-22) Physical Damage",
       "(10-15)% increased Attack Speed",
       "20% increased Damage with Movement Skills",
-      "15% increased Attack Speed with Movement Skills",
-      "",
-      "}"
+      "15% increased Attack Speed with Movement Skills"
     ],
     "corrupted": false,
     "shaper": false,
