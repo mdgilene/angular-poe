@@ -37,7 +37,9 @@ export class CreateBuildFormComponent {
       ring1: [{}],
       ring2: [{}],
       amulet: [{}],
-      belt: [{}]
+      belt: [{}],
+      jewels: this.fb.array([]),
+      flasks: this.fb.array([{}, {}, {}, {}, {}])
     }),
     skills: this.fb.group({
       discussion: [''],
@@ -90,11 +92,17 @@ export class CreateBuildFormComponent {
   }
 
   patchSlot(slot: Slot, item: Item | {}) {
-    this.buildForm.patchValue({
-      items: {
-        [slot]: item
-      }
-    });
+    if (slot.includes('flask')) {
+      const flasks = this.items.get('flasks') as FormArray;
+      const index = parseInt(slot.slice(-1), 10) - 1;
+      flasks.at(index).patchValue(item);
+    } else {
+      this.buildForm.patchValue({
+        items: {
+          [slot]: item
+        }
+      });
+    }
   }
 
   /**
