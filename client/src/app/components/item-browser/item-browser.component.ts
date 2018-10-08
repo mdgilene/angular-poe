@@ -52,7 +52,7 @@ export class ItemBrowserComponent implements OnInit {
 
   setSelectedItem(item: Item) {
     this.selectedItem = item;
-    this.selectedVariant = 'Current';
+    this.selectedVariant = Object.keys(item.variants).slice(-1)[0];
   }
 
   close() {

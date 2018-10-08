@@ -67,11 +67,13 @@
   <div class="item-display">
     <h4>{{selectedItem.name}}</h4>
     <img [src]="selectedItem.icon" [alt]="selectedItem.name">
-    <div class="mod-list">
+    <div class="mod mb-2">Requires Level {{selectedItem.levelReq}}, {{selectedItem.statReqs}}</div>
+    <div class="line-separator"></div>
+    <div class="mod-list mt-2">
       <div *ngFor="let mod of selectedItem.mods" class="mod">{{mod}}</div>
       <div *ngFor="let mod of selectedItem.variants[selectedVariant]" class="mod">{{mod}}</div>
     </div>
-    <select *ngIf="(selectedItem.variants | keys).length > 0" name="variant" [(ngModel)]="selectedVariant" class="form-control">
+    <select *ngIf="(selectedItem.variants | keys).length > 0" name="variant" [(ngModel)]="selectedVariant" class="form-control my-2">
       <option *ngFor="let variant of selectedItem.variants | keys" [value]="variant">{{variant}}</option>
     </select>
   </div>

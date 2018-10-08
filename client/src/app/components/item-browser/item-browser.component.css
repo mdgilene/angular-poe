@@ -28,15 +28,16 @@
 .info-panel {
   width: 300px;
   padding: 0.5rem;
+  overflow-y: auto;
 }
 
-.info-panel img {
+.item-display img {
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
 
 .mod {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .error-container {
@@ -64,6 +65,16 @@
 
 .item-display {
   text-align: center;
+}
+
+.mod {
+  color: #ce9b6b;
+}
+
+.line-separator {
+  height: 1px;
+  width: 100%;
+  background-color: #ce9b6b;
 }
 
 @keyframes rotate-360 {

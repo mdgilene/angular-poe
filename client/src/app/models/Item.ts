@@ -2,6 +2,7 @@ export interface Item {
   name: string;
   base: string;
   levelReq: number;
+  statReq: string;
   variants: { [key: string]: string[] };
   mods: string[];
   corrupted: boolean;
