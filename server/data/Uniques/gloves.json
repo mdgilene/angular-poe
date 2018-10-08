@@ -3,6 +3,7 @@
     "name": "Atziri's Acuity",
     "base": "Vaal Gauntlets",
     "levelReq": 75,
+    "statReqs": "100 Str",
     "variants": {
       "Pre 3.0.0": [
         "Leech applies instantly on Critical Strike"
@@ -30,6 +31,7 @@
     "name": "Craiceann's Pincers",
     "base": "Titan Gauntlets",
     "levelReq": 69,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(150-200)% increased Armour",
@@ -49,6 +51,7 @@
     "name": "Doryani's Fist",
     "base": "Vaal Gauntlets",
     "levelReq": 63,
+    "statReqs": "100 Str",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -72,6 +75,7 @@
     "name": "Empire's Grasp",
     "base": "Goliath Gauntlets",
     "levelReq": 53,
+    "statReqs": "76 Str",
     "variants": {},
     "mods": [
       "+(400-600) to Armour",
@@ -88,6 +92,7 @@
     "name": "Giantsbane",
     "base": "Bronze Gauntlets",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds (3-6) to (10-12) Physical Damage to Attacks ",
@@ -105,6 +110,7 @@
     "name": "Lochtonial Caress",
     "base": "Iron Gauntlets",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+(10-20) to Armour"
@@ -130,6 +136,7 @@
     "name": "Meginord's Vise",
     "base": "Steel Gauntlets",
     "levelReq": 35,
+    "statReqs": "52 Str",
     "variants": {
       "Pre 1.1.0": [
         "(5-15)% reduced Attack Speed"
@@ -154,6 +161,7 @@
     "name": "Veruso's Battering Rams",
     "base": "Titan Gauntlets",
     "levelReq": 69,
+    "statReqs": "98 Str",
     "variants": {},
     "mods": [
       "(8-13)% increased Attack Speed",
@@ -173,6 +181,7 @@
     "name": "Winds of Change",
     "base": "Ancient Gauntlets",
     "levelReq": 47,
+    "statReqs": "68 Str",
     "variants": {
       "Pre 2.6.0": [
         "10% reduced Movement Speed"
@@ -197,6 +206,7 @@
     "name": "Blasphemer's Grasp",
     "base": "Assassin's Mitts",
     "levelReq": 58,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(40-50) to Dexterity ",
@@ -213,6 +223,7 @@
     "name": "Hrimsorrow",
     "base": "Goathide Gloves",
     "levelReq": 9,
+    "statReqs": "17 Dex",
     "variants": {
       "Pre 2.6.0": [
         "50% increased Evasion Rating",
@@ -240,6 +251,7 @@
     "name": "Hrimburn",
     "base": "Goathide Gloves",
     "levelReq": 24,
+    "statReqs": "17 Dex",
     "variants": {
       "Pre 2.6.0": [
         "50% increased Evasion Rating",
@@ -268,6 +280,7 @@
     "name": "Maligaro's Virtuosity",
     "base": "Deerskin Gloves",
     "levelReq": 21,
+    "statReqs": "33 Dex",
     "variants": {
       "Pre 1.1.0": [
         "+(40-50)% to Global Critical Strike Multiplier"
@@ -295,6 +308,7 @@
     "name": "Oskarm",
     "base": "Nubuck Gloves",
     "levelReq": 33,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(30-40)% increased Accuracy Rating ",
@@ -314,6 +328,7 @@
     "name": "Allelopathy",
     "base": "Sorcerer Gloves",
     "levelReq": 69,
+    "statReqs": "97 Int",
     "variants": {},
     "mods": [
       "Grants level 22 Blight Skill",
@@ -333,6 +348,7 @@
     "name": "Asenath's Gentle Touch",
     "base": "Silk Gloves",
     "levelReq": 25,
+    "statReqs": "39 Int",
     "variants": {
       "Pre 2.6.0": [
         "Curse Enemies with Temporal Chains on Hit"
@@ -356,6 +372,7 @@
     "name": "Doedre's Tenure",
     "base": "Velvet Gloves",
     "levelReq": 12,
+    "statReqs": "21 Int",
     "variants": {
       "Pre 2.6.0": [
         "(40-50)% increased Spell Damage",
@@ -381,6 +398,7 @@
     "name": "Doedre's Malevolence",
     "base": "Velvet Gloves",
     "levelReq": 64,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(50-60)% increased Spell Damage",
@@ -400,6 +418,7 @@
     "name": "Grip of the Council",
     "base": "Arcanist Gloves",
     "levelReq": 60,
+    "statReqs": "95 Int",
     "variants": {},
     "mods": [
       "+30 to Strength",
@@ -419,6 +438,7 @@
     "name": "Kalisa's Grace",
     "base": "Samite Gloves",
     "levelReq": 47,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Socketed Gems are Supported by Level 18 Faster Casting",
@@ -437,6 +457,7 @@
     "name": "Sadima's Touch",
     "base": "Wool Gloves",
     "levelReq": 11,
+    "statReqs": "",
     "variants": {
       "Pre 1.1.0": [
         "(18-24)% increased Quantity of Items found"
@@ -460,6 +481,7 @@
     "name": "Voidbringer",
     "base": "Conjurer Gloves",
     "levelReq": 55,
+    "statReqs": "79 Int",
     "variants": {
       "Pre 2.6.0": [
         "(280-350)% increased Energy Shield",
@@ -489,6 +511,7 @@
     "name": "Aurseize",
     "base": "Steelscale Gauntlets",
     "levelReq": 36,
+    "statReqs": "29 Str, 29 Dex",
     "variants": {},
     "mods": [
       "(40-60)% increased Armour and Evasion",
@@ -506,6 +529,7 @@
     "name": "Farrul's Pounce",
     "base": "Hydrascale Gauntlets",
     "levelReq": 59,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(100-140)% increased Armour and Evasion",
@@ -525,6 +549,7 @@
     "name": "Flesh and Spirit",
     "base": "Ironscale Gauntlets",
     "levelReq": 15,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(6-9)% increased Attack Speed",
@@ -544,6 +569,7 @@
     "name": "Haemophilia",
     "base": "Serpentscale Gauntlets",
     "levelReq": 43,
+    "statReqs": "34 Str, 34 Dex",
     "variants": {},
     "mods": [
       "+(20-30) to Strength ",
@@ -564,6 +590,7 @@
     "name": "Slitherpinch",
     "base": "Bronzescale Gauntlets",
     "levelReq": 27,
+    "statReqs": "22 Str, 22 Dex",
     "variants": {
       "Pre 2.6.0": [
         "5% increased Attack Speed"
@@ -588,6 +615,7 @@
     "name": "Surgebinders",
     "base": "Dragonscale Gauntlets",
     "levelReq": 67,
+    "statReqs": "51 Str, 51 Dex",
     "variants": {
       "Pre 2.6.0": [
         "(10-30)% reduced Endurance, Frenzy and Power Charge Duration"
@@ -611,6 +639,7 @@
     "name": "Tombfist",
     "base": "Steelscale Gauntlets",
     "levelReq": null,
+    "statReqs": "",
     "variants": {
       "One Abyssal Socket": [
         "Has 1 Abyssal Socket"
@@ -635,6 +664,7 @@
     "name": "Vaal Caress",
     "base": "Bronzescale Gauntlets",
     "levelReq": 27,
+    "statReqs": "22 Str, 22 Dex",
     "variants": {
       "Pre 2.6.0": [
         "+(30-40) to maximum Life",
@@ -660,6 +690,7 @@
     "name": "Wyrmsign",
     "base": "Wyrmscale Gauntlets",
     "levelReq": 49,
+    "statReqs": "38 Str, 38 Dex",
     "variants": {},
     "mods": [
       "Socketed Gems are Supported by level 5 Concentrated Effect",
@@ -679,6 +710,7 @@
     "name": "Null and Void",
     "base": "Legion Gloves",
     "levelReq": 57,
+    "statReqs": "44 Str, 44 Int",
     "variants": {},
     "mods": [
       "+(20-30) to Strength",
@@ -699,6 +731,7 @@
     "name": "Repentance",
     "base": "Crusader Gloves",
     "levelReq": 66,
+    "statReqs": "306 Str, 306 Int",
     "variants": {},
     "mods": [
       "(0-30)% reduced Spell Damage",
@@ -717,6 +750,7 @@
     "name": "Saqawal's Winds",
     "base": "Soldier Gloves",
     "levelReq": 51,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(140-180)% increased Armour and Energy Shield",
@@ -736,6 +770,7 @@
     "name": "Shackles of the Wretched",
     "base": "Chain Gloves",
     "levelReq": 7,
+    "statReqs": "17 Dex",
     "variants": {
       "Pre 1.2.0": [
         "You cannot be Shocked for 1 second after being Shocked"
@@ -762,6 +797,7 @@
     "name": "Shaper's Touch",
     "base": "Crusader Gloves",
     "levelReq": 66,
+    "statReqs": "51 Str, 51 Int",
     "variants": {
       "Pre 2.6.0": [
         "+2 Accuracy Rating per 2 Intelligence",
@@ -792,6 +828,7 @@
     "name": "Southbound",
     "base": "Soldier Gloves",
     "levelReq": 51,
+    "statReqs": "40 Str, 40 Int",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -815,6 +852,7 @@
     "name": "Volkuur's Guidance",
     "base": "Zealot Gloves",
     "levelReq": 43,
+    "statReqs": "34 Str, 34 Int",
     "variants": {
       "Fire": [
         "Adds (16-20) to (25-30) Fire Damage to Spells and Attacks",
@@ -849,6 +887,7 @@
     "name": "The Embalmer",
     "base": "Carnal Mitts",
     "levelReq": 50,
+    "statReqs": "39 Dex, 39 Int",
     "variants": {},
     "mods": [
       "Socketed Gems are Supported by Level 20 Vile Toxins",
@@ -867,6 +906,7 @@
     "name": "Facebreaker",
     "base": "Strapped Mitts",
     "levelReq": 16,
+    "statReqs": "14 Dex, 14 Int",
     "variants": {
       "Pre 1.0.0": [
         "+60% to Global Critical Strike Multiplier",
@@ -903,6 +943,7 @@
     "name": "Fenumus' Weave",
     "base": "Carnal Mitts",
     "levelReq": 50,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Grants Level 20 Aspect of the Spider Skill",
@@ -922,6 +963,7 @@
     "name": "Ondar's Clasp",
     "base": "Wrapped Mitts",
     "levelReq": 5,
+    "statReqs": "",
     "variants": {
       "Pre 1.1.0": [
         "20% increased Attack Speed when on Full Life",
@@ -946,6 +988,7 @@
     "name": "Malachai's Mark",
     "base": "Murder Mitts",
     "levelReq": 67,
+    "statReqs": "51 Dex, 51 Int",
     "variants": {},
     "mods": [
       "(80-100)% increased Evasion and Energy Shield",
@@ -964,6 +1007,7 @@
     "name": "Shadows and Dust",
     "base": "Clasped Mitts",
     "levelReq": 31,
+    "statReqs": "25 Dex, 25 Int",
     "variants": {
       "Pre 2.2.0": [
         "+(15-30)% to Global Critical Strike Multiplier"
@@ -993,6 +1037,7 @@
     "name": "Snakebite",
     "base": "Assassin's Mitts",
     "levelReq": 58,
+    "statReqs": "45 Dex, 45 Int",
     "variants": {
       "Pre 3.0.0": [
         "While at Maximum Frenzy Charges, Attacks Poison Enemies"
@@ -1018,6 +1063,7 @@
     "name": "Thunderfist",
     "base": "Murder Mitts",
     "levelReq": 67,
+    "statReqs": "51 Dex, 51 Int",
     "variants": {
       "Pre 1.0.0": [
         "Adds 1 to 100 Lightning Damage to Attacks"

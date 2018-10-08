@@ -3,6 +3,7 @@
     "name": "Arborix",
     "base": "Assassin Bow",
     "levelReq": 62,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds (60-70) to (180-210) Physical Damage ",
@@ -23,6 +24,7 @@
     "name": "Chin Sol",
     "base": "Assassin Bow",
     "levelReq": 62,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 1.2.0": [
         "(6-12)% increased Elemental Damage with Weapons",
@@ -55,6 +57,7 @@
     "name": "Darkscorn",
     "base": "Assassin Bow",
     "levelReq": 62,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 1.2.0": [
         "(6-12)% increased Elemental Damage with Weapons",
@@ -90,6 +93,7 @@
     "name": "Death's Harp",
     "base": "Death Bow",
     "levelReq": 32,
+    "statReqs": "107 Dex",
     "variants": {
       "Pre 2.2.0": [
         "+100% to Global Critical Strike Multiplier"
@@ -117,6 +121,7 @@
     "name": "Death's Opus",
     "base": "Death Bow",
     "levelReq": 44,
+    "statReqs": "107 Dex",
     "variants": {
       "Pre 3.0.0": [
         "+150% to Global Critical Strike Multiplier"
@@ -142,6 +147,7 @@
     "name": "Doomfletch",
     "base": "Royal Bow",
     "levelReq": 28,
+    "statReqs": "95 Dex",
     "variants": {
       "Pre 2.0.0": [
         "(6-12)% increased Elemental Damage with Weapons",
@@ -186,6 +192,7 @@
     "name": "Doomfletch's Prism",
     "base": "Royal Bow",
     "levelReq": 40,
+    "statReqs": "95 Dex",
     "variants": {
       "Pre 2.6.0": [
         "(6-12)% increased Elemental Damage with Weapons",
@@ -225,6 +232,7 @@
     "name": "Hopeshredder",
     "base": "Ranger Bow",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {
       "Pre 3.4.0": [
         "400 Cold Damage taken per second per Frenzy Charge while moving"
@@ -252,6 +260,7 @@
     "name": "Infractem",
     "base": "Decimation Bow",
     "levelReq": 53,
+    "statReqs": "170 Dex",
     "variants": {
       "Pre 1.2.0": [
         "(90-100)% increased Physical Damage",
@@ -293,6 +302,7 @@
     "name": "Iron Commander",
     "base": "Death Bow",
     "levelReq": 32,
+    "statReqs": "107 Dex",
     "variants": {},
     "mods": [
       "(30-50)% increased Critical Strike Chance",
@@ -313,6 +323,7 @@
     "name": "Lioneye's Glare",
     "base": "Imperial Bow",
     "levelReq": 66,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 2.0.0": [],
       "Pre 2.6.0": [
@@ -343,6 +354,7 @@
     "name": "Null's Inclination",
     "base": "Ranger Bow",
     "levelReq": 60,
+    "statReqs": "212 Dex, 212 Int",
     "variants": {},
     "mods": [
       "Adds (50-80) to (130-180) Chaos Damage",
@@ -362,6 +374,7 @@
     "name": "Nuro's Harp",
     "base": "Harbinger Bow",
     "levelReq": 68,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 2.5.0": [],
       "Current": [
@@ -387,6 +400,7 @@
     "name": "Quill Rain",
     "base": "Short Bow",
     "levelReq": 5,
+    "statReqs": "26 Dex",
     "variants": {
       "Pre 2.6.0": [
         "50% less Weapon Damage"
@@ -413,6 +427,7 @@
     "name": "Reach of the Council",
     "base": "Spine Bow",
     "levelReq": 64,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 2.4.0": [
         "(50-70)% increased Physical Damage",
@@ -444,6 +459,7 @@
     "name": "Roth's Reach",
     "base": "Recurve Bow",
     "levelReq": 18,
+    "statReqs": "71 Dex",
     "variants": {
       "Pre 3.0.0": [
         "(20-40)% increased Elemental Damage with Weapons"
@@ -468,6 +484,7 @@
     "name": "Silverbranch",
     "base": "Crude Bow",
     "levelReq": 2,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "(50-80)% increased Physical Damage"
@@ -492,6 +509,7 @@
     "name": "Silverbough",
     "base": "Crude Bow",
     "levelReq": 36,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -512,6 +530,7 @@
     "name": "Slivertongue",
     "base": "Harbinger Bow",
     "levelReq": 68,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 3.0.0": [
         "Arrows that Pierce cause Bleeding"
@@ -536,6 +555,7 @@
     "name": "Storm Cloud",
     "base": "Long Bow",
     "levelReq": 9,
+    "statReqs": "38 Dex",
     "variants": {
       "Pre 2.0.0": [
         "Adds 1 to 75 Lightning Damage"
@@ -558,6 +578,7 @@
     "name": "The Tempest",
     "base": "Long Bow",
     "levelReq": 32,
+    "statReqs": "38 Dex",
     "variants": {},
     "mods": [
       "No Physical Damage",
@@ -575,6 +596,7 @@
     "name": "Voltaxic Rift",
     "base": "Spine Bow",
     "levelReq": 64,
+    "statReqs": "212 Dex",
     "variants": {},
     "mods": [
       "Adds 1 to (275-325) Lightning Damage",
@@ -593,6 +615,7 @@
     "name": "Windripper",
     "base": "Imperial Bow",
     "levelReq": 66,
+    "statReqs": "212 Dex",
     "variants": {
       "Pre 2.0.0": [
         "(80-100)% increased Critical Strike Chance",
@@ -633,6 +656,7 @@
     "name": "Xoph's Inception",
     "base": "Bone Bow",
     "levelReq": 23,
+    "statReqs": "80 Dex",
     "variants": {},
     "mods": [
       "(70-90)% increased Physical Damage",
@@ -650,6 +674,7 @@
     "name": "Xoph's Nurture",
     "base": "Citadel Bow",
     "levelReq": 64,
+    "statReqs": "185 Dex",
     "variants": {
       "Pre 3.3.0": [
         "Ignites your Skills cause spread to other Enemies within a Radius of 12"

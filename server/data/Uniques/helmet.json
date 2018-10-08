@@ -3,6 +3,7 @@
     "name": "Abyssus",
     "base": "Ezomyte Burgonet",
     "levelReq": 60,
+    "statReqs": "138 Str",
     "variants": {
       "Pre 2.2.0": [
         "+(100-150)% to Melee Critical Strike Multiplier"
@@ -30,6 +31,7 @@
     "name": "The Baron",
     "base": "Close Helmet",
     "levelReq": 26,
+    "statReqs": "58 Str",
     "variants": {},
     "mods": [
       "+2 to Level of Socketed Minion Gems",
@@ -49,6 +51,7 @@
     "name": "Ezomyte Peak",
     "base": "Iron Hat",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "20% increased Physical Damage",
@@ -66,6 +69,7 @@
     "name": "Ezomyte Hold",
     "base": "Iron Hat",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "20% increased Physical Damage",
@@ -84,6 +88,7 @@
     "name": "The Formless Flame",
     "base": "Siege Helmet",
     "levelReq": 48,
+    "statReqs": "101 Str",
     "variants": {},
     "mods": [
       "+(100-120) to Armour",
@@ -101,6 +106,7 @@
     "name": "The Formless Inferno",
     "base": "Royal Burgonet",
     "levelReq": 65,
+    "statReqs": "148 Str",
     "variants": {},
     "mods": [
       "(80-120)% increased Armour",
@@ -119,6 +125,7 @@
     "name": "Hrimnor's Resolve",
     "base": "Samite Helmet",
     "levelReq": 55,
+    "statReqs": "114 Str",
     "variants": {
       "Pre 2.0.0": [
         "(10-30)% increased Fire Damage",
@@ -154,6 +161,7 @@
     "name": "Alpha's Howl",
     "base": "Sinner Tricorne",
     "levelReq": 64,
+    "statReqs": "138 Dex",
     "variants": {},
     "mods": [
       "+2 to Level of Socketed Aura Gems",
@@ -173,6 +181,7 @@
     "name": "Fairgraves' Tricorne",
     "base": "Tricorne",
     "levelReq": 12,
+    "statReqs": "27 Dex",
     "variants": {},
     "mods": [
       "Adds 6 to 12 Cold Damage to Attacks",
@@ -192,6 +201,7 @@
     "name": "Goldrim",
     "base": "Leather Cap",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(30-50) to Evasion Rating",
@@ -209,6 +219,7 @@
     "name": "Heatshiver",
     "base": "Leather Hood",
     "levelReq": 20,
+    "statReqs": "46 Dex",
     "variants": {
       "Pre 3.0.0": [
         "+1 to Level of Socketed Fire Gems",
@@ -237,6 +248,7 @@
     "name": "Frostferno",
     "base": "Leather Hood",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+2 to Level of Socketed Fire Gems",
@@ -256,6 +268,7 @@
     "name": "Obscurantis",
     "base": "Lion Pelt",
     "levelReq": 70,
+    "statReqs": "150 Dex",
     "variants": {},
     "mods": [
       "+(300-500) to Accuracy Rating",
@@ -273,6 +286,7 @@
     "name": "Rat's Nest",
     "base": "Ursine Pelt",
     "levelReq": 55,
+    "statReqs": "114 Dex",
     "variants": {},
     "mods": [
       "15% increased Attack Speed",
@@ -292,6 +306,7 @@
     "name": "Saqawal's Flock",
     "base": "Silken Hood",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "25% chance to Trigger Level 20 Tornado when you gain Avian's Might or Avian's Flight",
@@ -310,6 +325,7 @@
     "name": "Starkonja's Head",
     "base": "Silken Hood",
     "levelReq": 60,
+    "statReqs": "138 Dex",
     "variants": {
       "Pre 2.6.0": [
         "+(30-50) to Dexterity",
@@ -337,6 +353,7 @@
     "name": "Asenath's Mark",
     "base": "Iron Circlet",
     "levelReq": 8,
+    "statReqs": "23 Int",
     "variants": {
       "Pre 2.6.0": [
         "50% increased Energy Shield"
@@ -362,6 +379,7 @@
     "name": "Asenath's Chant",
     "base": "Iron Circlet",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "25% chance to Trigger a Socketed Spell when you Attack with a Bow",
@@ -382,6 +400,7 @@
     "name": "Chitus' Apex",
     "base": "Necromancer Circlet",
     "levelReq": 54,
+    "statReqs": "112 Int",
     "variants": {},
     "mods": [
       "+(20-30) to Strength",
@@ -400,6 +419,7 @@
     "name": "Crown of Eyes",
     "base": "Hubris Circlet",
     "levelReq": 69,
+    "statReqs": "154 Int",
     "variants": {},
     "mods": [
       "+(200-250) to Accuracy Rating",
@@ -419,6 +439,7 @@
     "name": "Crown of Thorns",
     "base": "Vine Circlet",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 1.2.0": [
         "+(12-24) to maximum Energy Shield"
@@ -442,6 +463,7 @@
     "name": "Martyr's Crown",
     "base": "Vine Circlet",
     "levelReq": 52,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "+(260-300) to maximum Energy Shield"
@@ -465,6 +487,7 @@
     "name": "Doedre's Scorn",
     "base": "Lunaris Circlet",
     "levelReq": 39,
+    "statReqs": "83 Int",
     "variants": {
       "Pre 2.6.0": [
         "+1 to Level of Socketed Curse Gems",
@@ -496,6 +519,7 @@
     "name": "Eber's Unification",
     "base": "Hubris Circlet",
     "levelReq": 69,
+    "statReqs": "154 Int",
     "variants": {},
     "mods": [
       "Trigger level 10 Void Gaze when you use a Skill",
@@ -514,6 +538,7 @@
     "name": "Fenumus' Toxins",
     "base": "Necromancer Circlet",
     "levelReq": 54,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds (16-21) to (31–36) Chaos Damage to Spells",
@@ -533,6 +558,7 @@
     "name": "Indigon",
     "base": "Hubris Circlet",
     "levelReq": 69,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(150-180)% increased Energy Shield",
@@ -552,6 +578,7 @@
     "name": "Mark of the Red Covenant",
     "base": "Tribal Circlet",
     "levelReq": 26,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(30-50) to maximum Energy Shield",
@@ -571,6 +598,7 @@
     "name": "Rime Gaze",
     "base": "Mind Cage",
     "levelReq": 65,
+    "statReqs": "138 Int",
     "variants": {
       "Pre 2.6.0": [
         "Socketed Gems are Supported by level 15 Concentrated Effect",
@@ -597,6 +625,7 @@
     "name": "Scold's Bridle",
     "base": "Mind Cage",
     "levelReq": 65,
+    "statReqs": "138 Int",
     "variants": {},
     "mods": [
       "(80-100)% increased Spell Damage",
@@ -614,6 +643,7 @@
     "name": "Wraithlord",
     "base": "Bone Circlet",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+2 to Level of Socketed Minion Gems ",
@@ -631,6 +661,7 @@
     "name": "Ylfeban's Trickery",
     "base": "Hubris Circlet",
     "levelReq": 69,
+    "statReqs": "154 Int",
     "variants": {
       "Pre 2.6.0": [
         "10% chance to Curse Enemies with a random Curse on Hit",
@@ -656,6 +687,7 @@
     "name": "Black Sun Crest",
     "base": "Lacquered Helmet",
     "levelReq": 51,
+    "statReqs": "57 Str, 57 Dex",
     "variants": {},
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -675,6 +707,7 @@
     "name": "The Bringer of Rain",
     "base": "Nightmare Bascinet",
     "levelReq": 67,
+    "statReqs": "62 Str, 85 Dex",
     "variants": {
       "Pre 1.1.0": [
         "Socketed Gems are Supported by level 18 Faster Attacks",
@@ -715,6 +748,7 @@
     "name": "Deidbell",
     "base": "Gilded Sallet",
     "levelReq": 33,
+    "statReqs": "38 Str, 38 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -738,6 +772,7 @@
     "name": "Deidbellow",
     "base": "Gilded Sallet",
     "levelReq": 33,
+    "statReqs": "38 Str, 38 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -763,6 +798,7 @@
     "name": "Devoto's Devotion",
     "base": "Nightmare Bascinet",
     "levelReq": 67,
+    "statReqs": "62 Str, 85 Dex",
     "variants": {},
     "mods": [
       "10% reduced Physical Damage",
@@ -783,6 +819,7 @@
     "name": "The Peregrine",
     "base": "Visored Sallet",
     "levelReq": 23,
+    "statReqs": "28 Str, 28 Dex",
     "variants": {
       "Pre 2.6.0": [
         "+100 to Accuracy Rating",
@@ -809,6 +846,7 @@
     "name": "Skullhead",
     "base": "Secutor Helm",
     "levelReq": 36,
+    "statReqs": "42 Str, 42 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -833,6 +871,7 @@
     "name": "Ahn's Contempt",
     "base": "Praetor Crown",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(15-20) to all Attributes ",
@@ -852,6 +891,7 @@
     "name": "The Brine Crown",
     "base": "Prophet Crown",
     "levelReq": 63,
+    "statReqs": "85 Str, 62 Int",
     "variants": {},
     "mods": [
       "(100-120)% increased Armour and Energy Shield",
@@ -872,6 +912,7 @@
     "name": "The Broken Crown",
     "base": "Prophet Crown",
     "levelReq": 63,
+    "statReqs": "85 Str, 62 Int",
     "variants": {
       "Pre 2.6.0": [
         "+(20-30) to maximum Energy Shield"
@@ -901,6 +942,7 @@
     "name": "Craiceann's Chitin",
     "base": "Magistrate Crown",
     "levelReq": 58,
+    "statReqs": "",
     "variants": {
       "Pre 3.4.0": [
         "+(7-9)% chance to Block Spell Damage"
@@ -926,6 +968,7 @@
     "name": "Geofri's Crest",
     "base": "Great Crown",
     "levelReq": 53,
+    "statReqs": "59 Str, 59 Int",
     "variants": {},
     "mods": [
       "+1 to Level of Socketed Gems",
@@ -945,6 +988,7 @@
     "name": "Honourhome",
     "base": "Soldier Helmet",
     "levelReq": 12,
+    "statReqs": "16 Str, 16 Int",
     "variants": {},
     "mods": [
       "Adds 1 to 13 Lightning Damage to Attacks",
@@ -963,6 +1007,7 @@
     "name": "Kitava's Thirst",
     "base": "Zealot Helmet",
     "levelReq": 44,
+    "statReqs": "50 Str, 50 Int",
     "variants": {},
     "mods": [
       "15% reduced Cast Speed",
@@ -981,6 +1026,7 @@
     "name": "Lightpoacher",
     "base": "Great Crown",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "One Abyssal Socket": [
         "Has 1 Abyssal Socket"
@@ -1006,6 +1052,7 @@
     "name": "Malachai's Vision",
     "base": "Praetor Crown",
     "levelReq": 68,
+    "statReqs": "62 Str, 91 Int",
     "variants": {
       "Pre 3.0.0": [
         "+(200-250) to maximum Energy Shield"
@@ -1029,6 +1076,7 @@
     "name": "Memory Vault",
     "base": "Praetor Crown",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(130-160) to maximum Energy Shield ",
@@ -1048,6 +1096,7 @@
     "name": "Mindspiral",
     "base": "Aventail Helmet",
     "levelReq": 37,
+    "statReqs": "42 Str, 42 Int",
     "variants": {
       "Pre 3.0.0": [
         "+(100-150) to maximum Mana"
@@ -1074,6 +1123,7 @@
     "name": "Speaker's Wreath",
     "base": "Prophet Crown",
     "levelReq": 63,
+    "statReqs": "85 Str, 62 Int",
     "variants": {},
     "mods": [
       "+(20-40) to Dexterity",
@@ -1092,6 +1142,7 @@
     "name": "Veil of the Night",
     "base": "Great Helmet",
     "levelReq": 22,
+    "statReqs": "27 Str, 27 Int",
     "variants": {},
     "mods": [
       "(20-22)% increased Stun Recovery",
@@ -1110,6 +1161,7 @@
     "name": "Voll's Vision",
     "base": "Praetor Crown",
     "levelReq": 68,
+    "statReqs": "62 Str, 91 Int",
     "variants": {},
     "mods": [
       "+(260-300) to Armour",
@@ -1127,6 +1179,7 @@
     "name": "Crown of the Pale King",
     "base": "Regicide Mask",
     "levelReq": 52,
+    "statReqs": "58 Dex, 58 Int",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -1149,6 +1202,7 @@
     "name": "Farrul's Bite",
     "base": "Harlequin Mask",
     "levelReq": 57,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Grants Level 20 Aspect of the Cat Skill",
@@ -1168,6 +1222,7 @@
     "name": "Gorgon's Gaze",
     "base": "Regicide Mask",
     "levelReq": 52,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Grants Level 20 Summon Petrification Statue Skill",
@@ -1187,6 +1242,7 @@
     "name": "The Gull",
     "base": "Raven Mask",
     "levelReq": 38,
+    "statReqs": "44 Dex, 44 Int",
     "variants": {
       "Pre 2.6.0": [
         "+(30-40) to maximum Mana",
@@ -1221,6 +1277,7 @@
     "name": "Heretic's Veil",
     "base": "Deicide Mask",
     "levelReq": 67,
+    "statReqs": "73 Dex, 88 Int",
     "variants": {
       "Pre 2.6.0": [
         "(130-150)% increased Evasion and Energy Shield",
@@ -1250,6 +1307,7 @@
     "name": "Leer Cast",
     "base": "Festival Mask",
     "levelReq": 28,
+    "statReqs": "33 Dex, 33 Int",
     "variants": {},
     "mods": [
       "30% reduced Damage",
@@ -1268,6 +1326,7 @@
     "name": "Malachai's Simula",
     "base": "Iron Mask",
     "levelReq": 17,
+    "statReqs": "21 Dex, 21 Int",
     "variants": {
       "Pre 1.0.0": [
         "100% increased Mana Cost of Skills"
@@ -1294,6 +1353,7 @@
     "name": "Malachai's Awakening",
     "base": "Iron Mask",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-30)% increased Spell Damage",
@@ -1314,6 +1374,7 @@
     "name": "Mind of the Council",
     "base": "Harlequin Mask",
     "levelReq": 57,
+    "statReqs": "64 Dex, 64 Int",
     "variants": {},
     "mods": [
       "(230-260)% increased Evasion and Energy Shield",
@@ -1333,6 +1394,7 @@
     "name": "The Tempest's Binding",
     "base": "Callous Mask",
     "levelReq": 45,
+    "statReqs": "51 Dex, 51 Int",
     "variants": {},
     "mods": [
       "Socketed Gems are Supported by Level 18 Ice Bite",
@@ -1353,6 +1415,7 @@
     "name": "The Three Dragons",
     "base": "Golden Mask",
     "levelReq": 35,
+    "statReqs": "40 Dex, 40 Int",
     "variants": {},
     "mods": [
       "+(26-30)% to all Elemental Resistances",
@@ -1370,6 +1433,7 @@
     "name": "The Vertex",
     "base": "Vaal Mask",
     "levelReq": 62,
+    "statReqs": "79 Dex, 72 Int",
     "variants": {},
     "mods": [
       "+1 to Level of Socketed Gems",

@@ -3,6 +3,7 @@
     "name": "Andvarius",
     "base": "Gold Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(6-15)% increased Rarity of Items found",
@@ -20,6 +21,7 @@
     "name": "Berek's Grip",
     "base": "Two-Stone Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(10-15)% increased Cold Damage",
@@ -48,6 +50,7 @@
     "name": "Berek's Pass",
     "base": "Two-Stone Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(10-15)% increased Fire Damage",
@@ -74,6 +77,7 @@
     "name": "Berek's Respite",
     "base": "Two-Stone Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "Adds 1 to (10-30) Fire Damage to Attacks",
@@ -102,6 +106,7 @@
     "name": "Blackheart",
     "base": "Iron Ring",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 1 to 4 Physical Damage to Attacks",
@@ -121,6 +126,7 @@
     "name": "Voidheart",
     "base": "Iron Ring",
     "levelReq": 48,
+    "statReqs": "",
     "variants": {
       "Pre 2.4.0": [
         "Melee Attacks cause Bleeding",
@@ -149,6 +155,7 @@
     "name": "Bloodboil",
     "base": "Coral Ring",
     "levelReq": 24,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "Adds (7-10) to (15-20) Fire Damage to Attacks",
@@ -176,6 +183,7 @@
     "name": "Winterweave",
     "base": "Coral Ring",
     "levelReq": 53,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-30) to maximum Life",
@@ -196,6 +204,7 @@
     "name": "Brinerot Mark",
     "base": "Unset Ring",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+2 to Level of Socketed Golem Gems",
@@ -225,6 +234,7 @@
     "name": "Call of the Brotherhood",
     "base": "Two-Stone Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "50% of Lightning Damage Converted to Cold Damage"
@@ -250,6 +260,7 @@
     "name": "Death Rush",
     "base": "Amethyst Ring",
     "levelReq": 46,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+(60-80) to Armour",
@@ -277,6 +288,7 @@
     "name": "Doedre's Damning",
     "base": "Paua Ring",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-25) to maximum Mana",
@@ -295,6 +307,7 @@
     "name": "Dream Fragments",
     "base": "Sapphire Ring",
     "levelReq": 24,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -318,6 +331,7 @@
     "name": "Emberwake",
     "base": "Ruby Ring",
     "levelReq": 16,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "(15-25)% increased Fire Damage",
@@ -347,6 +361,7 @@
     "name": "Essence Worm",
     "base": "Unset Ring",
     "levelReq": 38,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Has 1 Socket",
@@ -364,6 +379,7 @@
     "name": "Gifts from Above",
     "base": "Diamond Ring",
     "levelReq": 28,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "Creates Consecrated Ground on Critical Strike"
@@ -390,6 +406,7 @@
     "name": "Heartbound Loop",
     "base": "Moonstone Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(15-25) to maximum Energy Shield",
@@ -409,6 +426,7 @@
     "name": "The Hungry Loop",
     "base": "Unset Ring",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Has 1 Socket ",
@@ -426,6 +444,7 @@
     "name": "Kaom's Sign",
     "base": "Coral Ring",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "0.4% of Physical Attack Damage Leeched as Life"
@@ -449,6 +468,7 @@
     "name": "Kaom's Way",
     "base": "Coral Ring",
     "levelReq": 32,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-30) to maximum Life",
@@ -467,6 +487,7 @@
     "name": "Kikazaru",
     "base": "Topaz Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(13-17) Life Regenerated per second",
@@ -492,6 +513,7 @@
     "name": "Le Heup of All",
     "base": "Iron Ring",
     "levelReq": 24,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(10-20)% increased Damage",
@@ -519,6 +541,7 @@
     "name": "Lori's Lantern",
     "base": "Prismatic Ring",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {
       "Pre 1.0.0": [
         "+(8-12)% to all Elemental Resistances"
@@ -544,6 +567,7 @@
     "name": "Malachai's Artifice",
     "base": "Unset Ring",
     "levelReq": 5,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "−25% to all Elemental Resistances",
@@ -572,6 +596,7 @@
     "name": "Mark of the Elder",
     "base": "Steel Ring",
     "levelReq": 80,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds (3-4) to (10–14) Physical Damage to Attacks",
@@ -590,6 +615,7 @@
     "name": "Mark of the Shaper",
     "base": "Opal Ring",
     "levelReq": 80,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-25)% increased Elemental Damage",
@@ -608,6 +634,7 @@
     "name": "Ming's Heart",
     "base": "Amethyst Ring",
     "levelReq": 69,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "15% reduced maximum Life",
@@ -637,6 +664,7 @@
     "name": "Mokou's Embrace",
     "base": "Ruby Ring",
     "levelReq": 16,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-30)% to Fire Resistance",
@@ -657,6 +685,7 @@
     "name": "Mutewind Seal",
     "base": "Unset Ring",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+2 to Level of Socketed Golem Gems",
@@ -686,6 +715,7 @@
     "name": "Ngamahu's Sign",
     "base": "Ruby Ring",
     "levelReq": 29,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "Adds (8-10) to (12-14) Fire Damage to Attacks",
@@ -713,6 +743,7 @@
     "name": "The Pariah",
     "base": "Unset Ring",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Has 1 Socket",
@@ -733,6 +764,7 @@
     "name": "Perandus Signet",
     "base": "Paua Ring",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "3% increased Experience gain",
@@ -759,6 +791,7 @@
     "name": "Praxis",
     "base": "Paua Ring",
     "levelReq": 22,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-25) to maximum Mana",
@@ -777,6 +810,7 @@
     "name": "Pyre",
     "base": "Sapphire Ring",
     "levelReq": 11,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(25-35)% increased Burning Damage",
@@ -807,6 +841,7 @@
     "name": "Redblade Band",
     "base": "Unset Ring",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+2 to Level of Socketed Golem Gems",
@@ -836,6 +871,7 @@
     "name": "Rigwald's Crest",
     "base": "Two-Stone Ring",
     "levelReq": 49,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(12-16)% to Fire and Cold Resistances",
@@ -854,6 +890,7 @@
     "name": "Romira's Banquet",
     "base": "Diamond Ring",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {
       "Pre 1.1.0": [
         "+(10-20)% to Global Critical Strike Multiplier"
@@ -883,6 +920,7 @@
     "name": "Shavronne's Revelation",
     "base": "Moonstone Ring",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {
       "Pre 1.2.0": [
         "Right ring slot: 4% of Energy Shield Regenerated per second",
@@ -913,6 +951,7 @@
     "name": "Sibyl's Lament",
     "base": "Coral Ring",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "(20-30)% increased Elemental Damage with Weapons",
@@ -953,6 +992,7 @@
     "name": "Snakepit",
     "base": "Sapphire Ring",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-30)% to Cold Resistance",
@@ -970,6 +1010,7 @@
     "name": "Stormfire",
     "base": "Opal Ring",
     "levelReq": 80,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-25)% increased Elemental Damage",
@@ -989,6 +1030,7 @@
     "name": "The Taming",
     "base": "Prismatic Ring",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "15% increased Elemental Damage with Weapons",
@@ -1018,6 +1060,7 @@
     "name": "Tasalio's Sign",
     "base": "Sapphire Ring",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "Adds 10 to 15 Physical Damage to Attacks against Frozen Enemies",
@@ -1046,6 +1089,7 @@
     "name": "Thief's Torment",
     "base": "Prismatic Ring",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {
       "Pre 1.0.0": [
         "+(8-12) to all Elemental Resistances",
@@ -1090,6 +1134,7 @@
     "name": "Timeclasp",
     "base": "Moonstone Ring",
     "levelReq": 22,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(5-8)% increased Cast Speed",
@@ -1118,6 +1163,7 @@
     "name": "Timetwist",
     "base": "Moonstone Ring",
     "levelReq": 64,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(15-25) to maximum Energy Shield",
@@ -1138,6 +1184,7 @@
     "name": "Valako's Sign",
     "base": "Topaz Ring",
     "levelReq": 38,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "15% increased Damage against Shocked Enemies",
@@ -1168,6 +1215,7 @@
     "name": "Valyrium",
     "base": "Moonstone Ring",
     "levelReq": 38,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(15-25) to maximum Energy Shield",
@@ -1186,6 +1234,7 @@
     "name": "Ventor's Gamble",
     "base": "Gold Ring",
     "levelReq": 65,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(6-15)% increased Rarity of Items found",
@@ -1206,6 +1255,7 @@
     "name": "Voideye",
     "base": "Unset Ring",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Has 1 Socket",
@@ -1221,6 +1271,7 @@
     "name": "The Warden's Brand",
     "base": "Iron Ring",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 1 to 4 Physical Damage to Attacks",

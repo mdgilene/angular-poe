@@ -3,6 +3,7 @@
     "name": "Asphyxia's Wrath",
     "base": "Two-Point Arrow Quiver",
     "levelReq": 10,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "20% of Physical Damage Converted to Cold Damage",
@@ -31,6 +32,7 @@
     "name": "Blackgleam",
     "base": "Fire Arrow Quiver",
     "levelReq": 22,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "(30-50)% of Physical Damage Converted to Fire Damage"
@@ -56,6 +58,7 @@
     "name": "The Signal Fire",
     "base": "Fire Arrow Quiver",
     "levelReq": 24,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 4 to 8 Fire Damage to Attacks with Bows",
@@ -76,6 +79,7 @@
     "name": "Craghead",
     "base": "Serrated Arrow Quiver",
     "levelReq": 5,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 1 to 4 Physical Damage to Attacks with Bows",
@@ -94,6 +98,7 @@
     "name": "Cragfall",
     "base": "Serrated Arrow Quiver",
     "levelReq": 5,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 1 to 4 Physical Damage to Attacks with Bows",
@@ -113,6 +118,7 @@
     "name": "Drillneck",
     "base": "Penetrating Arrow Quiver",
     "levelReq": 36,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "10% chance of Arrows Piercing",
@@ -139,6 +145,7 @@
     "name": "The Fracturing Spinner",
     "base": "Blunt Arrow Quiver",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(25-35)% increased Stun Duration on Enemies",
@@ -158,6 +165,7 @@
     "name": "Hyrri's Bite",
     "base": "Sharktooth Arrow Quiver",
     "levelReq": 10,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -183,6 +191,7 @@
     "name": "Hyrri's Demise",
     "base": "Sharktooth Arrow Quiver",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(3-4) Life gained for each Enemy hit by your Attacks",
@@ -204,6 +213,7 @@
     "name": "Maloney's Nightfall",
     "base": "Blunt Arrow Quiver",
     "levelReq": 55,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(8-10)% increased Attack Speed",
@@ -239,6 +249,7 @@
     "name": "Rearguard",
     "base": "Broadhead Arrow Quiver",
     "levelReq": 28,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 6 to 12 Physical Damage to Attacks with Bows",
@@ -259,6 +270,7 @@
     "name": "Rigwald's Quills",
     "base": "Two-Point Arrow Quiver",
     "levelReq": 56,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Accuracy Rating",
@@ -279,6 +291,7 @@
     "name": "Saemus' Gift",
     "base": "Spike-Point Arrow Quiver",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Global Critical Strike Chance",
@@ -299,6 +312,7 @@
     "name": "Skirmish",
     "base": "Two-Point Arrow Quiver",
     "levelReq": 19,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Accuracy Rating",
@@ -318,6 +332,7 @@
     "name": "Soul Strike",
     "base": "Spike-Point Arrow Quiver",
     "levelReq": 64,
+    "statReqs": "",
     "variants": {
       "Pre 2.5.0": [
         "150% faster start of Energy Shield Recharge"
@@ -344,6 +359,7 @@
     "name": "Voidfletcher",
     "base": "Penetrating Arrow Quiver",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Arrows Pierce an additional Target",

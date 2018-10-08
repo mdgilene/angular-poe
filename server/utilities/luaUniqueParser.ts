@@ -6,6 +6,7 @@ interface Item {
   name: string;
   base: string;
   levelReq: number;
+  statReqs: string;
   variants: ItemVariants;
   mods: string[];
   corrupted: boolean;
@@ -66,7 +67,6 @@ function parseItems(fileName: string) {
     .toString()
     .replace('-- Item data (c) Grinding Gear Games', '')
     .replace('return {', '')
-    .slice(0, -2)
     .trim();
 
   const itemsRaw = itemsRawString.split('--');
@@ -77,7 +77,7 @@ function parseItems(fileName: string) {
       const itemsRaw = itemType.replace(type, '').split(']],[[');
       for (const itemRaw of itemsRaw) {
         const lines = itemRaw
-          .replace(/\]\],\[\[|\[\[|\]\](,?)/g, '')
+          .replace(/(\]\],\[\[)|(\[\[)|(\]\],?)|}$/g, '')
           .replace('–', '-') // Fixes weird character encoding issue
           .replace(/[��]/g, '-')
           .trim()
@@ -98,6 +98,7 @@ function createItem(lines) {
     name: '',
     base: '',
     levelReq: 0,
+    statReqs: '',
     variants: {},
     mods: [],
     corrupted: false,
@@ -108,12 +109,9 @@ function createItem(lines) {
   };
 
   item.name = lines[0].trim();
-  if (item.name === 'Wings of Entropy') {
-    console.log(lines);
-  }
-
   item.base = lines[1].trim();
   item.levelReq = getLevelReq(lines);
+  item.statReqs = getStatReqs(lines);
   item.variants = getVariants(lines);
   item.mods = getMods(lines);
   item.corrupted = isCorrupted(lines);
@@ -167,6 +165,20 @@ function getLevelReq(raw: string[]): number {
   }
 
   return levelReq;
+}
+
+function getStatReqs(raw: string[]): string {
+  let statReqs = '';
+  for (const line of raw) {
+    if (line.match(/^Requires/g)) {
+      statReqs = line
+        .split(',')
+        .splice(1)
+        .join(',')
+        .trim();
+    }
+  }
+  return statReqs;
 }
 
 function getVariants(raw: string[]): ItemVariants {

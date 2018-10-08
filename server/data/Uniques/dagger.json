@@ -3,6 +3,7 @@
     "name": "Arakaali's Fang",
     "base": "Fiend Dagger",
     "levelReq": 53,
+    "statReqs": "58 Dex, 123 Int",
     "variants": {
       "Pre 2.6.0": [],
       "Current": []
@@ -25,6 +26,7 @@
     "name": "Bino's Kitchen Knife",
     "base": "Slaughter Knife",
     "levelReq": 65,
+    "statReqs": "81 Dex, 117 Int",
     "variants": {
       "Pre 2.2.0": [
         "+(10-15)% to Global Critical Strike Multiplier"
@@ -52,6 +54,7 @@
     "name": "Bloodplay",
     "base": "Stiletto",
     "levelReq": 15,
+    "statReqs": "30 Dex, 30 Int",
     "variants": {
       "Pre 2.6.0": [
         "10% chance to cause Bleeding on Hit"
@@ -78,6 +81,7 @@
     "name": "The Consuming Dark",
     "base": "Fiend Dagger",
     "levelReq": 53,
+    "statReqs": "58 Dex, 123 Int",
     "variants": {
       "Pre 2.2.0": [
         "(40-60)% increased Spell Damage",
@@ -110,6 +114,7 @@
     "name": "Divinarius",
     "base": "Imperial Skean",
     "levelReq": 66,
+    "statReqs": "95 Dex, 131 Int",
     "variants": {},
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -129,6 +134,7 @@
     "name": "Goredrill",
     "base": "Skinning Knife",
     "levelReq": 5,
+    "statReqs": "16 Dex",
     "variants": {
       "Pre 3.0.0": [
         "Melee Critical Strikes cause Bleeding"
@@ -155,6 +161,7 @@
     "name": "Sanguine Gambol",
     "base": "Skinning Knife",
     "levelReq": 5,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -176,6 +183,7 @@
     "name": "Heartbreaker",
     "base": "Royal Skean",
     "levelReq": 50,
+    "statReqs": "71 Dex, 102 Int",
     "variants": {
       "Pre 2.6.0": [
         "(40-50)% increased Spell Damage"
@@ -201,6 +209,7 @@
     "name": "Mark of the Doubting Knight",
     "base": "Platinum Kris",
     "levelReq": 64,
+    "statReqs": "76 Dex, 149 Int",
     "variants": {
       "Pre 2.0.0": [
         "(180-210)% increased Physical Damage",
@@ -234,6 +243,7 @@
     "name": "Mightflay",
     "base": "Flaying Knife",
     "levelReq": 35,
+    "statReqs": "73 Dex, 51 Int",
     "variants": {},
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -252,6 +262,7 @@
     "name": "Taproot",
     "base": "Ambusher",
     "levelReq": 60,
+    "statReqs": "113 Dex, 113 Int",
     "variants": {},
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -273,6 +284,7 @@
     "name": "Ungil's Gauche",
     "base": "Boot Knife",
     "levelReq": 20,
+    "statReqs": "31 Dex, 45 Int",
     "variants": {
       "Pre 1.1.0": [
         "12% additional Chance to Block while Dual Wielding"
@@ -302,6 +314,7 @@
     "name": "Vulconus",
     "base": "Demon Dagger",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "40% increased Global Critical Strike Chance ",
@@ -323,6 +336,7 @@
     "name": "White Wind",
     "base": "Imperial Skean",
     "levelReq": 66,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "30% increased Global Critical Strike Chance",
@@ -342,6 +356,7 @@
     "name": "Widowmaker",
     "base": "Boot Blade",
     "levelReq": 44,
+    "statReqs": "63 Dex, 90 Int",
     "variants": {
       "Pre 3.0.0": [
         "Adds (15-25) to (35-45) Physical Damage"

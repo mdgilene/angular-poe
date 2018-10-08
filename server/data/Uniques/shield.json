@@ -3,6 +3,7 @@
     "name": "Ahn's Heritage",
     "base": "Colossal Tower Shield",
     "levelReq": 67,
+    "statReqs": "159 Str",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -28,6 +29,7 @@
     "name": "The Anticipation",
     "base": "Ezomyte Tower Shield",
     "levelReq": 64,
+    "statReqs": "159 Str",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -51,6 +53,7 @@
     "name": "The Surrender",
     "base": "Ezomyte Tower Shield",
     "levelReq": 64,
+    "statReqs": "159 Str",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -75,6 +78,7 @@
     "name": "Chernobog's Pillar",
     "base": "Ebony Tower Shield",
     "levelReq": 61,
+    "statReqs": "159 Str",
     "variants": {
       "Pre 2.0.0": [
         "5% chance to Curse Enemies with Enfeeble on Hit"
@@ -110,6 +114,7 @@
     "name": "Lioneye's Remorse",
     "base": "Pinnacle Tower Shield",
     "levelReq": 70,
+    "statReqs": "159 Str",
     "variants": {
       "Pre 2.6.0": [
         "+(80-100) to maximum Life"
@@ -139,6 +144,7 @@
     "name": "Lycosidae",
     "base": "Rawhide Tower Shield",
     "levelReq": 11,
+    "statReqs": "33 Str",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -162,6 +168,7 @@
     "name": "Magna Eclipsis",
     "base": "Pinnacle Tower Shield",
     "levelReq": 70,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(20-30) to maximum Life ",
@@ -181,6 +188,7 @@
     "name": "Redblade Banner",
     "base": "Painted Tower Shield",
     "levelReq": 35,
+    "statReqs": "87 Str",
     "variants": {
       "Pre 2.6.0": [
         "+(20-60) to maximum Life",
@@ -215,6 +223,7 @@
     "name": "Titucius' Span",
     "base": "Reinforced Tower Shield",
     "levelReq": 30,
+    "statReqs": "76 Str",
     "variants": {
       "Pre 2.6.0": [
         "−10 Physical Damage taken from Projectile Attacks"
@@ -243,6 +252,7 @@
     "name": "Trolltimber Spire",
     "base": "Cedar Tower Shield",
     "levelReq": 17,
+    "statReqs": "46 Str",
     "variants": {
       "Pre 2.6.0": [
         "1% of Damage Leeched as Life for Skills used by Totems"
@@ -272,6 +282,7 @@
     "name": "Tukohama's Fortress",
     "base": "Ebony Tower Shield",
     "levelReq": 61,
+    "statReqs": "159 Str",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -295,6 +306,7 @@
     "name": "Atziri's Mirror",
     "base": "Golden Buckler",
     "levelReq": 54,
+    "statReqs": "130 Dex",
     "variants": {
       "Pre 2.0.0": [
         "(80-100)% increased Evasion Rating"
@@ -326,6 +338,7 @@
     "name": "Atziri's Reflection",
     "base": "Golden Buckler",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "6% increased Movement Speed",
@@ -347,6 +360,7 @@
     "name": "Chalice of Horrors",
     "base": "War Buckler",
     "levelReq": 29,
+    "statReqs": "74 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Pre 3.0.0": [
@@ -376,6 +390,7 @@
     "name": "Thirst for Horrors",
     "base": "War Buckler",
     "levelReq": 32,
+    "statReqs": "74 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Pre 3.0.0": [
@@ -406,6 +421,7 @@
     "name": "Crest of Perandus",
     "base": "Pine Buckler",
     "levelReq": 8,
+    "statReqs": "26 Dex",
     "variants": {
       "Pre 1.3.0": [
         "+10% Chance to Block"
@@ -434,6 +450,7 @@
     "name": "Great Old One's Ward",
     "base": "Corrugated Buckler",
     "levelReq": 46,
+    "statReqs": "112 Dex",
     "variants": {
       "Pre 3.0.0": [],
       "Current": [
@@ -456,6 +473,7 @@
     "name": "Kaltenhalt",
     "base": "Painted Buckler",
     "levelReq": 16,
+    "statReqs": "44 Dex",
     "variants": {
       "Pre 1.0.0": [
         "Reflects (5-10) Cold Damage to Melee Attackers"
@@ -489,6 +507,7 @@
     "name": "Kaltensoul",
     "base": "Painted Buckler",
     "levelReq": 16,
+    "statReqs": "44 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Pre 3.0.0": [
@@ -517,6 +536,7 @@
     "name": "Mutewind Pennant",
     "base": "Enameled Buckler",
     "levelReq": 42,
+    "statReqs": "103 Dex",
     "variants": {
       "Pre 2.6.0": [
         "+1 to Level of Socketed Warcry Gems",
@@ -549,6 +569,7 @@
     "name": "Thousand Teeth Temu",
     "base": "Vaal Buckler",
     "levelReq": 63,
+    "statReqs": "159 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Pre 3.0.0": [
@@ -576,6 +597,7 @@
     "name": "Brinerot Flag",
     "base": "Tarnished Spirit Shield",
     "levelReq": 23,
+    "statReqs": "60 Int",
     "variants": {
       "Pre 2.6.0": [
         "5% increased Spell Damage",
@@ -610,6 +632,7 @@
     "name": "Esh's Mirror",
     "base": "Thorium Spirit Shield",
     "levelReq": 53,
+    "statReqs": "128 Int",
     "variants": {},
     "mods": [
       "+(20-30) to Intelligence",
@@ -629,6 +652,7 @@
     "name": "Esh's Visage",
     "base": "Vaal Spirit Shield",
     "levelReq": 62,
+    "statReqs": "159 Int",
     "variants": {
       "Pre 3.0.0": [
         "5% increased Spell Damage"
@@ -655,6 +679,7 @@
     "name": "Kongming's Stratagem",
     "base": "Ivory Spirit Shield",
     "levelReq": 41,
+    "statReqs": "100 Int",
     "variants": {
       "Pre 3.0.0": [
         "15% increased Spell Damage",
@@ -682,6 +707,7 @@
     "name": "Light of Lunaris",
     "base": "Jingling Spirit Shield",
     "levelReq": 28,
+    "statReqs": "71 Int",
     "variants": {
       "Pre 3.0.0": [
         "10% increased Spell Damage"
@@ -707,6 +733,7 @@
     "name": "Malachai's Loop",
     "base": "Harmonic Spirit Shield",
     "levelReq": 65,
+    "statReqs": "159 Int",
     "variants": {
       "Pre 2.6.0": [
         "10% increased Spell Damage",
@@ -738,6 +765,7 @@
     "name": "Matua Tupuna",
     "base": "Tarnished Spirit Shield",
     "levelReq": 23,
+    "statReqs": "60 Int",
     "variants": {
       "Pre 3.0.0": [
         "5% increased Spell Damage"
@@ -764,6 +792,7 @@
     "name": "Rathpith Globe",
     "base": "Titanium Spirit Shield",
     "levelReq": 68,
+    "statReqs": "159 Int",
     "variants": {
       "Pre 3.0.0": [
         "(40-60)% of Block Chance applied to Spells"
@@ -791,6 +820,7 @@
     "name": "Sentari's Answer",
     "base": "Brass Spirit Shield",
     "levelReq": 33,
+    "statReqs": "82 Int",
     "variants": {
       "Pre 3.0.0": [
         "25% of Block Chance applied to Spells"
@@ -820,6 +850,7 @@
     "name": "Daresso's Courage",
     "base": "Baroque Round Shield",
     "levelReq": 54,
+    "statReqs": "70 Str, 70 Dex",
     "variants": {
       "Pre 2.6.0": [
         "+(10-20)% to Fire Resistance",
@@ -862,6 +893,7 @@
     "name": "The Deep One's Hide",
     "base": "Studded Round Shield",
     "levelReq": 20,
+    "statReqs": "28 Str, 28 Dex",
     "variants": {
       "Pre 2.6.0": [
         "Adds 4 to 8 Cold Damage to Attacks"
@@ -887,6 +919,7 @@
     "name": "Vix Lunaris",
     "base": "Cardinal Round Shield",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+2 to Level of Socketed Gems ",
@@ -905,6 +938,7 @@
     "name": "Wheel of the Stormsail",
     "base": "Rotted Round Shield",
     "levelReq": 5,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "60% increased Block Recovery",
@@ -924,6 +958,7 @@
     "name": "Aegis Aurora",
     "base": "Champion Kite Shield",
     "levelReq": 62,
+    "statReqs": "85 Str, 85 Int",
     "variants": {
       "Pre 1.1.0": [
         "(10-20)% increased Elemental Damage with Weapons",
@@ -954,6 +989,7 @@
     "name": "Broken Faith",
     "base": "Archon Kite Shield",
     "levelReq": 68,
+    "statReqs": "85 Str, 85 Int",
     "variants": {
       "Pre 2.6.0": [
         "-10% Chance to Block",
@@ -981,6 +1017,7 @@
     "name": "Invictus Solaris",
     "base": "Archon Kite Shield",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+12% to all Elemental Resistances",
@@ -1000,6 +1037,7 @@
     "name": "Prism Guardian",
     "base": "Archon Kite Shield",
     "levelReq": 68,
+    "statReqs": "85 Str, 85 Int",
     "variants": {
       "Pre 1.1.0": [
         "+24% to all Elemental Resistances",
@@ -1030,6 +1068,7 @@
     "name": "Rise of the Phoenix",
     "base": "Mosaic Kite Shield",
     "levelReq": 65,
+    "statReqs": "85 Str, 85 Int",
     "variants": {
       "Pre 1.1.0": [
         "+16% to all Elemental Resistances",
@@ -1065,6 +1104,7 @@
     "name": "Saffell's Frame",
     "base": "Branded Kite Shield",
     "levelReq": 59,
+    "statReqs": "76 Str, 76 Int",
     "variants": {
       "Pre 1.1.0": [
         "+8% to all Elemental Resistances",
@@ -1102,6 +1142,7 @@
     "name": "Springleaf",
     "base": "Plank Kite Shield",
     "levelReq": 7,
+    "statReqs": "",
     "variants": {
       "Pre 1.1.0": [
         "+8% to all Elemental Resistances",
@@ -1136,6 +1177,7 @@
     "name": "The Oak",
     "base": "Plank Kite Shield",
     "levelReq": 40,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "1% of Life Regenerated per Second",
@@ -1162,6 +1204,7 @@
     "name": "The Unshattered Will",
     "base": "Archon Kite Shield",
     "levelReq": 68,
+    "statReqs": "85 Str, 85 Int",
     "variants": {},
     "mods": [
       "+12% to all Elemental Resistances",
@@ -1182,6 +1225,7 @@
     "name": "Victario's Charity",
     "base": "Laminated Kite Shield",
     "levelReq": 50,
+    "statReqs": "64 Str, 64 Int",
     "variants": {
       "Pre 2.6.0": [
         "10% increased Radius of Aura Skills"
@@ -1208,6 +1252,7 @@
     "name": "Glitterdisc",
     "base": "Burnished Spiked Shield",
     "levelReq": 27,
+    "statReqs": "36 Dex, 36 Int",
     "variants": {
       "Pre 3.0.0": [
         "Reflects (10-23) Physical Damage to Melee Attackers"
@@ -1234,6 +1279,7 @@
     "name": "Jaws of Agony",
     "base": "Supreme Spiked Shield",
     "levelReq": 70,
+    "statReqs": "85 Dex, 85 Int",
     "variants": {
       "Pre 2.0.0": [
         "Reflects (221-260) Physical Damage to Melee Attackers",
@@ -1265,6 +1311,7 @@
     "name": "Leper's Alms",
     "base": "Mirrored Spiked Shield",
     "levelReq": 66,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "4% chance to Dodge Attacks ",
@@ -1284,6 +1331,7 @@
     "name": "Maligaro's Lens",
     "base": "Compound Spiked Shield",
     "levelReq": 45,
+    "statReqs": "58 Dex, 58 Int",
     "variants": {
       "Pre 3.0.0": [
         "Reflects (51-70) Physical Damage to Melee Attackers"

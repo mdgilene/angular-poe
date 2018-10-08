@@ -3,6 +3,7 @@
     "name": "Ascent From Flesh",
     "base": "Chain Belt",
     "levelReq": 44,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+(35-45) to maximum Energy Shield"
@@ -29,6 +30,7 @@
     "name": "Auxium",
     "base": "Chain Belt",
     "levelReq": 70,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": []
     },
@@ -50,6 +52,7 @@
     "name": "Auxium",
     "base": "Crystal Belt",
     "levelReq": 70,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "(10-20)% increased Elemental Damage with Weapons"
@@ -75,6 +78,7 @@
     "name": "Bated Breath",
     "base": "Chain Belt",
     "levelReq": 22,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -98,6 +102,7 @@
     "name": "Belt of the Deceiver",
     "base": "Heavy Belt",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "10% reduced Chance to Block Attacks and Spells",
@@ -124,6 +129,7 @@
     "name": "Bisco's Leash",
     "base": "Heavy Belt",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(25-35) to Strength",
@@ -142,6 +148,7 @@
     "name": "Cyclopean Coil",
     "base": "Leather Belt",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(25-40) to maximum Life",
@@ -162,6 +169,7 @@
     "name": "Darkness Enthroned",
     "base": "Stygian Vise",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Has 1 Abyssal Socket",
@@ -178,6 +186,7 @@
     "name": "Doryani's Invitation",
     "base": "Heavy Belt",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {
       "Physical": [
         "(20-30)% increased Physical Damage",
@@ -225,6 +234,7 @@
     "name": "Dyadian Dawn",
     "base": "Heavy Belt",
     "levelReq": 52,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "0.6% of Attack Damage Leeched as Life against Chilled enemies",
@@ -252,6 +262,7 @@
     "name": "Faminebind",
     "base": "Rustic Sash",
     "levelReq": 18,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(12-24)% increased Physical Damage",
@@ -271,6 +282,7 @@
     "name": "Feastbind",
     "base": "Rustic Sash",
     "levelReq": 11,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(12-24)% increased Physical Damage",
@@ -290,6 +302,7 @@
     "name": "The Flow Untethered",
     "base": "Cloth Belt",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-25)% increased Stun and Block Recovery",
@@ -310,6 +323,7 @@
     "name": "Gluttony",
     "base": "Leather Belt",
     "levelReq": 48,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(25-40) to maximum Life",
@@ -329,6 +343,7 @@
     "name": "Headhunter",
     "base": "Leather Belt",
     "levelReq": 40,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "(20-30)% increased Damage against Rare monsters"
@@ -354,6 +369,7 @@
     "name": "Immortal Flesh",
     "base": "Leather Belt",
     "levelReq": 50,
+    "statReqs": "",
     "variants": {
       "Pre 1.3.0": [
         "−40% to all Elemental Resistances",
@@ -384,6 +400,7 @@
     "name": "The Magnate",
     "base": "Studded Belt",
     "levelReq": 16,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -406,6 +423,7 @@
     "name": "The Nomad",
     "base": "Studded Belt",
     "levelReq": 48,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Stun Duration on Enemies",
@@ -425,6 +443,7 @@
     "name": "The Tactician",
     "base": "Studded Belt",
     "levelReq": 48,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Stun Duration on Enemies",
@@ -445,6 +464,7 @@
     "name": "Maligaro's Restraint",
     "base": "Chain Belt",
     "levelReq": 44,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(9-20) to maximum Energy Shield",
@@ -464,6 +484,7 @@
     "name": "Meginord's Girdle",
     "base": "Heavy Belt",
     "levelReq": 8,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "Adds 10 to 20 Physical Damage to Attacks"
@@ -489,6 +510,7 @@
     "name": "Perandus Blazon",
     "base": "Cloth Belt",
     "levelReq": 16,
+    "statReqs": "",
     "variants": {
       "Pre 1.1.0": [
         "(8-12)% increased Quantity of Items found"
@@ -514,6 +536,7 @@
     "name": "Perseverance",
     "base": "Vanguard Belt",
     "levelReq": 78,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(260-320) to Armour and Evasion Rating",
@@ -533,6 +556,7 @@
     "name": "Prismweave",
     "base": "Rustic Sash",
     "levelReq": 25,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "10% increased Elemental Damage with Weapons",
@@ -570,6 +594,7 @@
     "name": "The Retch",
     "base": "Rustic Sash",
     "levelReq": 44,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(12-24)% increased Physical Damage",
@@ -591,6 +616,7 @@
     "name": "Ryslatha's Coil",
     "base": "Studded Belt",
     "levelReq": 20,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Stun Duration on Enemies ",
@@ -610,6 +636,7 @@
     "name": "Soul Tether",
     "base": "Cloth Belt",
     "levelReq": 48,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-25)% increased Stun and Block Recovery",
@@ -631,6 +658,7 @@
     "name": "Soulthirst",
     "base": "Cloth Belt",
     "levelReq": 45,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-25)% increased Stun Recovery",
@@ -651,6 +679,7 @@
     "name": "Sunblast",
     "base": "Cloth Belt",
     "levelReq": 37,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-25)% increased Stun Recovery",
@@ -671,6 +700,7 @@
     "name": "Umbilicus Immortalis",
     "base": "Leather Belt",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(25-40) to maximum Life",
@@ -689,6 +719,7 @@
     "name": "Wurm's Molt",
     "base": "Leather Belt",
     "levelReq": 8,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(25-40) to Maximum Life",

@@ -3,6 +3,7 @@
     "name": "Blood of the Karui",
     "base": "Sanctified Life Flask",
     "levelReq": 50,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "No Life Recovery Applies during Flask effect"
@@ -25,6 +26,7 @@
     "name": "Doedre's Elixir",
     "base": "Greater Mana Flask",
     "levelReq": 12,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": [
         "(50-100)% increased Charges used"
@@ -50,6 +52,7 @@
     "name": "Lavianga's Spirit",
     "base": "Sanctified Mana Flask",
     "levelReq": 50,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(30-50)% increased Amount Recovered",
@@ -66,6 +69,7 @@
     "name": "Zerphi's Last Breath",
     "base": "Grand Mana Flask",
     "levelReq": 18,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "50% increased Charges used",
@@ -81,6 +85,7 @@
     "name": "Divination Distillate",
     "base": "Large Hybrid Flask",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {
       "Pre 1.1.0": [
         "(20-25)% increased Quantity of Items found during Flask effect",
@@ -109,6 +114,7 @@
     "name": "The Writhing Jar",
     "base": "Hallowed Hybrid Flask",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(75-65)% reduced Amount Recovered ",
@@ -126,6 +132,7 @@
     "name": "Atziri's Promise",
     "base": "Amethyst Flask",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "Gain (22-25)% of Physical Damage as Extra Chaos Damage during effect",
@@ -149,6 +156,7 @@
     "name": "Coralito's Signature",
     "base": "Diamond Flask",
     "levelReq": 27,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Take 30 Chaos Damage per Second during Flask effect ",
@@ -167,6 +175,7 @@
     "name": "Coruscating Elixir",
     "base": "Ruby Flask",
     "levelReq": 18,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -188,6 +197,7 @@
     "name": "Dying Sun",
     "base": "Ruby Flask",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "30% increased Area of Effect during Flask Effect"
@@ -210,6 +220,7 @@
     "name": "Forbidden Taste",
     "base": "Quartz Flask",
     "levelReq": 27,
+    "statReqs": "",
     "variants": {
       "Pre 1.2.3": [
         "50% increased Charges used",
@@ -237,6 +248,7 @@
     "name": "Kiara's Determination",
     "base": "Silver Flask",
     "levelReq": 22,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "50% reduced Duration"
@@ -258,6 +270,7 @@
     "name": "Lion's Roar",
     "base": "Granite Flask",
     "levelReq": 27,
+    "statReqs": "",
     "variants": {
       "Pre 2.2.0": [
         "Adds Knockback during Flask effect",
@@ -291,6 +304,7 @@
     "name": "Rotgut",
     "base": "Quicksilver Flask",
     "levelReq": 40,
+    "statReqs": "",
     "variants": {
       "Pre 2.2.0": [
         "(100-150)% increased Charges used",
@@ -323,6 +337,7 @@
     "name": "Rumi's Concoction",
     "base": "Granite Flask",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {
       "Pre 1.3.0": [
         "(30-40)% Chance to Block during Flask effect",
@@ -348,6 +363,7 @@
     "name": "Sin's Rebirth",
     "base": "Stibnite Flask",
     "levelReq": 14,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Creates a Smoke Cloud on Use",
@@ -365,6 +381,7 @@
     "name": "Taste of Hate",
     "base": "Sapphire Flask",
     "levelReq": 18,
+    "statReqs": "",
     "variants": {
       "Pre 2.2.0": [
         "30% of Physical Damage taken as Cold Damage during Flask effect",
@@ -393,6 +410,7 @@
     "name": "The Overflowing Chalice",
     "base": "Sulphur Flask",
     "levelReq": 35,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Creates Consecrated Ground on Use",
@@ -411,6 +429,7 @@
     "name": "The Sorrow of the Divine",
     "base": "Sulphur Flask",
     "levelReq": 35,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Creates Consecrated Ground on Use",
@@ -427,6 +446,7 @@
     "name": "Vessel of Vinktar",
     "base": "Topaz Flask",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {
       "Pre 2.2.0 (Penetration)": [
         "Shocks nearby Enemies during Flask effect",
@@ -532,6 +552,7 @@
     "name": "The Wise Oak",
     "base": "Bismuth Flask",
     "levelReq": 8,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "During Flask Effect, Damage Penetrates 20% Resistance of each Element for which your"
@@ -556,6 +577,7 @@
     "name": "Witchfire Brew",
     "base": "Stibnite Flask",
     "levelReq": 48,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "(50-70)% increased Damage Over Time during Flask Effect"

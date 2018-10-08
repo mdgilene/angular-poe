@@ -3,6 +3,7 @@
     "name": "Bramblejack",
     "base": "Plate Vest",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 2 to 4 Physical Damage to Attacks",
@@ -20,6 +21,7 @@
     "name": "Wall of Brambles",
     "base": "Plate Vest",
     "levelReq": 30,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 2 to 4 Physical Damage to Attacks",
@@ -38,6 +40,7 @@
     "name": "The Brass Dome",
     "base": "Gladiator Plate",
     "levelReq": 65,
+    "statReqs": "177 Str",
     "variants": {},
     "mods": [
       "30% reduced Chance to Block Attacks and Spells",
@@ -56,6 +59,7 @@
     "name": "Craiceann's Carapace",
     "base": "Golden Plate",
     "levelReq": 56,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Grants Level 20 Aspect of the Crab Skill",
@@ -75,6 +79,7 @@
     "name": "Death's Oath",
     "base": "Astral Plate",
     "levelReq": 62,
+    "statReqs": "180 Str",
     "variants": {
       "Pre 2.0.0": [
         "5% of Physical Attack Damage Leeched as Life",
@@ -110,6 +115,7 @@
     "name": "Greed's Embrace",
     "base": "Golden Plate",
     "levelReq": 56,
+    "statReqs": "106 Str",
     "variants": {},
     "mods": [
       "(10-15)% increased Quantity of Items found",
@@ -130,6 +136,7 @@
     "name": "Kaom's Heart",
     "base": "Glorious Plate",
     "levelReq": 68,
+    "statReqs": "191 Str",
     "variants": {
       "Pre 1.0.0": [
         "+1000 to maximum Life"
@@ -152,6 +159,7 @@
     "name": "Lioneye's Vision",
     "base": "Crusader Plate",
     "levelReq": 59,
+    "statReqs": "160 Str",
     "variants": {
       "Pre 3.0.0": [
         "+20% chance to be Pierced by Projectiles"
@@ -176,6 +184,7 @@
     "name": "Iron Heart",
     "base": "Crusader Plate",
     "levelReq": 59,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(80-100)% increased Armour ",
@@ -194,6 +203,7 @@
     "name": "Solaris Lorica",
     "base": "Copper Plate",
     "levelReq": 17,
+    "statReqs": "53 Str",
     "variants": {
       "Pre 2.6.0": [
         "−10 Chaos Damage taken"
@@ -219,6 +229,7 @@
     "name": "Ashrend",
     "base": "Buckskin Tunic",
     "levelReq": 17,
+    "statReqs": "53 Dex",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -243,6 +254,7 @@
     "name": "Briskwrap",
     "base": "Strapped Leather",
     "levelReq": 9,
+    "statReqs": "32 Dex",
     "variants": {
       "Pre 2.0.0": [
         "5% increased Attack Speed",
@@ -273,6 +285,7 @@
     "name": "Wildwrap",
     "base": "Strapped Leather",
     "levelReq": 57,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(5-8)% increased Attack Speed",
@@ -293,6 +306,7 @@
     "name": "Bronn's Lithe",
     "base": "Cutthroat's Garb",
     "levelReq": 53,
+    "statReqs": "144 Dex",
     "variants": {
       "Pre 2.0.0": [],
       "Pre 2.6.0": [
@@ -319,6 +333,7 @@
     "name": "Cospri's Will",
     "base": "Assassin's Garb",
     "levelReq": 68,
+    "statReqs": "183 Dex",
     "variants": {
       "Pre 3.0.0": [
         "Poison Cursed Enemies on hit"
@@ -344,6 +359,7 @@
     "name": "Foxshade",
     "base": "Wild Leather",
     "levelReq": 25,
+    "statReqs": "73 Dex",
     "variants": {
       "Pre 2.6.0": [
         "You gain 150 Evasion Rating when on Full Life"
@@ -368,6 +384,7 @@
     "name": "Fox's Fortune",
     "base": "Wild Leather",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 5 to 12 Physical Damage to Attacks",
@@ -388,6 +405,7 @@
     "name": "Hyrri's Ire",
     "base": "Zodiac Leather",
     "levelReq": 65,
+    "statReqs": "197 Dex",
     "variants": {
       "Pre 1.0.0": [
         "+(20-30) to Dexterity",
@@ -429,6 +447,7 @@
     "name": "Kintsugi",
     "base": "Exquisite Leather",
     "levelReq": 62,
+    "statReqs": "170 Dex",
     "variants": {},
     "mods": [
       "(100-120)% increased Evasion Rating",
@@ -447,6 +466,7 @@
     "name": "Queen of the Forest",
     "base": "Destiny Leather",
     "levelReq": 59,
+    "statReqs": "160 Dex",
     "variants": {
       "Pre 3.1.0": [
         "(240-380)% increased Evasion Rating"
@@ -474,6 +494,7 @@
     "name": "The Rat Cage",
     "base": "Sharkskin Tunic",
     "levelReq": 56,
+    "statReqs": "152 Dex",
     "variants": {
       "Pre 2.6.0": [
         "−5% to maximum Fire Resistance"
@@ -499,6 +520,7 @@
     "name": "The Snowblind Grace",
     "base": "Coronal Leather",
     "levelReq": 49,
+    "statReqs": "134 Dex",
     "variants": {},
     "mods": [
       "+(30-40) to Dexterity",
@@ -518,6 +540,7 @@
     "name": "The Perfect Form",
     "base": "Zodiac Leather",
     "levelReq": 65,
+    "statReqs": "197 Dex",
     "variants": {},
     "mods": [
       "(30-50)% increased Evasion Rating",
@@ -538,6 +561,7 @@
     "name": "Yriel's Fostering",
     "base": "Exquisite Leather",
     "levelReq": 62,
+    "statReqs": "170 Dex",
     "variants": {
       "Rhoa": [
         "Grants level 20 Summon Beastial Rhoa Skill",
@@ -571,6 +595,7 @@
     "name": "The Beast Fur Shawl",
     "base": "Vaal Regalia",
     "levelReq": 68,
+    "statReqs": "194 Int",
     "variants": {
       "Pre 3.0.0": [
         "+(50-65) to maximum Energy Shield"
@@ -596,6 +621,7 @@
     "name": "Cloak of Flame",
     "base": "Scholar's Robe",
     "levelReq": 18,
+    "statReqs": "55 Int",
     "variants": {},
     "mods": [
       "+(30-50)% to Fire Resistance",
@@ -614,6 +640,7 @@
     "name": "Cloak of Tawm'r Isley",
     "base": "Savant's Robe",
     "levelReq": 56,
+    "statReqs": "152 Int",
     "variants": {
       "Pre 3.0.0": [
         "(250-300)% increased Energy Shield"
@@ -638,6 +665,7 @@
     "name": "The Coming Calamity",
     "base": "Destroyer Regalia",
     "levelReq": 53,
+    "statReqs": "144 Int",
     "variants": {},
     "mods": [
       "+2 to Level of Socketed Herald Gems",
@@ -655,6 +683,7 @@
     "name": "The Covenant",
     "base": "Spidersilk Robe",
     "levelReq": 49,
+    "statReqs": "134 Int",
     "variants": {
       "Pre 1.0.0": [
         "20% reduced maximum Life",
@@ -696,6 +725,7 @@
     "name": "Dialla's Malefaction",
     "base": "Sage's Robe",
     "levelReq": 37,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gems can be Socketed in this Item ignoring Socket Colour ",
@@ -714,6 +744,7 @@
     "name": "Doedre's Skin",
     "base": "Widowsilk Robe",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Socketed Curse Gems are Supported by Level 20 Blasphemy ",
@@ -734,6 +765,7 @@
     "name": "Fenumus' Shroud",
     "base": "Widowsilk Robe",
     "levelReq": 65,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(30-40) to Intelligence",
@@ -753,6 +785,7 @@
     "name": "Infernal Mantle",
     "base": "Widowsilk Robe",
     "levelReq": 65,
+    "statReqs": "187 Int",
     "variants": {
       "Pre 3.0.0": [
         "(190-230)% increased Energy Shield",
@@ -779,6 +812,7 @@
     "name": "Infernal Mantle",
     "base": "Occultist's Vestment",
     "levelReq": 65,
+    "statReqs": "187 Int",
     "variants": {
       "Pre 2.0.0": []
     },
@@ -801,6 +835,7 @@
     "name": "Shavronne's Wrappings",
     "base": "Occultist's Vestment",
     "levelReq": 62,
+    "statReqs": "180 Int",
     "variants": {
       "Pre 1.0.0": [
         "(200-250)% increased Energy Shield"
@@ -829,6 +864,7 @@
     "name": "Skin of the Loyal",
     "base": "Simple Robe",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Sockets cannot be modified",
@@ -845,6 +881,7 @@
     "name": "Skin of the Lords",
     "base": "Simple Robe",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Acrobatics": [
         "Acrobatics"
@@ -931,6 +968,7 @@
     "name": "Soul Mantle",
     "base": "Spidersilk Robe",
     "levelReq": 49,
+    "statReqs": "134 Int",
     "variants": {
       "Pre 1.2.0": [
         "Socketed Gems are Supported by level 14 Spell Totem",
@@ -961,6 +999,7 @@
     "name": "Tabula Rasa",
     "base": "Simple Robe",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [],
     "corrupted": false,
@@ -973,6 +1012,7 @@
     "name": "Thousand Ribbons",
     "base": "Simple Robe",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "Adds 2 to 3 Fire Damage to Attacks",
@@ -1006,6 +1046,7 @@
     "name": "Vis Mortis",
     "base": "Necromancer Silks",
     "levelReq": 59,
+    "statReqs": "160 Int",
     "variants": {
       "Pre 2.6.0": [
         "(100-120)% increased Energy Shield",
@@ -1032,6 +1073,7 @@
     "name": "Zahndethus' Cassock",
     "base": "Sage's Robe",
     "levelReq": 37,
+    "statReqs": "104 Int",
     "variants": {
       "Pre 1.0.0": [
         "Adds 1 to 25 Lightning Damage",
@@ -1071,6 +1113,7 @@
     "name": "Belly of the Beast",
     "base": "Full Wyrmscale",
     "levelReq": 46,
+    "statReqs": "68 Str, 68 Dex",
     "variants": {},
     "mods": [
       "(150-200)% increased Armour",
@@ -1089,6 +1132,7 @@
     "name": "Cherrubim's Maleficence",
     "base": "Triumphant Lamellar",
     "levelReq": 69,
+    "statReqs": "95 Str, 116 Dex",
     "variants": {
       "Pre 2.0.0": [
         "(10-20)% increased Chaos Damage",
@@ -1117,6 +1161,7 @@
     "name": "Daresso's Defiance",
     "base": "Full Dragonscale",
     "levelReq": 63,
+    "statReqs": "115 Str, 94 Dex",
     "variants": {
       "Pre 2.6.0": [
         "You gain Onslaught for 1 second per Endurance Charge when Hit"
@@ -1143,6 +1188,7 @@
     "name": "Farrul's Fur",
     "base": "Triumphant Lamellar",
     "levelReq": 69,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(100-150)% increased Armour and Evasion",
@@ -1162,6 +1208,7 @@
     "name": "Gruthkul's Pelt",
     "base": "Wyrmscale Doublet",
     "levelReq": 38,
+    "statReqs": "57 Str, 57 Dex",
     "variants": {},
     "mods": [
       "(60-100)% increased Physical Damage",
@@ -1182,6 +1229,7 @@
     "name": "Lightning Coil",
     "base": "Desert Brigandine",
     "levelReq": 60,
+    "statReqs": "96 Str, 96 Dex",
     "variants": {
       "Pre 1.3.0": [
         "40% of Physical Damage taken as Lightning Damage"
@@ -1206,6 +1254,7 @@
     "name": "Viper's Scales",
     "base": "Full Scale Armour",
     "levelReq": 28,
+    "statReqs": "43 Str, 43 Dex",
     "variants": {},
     "mods": [
       "(80-100)% increased Armour and Evasion",
@@ -1225,6 +1274,7 @@
     "name": "Ambu's Charge",
     "base": "Crusader Chainmail",
     "levelReq": 43,
+    "statReqs": "64 Str, 64 Int",
     "variants": {
       "Pre 1.0.0": [
         "(80-100)% increased Armour and Energy Shield",
@@ -1262,6 +1312,7 @@
     "name": "Chains of Command",
     "base": "Saintly Chainmail",
     "levelReq": 70,
+    "statReqs": "99 Str, 115 Int",
     "variants": {},
     "mods": [
       "(150-190)% increased Armour and Energy Shield",
@@ -1283,6 +1334,7 @@
     "name": "Geofri's Sanctuary",
     "base": "Elegant Ringmail",
     "levelReq": 64,
+    "statReqs": "90 Str, 105 Int",
     "variants": {
       "Pre 2.6.0": [
         "+(70-80) to maximum Energy Shield",
@@ -1313,6 +1365,7 @@
     "name": "Icetomb",
     "base": "Latticed Ringmail",
     "levelReq": 39,
+    "statReqs": "59 Str, 59 Int",
     "variants": {
       "Pre 2.0.0": [
         "+15 to Strength",
@@ -1339,6 +1392,7 @@
     "name": "Crystal Vault",
     "base": "Latticed Ringmail",
     "levelReq": 49,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(30-40) to Strength",
@@ -1361,6 +1415,7 @@
     "name": "Incandescent Heart",
     "base": "Saintly Chainmail",
     "levelReq": 70,
+    "statReqs": "99 Str, 115 Int",
     "variants": {
       "Pre 2.6.0": [
         "+(60-80) to Armour",
@@ -1389,6 +1444,7 @@
     "name": "Kingsguard",
     "base": "Conquest Chainmail",
     "levelReq": 61,
+    "statReqs": "96 Str, 96 Int",
     "variants": {},
     "mods": [
       "(150-170)% increased Armour and Energy Shield",
@@ -1407,6 +1463,7 @@
     "name": "Lightbane Raiment",
     "base": "Ornate Ringmail",
     "levelReq": 47,
+    "statReqs": "69 Str, 69 Int",
     "variants": {
       "Pre 1.0.0": [
         "(80-100)% increased Armour and Energy Shield",
@@ -1446,6 +1503,7 @@
     "name": "Loreweave",
     "base": "Elegant Ringmail",
     "levelReq": 64,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Has 6 Sockets",
@@ -1469,6 +1527,7 @@
     "name": "Voll's Protector",
     "base": "Holy Chainmail",
     "levelReq": 35,
+    "statReqs": "53 Str, 53 Int",
     "variants": {},
     "mods": [
       "60% increased Armour and Energy Shield",
@@ -1485,6 +1544,7 @@
     "name": "Bloodbond",
     "base": "Bone Armour",
     "levelReq": 35,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Grants Level 15 Blood Offering Skill ",
@@ -1504,6 +1564,7 @@
     "name": "Carcass Jack",
     "base": "Varnished Coat",
     "levelReq": 62,
+    "statReqs": "96 Dex, 96 Int",
     "variants": {
       "Pre 3.0.0": [
         "12% increased Area Damage"
@@ -1529,6 +1590,7 @@
     "name": "Cloak of Defiance",
     "base": "Lacquered Garb",
     "levelReq": 52,
+    "statReqs": "76 Dex, 76 Int",
     "variants": {
       "Pre 1.3.0": [
         "+(90-110) to maximum Mana",
@@ -1559,6 +1621,7 @@
     "name": "Dendrobate",
     "base": "Sentinel Jacket",
     "levelReq": 59,
+    "statReqs": "86 Dex, 86 Int",
     "variants": {},
     "mods": [
       "Socketed Gems are Supported by Level 10 Lesser Poison",
@@ -1578,6 +1641,7 @@
     "name": "Inpulsa's Broken Heart",
     "base": "Sadist Garb",
     "levelReq": 68,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(60-80) to maximum Life ",
@@ -1597,6 +1661,7 @@
     "name": "The Restless Ward",
     "base": "Carnal Armour",
     "levelReq": 71,
+    "statReqs": "88 Dex, 122 Int",
     "variants": {
       "Pre 2.6.0": [
         "+(40-60) to maximum Life",
@@ -1624,6 +1689,7 @@
     "name": "Saqawal's Nest",
     "base": "Blood Raiment",
     "levelReq": 65,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(25-75) to all Attributes",
@@ -1643,6 +1709,7 @@
     "name": "Shroud of the Lightless",
     "base": "Carnal Armour",
     "levelReq": null,
+    "statReqs": "",
     "variants": {
       "One Abyssal Socket": [
         "Has 1 Abyssal Socket"
@@ -1671,6 +1738,7 @@
     "name": "Tinkerskin",
     "base": "Sadist Garb",
     "levelReq": 68,
+    "statReqs": "103 Dex, 109 Int",
     "variants": {},
     "mods": [
       "(140-170)% increased Evasion and Energy Shield",
@@ -1691,6 +1759,7 @@
     "name": "Victario's Influence",
     "base": "Lacquered Garb",
     "levelReq": 52,
+    "statReqs": "76 Dex, 76 Int",
     "variants": {
       "Pre 2.6.0": [
         "Socketed Gems have 20% reduced Mana Reservation",
@@ -1718,6 +1787,7 @@
     "name": "Atziri's Splendour",
     "base": "Sacrificial Garb",
     "levelReq": 75,
+    "statReqs": "66 Str, 66 Dex, 66 Int",
     "variants": {
       "Pre 3.0.0 (Armour)": [
         "(380-420)% increased Armour",

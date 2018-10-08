@@ -3,6 +3,7 @@
     "name": "Anatomical Knowledge",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(6-8)% increased maximum Life",
@@ -18,6 +19,7 @@
     "name": "The Anima Stone",
     "base": "Prismatic Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Can Summon up to 1 additional Golem at a time",
@@ -33,6 +35,7 @@
     "name": "Apparitions",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Minions have (5-10)% increased Movement Speed",
@@ -48,6 +51,7 @@
     "name": "Army of Bones",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": []
     },
@@ -66,6 +70,7 @@
     "name": "The Blue Dream",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gain 5% of Lightning Damage as Extra Chaos Damage",
@@ -82,6 +87,7 @@
     "name": "The Blue Nightmare",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gain 5% of Lightning Damage as Extra Chaos Damage",
@@ -100,6 +106,7 @@
     "name": "Brawn",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(4-6)% increased Dexterity",
@@ -116,6 +123,7 @@
     "name": "Brute Force Solution",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(16-24) to Intelligence",
@@ -131,6 +139,7 @@
     "name": "Careful Planning",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(16-24) to Dexterity",
@@ -146,6 +155,7 @@
     "name": "Cheap Construction",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "10% reduced Trap Duration",
@@ -161,6 +171,7 @@
     "name": "Clear Mind",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Mana Regeneration Rate",
@@ -176,6 +187,7 @@
     "name": "Coated Shrapnel",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Traps and Mines deal (3-5) to (10-15) additional Physical Damage",
@@ -191,6 +203,7 @@
     "name": "Cold Steel",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage",
@@ -206,6 +219,7 @@
     "name": "Efficient Training",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(16-24) to Strength",
@@ -221,6 +235,7 @@
     "name": "Eldritch Knowledge",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "5% increased Chaos Damage per 10 Intelligence from Allocated Passives in Radius"
@@ -235,6 +250,7 @@
     "name": "Energised Armour",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-20)% increased Armour",
@@ -250,6 +266,7 @@
     "name": "Energy From Within",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.5.0": [
         "(8-12)% increased maximum Energy Shield"
@@ -271,6 +288,7 @@
     "name": "Fertile Mind",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(16-24) to Intelligence",
@@ -286,6 +304,7 @@
     "name": "Fireborn",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage"
@@ -300,6 +319,7 @@
     "name": "Fluid Motion",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(16-24) to Dexterity",
@@ -315,6 +335,7 @@
     "name": "Fortified Legion",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Minions have (5-15)% increased maximum Life",
@@ -330,6 +351,7 @@
     "name": "Fragile Bloom",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "2% of Life Regenerated per Second",
@@ -345,6 +367,7 @@
     "name": "From Dust",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Summon 2 additional Skeleton Warriors with Summon Skeleton",
@@ -360,6 +383,7 @@
     "name": "The Golden Rule",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(30-40)% increased Armour while Bleeding ",
@@ -377,6 +401,7 @@
     "name": "Grand Spectrum",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "Gain 15 Mana per Grand Spectrum"
@@ -396,6 +421,7 @@
     "name": "Grand Spectrum",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "Gain 75 Armour per Grand Spectrum"
@@ -415,6 +441,7 @@
     "name": "Grand Spectrum",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.5.0": [
         "5% increased Elemental Damage per Grand Spectrum"
@@ -437,6 +464,7 @@
     "name": "The Green Dream",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gain 5% of Cold Damage as Extra Chaos Damage",
@@ -453,6 +481,7 @@
     "name": "The Green Nightmare",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gain 5% of Cold Damage as Extra Chaos Damage",
@@ -471,6 +500,7 @@
     "name": "Hair Trigger",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "(20-30)% increased Trap Trigger Radius"
@@ -492,6 +522,7 @@
     "name": "Healthy Mind",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-20)% increased maximum Mana",
@@ -507,6 +538,7 @@
     "name": "Hidden Potential",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-25)% increased Damage for each Equipped Magic Item"
@@ -521,6 +553,7 @@
     "name": "Hotfooted",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Movement Speed while Ignited"
@@ -535,6 +568,7 @@
     "name": "Inertia",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(16-24) to Strength",
@@ -550,6 +584,7 @@
     "name": "Inspired Learning",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "If 4 Notables are Allocated in Radius, When you Kill a Rare monster, you gain 1",
@@ -565,6 +600,7 @@
     "name": "Intuitive Leap",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Passives in Radius can be Allocated without being connected to your tree"
@@ -579,6 +615,7 @@
     "name": "Izaro's Turmoil",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(18-25)% increased Fire Damage",
@@ -596,6 +633,7 @@
     "name": "Lioneye's Fall",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Melee and Melee Weapon Type modifiers in Radius are Transformed to Bow Modifiers"
@@ -610,6 +648,7 @@
     "name": "Malicious Intent",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "5% chance to Gain Unholy Might for 4 seconds on Melee Kill"
@@ -624,6 +663,7 @@
     "name": "Mantra of Flames",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds (3-5) to (8-12) Fire Attack Damage per Buff on You",
@@ -639,6 +679,7 @@
     "name": "Martial Artistry",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Area of Effect while Unarmed"
@@ -653,6 +694,7 @@
     "name": "Might in All Forms",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus"
@@ -667,6 +709,7 @@
     "name": "Might of the Meek",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "50% increased Effect of non-Keystone Passive Skills in Radius",
@@ -682,6 +725,7 @@
     "name": "Primordial Eminence",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Golems have (16-20)% increased Attack and Cast Speed",
@@ -699,6 +743,7 @@
     "name": "Primordial Harmony",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.3.0": [
         "Golems have (10-15)% increased Cooldown Recovery Speed"
@@ -723,6 +768,7 @@
     "name": "Primordial Might",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(25-30)% increased Damage if you Summoned a Golem in the past 8 seconds",
@@ -741,6 +787,7 @@
     "name": "Pugilist",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "1% increased Evasion Rating per 3 Dexterity Allocated in Radius",
@@ -757,6 +804,7 @@
     "name": "Pure Talent",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "While your Passive Skill Tree connects to a class' Starting location, you gain:"
@@ -771,6 +819,7 @@
     "name": "Rain of Splinters",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(30-50)% reduced Totem Damage",
@@ -786,6 +835,7 @@
     "name": "Reckless Defence",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "20% of Block Chance applied to Spells"
@@ -811,6 +861,7 @@
     "name": "The Red Dream",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gain 5% of Fire Damage as Extra Chaos Damage",
@@ -827,6 +878,7 @@
     "name": "The Red Nightmare",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Gain 5% of Fire Damage as Extra Chaos Damage",
@@ -845,6 +897,7 @@
     "name": "Soul's Wick",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+2 to maximum number of Spectres",
@@ -863,6 +916,7 @@
     "name": "Spire of Stone",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "3% increased Totem Life per 10 Strength Allocated in Radius",
@@ -878,6 +932,7 @@
     "name": "Static Electricity",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius",
@@ -893,6 +948,7 @@
     "name": "To Dust",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Current": []
     },
@@ -913,6 +969,7 @@
     "name": "Unstable Payload",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(8-12)% Chance for Traps to Trigger an additional time"
@@ -927,6 +984,7 @@
     "name": "Watcher's Eye",
     "base": "Prismatic Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Has Alt true": [
         "(1-1.5)% of Fire Damage Leeched as Life while affected by Anger"
@@ -1101,6 +1159,7 @@
     "name": "Collateral Damage",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Physical Damage",
@@ -1118,6 +1177,7 @@
     "name": "Dead Reckoning",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "With at least 40 Intelligence in Radius, can summon up to 3 Skeleton Mages with Summon Skeletons"
@@ -1139,6 +1199,7 @@
     "name": "Fight for Survival",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Cold Damage",
@@ -1156,6 +1217,7 @@
     "name": "First Snow",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(7-10)% increased Projectile Damage ",
@@ -1173,6 +1235,7 @@
     "name": "Frozen Trail",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(7-10)% increased Projectile Damage",
@@ -1190,6 +1253,7 @@
     "name": "Growing Agony",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Dexterity in Radius, Viper Strike deals 2% increased Attack Damage for each Poison on the Enemy"
@@ -1216,6 +1280,7 @@
     "name": "Hazardous Research",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Lightning Damage",
@@ -1233,6 +1298,7 @@
     "name": "Inevitability",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Fire Damage",
@@ -1250,6 +1316,7 @@
     "name": "The Long Winter",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Cold Damage ",
@@ -1267,6 +1334,7 @@
     "name": "Might and Influence",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Physical Damage",
@@ -1285,6 +1353,7 @@
     "name": "Omen on the Winds",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "(15-20)% increased Damage against Chilled Enemies",
@@ -1312,6 +1381,7 @@
     "name": "Overwhelming Odds",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Physical Damage",
@@ -1329,6 +1399,7 @@
     "name": "Pitch Darkness",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(5-15)% increased Fire Damage",
@@ -1345,6 +1416,7 @@
     "name": "Rapid Expansion",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Strength in Radius, Ground Slam has a 20% increased angle"
@@ -1371,6 +1443,7 @@
     "name": "Ring of Blades",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "With at least 40 Dexterity in Radius, Ethereal Knives fires 10 additional Projectiles"
@@ -1393,6 +1466,7 @@
     "name": "Rolling Flames",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Intelligence in Radius, Fireball Projectiles gain Area of Effect Radius as they travel further, up to 50% increased Radius."
@@ -1414,6 +1488,7 @@
     "name": "Shattered Chains",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(5-15)% increased Cold Damage",
@@ -1429,6 +1504,7 @@
     "name": "Spirit Guards",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Dexterity in Radius, Animate Weapon can Animate up to 4 Ranged Weapons"
@@ -1450,6 +1526,7 @@
     "name": "Spirited Response",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(5-10)% increased maximum Mana",
@@ -1465,6 +1542,7 @@
     "name": "Spreading Rot",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(7-13)% increased Chaos Damage",
@@ -1481,6 +1559,7 @@
     "name": "Steel Spirit",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Dexterity in Radius, each Spectral Throw Projectile gains 4% increased Damage each time it Hits."
@@ -1502,6 +1581,7 @@
     "name": "Sudden Ignition",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Fire Damage ",
@@ -1518,6 +1598,7 @@
     "name": "Unending Hunger",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Minions have (5-8)% increased Area of Effect of Area Skills",
@@ -1533,6 +1614,7 @@
     "name": "The Vigil",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Strength in Radius, Vigilant Strike also Fortifies Nearby Allies for 3 seconds."
@@ -1554,6 +1636,7 @@
     "name": "Violent Dead",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Minions deal (10-15)% increased Damage ",
@@ -1572,6 +1655,7 @@
     "name": "Volley Fire",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(6-10)% increased Projectile Damage",
@@ -1587,6 +1671,7 @@
     "name": "Weight of the Empire",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(4-12)% increased Physical Damage",
@@ -1602,6 +1687,7 @@
     "name": "Wildfire",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Fire Damage ",
@@ -1618,6 +1704,7 @@
     "name": "Winter's Bounty",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "With at least 40 Intelligence in Radius, Cold Snap has a 25% chance to grant a Power Charge on Kill"
@@ -1643,6 +1730,7 @@
     "name": "Winter Burial",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(10-15)% increased Cold Damage ",
@@ -1661,6 +1749,7 @@
     "name": "Ancient Waystones",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "60% reduced Mana Cost of Totem Skills that cast an Aura"
@@ -1675,6 +1764,7 @@
     "name": "Atziri's Reign",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-20)% increased Vaal Skill Effect Duration"
@@ -1689,6 +1779,7 @@
     "name": "Blood Sacrifice",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "1% of maximum Mana gained on Kill",
@@ -1705,6 +1796,7 @@
     "name": "Brittle Barrier",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "20% faster start of Energy Shield Recharge",
@@ -1720,6 +1812,7 @@
     "name": "Chill of Corruption",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "50% chance to gain an additional Vaal Soul per Enemy Shattered"
@@ -1734,6 +1827,7 @@
     "name": "Combustibles",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "10% reduced Quantity of Items found",
@@ -1749,6 +1843,7 @@
     "name": "Corrupted Energy",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [],
     "corrupted": true,
@@ -1761,6 +1856,7 @@
     "name": "Fevered Mind",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% increased Spell Damage",
@@ -1776,6 +1872,7 @@
     "name": "Fragility",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "−1 Maximum Endurance Charges"
@@ -1790,6 +1887,7 @@
     "name": "Hungry Abyss",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [],
     "corrupted": true,
@@ -1802,6 +1900,7 @@
     "name": "Mutated Growth",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [],
     "corrupted": true,
@@ -1814,6 +1913,7 @@
     "name": "Pacifism",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "−1 Maximum Frenzy Charges"
@@ -1828,6 +1928,7 @@
     "name": "Powerlessness",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "−1 Maximum Power Charges"
@@ -1842,6 +1943,7 @@
     "name": "Sacrificial Harvest",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(20-30)% chance to gain an additional Vaal Soul on Kill"
@@ -1856,6 +1958,7 @@
     "name": "Self-Flagellation",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "You can have one additional Curse",
@@ -1871,6 +1974,7 @@
     "name": "Vaal Sentencing",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(80-120)% increased Vaal Skill Critical Strike Chance"
@@ -1885,6 +1989,7 @@
     "name": "Weight of Sin",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(15-20)% increased Chaos Damage",
@@ -1900,6 +2005,7 @@
     "name": "Assassin's Haste",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "10% increased Mana Regeneration Rate",
@@ -1916,6 +2022,7 @@
     "name": "Conqueror's Efficiency",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "3% reduced Mana Cost of Skills",
@@ -1932,6 +2039,7 @@
     "name": "Conqueror's Longevity",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "3% chance to Avoid Elemental Status Ailments"
@@ -1954,6 +2062,7 @@
     "name": "Conqueror's Potency",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "4% increased Effect of your Curses",
@@ -1970,6 +2079,7 @@
     "name": "Poacher's Aim",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {
       "Pre 3.0.0": [
         "15% chance of Projectiles Piercing"
@@ -1991,6 +2101,7 @@
     "name": "Survival Instincts",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+20 to Dexterity",
@@ -2006,6 +2117,7 @@
     "name": "Survival Secrets",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "3 Mana Regenerated per second",
@@ -2021,6 +2133,7 @@
     "name": "Survival Skills",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "10% increased Physical Damage",
@@ -2036,6 +2149,7 @@
     "name": "Warlord's Reach",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "8% increased Attack Damage",
@@ -2051,6 +2165,7 @@
     "name": "Emperor's Cunning",
     "base": "Viridian Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "20% increased Accuracy Rating",
@@ -2067,6 +2182,7 @@
     "name": "Emperor's Mastery",
     "base": "Prismatic Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "4% increased maximum Life",
@@ -2084,6 +2200,7 @@
     "name": "Emperor's Might",
     "base": "Crimson Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "10% increased Damage",
@@ -2100,6 +2217,7 @@
     "name": "Emperor's Wit",
     "base": "Cobalt Jewel",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "30% increased Global Critical Strike Chance",

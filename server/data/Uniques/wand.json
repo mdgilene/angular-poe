@@ -3,6 +3,7 @@
     "name": "Abberath's Horn",
     "base": "Goat's Horn",
     "levelReq": 6,
+    "statReqs": "29 Int",
     "variants": {
       "Pre 2.3.0": [
         "(9-12)% increased Spell Damage"
@@ -28,6 +29,7 @@
     "name": "Apep's Rage",
     "base": "Opal Wand",
     "levelReq": 62,
+    "statReqs": "212 Int",
     "variants": {
       "Pre 2.3.0": [
         "(17-20)% increased Spell Damage"
@@ -52,6 +54,7 @@
     "name": "Ashcaller",
     "base": "Quartz Wand",
     "levelReq": 18,
+    "statReqs": "65 Int",
     "variants": {},
     "mods": [
       "(18-22)% increased Spell Damage",
@@ -71,6 +74,7 @@
     "name": "Eclipse Solaris",
     "base": "Crystal Wand",
     "levelReq": 45,
+    "statReqs": "146 Int",
     "variants": {
       "Pre 2.2.0": [
         "(14-18)% increased Spell Damage",
@@ -101,6 +105,7 @@
     "name": "Corona Solaris",
     "base": "Crystal Wand",
     "levelReq": 63,
+    "statReqs": "146 Int",
     "variants": {},
     "mods": [
       "(29-33)% increased Spell Damage",
@@ -122,6 +127,7 @@
     "name": "Lifesprig",
     "base": "Driftwood Wand",
     "levelReq": 2,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(8-12)% increased Spell Damage",
@@ -142,6 +148,7 @@
     "name": "Midnight Bargain",
     "base": "Engraved Wand",
     "levelReq": 40,
+    "statReqs": "131 Int",
     "variants": {
       "Pre 2.3.0": [
         "(12-16)% increased Spell Damage",
@@ -175,6 +182,7 @@
     "name": "Moonsorrow",
     "base": "Imbued Wand",
     "levelReq": 59,
+    "statReqs": "188 Int",
     "variants": {
       "Pre 2.0.0": [
         "(15-19)% increased Spell Damage",
@@ -214,6 +222,7 @@
     "name": "Obliteration",
     "base": "Demon's Horn",
     "levelReq": 56,
+    "statReqs": "179 Int",
     "variants": {
       "Pre 2.3.0": [
         "(15-18)% increased Spell Damage"
@@ -239,6 +248,7 @@
     "name": "Piscator's Vigil",
     "base": "Tornado Wand",
     "levelReq": 65,
+    "statReqs": "212 Int",
     "variants": {
       "Pre 2.3.0": [
         "(16-19)% increased Spell Damage"
@@ -268,6 +278,7 @@
     "name": "The Poet's Pen",
     "base": "Carved Wand",
     "levelReq": 12,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(11-15)% increased Spell Damage ",
@@ -286,6 +297,7 @@
     "name": "Reverberation Rod",
     "base": "Spiraled Wand",
     "levelReq": 24,
+    "statReqs": "83 Int",
     "variants": {
       "Pre 2.3.0": [
         "(10-14)% increased Spell Damage"
@@ -309,6 +321,7 @@
     "name": "Amplification Rod",
     "base": "Spiraled Wand",
     "levelReq": 36,
+    "statReqs": "83 Int",
     "variants": {},
     "mods": [
       "(15-19)% increased Spell Damage",
@@ -328,6 +341,7 @@
     "name": "Shade of Solaris",
     "base": "Sage Wand",
     "levelReq": 30,
+    "statReqs": "119 Int",
     "variants": {},
     "mods": [
       "(17-21)% increased Spell Damage",
@@ -345,6 +359,7 @@
     "name": "Shimmeron",
     "base": "Tornado Wand",
     "levelReq": 65,
+    "statReqs": "",
     "variants": {
       "Pre 3.4.0": [
         "400 Lightning Damage taken per second per Power Charge if you've dealt a Critical Strike Recently"
@@ -372,6 +387,7 @@
     "name": "Storm Prison",
     "base": "Carved Wand",
     "levelReq": 12,
+    "statReqs": "47 Int",
     "variants": {
       "Pre 2.3.0": [
         "(9-13)% increased Spell Damage"
@@ -397,6 +413,7 @@
     "name": "Tulborn",
     "base": "Spiraled Wand",
     "levelReq": 24,
+    "statReqs": "83 Int",
     "variants": {},
     "mods": [
       "(15-19)% increased Spell Damage",
@@ -415,6 +432,7 @@
     "name": "Tulfall",
     "base": "Tornado Wand",
     "levelReq": 65,
+    "statReqs": "212 Int",
     "variants": {},
     "mods": [
       "(35-39)% increased Spell Damage",
@@ -435,6 +453,7 @@
     "name": "Twyzel",
     "base": "Sage Wand",
     "levelReq": 30,
+    "statReqs": "119 Int",
     "variants": {
       "Pre 2.3.0": [
         "(11-14)% increased Spell Damage"
@@ -460,6 +479,7 @@
     "name": "Void Battery",
     "base": "Prophecy Wand",
     "levelReq": 68,
+    "statReqs": "245 Int",
     "variants": {
       "Pre 2.3.0": [
         "(16-20)% increased Spell Damage"

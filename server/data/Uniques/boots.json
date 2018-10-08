@@ -3,6 +3,7 @@
     "name": "Craiceann's Tracks",
     "base": "Goliath Greaves",
     "levelReq": 54,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(150-180)% increased Armour",
@@ -22,6 +23,7 @@
     "name": "The Infinite Pursuit",
     "base": "Goliath Greaves",
     "levelReq": 54,
+    "statReqs": "95 Str",
     "variants": {},
     "mods": [
       "+(30-60) to maximum Life",
@@ -40,6 +42,7 @@
     "name": "The Red Trail",
     "base": "Titan Greaves",
     "levelReq": 68,
+    "statReqs": "120 Str",
     "variants": {},
     "mods": [
       "(60-80)% increased Armour",
@@ -61,6 +64,7 @@
     "name": "Kaom's Roots",
     "base": "Titan Greaves",
     "levelReq": 68,
+    "statReqs": "120 Str",
     "variants": {
       "Pre 2.6.0": [
         "+(120-150) to maximum Life"
@@ -85,6 +89,7 @@
     "name": "Redblade Tramplers",
     "base": "Ancient Greaves",
     "levelReq": 46,
+    "statReqs": "82 Str",
     "variants": {
       "Pre 2.6.0": [
         "20% increased Movement Speed"
@@ -111,6 +116,7 @@
     "name": "Stormcharger",
     "base": "Plated Greaves",
     "levelReq": null,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(1-50)% to Lightning Resistance ",
@@ -129,6 +135,7 @@
     "name": "Windscream",
     "base": "Reinforced Greaves",
     "levelReq": 33,
+    "statReqs": "60 Str",
     "variants": {
       "Pre 2.6.0": [
         "10% increased Movement Speed",
@@ -154,6 +161,7 @@
     "name": "Windshriek",
     "base": "Reinforced Greaves",
     "levelReq": 60,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(200-250)% increased Armour",
@@ -173,6 +181,7 @@
     "name": "Abberath's Hooves",
     "base": "Goathide Boots",
     "levelReq": 12,
+    "statReqs": "26 Dex",
     "variants": {},
     "mods": [
       "+(20-30) to Strength",
@@ -193,6 +202,7 @@
     "name": "Atziri's Step",
     "base": "Slink Boots",
     "levelReq": 69,
+    "statReqs": "120 Dex",
     "variants": {},
     "mods": [
       "180% increased Evasion Rating",
@@ -210,6 +220,7 @@
     "name": "The Blood Dance",
     "base": "Sharkskin Boots",
     "levelReq": 44,
+    "statReqs": "79 Dex",
     "variants": {
       "Pre 1.0.0": [
         "1% of Life Regenerated per Second per Frenzy Charge",
@@ -246,6 +257,7 @@
     "name": "Deerstalker",
     "base": "Deerskin Boots",
     "levelReq": 22,
+    "statReqs": "42 Dex",
     "variants": {
       "Pre 2.6.0": [
         "30% increased Movement Speed for 9 seconds on Throwing a Trap"
@@ -271,6 +283,7 @@
     "name": "Farrul's Chase",
     "base": "Slink Boots",
     "levelReq": 69,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Trigger Level 20 Intimidating Cry when you lose Cat's Stealth",
@@ -290,6 +303,7 @@
     "name": "Goldwyrm",
     "base": "Nubuck Boots",
     "levelReq": 34,
+    "statReqs": "62 Dex",
     "variants": {
       "Pre 1.1.0": [
         "(20-30)% increased Quantity of Items Found"
@@ -313,6 +327,7 @@
     "name": "Garukhan's Flight",
     "base": "Stealth Boots",
     "levelReq": 62,
+    "statReqs": "117 Dex",
     "variants": {},
     "mods": [
       "+(30-40) to Dexterity",
@@ -332,6 +347,7 @@
     "name": "Seven-League Step",
     "base": "Rawhide Boots",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "50% increased Movement Speed"
@@ -346,6 +362,7 @@
     "name": "Three-step Assault",
     "base": "Shagreen Boots",
     "levelReq": 55,
+    "statReqs": "97 Dex",
     "variants": {
       "Pre 2.6.0": [
         "40% increased Evasion Rating while you have Onslaught",
@@ -373,6 +390,7 @@
     "name": "Victario's Flight",
     "base": "Goathide Boots",
     "levelReq": 12,
+    "statReqs": "26 Dex",
     "variants": {
       "Pre 2.6.0": [
         "30% increased Movement Speed when on Low Life"
@@ -398,6 +416,7 @@
     "name": "Bones of Ullr",
     "base": "Silk Slippers",
     "levelReq": 22,
+    "statReqs": "42 Int",
     "variants": {},
     "mods": [
       "+20 to maximum Life",
@@ -417,6 +436,7 @@
     "name": "Inya's Epiphany",
     "base": "Arcanist Slippers",
     "levelReq": 61,
+    "statReqs": "119 Int",
     "variants": {},
     "mods": [
       "+(50-70) to maximum Life",
@@ -436,6 +456,7 @@
     "name": "Rainbowstride",
     "base": "Conjurer Boots",
     "levelReq": 53,
+    "statReqs": "94 Int",
     "variants": {
       "Pre 1.0.0": [
         "(20-25)% of Block Chance applied to Spells",
@@ -491,6 +512,7 @@
     "name": "Shavronne's Pace",
     "base": "Scholar Boots",
     "levelReq": 32,
+    "statReqs": "54 Int",
     "variants": {
       "Pre 2.0.0": [
         "+10 to Intelligence",
@@ -523,6 +545,7 @@
     "name": "Shavronne's Gambit",
     "base": "Scholar Boots",
     "levelReq": 32,
+    "statReqs": "54 Int",
     "variants": {
       "Pre 2.6.0": [
         "35% increased Movement Speed when on Full Life",
@@ -550,6 +573,7 @@
     "name": "Skyforth",
     "base": "Sorcerer Boots",
     "levelReq": 67,
+    "statReqs": "123 Int",
     "variants": {},
     "mods": [
       "+(60-120) to maximum Mana",
@@ -569,6 +593,7 @@
     "name": "Steppan Eard",
     "base": "Sorcerer Boots",
     "levelReq": 67,
+    "statReqs": "123 Int",
     "variants": {
       "Pre 3.0.0": [
         "(110-140)% increased Energy Shield"
@@ -595,6 +620,7 @@
     "name": "Wanderlust",
     "base": "Wool Shoes",
     "levelReq": 1,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+5 to Dexterity",
@@ -613,6 +639,7 @@
     "name": "Wondertrap",
     "base": "Velvet Slippers",
     "levelReq": 9,
+    "statReqs": "21 Int",
     "variants": {
       "Pre 1.0.0": [
         "15% increased Movement Speed"
@@ -638,6 +665,7 @@
     "name": "Greedtrap",
     "base": "Velvet Slippers",
     "levelReq": 52,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(5-10) to Strength",
@@ -657,6 +685,7 @@
     "name": "Darkray Vectors",
     "base": "Dragonscale Boots",
     "levelReq": 65,
+    "statReqs": "62 Str, 62 Dex",
     "variants": {
       "Pre 2.6.0": [
         "50% reduced Frenzy Charge Duration"
@@ -683,6 +712,7 @@
     "name": "Dusktoe",
     "base": "Ironscale Boots",
     "levelReq": 18,
+    "statReqs": "",
     "variants": {
       "Pre 2.6.0": [
         "+(10-20) to maximum Life",
@@ -710,6 +740,7 @@
     "name": "Dusktoe",
     "base": "Leatherscale Boots",
     "levelReq": 18,
+    "statReqs": "",
     "variants": {
       "Pre 2.0.0": []
     },
@@ -732,6 +763,7 @@
     "name": "Duskblight",
     "base": "Ironscale Boots",
     "levelReq": 40,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Socketed Gems are Supported by Level 15 Added Chaos Damage",
@@ -752,6 +784,7 @@
     "name": "Lioneye's Paws",
     "base": "Bronzescale Boots",
     "levelReq": 30,
+    "statReqs": "30 Str, 30 Dex",
     "variants": {},
     "mods": [
       "+(40-60) to Strength",
@@ -772,6 +805,7 @@
     "name": "Mutewind Whispersteps",
     "base": "Serpentscale Boots",
     "levelReq": 42,
+    "statReqs": "40 Str, 40 Dex",
     "variants": {
       "Pre 2.6.0": [
         "Adds (15-19) to (28-35) Cold Damage to Spells",
@@ -799,6 +833,7 @@
     "name": "Saqawal's Talons",
     "base": "Hydrascale Boots",
     "levelReq": 59,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "Grants Level 20 Aspect of the Avian Skill",
@@ -818,6 +853,7 @@
     "name": "Alberon's Warpath",
     "base": "Soldier Boots",
     "levelReq": 49,
+    "statReqs": "47 Str, 47 Int",
     "variants": {
       "Pre 3.0.0": [
         "+2 to Maximum number of Skeletons"
@@ -843,6 +879,7 @@
     "name": "Death's Door",
     "base": "Crusader Boots",
     "levelReq": 64,
+    "statReqs": "62 Str, 62 Int",
     "variants": {},
     "mods": [
       "+(20-40) to Strength",
@@ -863,6 +900,7 @@
     "name": "Gang's Momentum",
     "base": "Legion Boots",
     "levelReq": 58,
+    "statReqs": "54 Str, 54 Int",
     "variants": {
       "Pre 2.6.0": [
         "(5-7)% chance to Ignite",
@@ -888,6 +926,7 @@
     "name": "Ralakesh's Impatience",
     "base": "Riveted Boots",
     "levelReq": 36,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "+(15-25)% to Cold Resistance ",
@@ -906,6 +945,7 @@
     "name": "Wake of Destruction",
     "base": "Mesh Boots",
     "levelReq": 28,
+    "statReqs": "28 Str, 28 Int",
     "variants": {
       "Pre 2.6.0": [],
       "Current": [
@@ -928,6 +968,7 @@
     "name": "Brinerot Whalers",
     "base": "Trapper Boots",
     "levelReq": 41,
+    "statReqs": "40 Dex, 40 Int",
     "variants": {
       "Pre 2.6.0": [
         "+(60-80) to maximum Energy Shield",
@@ -958,6 +999,7 @@
     "name": "Bubonic Trail",
     "base": "Murder Boots",
     "levelReq": 69,
+    "statReqs": "82 Dex, 42 Int",
     "variants": {
       "One Abyssal Socket": [
         "Has 1 Abyssal Socket"
@@ -982,6 +1024,7 @@
     "name": "Fenumus' Spinnerets",
     "base": "Assassin's Boots",
     "levelReq": 63,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "(160-200)% increased Evasion and Energy Shield",
@@ -1002,6 +1045,7 @@
     "name": "Nomic's Storm",
     "base": "Strapped Boots",
     "levelReq": 16,
+    "statReqs": "18 Dex, 18 Int",
     "variants": {
       "Pre 2.0.0": [
         "30% increased Physical Damage taken"
@@ -1031,6 +1075,7 @@
     "name": "Sin Trek",
     "base": "Stealth Boots",
     "levelReq": 62,
+    "statReqs": "117 Dex",
     "variants": {
       "Pre 2.0.0": [
         "+(50-70) to maximum Energy Shield"
@@ -1059,6 +1104,7 @@
     "name": "Sundance",
     "base": "Clasped Boots",
     "levelReq": 27,
+    "statReqs": "27 Dex, 27 Int",
     "variants": {
       "Pre 2.6.0": [
         "10% increased Movement Speed"
@@ -1083,6 +1129,7 @@
     "name": "Sunspite",
     "base": "Clasped Boots",
     "levelReq": 59,
+    "statReqs": "",
     "variants": {},
     "mods": [
       "10% increased Attack Speed",
@@ -1104,6 +1151,7 @@
     "name": "Voidwalker",
     "base": "Murder Boots",
     "levelReq": 69,
+    "statReqs": "82 Dex, 42 Int",
     "variants": {
       "Pre 3.0.0": [
         "Projectiles Pierce while Phasing"
