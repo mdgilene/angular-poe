@@ -120,10 +120,23 @@ export class CreateBuildFormComponent {
    * @param slot Slot that triggered this event
    */
   openItemBrowser(slot: Slot, index?: number) {
+    let item: Item;
+    switch (slot) {
+      case Slot.FLASK:
+        item = this.flasks.at(index).value as Item;
+        break;
+      case Slot.JEWEL:
+        item = this.jewels.at(index).value as Item;
+        break;
+      default:
+        item = this.items.get(slot).value as Item;
+        break;
+    }
     this.itemBrowserRef = this.modalService.show(ItemBrowserComponent, {
       initialState: {
         slot: slot,
-        slotIndex: index
+        slotIndex: index,
+        selectedItem: item
       },
       class: 'item-browser'
     });

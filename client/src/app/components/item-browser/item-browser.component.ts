@@ -16,12 +16,13 @@ export class ItemBrowserComponent implements OnInit {
   slot: Slot;
   @Input()
   slotIndex: number;
+  @Input()
+  selectedItem: Item;
 
   _filter: ItemFilter = {};
   searchText = '';
 
   items: Observable<Item[]>;
-  selectedItem: Item;
   selectedVariant: string;
 
   // Importing enum to use in template
@@ -36,7 +37,9 @@ export class ItemBrowserComponent implements OnInit {
 
   ngOnInit() {
     this.validTypes = SlotInfo[this.slot].validItemTypes;
-    this.filter = { itemType: this.validTypes[0] };
+    this.filter = {
+      itemType: this.selectedItem.itemType || this.validTypes[0]
+    };
   }
 
   get filter(): ItemFilter {
@@ -64,10 +67,5 @@ export class ItemBrowserComponent implements OnInit {
   clearFilter() {
     this._filter = {};
     this.items = this.$uniques.filter(this._filter);
-  }
-
-  temp(e) {
-    console.log(e);
-    console.log(this.selectedVariant);
   }
 }

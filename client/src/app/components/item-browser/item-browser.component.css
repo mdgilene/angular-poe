@@ -73,8 +73,9 @@
 
 .line-separator {
   height: 1px;
-  width: 100%;
+  width: 90%;
   background-color: #ce9b6b;
+  margin: auto;
 }
 
 @keyframes rotate-360 {
