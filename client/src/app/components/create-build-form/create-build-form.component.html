@@ -8,7 +8,7 @@
       <div class="form-group">
         <label for="class">Class</label>
         <select class="form-control" id="class" formControlName="class">
-          <optgroup #group *ngFor="let class of classCombos" [label]="class.primary">
+          <optgroup #group *ngFor="let class of ClassCombos" [label]="class.primary">
             <option *ngFor="let secondary of class.secondary" [value]="secondary">{{secondary}}</option>
           </optgroup>
         </select>
@@ -22,8 +22,7 @@
           <exilebuilds-item-control formControlName="head" class="slot-head card bg-light border-warning" (click)="openItemBrowser(Slot.HEAD)"></exilebuilds-item-control>
           <exilebuilds-item-control formControlName="body" class="slot-body card bg-light border-warning" (click)="openItemBrowser(Slot.BODY)"></exilebuilds-item-control>
           <exilebuilds-item-control formControlName="weapon1" class="slot-weapon1 card bg-light border-warning" (click)="openItemBrowser(Slot.WEAPON1)"></exilebuilds-item-control>
-          <exilebuilds-item-control *ngIf="showWeapon2" formControlName="weapon2" class="slot-weapon2 card bg-light border-warning"
-            (click)="openItemBrowser(Slot.WEAPON2)"></exilebuilds-item-control>
+          <exilebuilds-item-control formControlName="weapon2" class="slot-weapon2 card bg-light border-warning" (click)="openItemBrowser(Slot.WEAPON2)"></exilebuilds-item-control>
           <exilebuilds-item-control formControlName="gloves" class="slot-gloves card bg-light border-warning" (click)="openItemBrowser(Slot.GLOVES)"></exilebuilds-item-control>
           <exilebuilds-item-control formControlName="boots" class="slot-boots card bg-light border-warning" (click)="openItemBrowser(Slot.BOOTS)"></exilebuilds-item-control>
           <exilebuilds-item-control formControlName="ring1" class="slot-ring1 card bg-light border-warning" (click)="openItemBrowser(Slot.RING1)"></exilebuilds-item-control>
@@ -34,16 +33,19 @@
       </div>
       <div class="row justify-content-center">
         <div class="flask-belt my-2" formArrayName="flasks">
-          <exilebuilds-item-control formControlName="0" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK_1)"></exilebuilds-item-control>
-          <exilebuilds-item-control formControlName="1" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK_2)"></exilebuilds-item-control>
-          <exilebuilds-item-control formControlName="2" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK_3)"></exilebuilds-item-control>
-          <exilebuilds-item-control formControlName="3" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK_4)"></exilebuilds-item-control>
-          <exilebuilds-item-control formControlName="4" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK_5)"></exilebuilds-item-control>
+          <exilebuilds-item-control formControlName="0" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK, 0)"></exilebuilds-item-control>
+          <exilebuilds-item-control formControlName="1" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK, 1)"></exilebuilds-item-control>
+          <exilebuilds-item-control formControlName="2" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK, 2)"></exilebuilds-item-control>
+          <exilebuilds-item-control formControlName="3" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK, 3)"></exilebuilds-item-control>
+          <exilebuilds-item-control formControlName="4" class="slot-flask card bg-light border-warning" (click)="openItemBrowser(Slot.FLASK, 4)"></exilebuilds-item-control>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="jewel-belt" formArrayName="jewels">
-
+          <exilebuilds-item-control *ngFor="let jewel of jewels.controls; let i=index" [formControlName]="i" class="slot-jewel card bg-light border-warning"
+            (click)="openItemBrowser(Slot.JEWEL, i)" (remove)="removeJewelSlot(i)">
+            test</exilebuilds-item-control>
+          <button (click)="addJewelSlot()" class="btn btn-info"><i class="fas fa-plus"></i></button>
         </div>
       </div>
     </div>

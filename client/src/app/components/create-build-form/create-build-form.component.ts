@@ -19,8 +19,6 @@ export class CreateBuildFormComponent {
   itemBrowserRef: BsModalRef;
   gemBrowserRef: BsModalRef;
 
-  showWeapon2 = true;
-
   buildForm = this.fb.group({
     info: this.fb.group({
       name: ['', Validators.required],
@@ -50,17 +48,17 @@ export class CreateBuildFormComponent {
   constructor(private modalService: BsModalService, private fb: FormBuilder) {
     this.modalService.onHide.subscribe(reason => {
       if (reason === null) {
-        const { slot, selectedItem } = this.itemBrowserRef.content;
+        const { slot, slotIndex, selectedItem } = this.itemBrowserRef.content;
         console.log(slot, selectedItem);
-        this.updateItemInSlot(slot, selectedItem);
+        this.updateItemInSlot(slot, slotIndex, selectedItem);
         // TODO: Update this.itemSlots to match the maximum number of sockets for the selected item
       }
     });
   }
 
-  updateItemInSlot(slot: Slot, item: Item) {
+  updateItemInSlot(slot: Slot, slotIndex: number, item: Item) {
     if (SlotInfo[slot].validItemTypes.includes(item.itemType)) {
-      this.patchSlot(slot, item);
+      this.patchSlot(slot, slotIndex, item);
 
       switch (slot) {
         case Slot.WEAPON1:
@@ -72,7 +70,7 @@ export class CreateBuildFormComponent {
               (item.itemType === ItemType.BOW &&
                 weapon2.itemType !== ItemType.QUIVER))
           ) {
-            this.patchSlot(Slot.WEAPON2, {});
+            this.patchSlot(Slot.WEAPON2, slotIndex, {});
           }
           break;
         case Slot.WEAPON2:
@@ -82,7 +80,7 @@ export class CreateBuildFormComponent {
             (item.itemType === ItemType.QUIVER &&
               weapon1.itemType !== ItemType.BOW)
           ) {
-            this.patchSlot(Slot.WEAPON1, {});
+            this.patchSlot(Slot.WEAPON1, slotIndex, {});
           }
           break;
       }
@@ -91,17 +89,19 @@ export class CreateBuildFormComponent {
     }
   }
 
-  patchSlot(slot: Slot, item: Item | {}) {
-    if (slot.includes('flask')) {
-      const flasks = this.items.get('flasks') as FormArray;
-      const index = parseInt(slot.slice(-1), 10) - 1;
-      flasks.at(index).patchValue(item);
-    } else {
-      this.buildForm.patchValue({
-        items: {
+  patchSlot(slot: Slot, index: number, item: Item | {}) {
+    switch (slot) {
+      case Slot.FLASK:
+        this.flasks.at(index).patchValue(item);
+        break;
+      case Slot.JEWEL:
+        this.jewels.at(index).patchValue(item);
+        break;
+      default:
+        this.items.patchValue({
           [slot]: item
-        }
-      });
+        });
+        break;
     }
   }
 
@@ -119,10 +119,11 @@ export class CreateBuildFormComponent {
    *
    * @param slot Slot that triggered this event
    */
-  openItemBrowser(slot) {
+  openItemBrowser(slot: Slot, index?: number) {
     this.itemBrowserRef = this.modalService.show(ItemBrowserComponent, {
       initialState: {
-        slot: slot
+        slot: slot,
+        slotIndex: index
       },
       class: 'item-browser'
     });
@@ -155,11 +156,19 @@ export class CreateBuildFormComponent {
     return this.buildForm.get('items') as FormGroup;
   }
 
+  get flasks(): FormArray {
+    return this.items.get('flasks') as FormArray;
+  }
+
   /**
    * The skills section list of gem groups.
    */
   get gemGroups(): FormArray {
     return this.buildForm.get('skills.gemGroups') as FormArray;
+  }
+
+  get jewels(): FormArray {
+    return this.items.get('jewels') as FormArray;
   }
 
   /**
@@ -206,5 +215,13 @@ export class CreateBuildFormComponent {
     while (links.length > maxSockets) {
       links.removeAt(links.length - 1);
     }
+  }
+
+  addJewelSlot() {
+    this.jewels.push(this.fb.control({}));
+  }
+
+  removeJewelSlot(index: number) {
+    this.jewels.removeAt(index);
   }
 }

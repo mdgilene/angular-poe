@@ -93,11 +93,8 @@ export enum Slot {
   RING2 = 'ring2',
   AMULET = 'amulet',
   BELT = 'belt',
-  FLASK_1 = 'flask_1',
-  FLASK_2 = 'flask_2',
-  FLASK_3 = 'flask_3',
-  FLASK_4 = 'flask_4',
-  FLASK_5 = 'flask_5'
+  FLASK = 'flask',
+  JEWEL = 'jewel'
 }
 
 export const ClassCombos = [
@@ -225,7 +222,7 @@ export const SlotInfo = {
     maxSockets: 0,
     validItemTypes: [ItemType.BELT]
   },
-  [Slot.FLASK_1]: {
+  [Slot.FLASK]: {
     displayText: 'Flask',
     maxSockets: 0,
     validItemTypes: [
@@ -235,44 +232,9 @@ export const SlotInfo = {
       ItemType.HYBRIDFLASK
     ]
   },
-  [Slot.FLASK_2]: {
-    displayText: 'Flask',
+  [Slot.JEWEL]: {
+    displayText: 'Jewel',
     maxSockets: 0,
-    validItemTypes: [
-      ItemType.LIFEFLASK,
-      ItemType.MANALASK,
-      ItemType.UTILITYFLASK,
-      ItemType.HYBRIDFLASK
-    ]
-  },
-  [Slot.FLASK_3]: {
-    displayText: 'Flask',
-    maxSockets: 0,
-    validItemTypes: [
-      ItemType.LIFEFLASK,
-      ItemType.MANALASK,
-      ItemType.UTILITYFLASK,
-      ItemType.HYBRIDFLASK
-    ]
-  },
-  [Slot.FLASK_4]: {
-    displayText: 'Flask',
-    maxSockets: 0,
-    validItemTypes: [
-      ItemType.LIFEFLASK,
-      ItemType.MANALASK,
-      ItemType.UTILITYFLASK,
-      ItemType.HYBRIDFLASK
-    ]
-  },
-  [Slot.FLASK_5]: {
-    displayText: 'Flask',
-    maxSockets: 0,
-    validItemTypes: [
-      ItemType.LIFEFLASK,
-      ItemType.MANALASK,
-      ItemType.UTILITYFLASK,
-      ItemType.HYBRIDFLASK
-    ]
+    validItemTypes: [ItemType.JEWEL]
   }
 };

@@ -1,5 +1,6 @@
-import { Component, forwardRef, Input } from '@angular/core';
+import { Component, forwardRef, Input, Output } from '@angular/core';
 import { NG_VALUE_ACCESSOR, ControlValueAccessor } from '@angular/forms';
+import { EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'exilebuilds-item-control',
@@ -16,6 +17,9 @@ import { NG_VALUE_ACCESSOR, ControlValueAccessor } from '@angular/forms';
 export class ItemControlComponent implements ControlValueAccessor {
   @Input('value')
   _value = {};
+
+  @Output()
+  remove: EventEmitter<any> = new EventEmitter();
 
   onChange: any = () => {};
   onTouched: any = () => {};

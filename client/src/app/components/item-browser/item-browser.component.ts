@@ -14,6 +14,8 @@ import { UniqueItemService } from '../../services/unique-item.service';
 export class ItemBrowserComponent implements OnInit {
   @Input()
   slot: Slot;
+  @Input()
+  slotIndex: number;
 
   _filter: ItemFilter = {};
   searchText = '';

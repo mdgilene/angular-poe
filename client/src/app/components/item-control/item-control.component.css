@@ -10,12 +10,24 @@
   object-fit: scale-down;
 }
 
-.fa-times {
+i {
   z-index: 100;
   position: absolute;
-  right: 0;
+  margin: 0.25rem 0.25rem 0.5rem 0.25rem;
+}
+
+.fa-times {
+  left: 0;
   top: 0;
-  margin: 0.25rem;
+}
+
+.fa-ban {
+  right: 0;
+  bottom: 0;
+}
+
+.fa-ban:hover {
+  color: var(--warning);
 }
 
 .fa-times:hover {
